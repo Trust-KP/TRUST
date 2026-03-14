@@ -92,6 +92,11 @@ Gew, Kok Pian (2026).
 The Trust Framework.  
 GitHub Repository: https://github.com/Trust-KP/Trust
 
+DOI: https://doi.org/10.5281/zenodo.18974211
+
+Primary document:
+Framework/Trust_Framework_v1.0.md
+
 ---
 
 ## License
