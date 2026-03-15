@@ -91,7 +91,7 @@ Additional materials in this repository include:
 
 Book
 
-Human-readable explanation of the conceptual framework.
+Human-readable explanatory manuscript expanding the conceptual framework.
 
 Location:
 Book/
