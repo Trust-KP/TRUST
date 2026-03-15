@@ -1,35 +1,28 @@
-# Trust Framework Project
+# Video Series — The Discovery of Continuation
 
-Author: Kok Pian Gew
+This folder contains scripts and development materials for the video series:
 
-This repository contains the working drafts and development materials for the Trust Framework.
+**The Discovery of Continuation**
 
-The project explores how complex systems continue across time under conditions of uncertainty.
+The series presents the core ideas of the Trust Framework in a visual and narrative format designed for public audiences.
 
-The repository includes three layers of material:
-1. Philosophical Framework
-2. Non-fiction Book Draft
-3. Video Series Development
+Each episode explores one conceptual layer in the development of cooperative systems, beginning with the question:
 
-These materials form part of a broader research and publication project examining trust, coordination, credibility, and continuation in human societies.
+*How do complex societies continue across time despite uncertainty in human behaviour?*
 
----
+The series gradually develops the mechanisms that support civilizational continuation, including:
 
-## Repository Structure
+- trust
+- signals
+- credibility
+- credit
+- institutions
+- coordination
 
-Book/
-Draft chapters of the non-fiction manuscript.
-
-Video/
-Scripts and development materials for the video series "The Discovery of Continuation".
-
-Novel/
-Narrative materials related to the fictional exploration of the framework.
+These scripts are working drafts used for video production and may evolve alongside the development of the book and framework.
 
 ---
 
-## Copyright
-
-All materials in this repository are copyright © 2026 Kok Pian Gew.
-
-All rights reserved.
+Author: Kok Pian Gew  
+Project: Trust Framework  
+Year: 2026
