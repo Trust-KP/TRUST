@@ -71,5 +71,21 @@ Primary framework document:
 
 ## Development Status
 
-This manuscript is under active development.  
+This manuscript is under active development.
+
 Chapters will evolve incrementally as the conceptual framework continues to mature.
+
+Draft chapters are developed within the /Book/draft/ directory before being finalized in the main Book structure.
+
+⸻
+
+## Copyright
+
+Copyright © 2026 Kok Pian Gew
+
+All rights reserved.
+
+This manuscript forms part of the Trust Framework intellectual project.
+No part of this work may be reproduced, distributed, or used for commercial purposes without explicit written permission from the author.
+
+Non-commercial reading, citation, and academic discussion are permitted with appropriate attribution.
