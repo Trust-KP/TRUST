@@ -60,13 +60,17 @@ Many systems rely on mechanisms that produce consistent and predictable outcomes
 
 Such stability allows societies to build large-scale infrastructures, production systems, and institutions that operate with a high degree of regularity.
 
+In many cases, routine activities are increasingly handled by standardized processes and automated systems. Machinery, software, and formal procedures reduce variation in repetitive tasks, allowing large volumes of activity to occur with minimal deviation from expected outcomes. By limiting routine variability, these systems provide a stable foundation upon which larger social and economic systems can operate.
+
 At the same time, many systems also contain adaptive components. Living organisms respond to changing environments, learn from experience, and adjust their behaviour over time. Human agents interpret information, form expectations, and make decisions that influence how systems evolve.
 
 Adaptive behaviour introduces variation into the system. While this variation allows systems to respond to changing conditions and develop new capabilities, it also means that outcomes cannot always be predicted with certainty.
 
-Complex societies therefore combine both stabilizing and adaptive elements. Stable processes provide reliability and structure, while adaptive agents introduce flexibility and the capacity for change.
+Complex societies therefore combine both stabilizing and adaptive elements. Stable processes provide reliability and structure, while adaptive agents introduce flexibility and the capacity for change. Routine activities may be handled through standardized mechanisms, while situations requiring judgment, interpretation, or coordination remain dependent on human participation.
 
-The presence of adaptive behaviour means that the continuation of social systems cannot rely entirely on embedded mechanisms. Instead, the actions of individual participants become an important factor influencing whether cooperative systems persist across time.
+Because adaptive behaviour introduces uncertainty, tthe continuation of social systems cannot rely entirely on embedded mechanisms. Instead, the actions of individual participants become an important factor influencing whether cooperative systems persist across time.
+
+Because adaptive behaviour introduces uncertainty, the continuation of social systems cannot rely entirely on embedded mechanisms. Instead, the actions of individual participants become an important factor influencing whether cooperative systems persist across time.
 
 ---
 
