@@ -18,15 +18,21 @@ This book begins by examining the most basic condition shared by all systems tha
 
 ## Continuation as the Fundamental Condition
 
-Continuation refers to the persistence of a system through time.
+All systems exist through time only insofar as they continue.
 
-A system continues when the processes necessary for its functioning are sustained from one moment to the next. When these processes fail, the system ceases to operate and eventually disappears.
+A biological organism continues through the ongoing functioning of its internal processes. Cells divide, energy is exchanged with the environment, and internal regulation maintains the conditions necessary for survival. When these processes cease, the organism no longer persists.
 
-Continuation therefore represents the most fundamental condition underlying all organized systems. Before cooperation, coordination, or trust can be examined, it is necessary for the system itself to persist across time.
+Physical systems exhibit similar patterns of continuation. Planetary motion follows stable gravitational relationships, rivers continue to flow according to physical gradients, and mechanical systems operate as long as the forces governing their components remain intact. These systems persist because the underlying processes governing them remain active.
 
-Systems that cannot maintain continuation eventually dissolve, regardless of their initial structure or purpose.
+Continuation therefore represents a fundamental condition shared across many forms of systems. A system exists across time only while the processes that sustain it remain in operation.
 
-Understanding how systems maintain continuation therefore provides the starting point for examining the persistence of cooperation within human societies.
+However, not all systems continue in the same manner.
+
+In many natural systems, continuation occurs through processes that operate independently of intentional decision-making. Biological and physical processes follow regular patterns that allow their continuation to be understood through relatively stable relationships.
+
+Human social systems differ in an important respect. The continuation of social systems depends on the ongoing participation of agents whose behaviour cannot be fully determined in advance.
+
+Understanding how such systems continue therefore requires examining how coordination between agents becomes possible across time.
 
 ---
 
