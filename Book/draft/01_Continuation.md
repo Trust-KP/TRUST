@@ -46,6 +46,36 @@ This principle provides a useful foundation for understanding the continuation o
 
 ---
 
+## Predictability and Embedded Coordination
+
+Different systems achieve coordination through different mechanisms.
+
+In many physical systems, behaviour follows stable processes governed by physical laws. When the relevant variables are known, the resulting behaviour can often be predicted with high reliability. Mechanical systems, structural engineering designs, and many physical processes operate through relationships in which outcomes follow directly from underlying rules.
+
+In such systems, coordination is effectively embedded within the structure of the system itself. The behaviour of each component follows predictable patterns determined by physical relationships. As a result, the functioning of the system does not depend on the expectations or interpretations of agents.
+
+Social systems operate under different conditions. Human behaviour cannot be fully determined in advance, and individuals may choose how to respond to situations within shared environments. Participation in social systems therefore introduces uncertainty regarding how others will act.
+
+Because future behaviour cannot be directly observed or guaranteed, participants must form expectations about how others are likely to behave. Mechanisms that allow such expectations to form become essential for sustaining coordination across time.
+
+Understanding how cooperative systems continue under these conditions of uncertainty provides the foundation for examining the emergence of trust within social systems.
+
+---
+
+## Stability and Adaptive Behaviour
+
+Deterministic processes often provide stability within complex systems. Mechanical systems, engineering structures, and automated processes operate through relationships in which behaviour follows predictable rules. When these processes are functioning correctly, the resulting outcomes can be reproduced with high reliability.
+
+Machines and automated systems therefore play an important role in maintaining stability within many modern institutions. Industrial production systems, digital infrastructure, and increasingly artificial intelligence systems allow large numbers of activities to occur with consistent and predictable results.
+
+Living systems operate differently. Organisms and human agents respond to their environment, learn from experience, and adapt their behaviour. This adaptive capacity introduces variation into the system. Although such variation may generate uncertainty, it also allows systems to respond to changing conditions and develop new forms of organization.
+
+Complex societies therefore contain both stabilizing and adaptive elements. Stable processes provide reliability, while adaptive behaviour allows systems to adjust, innovate, and grow.
+
+The coexistence of stability and uncertainty creates the conditions under which coordination mechanisms become necessary. When outcomes cannot be fully determined in advance, participants must form expectations regarding how others are likely to behave within shared systems.
+
+---
+
 ## Continuation in Social Systems
 
 Human societies also depend on the continuation of coordinated processes.
