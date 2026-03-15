@@ -44,16 +44,47 @@ Each chapter builds upon the previous one, gradually revealing how cooperative s
 
 ---
 
-## Chapter Links
+# Part I — Foundations
 
-1. [Continuation](01_Continuation.md)  
-2. [Coexistence Systems](02_Coexistence_Systems.md)  
-3. [Cooperative Boundary](03_Cooperative_Boundary.md)  
-4. [Temporal Coordination](04_Temporal_Coordination.md)  
-5. [Origin of Trust](05_Origin_of_Trust.md)  
-6. [Trust Interpretation](06_Trust_Interpretation.md)  
-7. [Credibility](07_Credibility.md)  
-8. [Credit](08_Credit.md)
+This section establishes the fundamental conditions under which cooperative systems emerge and persist.
+
+1. [Continuation](Draft/01_Continuation.md)  
+2. [Coexistence](Draft/02_Coexistence.md)  
+3. [Temporal Coordination](Draft/03_Temporal_Coordination.md)  
+4. [Boundaries of Cooperation](Draft/04_Boundaries_of_Cooperation.md)
+
+---
+
+# Part II — Trust
+
+This section introduces the mechanisms through which agents form expectations about future behaviour.
+
+5. [Contribution Signals](Draft/05_Contribution_Signals.md)  
+6. [Interpretation](Draft/06_Interpretation.md)  
+7. [Credibility](Draft/07_Credibility.md)  
+8. [Credit](Draft/08_Credit.md)
+
+---
+
+# Part III — Institutions
+
+This section examines how trust mechanisms become embedded within institutions that scale cooperation across societies.
+
+9. [Markets](Draft/09_Markets.md)  
+10. [Rules](Draft/10_Rules.md)  
+11. [Strategic Interaction](Draft/11_Strategic_Interaction.md)  
+12. [Trust Collapse](Draft/12_Trust_Collapse.md)
+
+---
+
+# Part IV — Future Systems
+
+The final section explores how trust mechanisms may evolve within increasingly complex and technologically mediated systems.
+
+13. [Trust Measurement](Draft/13_Trust_Measurement.md)  
+14. [Trust Risk](Draft/14_Trust_Risk.md)  
+15. [Cooperation Infrastructure](Draft/15_Cooperation_Infrastructure.md)  
+16. [Civilizational Stability](Draft/16_Civilizational_Stability.md)
 
 ---
 
