@@ -34,6 +34,8 @@ Human social systems differ in an important respect. The continuation of social 
 
 Understanding how such systems continue therefore requires examining how coordination between agents becomes possible across time.
 
+Continuation is therefore the foundational condition from which later concepts — coordination, cooperation, trust, credibility, and credit — ultimately derive.
+
 ---
 
 ## Continuation in Biological and Physical Systems
@@ -67,8 +69,6 @@ At the same time, many systems also contain adaptive components. Living organism
 Adaptive behaviour introduces variation into the system. While this variation allows systems to respond to changing conditions and develop new capabilities, it also means that outcomes cannot always be predicted with certainty.
 
 Complex societies therefore combine both stabilizing and adaptive elements. Stable processes provide reliability and structure, while adaptive agents introduce flexibility and the capacity for change. Routine activities may be handled through standardized mechanisms, while situations requiring judgment, interpretation, or coordination remain dependent on human participation.
-
-Because adaptive behaviour introduces uncertainty, tthe continuation of social systems cannot rely entirely on embedded mechanisms. Instead, the actions of individual participants become an important factor influencing whether cooperative systems persist across time.
 
 Because adaptive behaviour introduces uncertainty, the continuation of social systems cannot rely entirely on embedded mechanisms. Instead, the actions of individual participants become an important factor influencing whether cooperative systems persist across time.
 
