@@ -85,7 +85,10 @@ Copyright © 2026 Kok Pian Gew
 
 All rights reserved.
 
-This manuscript forms part of the Trust Framework intellectual project.
-No part of this work may be reproduced, distributed, or used for commercial purposes without explicit written permission from the author.
+The contents of the Book directory are not released under the
+repository's default Creative Commons license.
 
-Non-commercial reading, citation, and academic discussion are permitted with appropriate attribution.
+Permission is granted to read the manuscript within this repository
+for personal and non-commercial purposes.
+
+Redistribution or republication without written permission from the author is prohibited.
