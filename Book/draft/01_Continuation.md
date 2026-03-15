@@ -106,10 +106,10 @@ Understanding how such expectations arise is essential for explaining how cooper
 
 ## Toward Coordination
 
-The continuation of social systems depends on the ability of participants to coordinate behaviour within shared environments.
+The continuation of social systems depends on the ability of participants to coordinate their behaviour within shared environments.
 
-Coordination allows individuals and institutions to align their actions in ways that sustain the functioning of the broader system. Without coordination, individual actions would remain disconnected, and the stability required for complex cooperation could not be maintained.
+Coordination allows individuals and institutions to align their actions in ways that sustain the functioning of the broader system. Without coordination, individual actions would remain disconnected, and the stability required for complex cooperation systems could not be maintained.
 
-Before examining how such coordination becomes possible, it is first necessary to understand the conditions under which agents exist together within shared systems.
+Before examining how such coordination becomes possible, it is necessary to understand the conditions under which agents exist together within shared systems.
 
-The next chapter therefore examines how **coexistence systems** emerge and how agents participate within them.
+The next chapter therefore examines how coexistence systems emerge and how agents come to participate within them.
