@@ -115,3 +115,5 @@ Coordination allows individuals and institutions to align their actions in ways 
 Before examining how such coordination becomes possible, it is necessary to understand the conditions under which agents exist together within shared systems.
 
 The next chapter therefore examines how coexistence systems emerge and how agents come to participate within them.
+
+Understanding continuation is therefore the first step in explaining how cooperative systems endure. The next step is to examine the environments in which agents coexist before cooperation becomes possible.
