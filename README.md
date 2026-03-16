@@ -9,25 +9,31 @@ Date: 2026
 
 ## Overview
 
-The Trust Framework is a conceptual framework examining how cooperation can emerge and persist under conditions of uncertainty.
+The Trust Framework is a conceptual meta-framework for examining how cooperation persists under conditions of uncertainty.
 
-The framework proposes that cooperation systems evolve through the interpretation of contribution signals across time.  
+The framework proposes that cooperative systems evolve through the interpretation of contribution signals across time.
+
 Observed contributions generate signals that are interpreted through trust lenses, forming trust expectations, credibility assessments, and forward commitments.
 
 Core interpretive chain:
 
 Contribution → Signals → Trust → Credibility → Credit → Cooperation
 
-Civilizational coordination persists when this cycle continues across relationships and institutions.
+Cooperative systems persist when this interpretive cycle continues across relationships, institutions, and governance structures.
 
 ---
 
 ## Structure of the Framework
 
-The framework operates across three analytical levels:
+The framework operates across four analytical levels:
 
 ### Civilizational Level
-Explains how large-scale cooperation systems persist through ongoing interpretation of contribution signals.
+
+Explains how large-scale cooperative systems persist across time.
+
+### Government / State Level
+
+Describes how political and legal systems stabilise cooperative boundaries and support large-scale coordination.
 
 ### Institutional Level
 Describes how institutions (e.g., firms, regulators, financial systems) interpret contribution signals to support coordination and continuity.
@@ -41,76 +47,41 @@ Examines how individuals interpret trust signals within relationships and decisi
 
 Signals are interpreted through four primary lenses:
 
-Interpersonal  
+Coordination  
 Trust derived from behavioural interaction and relationship history.
 
 Identity  
 Trust derived from reputation, roles, and identity markers.
 
-Legitimacy  
+Structure  
 Trust derived from recognised procedures, governance, and institutional validation.
 
-Capability  
+Capacity  
 Trust derived from observable performance and demonstrated outcomes.
 
 These lenses provide different interpretive pathways through which observers form trust expectations.
 
 ---
 
-## Purpose of This Repository
+## Repository Structure
 
-This repository contains the public reference document for the Trust Framework.
+Framework/
+Core conceptual documents describing the Trust Framework.
 
-The document is released as a public record to support:
+Framework/draft/
+Working drafts of framework sections and revisions.
 
-- academic discussion
-- conceptual critique
-- comparative analysis
-- further research
-
-The framework is descriptive and analytical rather than prescriptive.
-
----
-
-## Scope
-
-The Trust Framework explores:
-
-- trust under uncertainty  
-- signal interpretation in cooperative systems  
-- the relationship between trust, credibility, and credit  
-
-The framework does not attempt to prescribe policy, governance structures, or specific implementations.
-
-## Related Components
-
-The Trust Framework is part of a broader intellectual project
-exploring how cooperative systems persist under uncertainty.
-
-Additional materials in this repository include:
-
-Book
-
-Human-readable explanatory manuscript expanding the conceptual framework.
-
-Location:
 Book/
+Human-readable manuscript expanding the conceptual framework.
 
-Fiction
-
-Narrative exploration of life within a trust-based
-civilizational coordination system.
-
-Location:
 Fiction/
+Narrative exploration of life within a trust-based civilizational system.
 
-Video
-
-Short conceptual explanations designed for visual
-communication of key ideas.
-
-Location:
 Video/
+Short conceptual explanations designed for visual communication of key ideas.
+
+Simulations/
+Agent-based models exploring institutional behaviour under trust-based coordination dynamics.
 
 ---
 
@@ -150,9 +121,3 @@ This permits:
 Commercial use requires explicit permission from the author.
 
 ---
-
-## Notes
-
-This repository exists to establish a stable intellectual reference for the Trust Framework.
-
-Future revisions, if released, will appear as separate versions.
