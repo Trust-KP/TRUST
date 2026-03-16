@@ -2,48 +2,31 @@
 
 The Trust Framework is intentionally abstract.
 
-Institutional applications provide worked examples showing how the
-framework’s conceptual layers operate within specific cooperative
+Institutional applications provide worked examples showing how the framework’s conceptual layers operate within specific cooperative
 systems.
 
-This section introduces a stylised marine insurance market used to
-illustrate the framework in practice.
+This section introduces a stylised marine insurance market used to illustrate the framework in practice.
 
-The objective is not to optimise any particular insurance product, but
-to examine how combinations of underwriting discipline, capital
-management, and renewal behaviour perform over time within a shared
-trust environment.
+The objective is not to optimise any particular insurance product, but to examine how combinations of underwriting discipline, capital management, and renewal behaviour perform over time within a shared trust environment.
 
 ## Application A – Marine Insurance Trust Market Simulation (SIM F)
 
-This section presents a case study of the Trust Framework applied to a
-multi-agent marine insurance market.
+This section presents a case study of the Trust Framework applied to a multi-agent marine insurance market.
 
-The **SIM F** model illustrates the interaction of contribution, trust
-formation, credibility formation, credit allocation, coordination
-behaviour, coexistent institutional systems, and continuation outcomes
-within a single institutional environment.
+The **SIM F** model illustrates the interaction of contribution, trust formation, credibility formation, credit allocation, coordination behaviour, coexistent institutional systems, and continuation outcomes within a single institutional environment.
 
-The simulation therefore provides a concrete setting in which the
-abstract layers of the Trust Framework can be observed dynamically.
+The simulation therefore provides a concrete setting in which the abstract layers of the Trust Framework can be observed dynamically.
 
-In particular, the simulation highlights how institutional doctrines
-influence operational capacity over time through their effects on
-trust, credibility, and capital allocation.
+In particular, the simulation highlights how institutional doctrines influence operational capacity over time through their effects on trust, credibility, and capital allocation.
 
 ## Role of SIM F in the Trust Framework
 
-SIM F is a stylised simulation of a marine insurance market in which
-multiple underwriting agents participate in shared risks over repeated
+SIM F is a stylised simulation of a marine insurance market in which multiple underwriting agents participate in shared risks over repeated
 periods.
 
-The simulation is not part of the core Trust Framework. Instead, it
-serves as an illustrative institutional application demonstrating how
-the framework’s conceptual layers may operate within a cooperative
-system.
+The simulation is not part of the core Trust Framework. Instead, it serves as an illustrative institutional application demonstrating how the framework’s conceptual layers may operate within a cooperative system.
 
-In the simulation environment, the following framework layers appear
-in operational form:
+In the simulation environment, the following framework layers appear in operational form:
 
 - contribution  
 - trust formation  
@@ -56,8 +39,7 @@ in operational form:
 
 ### Mapping of Trust Framework Layers into SIM F (informal)
 
-The table below illustrates how the conceptual layers of the Trust
-Framework are represented within the SIM F simulation environment.
+The table below illustrates how the conceptual layers of the Trust Framework are represented within the SIM F simulation environment.
 
 | Trust layer           | SIM F illustration (marine market)                         |
 |----------------------|-------------------------------------------------------------|
@@ -70,13 +52,8 @@ Framework are represented within the SIM F simulation environment.
 | Coexistent systems   | Multiple underwriting doctrines operating simultaneously   |
 | Continuation         | Institutional survival, runoff, or market exit             |
 
-Although the present application uses a marine insurance market, the
-structural logic of the simulation is not marine-specific.
+Although the present application uses a marine insurance market, the structural logic of the simulation is not marine-specific.
 
-Similar cooperative structures arise in other institutional systems,
-including interbank funding networks, clearing membership systems,
-and platform ecosystems.
+Similar cooperative structures arise in other institutional systems, including interbank funding networks, clearing membership systems, and platform ecosystems.
 
-The simulation therefore functions as an illustrative institutional
-environment for observing how contribution, trust, credibility, and
-credit interact over time to influence institutional continuation.
+The simulation therefore functions as an illustrative institutional environment for observing how contribution, trust, credibility, and credit interact over time to influence institutional continuation.
