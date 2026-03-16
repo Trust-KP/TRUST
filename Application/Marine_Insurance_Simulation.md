@@ -50,17 +50,16 @@ This staged modelling approach allows the effect of individual institutional mec
 
 The structure loosely mirrors the way real-world financial institutions develop across time: from individual decision-making, to organisational governance, and eventually to coordinated market systems.
 
-
-| Simulation| Institutional Layer Introduced                                   |
-|-----------|------------------------------------------------------------------|
-| SIM A     | Individual underwriting behaviour                                |
-| SIM B     | Underwriting doctrine and internal policy                        |
-| SIM C     | Firm-level financial structure                                   |
-| SIM D     | Institutional financial governance (tax, reinsurance, dividends) |
-| SIM E     | Multi-agent market participation                                 |
-| SIM F     | Market-wide coordination and institutional survival              |
-| SIM G     | Capital regime experimentation                                   |
-| SIM H     | Capital scaling and shareholder value dynamics                   |
+| Simulation | Institutional Focus |
+|-----------|---------------------|
+| SIM A | Individual underwriting behaviour |
+| SIM B | Institutional doctrine formation |
+| SIM C | Firm-level financial structure |
+| SIM D | Institutional governance dynamics |
+| SIM E | Multi-agent market participation |
+| SIM F | Market coordination dynamics |
+| SIM G | Capital regime experimentation |
+| SIM H | Capital scaling and market structure evolution |
 
 The progression therefore provides a structured experimental environment for examining how underwriting behaviour, institutional rules, capital structures, and market coordination mechanisms influence the survival and evolution of cooperative insurance markets operating under conditions of uncertainty.
 
