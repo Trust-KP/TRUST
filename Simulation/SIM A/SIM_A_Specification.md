@@ -1,3 +1,9 @@
+Author: Kok Pian Gew  
+Part of: Trust Framework Research Project  
+Copyright © 2026 Kok Pian Gew  
+
+Released under: Creative Commons Attribution–NonCommercial 4.0 (CC BY-NC 4.0)
+
 # SIM A — Basic Underwriting Behaviour
 
 ## Purpose
