@@ -6,7 +6,7 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 Author: Kok Pian Gew  
-Version: 1.0  
+Version: 1.1  
 Year: 2026  
 Status: Working Paper
 
@@ -14,7 +14,7 @@ Official DOI for this release:
 https://doi.org/10.5281/zenodo.18974211
 
 This document represents the canonical description of the Trust Framework
-for version 1.0 within the archived repository snapshot.
+for version 1.1 within the archived repository snapshot.
 
 
 The Trust Framework describes how cooperation emerges and
@@ -98,15 +98,34 @@ Because the future cannot be directly observed, agents rely on signals derived f
 Trust therefore functions as the interpretive mechanism that allows agents to translate 
 observed signals into expectations about the continuation of behaviour.
 
-# 2.	PRIMITIVE CONCEPTS OF THE FRAMEWORK
+
+# ONTOLOGICAL LAYER (Primitives)
+
+# 2.	LAYERED STRUCTURE OF THE FRAMEWORK
 
 ## Contribution
 
-Actions that affect the stability, reliability, or welfare of others.
+Actions that affect the stability, reliability, or welfare of others within a coexistence system.
 
 Contribution events generate observable outcomes that accumulate into contribution history.
 
-These histories form the informational substrate from which cooperative systems interpret behaviour.
+These histories form the informational substrate from which cooperative systems observe and interpret behaviour.
+
+## Observation
+
+Access to contribution outcomes, whether through direct experience, records, or other means.
+
+Observation provides the informational basis available to agents when forming expectations under uncertainty.
+
+Observation may be incomplete, delayed, or imperfect.
+
+## Continuation
+
+The persistence of cooperative systems across time.
+
+Continuation depends on the stability of trust interpretations, because only credible expectations allow agents, institutions, and societies to maintain coordinated behaviour.
+
+## OPERATIONAL LAYER (Derived Structures)
 
 ## Signals
 
@@ -121,12 +140,6 @@ Signals represent the evidence available to observers when interpreting behaviou
 The mechanism through which agents interpret signals in order to form expectations about future behaviour.
 
 Trust converts past signals into expectations about the continuation of cooperation.
-
-## Continuation
-
-The persistence of cooperative systems across time.
-
-Continuation depends on the stability of trust interpretations, because only credible expectations allow agents, institutions, and societies to maintain coordinated behaviour.
  
 # 3.	THEORY OF CONTINUATION
 
