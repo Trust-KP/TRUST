@@ -3,7 +3,7 @@ This page intentionally left blank
 
  
 # The Trust Framework
-## Contribution, Signals, and the Continuation of Cooperation
+## Contribution, Observation, and the Continuation of Cooperation
 
 Author: Kok Pian Gew  
 Version: 1.1  
@@ -65,6 +65,28 @@ Coexistence → Cooperative Boundary → Temporal Coordination → Contribution 
 
 Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers interpret signals derived from contribution history. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
+## Structural Flow of the Trust Framework
+
+Continuation
+   ↓
+Contribution
+   ↓
+Observation
+   ↓
+(Signals – where required)
+   ↓
+Interpretation
+   ↓
+Expectation
+   ↓
+Trust
+   ↓
+Credibility
+   ↓
+Credit
+   ↓
+Continuation
+
 # INTRODUCTION
 
 ## Scope
@@ -103,6 +125,7 @@ These expectations arise from the interpretation of observed contribution outcom
 
 Trust emerges when these expectations are used to support coordination under uncertainty.
 
+## ONTOLOGICAL LAYER (Primitives)
 
 # 2.	PRIMITIVE CONCEPTS OF THE FRAMEWORK
 
@@ -124,6 +147,8 @@ These histories form the informational substrate from which cooperative systems 
 
 Access to contribution outcomes, whether through direct experience, records, or other means. Observation provides the raw informational basis for forming expectations about future behaviour. Observation may be incomplete, delayed, or imperfect, giving rise to uncertainty.
 
+## OPERATIONAL LAYER (Derived Structures)
+
 ## 2.1 INFORMATIONAL STRUCTURES (Derived)
 
 ### Signals
@@ -138,7 +163,7 @@ The process through which agents map observed contribution outcomes (or signals)
 
 ### Ontological Definition
 
-Trust is the real-time resolution of coordination under temporal absence.
+Trust is the real-time resolution of coordination decisions under temporal absence of future contribution.
 
 It exists because future contribution cannot be directly observed, yet coordination decisions cannot be deferred.
 
@@ -150,6 +175,8 @@ In practice, trust arises when agents use interpreted observations (or signals) 
 
 Trust exists because future contribution is absent, yet coordination cannot wait.
 
+Signals are not required for trust to exist, but emerge as scaling mechanisms when observation cannot be directly shared.
+
 ---
 
 # 3.	THEORY OF CONTINUATION
@@ -158,11 +185,11 @@ All systems that persist across time face the fundamental problem of continuatio
 
 Continuation is constantly challenged by uncertainty and entropy. Environmental shocks, resource depletion, coordination failure, and internal decay gradually erode a system’s stability. Without continuous corrective action, most systems tend toward deterioration rather than persistence. This natural pressure toward disorder means that continuation is never automatic; it must be actively sustained through actions that restore stability and maintain the system’s capacity to absorb shocks.
 
-Within this framework, contribution can be interpreted as any action or event that alters the continuation capacity of a system. Positive contributions strengthen the system’s resilience, coordination, or resource base, increasing the likelihood that the system will endure future uncertainty. Negative contributions weaken these capacities and increase the probability of failure. Across time, these actions accumulate into a history of continuation effects that shape the system’s trajectory.
+Within this framework, contribution crefers to any action or event that alters the continuation capacity of a system. Positive contributions strengthen the system’s resilience, coordination, or resource base, increasing the likelihood that the system will endure future uncertainty. Negative contributions weaken these capacities and increase the probability of failure. Across time, these actions accumulate into a history of continuation effects that shape the system’s trajectory.
 
-Because future continuation cannot be observed directly, agents must interpret signals derived from past contribution events when making decisions under uncertainty. These observed contribution outcomes (directly or via signals) form the informational basis from which expectations about future cooperation are constructed.
+Because future continuation cannot be observed directly, agents rely on observed contribution outcomes when making decisions under uncertainty. These observed contribution outcomes (directly or via signals) form the informational basis from which expectations about future cooperation are constructed.
 
-Trust arises when agents interpret contribution signals as evidence that cooperative behaviour is likely to continue. Trust therefore functions as an interpretive signal rather than a directly observable quantity. When multiple trust signals are aggregated across interactions and observers, they form credibility assessments that guide decision-making.
+Trust arises when agents evaluate observed contribution outcomes and form expectations regarding the likely continuation of cooperative behaviour. Trust therefore functions as an interpretive judgement rather than a directly observable quantity. When multiple trust signals are aggregated across interactions and observers, they form credibility assessments that guide decision-making.
 
 Credit then emerges as the operational deployment of credibility, enabling agents to extend cooperation, delegation, or obligation based on expectations about future continuation.
 
