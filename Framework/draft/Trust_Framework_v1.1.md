@@ -59,7 +59,8 @@ Once this boundary is crossed, temporal coordination becomes possible. Agents be
 
 The Trust Framework therefore describes a structural sequence through which cooperation persists across time:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Trust → Credibility → Credit → Continuation
+
 
 Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers interpret signals derived from contribution history. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
@@ -95,14 +96,13 @@ Cooperative systems persist only when agents are able to act despite uncertainty
 
 Because the future cannot be directly observed, agents rely on signals derived from past contribution events to form expectations about future cooperation.
 
-Trust therefore functions as the interpretive mechanism that allows agents to translate 
-observed signals into expectations about the continuation of behaviour.
+Trust therefore functions as the interpretive mechanism that allows agents to translate  observed signals into expectations about the continuation of behaviour.
 
 # 2	LAYERED STRUCTURE OF THE FRAMEWORK
 
 ## 2. ONTOLOGICAL LAYER (Primitives)
 
-### Contribution
+## Contribution
 
 Actions that affect the stability, reliability, or welfare of others within a coexistence system.
 
@@ -110,7 +110,7 @@ Contribution events generate observable outcomes that accumulate into contributi
 
 These histories form the informational substrate from which cooperative systems observe and interpret behaviour.
 
-### Observation
+## Observation
 
 Access to contribution outcomes, whether through direct experience, records, or other means.
 
@@ -118,7 +118,7 @@ Observation provides the informational basis available to agents when forming ex
 
 Observation may be incomplete, delayed, or imperfect.
 
-### Continuation
+## Continuation
 
 The persistence of cooperative systems across time.
 
@@ -126,7 +126,7 @@ Continuation depends on the stability of trust interpretations, because only cre
 
 ## 2.2 OPERATIONAL LAYER (Derived Structures)
 
-### Signals
+## Signals
 
 Observable consequences produced by contribution events.
 
@@ -134,13 +134,14 @@ Signals may include fulfilled obligations, failures, delays, reliability pattern
 
 Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
 
-### Trust Interpretation
+## Trust Interpretation
 
 The mechanism through which agents interpret signals in order to form expectations about future behaviour.
 
 Trust converts past signals into expectations about the continuation of cooperation.
  
-# 3.	THEORY OF CONTINUATION
+# 3.	THEORY OF CONTINUATION (Ontology Elaboration)
+
 
 All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Continuation represents the condition under which a system retains sufficient structure, capability, and coordination to survive the pressures acting upon it across time.
 
