@@ -40,15 +40,17 @@ Continuation is therefore the foundational condition from which later concepts â
 
 ## Continuation in Biological and Physical Systems
 
-Biological and physical systems often continue through processes in which coordination is embedded within the structure of the system itself.
+Biological and physical systems both exhibit forms of continuation in which coordination is embedded within the structure of the system. However, the nature of this embedded coordination differs between them.
 
-In biological organisms, continuation depends on complex internal processes that regulate metabolism, growth, and repair. Cells interact through chemical signals, organs perform specialized functions, and regulatory systems maintain internal stability. These processes operate without the need for conscious coordination between independent agents. The organism continues because its internal mechanisms maintain the conditions necessary for life.
+Physical systems continue through deterministic processes governed by stable relationships. Planetary motion follows gravitational laws, rivers flow along physical gradients, and mechanical systems operate according to the forces acting on their components. When these governing relationships remain intact, the system evolves in predictable ways, often converging toward stable configurations over time.
 
-Physical systems exhibit similar forms of embedded coordination. Planetary motion follows stable gravitational relationships, rivers flow according to physical gradients, and mechanical systems operate according to the forces governing their components. When these governing relationships remain intact, the system continues in a predictable manner.
+Biological systems also exhibit embedded coordination, but their continuation depends on the maintenance of internal conditions under changing environments. Organisms regulate metabolism, growth, and repair through interacting processes. Cells communicate through chemical signals, organs perform specialized functions, and regulatory systems maintain internal stability.
 
-In both biological and physical systems, coordination is largely embedded within the structure of the system itself. The behaviour of individual components is constrained by underlying mechanisms that guide the system toward stable patterns of continuation.
+Unlike physical systems, biological systems do not simply converge toward a fixed state. They must continuously adapt in order to sustain the conditions required for continuation.
 
-Because these processes operate through stable relationships, their continuation can often be understood through regular and predictable patterns.
+In both cases, coordination is largely embedded within the structure of the system. The behaviour of individual components is constrained by underlying mechanisms that guide the system toward stable patterns of continuation.
+
+Because these processes operate through structured relationships, their behaviour can often be understood through regular and predictable patterns.
 
 Human social systems differ in an important respect. Their continuation depends not only on structural relationships, but also on the behaviour of agents who make decisions, adapt to changing circumstances, and respond to the actions of others.
 
