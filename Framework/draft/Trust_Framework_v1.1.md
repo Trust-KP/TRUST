@@ -134,13 +134,13 @@ Compressed or transmissible representations of observed contribution outcomes. S
 
 The process through which agents map observed contribution outcomes (or signals) into expectations about future behaviour. Interpretation converts informational access into coordination-enabling expectations under uncertainty.
 
----
-
 ### Key Insight
 
 Trust exists because future contribution is absent, yet coordination cannot wait.
 
-# 4.	THEORY OF CONTINUATION
+---
+
+# 3.	THEORY OF CONTINUATION
 
 All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Continuation represents the condition under which a system retains sufficient structure, capability, and coordination to survive the pressures acting upon it across time.
 
