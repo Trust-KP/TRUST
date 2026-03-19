@@ -429,7 +429,11 @@ These expectations arise because the future behaviour of agents cannot be direct
 
 The following section therefore examines the structural patterns through which observers implement evaluation principles when interpreting signals, and how this interpretive process gives rise to the emergence of trust within cooperative environments.
 
+---
+
 # 10 ORIGIN OF TRUST
+
+This chapter continues the descriptive layer of the Trust Framework, focusing on the structure and interpretation of trust signals across different contexts.
 
 ## 10.1 Core Principle
 
