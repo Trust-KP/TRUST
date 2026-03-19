@@ -467,7 +467,8 @@ Trust, credibility, and credit respond to observed signals rather than directly 
 
 ### 10.2.2 Signal Circulation across Domains
 
-Signals derived from contribution history may circulate across relational, symbolic, procedural, and instrumental domains as they move through social and institutional systems. While these signals may be interpreted through different trust lenses depending on context,the underlying contribution history remains anchored in realised contribution events.
+Signals derived from contribution history may circulate across relational, symbolic, procedural, and instrumental domains as they move through social and institutional systems. 
+While these signals may be interpreted through different trust lenses depending on context, the underlying contribution history remains anchored in realised contribution events.
 
 In many situations, observers cannot directly observe or reconstruct the full sequence of contribution events that produced the underlying history. As a result, signals originating in one informational domain may be translated or represented within another. For example, instrumental performance records may be validated through procedural evaluation, procedural validation may be communicated through symbolic markers, and symbolic recognition may influence relational perception within interpersonal contexts.
 
@@ -483,7 +484,7 @@ Contribution events accumulate irreversibly over time as part of contribution hi
 
 Signals derived from contribution history do not themselves produce trust judgements; they must be evaluated by observers under conditions of uncertainty. In order for signals to influence expectations about future behaviour, observers must apply an evaluation principle that determines how those signals are interpreted under conditions of uncertainty.
 
-Observers must interpret these signals according to an evaluation principle that determines what counts as relevant evidence of reliability and how different signals should be weighted when forming expectations about future behaviour.
+Observers interpret these signals according to evaluation principles that determine what counts as relevant evidence of reliability and how different signals are weighted when forming expectations about future behaviour.
 
 Different observers, institutions, and cultural environments may apply different evaluation principles even when interpreting the same underlying signals.
 
@@ -501,7 +502,7 @@ The framework distinguishes four primary interpretive lenses through which obser
 
 These lenses do not represent separate “types” or “substances” of trust. Instead, they represent distinct interpretive mechanisms applied to the same underlying contribution history.
 
-Observers interpret signals that reflect underlying contribution history when forming expectations about behaviour such as outcomes, institutional records, reputational indicators, or identity markers—that reflect aspects of that history. Each lens interprets these signals according to different informational rules.
+Observers interpret signals that reflect underlying contribution history when forming expectations about behaviour, including outcomes, institutional records, reputational indicators, or identity markers. Each lens interprets these signals according to different informational rules.
 
 The lenses therefore represent alternative mechanisms through which observers infer reliability from contribution-relevant signals.
 
@@ -576,7 +577,7 @@ Within this lens, observers rely on the integrity of defined procedures rather t
 
 Structural interpretation therefore functions as a rule-bound validation mechanism. Observers rely on the outcome of recognised processes as proxies for deeper evaluation of contribution history.
 
-In this context, confidence is placed in the structural and consistency of the governing procedures rather than in the personal characteristics of individual participants.
+In this context, confidence is placed in the structure and consistency of the governing procedures rather than in the personal characteristics of individual participants.
 
 A defining feature of the structural lens is that coordination may continue even when participants do not personally trust one another, provided that the governing procedures are perceived as legitimate and enforceable.
 
@@ -618,7 +619,7 @@ Trust arises through the same interpretive mechanism across contexts, but the in
 
 Trust interpretation always occurs through the judgement of observers.
 
-Observers evaluate signals generated from the contribution history of agents whose behaviour produces observable outcomes within cooperative systems. Trust bearers may be individuals or organisations whose behaviour produces observable outcomes within cooperative systems.
+Observers evaluate signals generated from the contribution history of agents whose behaviour produces observable outcomes within cooperative systems. Trust bearers may be individuals or organisations within cooperative systems.
 
 Institutional environments do not interpret trust independently. Instead, they structure how signals are generated, verified, recorded, and transmitted between participants. Through procedures such as documentation, auditing, certification, and standardised reporting, institutions stabilise the signal environment in which observers apply the four trust lenses.
 
