@@ -6,7 +6,7 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 Author: Kok Pian Gew  
-Version: 1.2  
+Version: 1.4  
 Year: 2026  
 Status: Working Paper
 
@@ -53,7 +53,7 @@ Working Paper / Private Publication. 
 
 ### Version History (Summary)
 
-- v1.3 — Origin of Trust (new chapter)
+- v1.3 — Origin of Trust (new chapter) + Trust Definition Update
 - v1.2 — Signal Foundations & Evaluation (Ch. 8–9 added)
 - v1.1 — Primitive reorganisation (Ontology vs Operational split)
 - v1.0 — Initial framework release
