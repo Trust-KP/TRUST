@@ -6,7 +6,7 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 Author: Kok Pian Gew  
-Version: 1.4  
+Version: 1.3 
 Year: 2026  
 Status: Working Paper
 
@@ -107,6 +107,8 @@ Cooperative systems persist only when agents are able to act despite uncertainty
 Because the future cannot be directly observed, agents rely on signals derived from past contribution events to form expectations about future cooperation.
 
 Expectation functions as the interpretive outcome through which agents translate observed signals into projections of continuation. Trust evaluates and deploys these expectations to enable coordination under uncertainty.
+
+Within this descriptive framework, trust is understood as an interpretive process that always occurs within a specific interaction context.
 
 # 2	LAYERED STRUCTURE OF THE FRAMEWORK
 
@@ -239,6 +241,8 @@ Within cooperative systems, this process forms a continuous feedback cycle. Agen
 
 Through this iterative process, systems are able to coordinate behaviour across time without requiring certainty about the future. Instead of relying on perfect knowledge, agents rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
 
+Expectation is held by observers. Stabilisation refers to the alignment of expectations across multiple observers rather than a property of the system itself.
+
 Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of stages: contribution events generate observable outcomes; these outcomes produce interpretable signals; signals are interpreted to form expectations; trust evaluates and deploys these expectations; trust judgements accumulate into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
 
 Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows agents to maintain stable patterns of cooperation that support institutions, collective organization, and civilizational persistence across time. 
@@ -284,6 +288,8 @@ An **observer** refers to an entity that perceives and interprets signals genera
 For clarity, the framework refers to a representative agent A and a representative observer O when describing interactions within cooperative environments.
 
 These roles are not fixed identities. The same entity may act as an agent when performing actions and as an observer when interpreting the behaviour of others. Trust therefore arises through the interaction between agent A, who generates signals through actions, and observer O, who interprets those signals when forming expectations regarding future behaviour.
+
+In many interactions, agents also act as observers, but the roles remain conceptually distinct.
 
 ## 8.1 Biological Foundations of Signalling
 
@@ -365,7 +371,7 @@ However, signals alone do not determine how trust judgements are formed. Observe
 
 Evaluation principles operate at the stage where signals are interpreted into expectations, prior to the formation of trust.
 
-Different observers may interpret the same signals in different ways depending on the evaluation principles they apply. Evaluation principles therefore influence how signals are selected, weighted, and interpreted when forming trust judgements.
+Different observers may interpret the same signals in different ways depending on the evaluation principles they apply. Evaluation principles therefore influence how signals are selected, weighted, and interpreted when forming expectations about behaviour.
 
 Understanding the evaluation principles used by observers is therefore essential for explaining how trust emerges within cooperative environments.
 
