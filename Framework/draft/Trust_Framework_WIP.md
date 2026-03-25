@@ -64,13 +64,13 @@ Human cooperation requires agents to act despite uncertainty about the future be
 
 This paper proposes the Trust Framework, a conceptual model describing how cooperative systems persist under such uncertainty. The framework begins from the observation that all cooperative systems first exist within environments of coexistence, where multiple agents or organised systems influence one another’s continuation conditions without necessarily coordinating their actions. Cooperation emerges only when interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal. This threshold is described as the cooperative boundary.
 
-Once this boundary is crossed, temporal coordination becomes possible. Agents begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate observable signals, signals are interpreted under uncertainty, trust judgements are formed, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
+Once this boundary is crossed, temporal coordination becomes possible. Agents begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate observable signals, signals are interpreted under uncertainty to form expectations, which are then evaluated through trust judgements, trust judgements are formed, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
 
 The Trust Framework therefore describes a structural sequence through which cooperation persists across time:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Expectation → Trust → Credibility → Credit → Continuation
 
-Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers interpret signals derived from contribution history. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
+Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived  signals derived from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
 # INTRODUCTION
 
@@ -249,11 +249,11 @@ The preceding sections describe the structural conditions under which cooperatio
 
 Once temporal coordination stabilises across repeated interaction, systems develop mechanisms for interpreting and organising the signals generated through those interactions. These mechanisms allow agents to evaluate whether cooperation can safely continue despite uncertainty about the future.
 
-Trust systems emerge as the interpretive structures through which these signals are processed. Within such systems, signals derived from contribution events are interpreted by observers to form expectations about the likely continuation of behaviour. These expectations guide decisions regarding cooperation, delegation, and reliance across time.
+Trust systems emerge as the structures through which expectations derived from interpreted signals are evaluated and deployed for coordination.  Within such systems, signals derived from contribution events are interpreted by observers to form expectations about the likely continuation of behaviour. These expectations guide decisions regarding cooperation, delegation, and reliance across time.
 
 Because direct knowledge of underlying contribution history is rarely available, trust systems rely on observable signals that circulate through social and institutional environments. These signals may arise from interpersonal interaction, reputational communication, institutional validation processes, or recorded performance outcomes. Through interpretation of these signals, observers form trust judgements regarding the reliability of agents within the system.
 
-As interaction expands beyond small relational networks, these trust judgements accumulate across multiple observations and observers. Aggregated trust signals give rise to credibility assessments that represent more stable evaluations of reliability. Credibility then enables the extension of credit, allowing agents to commit resources, delegate responsibility, and coordinate complex activities across time.
+As interaction expands beyond small relational networks, these trust judgements accumulate across multiple observations and observers. Aggregated trust judgements give rise to credibility assessments that represent more stable evaluations of reliability. Credibility then enables the extension of credit, allowing agents to commit resources, delegate responsibility, and coordinate complex activities across time.
 
 Trust systems therefore function as the interpretive infrastructure of cooperative systems. They transform signals derived from past contribution events into expectations about future behaviour, allowing agents to coordinate action despite uncertainty.
 
@@ -349,7 +349,7 @@ Observer O perceives these signals and interprets them using evaluation principl
 
 More formally, trust can be understood as the interpretive judgement formed by observer O regarding agent A based on expectations derived from signals generated by the past contributions of A and interpreted according to the evaluation principles used by O.
 
-Trust therefore represents an interpretive mechanism through which observers form expectations about future behaviour based on signals generated by past contribution events.
+Trust therefore represents a coordination-layer judgement through which observers evaluate and deploy expectations about future behaviour derived from interpreted signals.
 
 Signals alone do not determine trust.
 
