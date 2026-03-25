@@ -70,7 +70,7 @@ The Trust Framework therefore describes a structural sequence through which coop
 
 Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Expectation → Trust → Credibility → Credit → Continuation
 
-Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived  from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
+Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
 # INTRODUCTION
 
