@@ -246,3 +246,10 @@ leads to coordination failure or structural injustice.
 Compressed Form
 Correct domain → correct evidence → correct truth type → valid trust
 Otherwise → misinterpretation → coordination breakdown
+
+State-Consistency Principle
+
+Statement
+
+Interpretation must be consistent with the current state of the system. Where no prior structure exists, interpretation establishes structure from admissible evidence and appropriate truth selection. Where structure exists, interpretation must remain consistent with that established structure.
+
