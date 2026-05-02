@@ -6,7 +6,7 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 Author: Kok Pian Gew  
-Version: 1.3 
+Version: 1.4 
 Year: 2026  
 Status: Working Paper
 
@@ -217,13 +217,13 @@ Systems that coexist within the same environment do not automatically cooperate.
 
 Within coexistence systems, interactions may take many forms including competition, avoidance, domination, or passive coexistence. In these situations, systems influence one another’s continuation conditions without forming shared expectations or coordinated behaviour. Cooperation becomes possible only when the perceived risks of interaction fall below a threshold at which continued engagement is considered preferable to conflict, domination, or withdrawal.
 
-The cooperative boundary therefore represents the point at which interaction risk becomes sufficiently manageable for agents to rely on repeated engagement rather than defensive behaviour. Below this boundary, systems remain in coexistence, responding primarily through deterrence, avoidance, or competition. Above this boundary, agents begin to form expectations about one another’s behaviour and coordinated interaction becomes possible.
+The cooperative boundary therefore represents the point at which interaction risk becomes sufficiently manageable for participants to rely on repeated engagement rather than defensive behaviour. Below this boundary, systems remain in coexistence, responding primarily through deterrence, avoidance, or competition. Above this boundary, participants begin to form expectations about one another’s behaviour and coordinated interaction becomes possible.
 
-Several structural conditions influence the position of the cooperative boundary. These include the degree of capability asymmetry between interacting agents, the reversibility of potential losses, the availability of communication or signal interpretation, and the expected cost of conflict relative to cooperation. When capability asymmetry becomes extreme or potential losses are irreversible, agents may remain below the cooperative boundary even when mutual benefits from cooperation exist.
+Several structural conditions influence the position of the cooperative boundary. These include the degree of capability asymmetry between interacting participants, the reversibility of potential losses, the availability of communication or signal interpretation, and the expected cost of conflict relative to cooperation. When capability asymmetry becomes extreme or potential losses are irreversible, participants may remain below the cooperative boundary even when mutual benefits from cooperation exist.
 
-Crossing the cooperative boundary allows a new form of system interaction to emerge. Once agents expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
+Crossing the cooperative boundary allows a new form of system interaction to emerge. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
 
-The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems. It defines the structural condition under which agents shift from defensive interaction toward coordinated behaviour.
+The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems. It defines the structural condition under which participants shift from defensive interaction toward coordinated behaviour.
 
 Only after this boundary is crossed can temporal coordination processes develop, enabling the emergence of trust, credibility, credit, and institutional cooperation.
 
@@ -231,35 +231,35 @@ Within the Trust Framework, the cooperative boundary provides the necessary cond
 
 # 6.	THEORY OF TEMPORAL COORDINATION
 
-Systems that cross the cooperative boundary and begin coordinating behaviour face a fundamental challenge: the future cannot be directly observed. Agents must decide whether to cooperate based on incomplete information about how other agents will behave over time. The Theory of Temporal Coordination explains how cooperation can persist under these conditions of uncertainty.
+Systems that cross the cooperative boundary and begin coordinating behaviour face a fundamental challenge: the future cannot be directly observed. Participants must decide whether to cooperate based on incomplete information about how other participants will behave over time. The Theory of Temporal Coordination explains how cooperation can persist under these conditions of uncertainty.
 
-Temporal coordination arises when agents use observations of past behaviour to form expectations about future interaction. Actions performed by agents generate observable outcomes that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, agents gradually develop expectations that allow coordination to extend beyond isolated transactions.
+Temporal coordination arises when participants use observations of past behaviour to form expectations about future interaction. Actions performed by participants generate observable outcomes that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
 
 Because coordination occurs across time, cooperation remains inherently provisional. Each interaction produces new information that may reinforce or weaken existing expectations. When observed outcomes confirm prior expectations, the perceived reliability of cooperation increases and coordination becomes more stable. When outcomes contradict expectations, confidence deteriorates and coordination may weaken or collapse.
 
-Within cooperative systems, this process forms a continuous feedback cycle. Agents act within the system and their actions generate observable consequences. These consequences produce signals that other agents interpret when forming expectations about future behaviour. Based on these expectations, agents decide whether to continue cooperating. The resulting interactions generate new outcomes and signals, restarting the cycle.
+Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences produce signals that other participants interpret when forming expectations about future behaviour. Based on these expectations, participants decide whether to continue cooperating. The resulting interactions generate new outcomes and signals, restarting the cycle.
 
-Through this iterative process, systems are able to coordinate behaviour across time without requiring certainty about the future. Instead of relying on perfect knowledge, agents rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
+Through this iterative process, systems are able to coordinate behaviour across time without requiring certainty about the future. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
 
 Expectation is held by observers. Stabilisation refers to the alignment of expectations across multiple observers rather than a property of the system itself.
 
-Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of stages: contribution events generate observable outcomes; these outcomes produce interpretable signals; signals are interpreted to form expectations; trust evaluates and deploys these expectations; trust judgements accumulate into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
+Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of states development: contribution events generate observable outcomes; these outcomes produce interpretable signals; signals are interpreted to form expectations; trust evaluates and deploys these expectations; trust judgements accumulate into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
 
-Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows agents to maintain stable patterns of cooperation that support institutions, collective organization, and civilizational persistence across time. 
+Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows participants to maintain stable patterns of cooperation that support institutions, collective organization, and civilizational persistence across time. 
 
 # 7.	EMERGENCE OF TRUST SYSTEMS
 
-The preceding sections describe the structural conditions under which cooperation becomes possible within systems that seek continuation. Systems first coexist within shared environments where their actions influence one another’s continuation conditions. When the perceived risks of interaction fall below the cooperative boundary, agents begin engaging in repeated interaction. Through these repeated interactions, temporal coordination emerges as agents interpret signals derived from past contribution events to form expectations about future behaviour.
+The preceding sections describe the structural conditions under which cooperation becomes possible within systems that seek continuation. Systems first coexist within shared environments where their actions influence one another’s continuation conditions. When the perceived risks of interaction fall below the cooperative boundary, participants begin engaging in repeated interaction. Through these repeated interactions, temporal coordination emerges as participants interpret signals derived from past contribution events to form expectations about future behaviour.
 
-Once temporal coordination stabilises across repeated interaction, systems develop mechanisms for interpreting and organising the signals generated through those interactions. These mechanisms allow agents to evaluate whether cooperation can safely continue despite uncertainty about the future.
+Once temporal coordination stabilises across repeated interaction, systems develop mechanisms for interpreting and organising the signals generated through those interactions. These mechanisms allow participants to evaluate whether cooperation can safely continue despite uncertainty about the future.
 
 Trust systems emerge as the structures through which expectations derived from interpreted signals are evaluated and deployed for coordination.  Within such systems, signals derived from contribution events are interpreted by observers to form expectations about the likely continuation of behaviour. These expectations guide decisions regarding cooperation, delegation, and reliance across time.
 
-Because direct knowledge of underlying contribution history is rarely available, trust systems rely on observable signals that circulate through social and institutional environments. These signals may arise from interpersonal interaction, reputational communication, institutional validation processes, or recorded performance outcomes. Through interpretation of these signals, observers form trust judgements regarding the reliability of agents within the system.
+Because direct knowledge of underlying contribution history is rarely available, trust systems rely on observable signals that circulate through social and institutional environments. These signals may arise from interpersonal interaction, reputational communication, institutional validation processes, or recorded performance outcomes. Through interpretation of these signals, observers form trust judgements regarding the reliability of participants within the system.
 
-As interaction expands beyond small relational networks, these trust judgements accumulate across multiple observations and observers. Aggregated trust judgements give rise to credibility assessments that represent more stable evaluations of reliability. Credibility then enables the extension of credit, allowing agents to commit resources, delegate responsibility, and coordinate complex activities across time.
+As interaction expands beyond small relational networks, these trust judgements accumulate across multiple observations and observers. Aggregated trust judgements give rise to credibility assessments that represent more stable evaluations of reliability. Credibility then enables the extension of credit, allowing participants to commit resources, delegate responsibility, and coordinate complex activities across time.
 
-Trust systems therefore function as the interpretive infrastructure of cooperative systems. They transform signals derived from past contribution events into expectations about future behaviour, allowing agents to coordinate action despite uncertainty.
+Trust systems therefore function as the interpretive infrastructure of cooperative systems. They transform signals derived from past contribution events into expectations about future behaviour, allowing participants to coordinate action despite uncertainty.
 
 The following sections describe the descriptive structure through which trust signals are interpreted, the mechanisms through which credibility emerges from aggregated trust signals, and the processes through which credit enables large-scale coordination within cooperative systems.
 
