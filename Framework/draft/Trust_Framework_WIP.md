@@ -60,13 +60,13 @@ Working Paper / Private Publication. 
 
 # Abstract
 
-Human cooperation requires agents to act despite uncertainty about the future behaviour of others. Because future actions cannot be directly observed, participants must rely on incomplete information when deciding whether to cooperate, delegate responsibility, or extend obligations over time.
+Human cooperation requires participants to act despite uncertainty about the future behaviour of others. Because future actions cannot be directly observed, participants must rely on incomplete information when deciding whether to cooperate, delegate responsibility, or extend obligations over time.
 
-This paper proposes the Trust Framework, a conceptual model describing how cooperative systems persist under such uncertainty. The framework begins from the observation that all cooperative systems first exist within environments of coexistence, where multiple agents or organised systems influence one another’s continuation conditions without necessarily coordinating their actions. Cooperation emerges only when interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal. This threshold is described as the cooperative boundary.
+This paper proposes the Trust Framework, a conceptual model describing how cooperative systems persist under such uncertainty. The framework begins from the observation that all cooperative systems first exist within environments of coexistence, where multiple participants or organised systems influence one another’s continuation conditions without necessarily coordinating their actions. Cooperation emerges only when interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal. This threshold is described as the cooperative boundary.
 
-Once this boundary is crossed, temporal coordination becomes possible. Agents begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate observable signals, signals are interpreted under uncertainty to form expectations, which are then evaluated through trust judgements, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
+Once this boundary is crossed, temporal coordination becomes possible. Participants begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate observable signals, signals are interpreted under uncertainty to form expectations, which are then evaluated through trust judgements, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
 
-The Trust Framework therefore describes a structural sequence through which cooperation persists across time:
+The Trust Framework therefore describes the state development of structural sequence through which cooperation persists across time:
 
 Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Expectation → Trust → Credibility → Credit → Continuation
 
@@ -76,8 +76,8 @@ Trust is interpreted not as a substance or measurable object, but as a judgement
 
 ## Scope
 This framework describes how cooperative systems operate under conditions of uncertainty. 
-It focuses on the informational processes through which agents interpret signals derived from 
-past contribution events in order to form expectations about future behaviour.
+It focuses on the informational processes through which participants interpret signals derived from 
+past contribution events in order to form expectations about future behaviour of the observed being.
 
 The framework applies to interactions among individuals, institutions, and organised systems 
 where cooperation must persist across time despite incomplete knowledge of future actions.
@@ -102,11 +102,11 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 
 # 1.	FIRST PRINCIPLE
 
-Cooperative systems persist only when agents are able to act despite uncertainty regarding the future behaviour of others.
+Cooperative systems persist only when participants are able to act despite uncertainty regarding the future behaviour of others.
 
-Because the future cannot be directly observed, agents rely on signals derived from past contribution events to form expectations about future cooperation.
+Because the future cannot be directly observed, participants rely on signals derived from past contribution events to form expectations about future cooperation of the observed being.
 
-Expectation functions as the interpretive outcome through which agents translate observed signals into projections of continuation. Trust evaluates and deploys these expectations to enable coordination under uncertainty.
+Expectation functions as the interpretive outcome through which participants translate observed signals into projections of continuation. Trust evaluates and deploys these expectations to enable coordination under uncertainty.
 
 Within this descriptive framework, trust is understood as an interpretive process that always occurs within a specific interaction context.
 
@@ -126,7 +126,7 @@ These histories form the informational substrate from which cooperative systems 
 
 Access to contribution outcomes, whether through direct experience, records, or other means.
 
-Observation provides the informational basis available to agents when forming expectations under uncertainty.
+Observation provides the informational basis available to the observer when forming expectations under uncertainty.
 
 Observation may be incomplete, delayed, or imperfect.
 
@@ -134,7 +134,7 @@ Observation may be incomplete, delayed, or imperfect.
 
 The persistence of cooperative systems across time.
 
-Continuation depends on the stability of trust interpretations, because only credible expectations allow agents, institutions, and societies to maintain coordinated behaviour.
+Continuation depends on the stability of trust interpretations, because only credible expectations allow participants (whether the particiants are agents, institutions, or societies) to maintain coordinated behaviour.
 
 ## 2.2 OPERATIONAL LAYER (Derived Structures)
 
@@ -148,7 +148,7 @@ Signals represent the evidence available to observers when interpreting behaviou
 
 ## Trust Interpretation
 
-The mechanism through which agents evaluate and deploy expectations about future behaviour, formed through the interpretation of signals derived from observed contribution outcomes.
+The mechanism through which participants evaluate and deploy expectations about future behaviour of the observed being, formed through the interpretation of signals derived from observed contribution outcomes.
  
 # 3.	THEORY OF CONTINUATION (Ontology Elaboration)
 
@@ -158,13 +158,13 @@ Continuation is constantly challenged by uncertainty and entropy. Environmental 
 
 Within this framework, contribution can be interpreted as any action or event that alters the continuation capacity of a system. Positive contributions strengthen the system’s resilience, coordination, or resource base, increasing the likelihood that the system will endure future uncertainty. Negative contributions weaken these capacities and increase the probability of failure. Across time, these actions accumulate into a history of continuation effects that shape the system’s trajectory.
 
-Because future continuation cannot be observed directly, agents must interpret signals derived from past contribution events when making decisions under uncertainty. These signals form the informational basis from which expectations about future cooperation are constructed.
+Because future continuation cannot be observed directly, participants must interpret signals derived from past contribution events when making decisions under uncertainty. These signals form the informational basis from which expectations about future cooperation are constructed.
 
-Expectation arises when agents interpret contribution signals as evidence that cooperative behaviour is likely to continue. Trust arises when these expectations are evaluated and deployed to support coordination under uncertainty.
+Expectation arises when participants interpret contribution signals as evidence that cooperative behaviour is likely to continue. Trust arises when these expectations are evaluated and deployed to support coordination under uncertainty.
 
-Credit then emerges as the operational deployment of credibility, enabling agents to extend cooperation, delegation, or obligation based on expectations about future continuation.
+Credit then emerges as the operational deployment of credibility, enabling participants to extend cooperation, delegation, or obligation based on expectations about future continuation.
 
-The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when agents must coordinate actions across time in order to maintain continuation under uncertainty. Institutions such as law, governance, banking, insurance, and pensions can be understood as structured mechanisms developed by societies to stabilize continuation across increasingly complex systems. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
+The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when participants must coordinate actions across time in order to maintain continuation under uncertainty. Institutions such as law, governance, banking, insurance, and pensions can be understood as structured mechanisms developed by societies to stabilize continuation across increasingly complex systems. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
 
 Continuation also defines the boundary between persistence and collapse. When a system’s continuation capacity remains greater than the pressures acting upon it, the system endures and adapts. When these pressures exceed the system’s capacity to respond, coordination breaks down and collapse occurs. Collapse therefore represents not merely the failure of individual components, but the point at which the system can no longer sustain the conditions required for its own continuation.
 
@@ -172,17 +172,17 @@ However, continuation requires more than stability alone. Stable systems preserv
 
 For this reason, sustainable systems operate through a balance between stability and productive uncertainty. Institutional stability preserves cooperation and coordination, while controlled uncertainty enables exploration, innovation, and the discovery of new contributions that replenish the system’s continuation capacity. Excessive instability destroys coordination, while excessive rigidity prevents adaptation. Continuation therefore requires a dynamic equilibrium between these opposing forces.
 
-Within such environments, cooperative systems must allocate resources and authority among agents who differ in their ability to generate future contributions. Across repeated interactions, agents demonstrate varying levels of reliability in transforming uncertain opportunities into dependable outcomes. Over time, these histories of contribution accumulate into expectations about the future contribution capacity of each agent.
+Within such environments, cooperative systems must allocate resources and authority among participants who differ in their ability to generate future contributions. Across repeated interactions, participants demonstrate varying levels of reliability in transforming uncertain opportunities into dependable outcomes. Over time, these histories of contribution accumulate into expectations about the future contribution capacity of each agent.
 
-This accumulated expectation can be understood as temporal trust capital — the anticipated capacity of an agent to generate reliable contributions across future time. Agents who consistently convert uncertainty into stable contributions accumulate greater temporal trust capital and therefore attract greater coordination, resources, and opportunities from the wider system.
+This accumulated expectation can be understood as temporal trust capital — the anticipated capacity of a participant to generate reliable contributions across future time. Participants who consistently convert uncertainty into stable contributions accumulate greater temporal trust capital and therefore attract greater coordination, resources, and opportunities from the wider system.
 
-Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a currency of cooperative allocation, representing accumulated credibility regarding an agent’s future contribution capacity.
+Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a currency of cooperative allocation, representing accumulated credibility regarding a participant’s future contribution capacity.
 
 For such a system to remain coherent across multiple communities and institutions, the interpretation of contribution signals must remain consistent. Local communities may adopt different operational calibrations depending on their circumstances, but the evaluation of contribution must remain comparable across the broader system. This requires the presence of a neutral interpretive lens capable of maintaining consistency in how contributions are recognized and how status is assigned.
 
 Through this separation between local calibration and shared interpretation, cooperative systems are able to support diversity of experimentation while preserving civilizational coherence. Different communities may explore different balances between stability and uncertainty, while the broader system maintains a consistent framework for recognizing contribution and coordinating cooperation.
 
-Under this interpretation, trust, credibility, credit, status, and institutional design can all be understood as mechanisms developed within cooperative systems to manage the fundamental challenge of continuation. They allow agents to coordinate behaviour, allocate responsibility, and manage uncertainty in ways that preserve the system’s ability to endure across time.
+Under this interpretation, trust, credibility, credit, status, and institutional design can all be understood as mechanisms developed within cooperative systems to manage the fundamental challenge of continuation. They allow participants to coordinate behaviour, allocate responsibility, and manage uncertainty in ways that preserve the system’s ability to endure across time.
 
 The Trust Framework builds upon this foundation by examining how contribution signals are interpreted within cooperative systems and how these interpretations shape the dynamics of coordination that sustain civilizational continuation. 
 
