@@ -41,18 +41,19 @@ Working Paper / Private Publication. 
 
 ## Version Information
 
-**Current Version:** v1.2  
+**Current Version:** v1.4  
 **Status:** Draft / Working Paper  
 **Author:** Kok Pian Gew  
 **Year:** 2026  
 
 ## Version Information
 
-**Current Version:** v1.3_WIP
+**Current Version:** v1.4_WIP
 **Status:** Draft  
 
 ### Version History (Summary)
 
+- v1.4 - Replace agent with participant
 - v1.3 — Origin of Trust (new chapter) + Trust Definition Update
 - v1.2 — Signal Foundations & Evaluation (Ch. 8–9 added)
 - v1.1 — Primitive reorganisation (Ontology vs Operational split)
@@ -68,16 +69,16 @@ Once this boundary is crossed, temporal coordination becomes possible. Participa
 
 The Trust Framework therefore describes the state development of structural sequence through which cooperation persists across time:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation/Signals → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
 Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
-# INTRODUCTION
+# INTRODUCTION 
 
 ## Scope
 This framework describes how cooperative systems operate under conditions of uncertainty. 
 It focuses on the informational processes through which participants interpret signals derived from 
-past contribution events in order to form expectations about future behaviour of the observed being.
+past contribution events in order to form expectations about future behaviour of the observed participant.
 
 The framework applies to interactions among individuals, institutions, and organised systems 
 where cooperation must persist across time despite incomplete knowledge of future actions.
@@ -104,7 +105,7 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 
 Cooperative systems persist only when participants are able to act despite uncertainty regarding the future behaviour of others.
 
-Because the future cannot be directly observed, participants rely on signals derived from past contribution events to form expectations about future cooperation of the observed being.
+Because the future cannot be directly observed, participants rely on signals derived from past contribution events to form expectations about future cooperation of the observed participant.
 
 Expectation functions as the interpretive outcome through which participants translate observed signals into projections of continuation. Trust evaluates and deploys these expectations to enable coordination under uncertainty.
 
@@ -134,7 +135,7 @@ Observation may be incomplete, delayed, or imperfect.
 
 The persistence of cooperative systems across time.
 
-Continuation depends on the stability of trust interpretations, because only credible expectations allow participants (whether the particiants are agents, institutions, or societies) to maintain coordinated behaviour.
+Continuation depends on the stability of trust interpretations, because only credible expectations allow participants (whether the participants are agents, institutions, or societies) to maintain coordinated behaviour.
 
 ## 2.2 OPERATIONAL LAYER (Derived Structures)
 
@@ -146,9 +147,11 @@ Signals may include fulfilled obligations, failures, delays, reliability pattern
 
 Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
 
+Signals originate from contribution outcomes and exist independently of any specific observer, although access to and interpretation of signals may vary across observers.
+
 ## Trust Interpretation
 
-The mechanism through which participants evaluate and deploy expectations about future behaviour of the observed being, formed through the interpretation of signals derived from observed contribution outcomes.
+The mechanism through which participants evaluate and deploy expectations about future behaviour of the observed participant, formed through the interpretation of signals derived from observed contribution outcomes.
  
 # 3.	THEORY OF CONTINUATION (Ontology Elaboration)
 
@@ -233,7 +236,9 @@ Within the Trust Framework, the cooperative boundary provides the necessary cond
 
 Systems that cross the cooperative boundary and begin coordinating behaviour face a fundamental challenge: the future cannot be directly observed. Participants must decide whether to cooperate based on incomplete information about how other participants will behave over time. The Theory of Temporal Coordination explains how cooperation can persist under these conditions of uncertainty.
 
-Temporal coordination arises when participants use observations of past behaviour to form expectations about future interaction. Actions performed by participants generate observable outcomes that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
+The sequence that follows describes continuation at the level of temporal coordination between participants, which operates within, and contributes to, the continuation of the broader coexistence system.
+
+Temporal coordination arises when participants use observations of past behaviour to form expectations about future interaction. Actions performed by participants generate observable signals that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
 
 Because coordination occurs across time, cooperation remains inherently provisional. Each interaction produces new information that may reinforce or weaken existing expectations. When observed outcomes confirm prior expectations, the perceived reliability of cooperation increases and coordination becomes more stable. When outcomes contradict expectations, confidence deteriorates and coordination may weaken or collapse.
 
@@ -279,11 +284,11 @@ Trust therefore arises not only from the signals generated by contribution event
 
 ## Participant and Observer
 
-Within cooperative systems, a being (either an individual or and entity) participate in two related roles: as a participant and as an observer.
+Within cooperative systems, a being (either an individual or an entity) participate in two related roles: as a participant and as an observer.
 
 A **participant** refers to a being that performs actions within a system. These actions may produce outcomes that affect other participants and generate observable signals.
 
-An **observer** refers to another entity that perceives and interprets signals generated by the actions of the observed participant. Through observation and interpretation, an observer forms expectations regarding the behaviour of others within the system.
+An **observer** refers to another being that perceives and interprets signals generated by the actions of the observed participant. Through observation and interpretation, an observer forms expectations regarding the behaviour of others within the system.
 
 For clarity, the framework refers to a representative participant P and a representative observer O when describing interactions within cooperative environments.
 
@@ -339,6 +344,12 @@ Expectations arise through the interpretation of signals generated by contributi
 
 Without observable signals, an observer would lack the evidential basis required to assess reliability or evaluate patterns of behaviour exhibited by a participant within cooperative environments. Signals therefore serve as the informational foundation upon which trust judgements are formed.
 
+Access to signals is not uniform across observers.
+
+Observers may receive different subsets, resolutions, or timing of signals, depending on their position within the system, available infrastructure, and institutional mediation.
+
+As a result, differences in expectation may arise even when the underlying signal substrate remains unchanged.
+
 Through the accumulation and interpretation of signals across time, an observer develops expectations regarding the likely continuation of the behaviour of a participant. 
 
 Trust can therefore be understood as an interpretive judgement formed through the evaluation of expectations derived from signals generated by the past contribution events of a participant.
@@ -379,7 +390,12 @@ Understanding the evaluation principles used by observers is therefore essential
 
 ## 9.1 Formation of signal evaluation principles
 
-Evaluation principles are not created at the moment signals are observed. Observers interpret signals using interpretive criteria that have developed over time through biological capacity, individual experience, and interaction within cooperative environments.
+Evaluation principles are not created at the moment signals are observed. 
+
+Observers interpret signals through structured evaluation processes that reflect their underlying interpretive purpose, processing structure, permissible constraints, and decision mechanisms. These processes reflect the observer system’s interpretive purpose,
+processing structure, permissible constraints, and realisation mechanisms.
+
+As a result, the identical observable signal may give rise to different expectations depending on the observer system through which it is interpreted or when it is interpreted by different observer systems.
 
 Human observers possess the ability to evaluate signals through cognitive processes that allow information from past interactions to influence future expectations. Through repeated interaction with others, individuals gradually develop patterns for interpreting how particular signals relate to behaviour and outcomes.
 
@@ -429,7 +445,7 @@ In such situations, cooperation between participants often requires recognising 
 
 When evaluation principles differ across cooperative environments, signals may be interpreted differently by observers. Such misalignment increases the likelihood of misinterpretation and coordination failure between participants.
 
-Understanding how evaluation principles differ across cooperative systems therefore helps explain how trust is formed, maintained, or disrupted when participantss interact across different interpretive environments.
+Understanding how evaluation principles differ across cooperative systems therefore helps explain how trust is formed, maintained, or disrupted when participants interact across different interpretive environments.
 
 ## 9.5 Expectations and the Conditions for Trust
 
@@ -464,6 +480,14 @@ Trust therefore enables a baseline level of cooperation even when interpersonal 
 Contribution history nevertheless remains the underlying evidential substrate from which trust judgements emerge. Actions performed within the system generate observable effects that accumulate across time, producing signals that allow observers to infer reliability, credibility, and the likely continuation of behaviour.
 
 Trust is unidirectional in accumulation and bidirectional in interpretation.
+
+Signals are generated from contribution outcomes and therefore contribution-dependent rather than observer-dependent. They exist as the realised interface of underlying events, although observers may differ in their access to, resolution of, and interpretation of those signals. Through repeated exposure, observers form expectations by interpreting available signals according to their evaluation principles. 
+
+This accumulation may arise through multiple forms of continuation rather than through formal recording alone. Consistent patterns of behaviour can stabilise expectation implicitly through repetition, even without explicit encoding, while in other cases expectations are externalised into artefacts such as records, scores, or balances that preserve and transmit signal history beyond the originating observer. 
+
+Once externalised, such artefacts may circulate across systems and functions as inputs into new interpretive processes. More broadly, repeated interaction—whether in social systems or in stable structural relationships—can produce enduring patterns of alignment that persist across time. 
+
+In this way, accumulated trust is not confined to explicit judgement or institutional form, but emerges from the interaction between contribution-derived signals and observer interpretation, and may subsequently participate as an input into coordination processes across domains.
 
 ## 10.2 Role of Signals in Trust Formation
 
@@ -604,7 +628,7 @@ The Capability lens interprets signals derived from contribution history of the 
 
 Within this lens, observers evaluate credibility retrospectively using measurable signals such as outcomes, performance metrics, or documented records of contribution events. Judgements are therefore expressed as comparative or predictive assessments rather than as interpersonal evaluations.
 
-Such assessments may take the form of scores, rankings, probabilities, or other quantitative indicators that summarise observable signals derived from an agent’s contribution history.
+Such assessments may take the form of scores, rankings, probabilities, or other quantitative indicators that summarise observable signals derived from an participant’s contribution history.
 
 Capability interpretation enables coordination across large institutional systems by allowing decisions to be made based on recorded performance data rather than direct personal familiarity.
 
@@ -637,6 +661,7 @@ Observers evaluate signals generated from the contribution history of participan
 Institutional environments do not interpret trust independently. Instead, they structure how signals are generated, verified, recorded, and transmitted between participants. Through procedures such as documentation, auditing, certification, and standardised reporting, institutions stabilise the signal environment in which observers apply the four trust lenses.
 
 As a result, trust interpretation within institutional settings reflects the evaluation of organisational contribution histories within structured signal environments, whereas interpersonal contexts rely more heavily on direct observation and less formalised signals.
+
 # 11. CREDIBILITY — STABILISATION ACROSS OBSERVERS
 
 ## 11.1 The Problem That Credibility Solves
