@@ -449,29 +449,29 @@ This chapter continues the descriptive layer of the Trust Framework, focusing on
 
 ## 10.1 Core Principle
 
-As social coordination expands beyond small relational communities, observers rarely possess direct access to the full contribution history underlying an agent’s behaviour.
+As social coordination expands beyond small relational communities, observers rarely possess direct access to the full contribution history underlying a participant’s behaviour.
 
 In closely connected communities, trust often arises from remembered interaction and shared experience. Members observe each other’s actions across time—for example, a carpenter whose work has repeatedly been seen and evaluated—so allowing cooperation to occur without additional verification mechanisms.
 
-When interaction extends beyond familiar communities, observers may rely on identity markers that compress elements of contribution history into portable signals. Titles, lineage, institutional affiliations, and recognised social roles allow others to infer that an individual has been validated within a particular social or cultural context.
+When interaction extends beyond familiar communities, observers may rely on identity markers that compress elements of contribution history into portable signals. Titles, lineage, institutional affiliations, and recognised social roles of the participants allow others to infer that a participant has been validated within a particular social or cultural context.
 
-In large and impersonal environments, however, neither direct familiarity nor identity recognition is sufficient to sustain cooperation. Procedural validation systems therefore emerge as a minimal mechanism for coordination. Contracts, certification processes, regulatory oversight, escrow systems, and other rule-based structures allow agents with no prior relationship to cooperate under shared procedural guarantees.
+In large and impersonal environments, however, neither direct familiarity nor identity recognition is sufficient to sustain cooperation. Procedural validation systems therefore emerge as a minimal mechanism for coordination. Contracts, certification processes, regulatory oversight, escrow systems, and other rule-based structures allow participants with no prior relationship to cooperate under shared procedural guarantees.
 
-These mechanisms reduce the amount of personal trust required by transferring part of the verification process from individual judgement to recognised institutional procedures.
+These mechanisms reduce the amount of personal or institutional trust required by transferring part of the verification process from individual judgement to recognised institutional procedures.
 
 Trust therefore enables a baseline level of cooperation even when interpersonal familiarity and identity-based recognition are absent. While stronger forms of trust may later emerge through observed performance or repeated interaction, procedural validation provides the minimum structure necessary for strangers to coordinate behaviour within complex societies.
 
 Contribution history nevertheless remains the underlying evidential substrate from which trust judgements emerge. Actions performed within the system generate observable effects that accumulate across time, producing signals that allow observers to infer reliability, credibility, and the likely continuation of behaviour.
 
-Trust is unidirectional in its historical grounding and bidirectional in interpretation.
+Trust is unidirectional in accumulation and bidirectional in interpretation.
 
 ## 10.2 Role of Signals in Trust Formation
 
-Within cooperative systems, observers do not have direct access to the full contribution history of an agent. As a result, trust formation depends on the availability of observable information that reflects past behaviour. Signals provide this observable interface, allowing contribution history to become accessible to observers under conditions of incomplete information.
+Within cooperative systems, observers do not have direct access to the full contribution history of a participant. As a result, trust formation depends on the availability of observable information that reflects past behaviour. Signals provide this observable interface, allowing contribution history to become accessible to observers under conditions of incomplete information.
 
-Signals may arise through direct observation of behaviour, communication between agents, institutional records, reputational transmission, or symbolic markers associated with past actions. Because observers rarely possess complete knowledge of the underlying contribution history, signals provide partial evidence from which expectations about future behaviour are formed.
+Signals may arise through direct observation of behaviour, communication between participants, institutional records, reputational transmission, or symbolic markers associated with past actions. Because observers rarely possess complete knowledge of the underlying contribution history, signals provide partial evidence from which expectations about future behaviour are formed.
 
-Signals therefore function as the observable bridge between underlying contribution events and the formation of trust judgements. Observers interpret these signals using evaluation principles in order to form expectations regarding the likely continuation of behaviour under conditions of uncertainty.
+Signals therefore function as the observable bridge between underlying contribution events and the formation of trust judgements. Observers interpret these signals using evaluation principles in order to form expectations regarding the likely continuation of participant's behaviour under conditions of uncertainty.
 
 ### 10.2.1 Signal Delay in Trust Formation
 
@@ -480,6 +480,7 @@ Trust, credibility, and credit respond to observed signals rather than directly 
 ### 10.2.2 Signal Circulation across Domains
 
 Signals derived from contribution history may circulate across relational, symbolic, procedural, and instrumental domains as they move through social and institutional systems. 
+
 While these signals may be interpreted through different trust lenses depending on context, the underlying contribution history remains anchored in realised contribution events.
 
 In many situations, observers cannot directly observe or reconstruct the full sequence of contribution events that produced the underlying history. As a result, signals originating in one informational domain may be translated or represented within another. For example, instrumental performance records may be validated through procedural evaluation, procedural validation may be communicated through symbolic markers, and symbolic recognition may influence relational perception within interpersonal contexts.
@@ -506,15 +507,15 @@ Trust formation therefore arises not from signals alone, but from the applicatio
 
 Trust formation requires that contribution signals be interpretable within the receiving system's credibility framework.
 
-Agents whose contribution signals fall outside the interpretive structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
+Participants whose contribution signals fall outside the interpretive structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
 
 ## 10.4 Interpretive Lenses of Trust
 
-The framework distinguishes four primary interpretive lenses through which observers interpret signals derived from contribution history under conditions of uncertainty.
+The framework distinguishes four primary interpretive lenses through which observers interpret signals derived from participant's contribution history under conditions of uncertainty.
 
 These lenses do not represent separate “types” or “substances” of trust. Instead, they represent distinct interpretive mechanisms applied to the same underlying contribution history.
 
-Observers interpret signals that reflect underlying contribution history when forming expectations about behaviour, including outcomes, institutional records, reputational indicators, or identity markers. Each lens interprets these signals according to different informational rules.
+Observers interpret signals that reflect underlying contribution history when forming expectations about behaviour, including outcomes, institutional records, reputational indicators, or identity markers of the observed participant. Each lens interprets these signals according to different informational rules.
 
 The lenses therefore represent alternative mechanisms through which observers infer reliability from contribution-relevant signals.
 
@@ -553,7 +554,7 @@ The interpretive lenses described in this section operate at the stage of trust 
 
 ### 10.4.1 Coordination lens
 
-In many social systems, the coordination lens functions as the earliest seed of trust formation. Before formal institutions, symbolic identities, or procedural verification mechanisms develop, agents rely primarily on direct experience of coordinated interaction to assess the reliability of others.
+In many social systems, the coordination lens functions as the earliest seed of trust formation. Before formal institutions, symbolic identities, or procedural verification mechanisms develop, participants rely primarily on direct experience of coordinated interaction to assess the reliability of others.
 
 Observed behaviours such as responsiveness, mutual adjustment, and successful joint action provide the earliest signals from which trust interpretations emerge.
 
@@ -567,9 +568,9 @@ These mechanisms allow trust signals to scale beyond the limits of direct interp
 
 The Identity lens interprets signals derived from contribution history through shared cultural meaning, identity markers, and socially recognised symbols.
 
-Within this lens, observers infer reliability or legitimacy from signs, narratives, or roles that carry recognised meaning within a shared interpretive framework. Signals therefore arise from the cultural significance attached to these symbols rather than from direct observation of contribution events.
+Within this lens, observers infer reliability or legitimacy of the observed participant from signs, narratives, or roles that carry recognised meaning within a shared interpretive framework. Signals therefore arise from the cultural significance attached to these symbols rather than from direct observation of contribution events.
 
-Such signals may include titles, institutional affiliations, professional identities, traditions, or cultural narratives. Observers interpret these markers as indicators that an agent has been recognised or validated within a particular community or institutional context.
+Such signals may include titles, institutional affiliations, professional identities, traditions, or cultural narratives of the observed participant. Observers interpret these markers as indicators that a participant has been recognised or validated within a particular community or institutional context.
 
 Identity interpretation may be socially durable even when its informational basis becomes partially detached from direct evidence of performance or capability. Because identity meaning is culturally constructed, identity signals may persist even when the original evidentiary foundations weaken or disappear.
 
@@ -583,9 +584,9 @@ Procedural validation reduces the amount of personal trust required for coordina
 
 ### 10.4.3 Structural lens
 
-The Structural lens interprets signals derived from contribution history through adherence to recognised processes, rules, and governance structures.
+The Structural lens interprets signals derived from contribution history of the participant through adherence to recognised processes, rules, and governance structures.
 
-Within this lens, observers rely on the integrity of defined procedures rather than on direct familiarity with the individual agent. Credibility is inferred when an agent successfully passes through recognised institutional processes designed to evaluate behaviour, competence, or eligibility.
+Within this lens, observers rely on the integrity of defined procedures rather than on direct familiarity with the individual participant. 
 
 Structural interpretation therefore functions as a rule-bound validation mechanism. Observers rely on the outcome of recognised processes as proxies for deeper evaluation of contribution history.
 
@@ -599,7 +600,7 @@ Procedural interpretation is common in institutional environments such as courts
 
 ### 10.4.4 Capability lens
 
-The Capability lens interprets signals derived from contribution history through observable performance and recorded evidence of behaviour.
+The Capability lens interprets signals derived from contribution history of the observed participant through observable performance and recorded evidence of behaviour.
 
 Within this lens, observers evaluate credibility retrospectively using measurable signals such as outcomes, performance metrics, or documented records of contribution events. Judgements are therefore expressed as comparative or predictive assessments rather than as interpersonal evaluations.
 
@@ -621,7 +622,7 @@ These institutions function as trust-bearing structures by stabilising and trans
 
 By transferring the burden of signal interpretation from individuals to recognised institutional processes, societies reduce the amount of interpersonal trust required for coordination across large populations.
 
-Institutional trust systems therefore enable cooperation between agents who lack direct familiarity with one another. 
+Institutional trust systems therefore enable cooperation between participants who lack direct familiarity with one another. 
 
 The reliability of these systems depends on the perceived legitimacy and consistency of the governing procedures through which signals are validated and transmitted, which in turn shape observer trust judgements.
 
@@ -631,7 +632,7 @@ Trust arises through the same interpretive mechanism across contexts, but the in
 
 Trust interpretation always occurs through the judgement of observers.
 
-Observers evaluate signals generated from the contribution history of agents whose behaviour produces observable outcomes within cooperative systems. Trust bearers may be individuals or organisations within cooperative systems.
+Observers evaluate signals generated from the contribution history of participants whose behaviour produces observable outcomes within cooperative systems. Trust bearers may be individuals or organisations within cooperative systems.
 
 Institutional environments do not interpret trust independently. Instead, they structure how signals are generated, verified, recorded, and transmitted between participants. Through procedures such as documentation, auditing, certification, and standardised reporting, institutions stabilise the signal environment in which observers apply the four trust lenses.
 
