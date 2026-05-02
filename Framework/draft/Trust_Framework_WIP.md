@@ -637,21 +637,224 @@ Observers evaluate signals generated from the contribution history of participan
 Institutional environments do not interpret trust independently. Instead, they structure how signals are generated, verified, recorded, and transmitted between participants. Through procedures such as documentation, auditing, certification, and standardised reporting, institutions stabilise the signal environment in which observers apply the four trust lenses.
 
 As a result, trust interpretation within institutional settings reflects the evaluation of organisational contribution histories within structured signal environments, whereas interpersonal contexts rely more heavily on direct observation and less formalised signals.
+# 11. CREDIBILITY — STABILISATION ACROSS OBSERVERS
 
-## 10.7 Relationship to Other Parts
+## 11.1 The Problem That Credibility Solves
 
-This part of the framework is descriptive. It defines the conceptual distinctions, interpretive lenses, and informational structures through which trust signals are interpreted under uncertainty.
+Trust, as described in the preceding chapters, is formed locally. Observer O forms a judgement about agent A in context c at time t, based on the signals available in that context. This judgement is revisable, context-sensitive, and may differ from the judgements of other observers who have encountered different signals or applied different evaluation principles.
 
-It does not introduce formal modelling, optimisation, or operational decision rules.
+A cooperative system that operates only at the level of local trust judgements faces a fundamental scaling problem. In small, repeated-interaction environments — villages, families, guilds, long-standing trading relationships — local trust is sufficient. Each observer has accumulated enough direct experience of each agent to form reliable expectations independently.
 
-Subsequent parts of the framework operate in a separate formal domain. These include:
-- modelling trust accumulation
-- introducing ledgers, state variables, or quantitative representations
-- defining governance rules or decision thresholds
-- analysing systemic stability, resilience, or collapse
+As cooperative systems grow beyond the scale at which repeated direct interaction is possible, local trust ceases to be sufficient for coordination. A merchant who trades only with those he has personally observed cannot trade across a continent. A bank that extends credit only to those it has personally evaluated cannot finance an economy. An institution that governs only those it has directly assessed cannot govern a civilisation.
 
-This separation preserves clarity between descriptive interpretation and formal modelling.
+The problem that credibility solves is this: how can trust — a local, context-bound judgement — produce coordination at scales that far exceed the reach of any single observer?
 
-Later sections examine how trust signals evolve over time, including their generation from contribution events, their circulation across interpretive modes, and their re-evaluation as new information becomes available.
+The answer is stabilisation. Credibility is what trust becomes when it has been confirmed across multiple observers, multiple contexts, and multiple moments — to the point where the expectation of continuation attached to an agent can be relied upon without requiring any particular observer to have formed it independently.
 
-Accordingly, this part establishes how trust becomes observable, while subsequent parts address how trust is modelled, governed, and applied.
+## 11.2 The Mechanism of Credibility Formation
+
+Credibility does not emerge from a single trust judgement. It accumulates through the aggregation of trust judgements across the observer population.
+
+The mechanism has three stages:
+
+**Stage 1: Repetition.** An agent generates contribution outcomes that produce trust signals across repeated interactions. Each individual observer forms a trust judgement based on the signals available to them. If those judgements are consistently positive — if the agent repeatedly demonstrates the expected persistence of identity, capability, structure, and coordination — the judgements begin to converge.
+
+**Stage 2: Circulation.** The trust judgements formed by individual observers do not remain local. They circulate: through reputation, through institutional records, through certification systems, through public accounts of behaviour. An observer who has never directly interacted with an agent can access the judgements of observers who have. This circulation extends the reach of the trust signal beyond the range of direct observation.
+
+**Stage 3: Consolidation.** As the circulated judgements accumulate, they consolidate into a durable signal about the agent. This consolidated signal is credibility: the observer population's stable expectation that the agent will continue to perform in the future as it has performed in the past.
+
+Once credibility is established, it exhibits properties that individual trust judgements do not:
+
+- **Resistance to single-observer revision**: Because credibility is held by a population rather than an individual, it cannot be altered by any single observer's updated judgement.
+- **Portability across contexts**: Because credibility has been confirmed across multiple contexts, it can be deployed in new contexts without requiring fresh direct observation.
+- **Temporal durability**: Because credibility has been confirmed across multiple time periods, it carries forward-looking validity that local trust — formed in a single moment — cannot.
+
+## 11.3 What Credibility Measures
+
+Credibility is not a measure of the agent's past performance. It is a measure of the observer population's stable expectation about the agent's future continuation.
+
+This distinction matters. An agent's past performance is a fact about the world — a record of events that have occurred. The observer population's expectation is a social fact — a distributed epistemic state held across multiple observers, sustained by the circulation of trust signals.
+
+Past performance influences credibility but does not determine it. An agent with excellent past performance but whose signals are not accessible to the observer population (because they are not recorded, transmitted, or interpretable) will not acquire credibility from that performance. Conversely, an agent whose past performance signals are highly visible and widely circulated will acquire credibility proportional to the quality of those signals as interpreted through the prevailing evaluation principles.
+
+What credibility measures, therefore, is the degree to which the observer population's expectation of the agent's continuation has been stabilised across observers, contexts, and time.
+
+## 11.4 Four Dimensions of Credibility
+
+Credibility is not a single-dimensional quantity. It is itself structured through the four irreducible dimensions:
+
+**Interpretation-credibility (釋)**: The degree to which the observer population interprets the agent's contribution signals as evidence of durable continuation capacity. This dimension captures the meaning that the agent's track record is understood to carry. An agent may have a long record of activity that is systematically misinterpreted — in which case their interpretation-credibility is low regardless of their actual contribution history.
+
+**Structure-credibility (構)**: The degree to which the agent's contribution history is recorded in forms that can be transmitted, verified, and reinterpreted across contexts. This dimension captures the institutional architecture of the credibility signal. An agent whose contribution history is rich but entirely informal and undocumented has low structure-credibility, because their record cannot be accessed by observers who have not encountered them directly.
+
+**Regime-credibility (度)**: The degree to which the agent has demonstrated compliance with the rules, norms, and constraints of the cooperative system over time. This dimension captures the agent's record of operating within established boundaries — of not only producing contribution outcomes but doing so through legitimate means. An agent who produces strong outcomes through boundary-violating behaviour may have high capability-credibility but low regime-credibility.
+
+**Realisation-credibility (行)**: The degree to which the agent has demonstrated reliable translation of expectations into actual outcomes across repeated interactions. This dimension captures the execution record — not what the agent has claimed to be capable of, but what the agent has actually produced when called upon to act. Realisation-credibility is the dimension most directly evidenced by past performance outcomes.
+
+A fully credible agent — one whose credibility can support large-scale credit extension — will exhibit strength across all four dimensions. Weakness in any single dimension creates a vulnerability in the credibility signal that observers with access to the relevant information will detect.
+
+## 11.5 Credibility Failure
+
+Credibility fails when the accumulated expectation about an agent's continuation ceases to be stable across the observer population.
+
+This can occur in three ways:
+
+**Revelation**: New signals emerge that are inconsistent with the prior credibility expectation — a default, a discovered fraud, a failure to perform under observable conditions. Revelation attacks the evidential basis of credibility. If the new signals are sufficiently strong, and sufficiently accessible to the observer population, the credibility expectation may collapse rapidly.
+
+**Erosion**: The agent's contribution signals gradually weaken over time, without any single dramatic revelation. The expectation of continuation slowly decays as the gap between expectation and observed performance widens. Erosion is slower than revelation but may be more difficult to arrest, because it lacks the triggering event that would prompt the observer population to update simultaneously.
+
+**Structural decay**: The institutional architecture that circulates and validates the credibility signal degrades. Records become unavailable, certification systems lose legitimacy, transmission channels for reputation signals break down. The credibility expectation fails not because the agent's behaviour has changed but because the signal infrastructure that sustained the expectation has collapsed.
+
+Each mode of credibility failure has a different implication for the agent and for the cooperative system. Revelation can sometimes be recovered through renewed contribution performance and signal correction. Erosion requires sustained restoration of contribution quality. Structural decay requires rebuilding of the institutional architecture through which credibility is transmitted.
+
+## 11.6 Institutional Credibility
+
+The preceding sections have primarily described credibility at the level of individual agents. But cooperative systems also develop credibility at the institutional level — the stable expectation across the observer population that an institution will continue to perform its coordination function.
+
+Institutional credibility follows the same mechanism as individual credibility but operates at a different scale and with a different temporal structure.
+
+Institutions accumulate credibility through sustained structural integrity — through consistent application of their own rules, reliable delivery of their coordination function, and demonstrated regime compliance over extended periods. Institutional credibility is slower to build than individual credibility because it requires the consolidation of expectations across much larger observer populations and much longer time periods.
+
+Institutional credibility is also more resistant to local failure than individual credibility. Because the observer population's expectation is anchored to the institution's structure and function rather than to any individual's behaviour, the failure of individual participants within the institution does not necessarily undermine the institution's credibility — provided that the institutional regime is seen to respond appropriately to such failures.
+
+Conversely, institutional credibility can collapse more catastrophically than individual credibility when the failure is structural — when the institution's regime is itself revealed to be illegitimate, captured, or systematically applied in ways that contradict its stated function.
+
+The civilisational history of monetary systems, legal orders, and governance institutions is in large part a history of credibility construction, maintenance, and collapse at the institutional scale.
+
+---
+
+# 12. CREDIT — EXTENSION BEYOND IMMEDIATE CAPACITY
+
+## 12.1 What Credit Is
+
+Credibility is a state. Credit is an act.
+
+Credibility represents the observer population's stable expectation that an agent will continue to perform in ways consistent with their past contribution record. Credit is the decision — made by a specific extending agent in a specific moment — to provide resources or commit actions in the present on the basis of that expectation.
+
+Credit extends what cooperation can accomplish beyond what any agent could accomplish through their own present capacity. Without credit, cooperation is limited to simultaneous exchange: I contribute now in return for your contribution now. With credit, cooperation can be structured across time: I contribute now, or provide you with resources now, in return for your contribution at a future moment that we agree upon.
+
+This temporal extension is not merely a convenience. It is the mechanism by which cooperative systems grow, by which capital accumulates, by which complex institutions are built. Any project whose benefits will be realised after its costs have been incurred requires credit — the forward extension of coordination commitments beyond immediate capacity.
+
+## 12.2 The Structure of Credit
+
+A credit relationship has four structural components:
+
+**The extending agent**: the entity providing resources or making a forward commitment. The extending agent bears the risk that the receiving agent's future contribution will not materialise as expected.
+
+**The receiving agent**: the entity receiving the present resource or commitment. The receiving agent gains the capacity to act now beyond their immediate capacity, in exchange for a forward obligation.
+
+**The credibility basis**: the credibility signal that justifies the extension. This is the mechanism through which past contribution history is translated into present resource access. Without a credibility basis, credit extension is speculation rather than informed coordination.
+
+**The forward commitment**: the obligation incurred by the receiving agent — to deliver a contribution at a future time that compensates the extending agent for the present resource and the risk borne during the interval.
+
+These four components map directly to the four dimensions of the framework:
+
+| Component | Dimension |
+|---|---|
+| Credibility basis (interpretation of the agent's signal) | Interpretation (釋) |
+| Forward commitment structure (the form of the obligation) | Structure (構) |
+| Rules governing credit extension (limits, enforcement, default) | Regime (度) |
+| Actual resource transfer and future delivery | Realisation (行) |
+
+A credit extension that is weak in any of these four dimensions is structurally vulnerable. Credit extended without interpretation of the credibility basis is speculation. Credit extended without a structure for the forward commitment is a gift. Credit extended without a regime governing default or enforcement is unenforceable. Credit extended without actual resource transfer is uncommitted.
+
+## 12.3 Forms of Credit
+
+Credit takes many forms across different domains of cooperative activity. These forms share the same structural logic — present resource extension against future contribution — but differ in what is extended and what the forward commitment consists of.
+
+**Financial credit** is the most familiar form: the extension of monetary resources now in exchange for their return with interest at a future time. This is the domain of banking, bond markets, trade finance, and consumer lending. The credibility basis is the borrower's credit history and structural position; the forward commitment is repayment with interest; the regime is contract law and collateral enforcement.
+
+**Delegational credit** is the extension of authority and responsibility: assigning an agent to act on behalf of another in a domain where the assigning agent cannot directly supervise every action. This is the domain of employment, professional certification, and institutional governance. The credibility basis is the agent's qualification, track record, and demonstrated regime compliance; the forward commitment is faithful execution of the delegated responsibility; the regime is professional norms, performance review, and accountability structures.
+
+**Relational credit** is the extension of cooperation into future interactions on the basis of accumulated mutual trust: agreements, collaborations, alliances, and partnerships where the full value cannot be specified in advance and depends on the continued good faith of both parties. This is the domain of personal relationships, informal agreements, and long-term business partnerships. The credibility basis is the shared history of trust events between the parties; the forward commitment is the continuation of reciprocal contribution; the regime is social norms, reputation, and the ongoing relationship itself.
+
+**Institutional credit** is the extension of legitimacy and standing: the recognition by one institution of another's authority, competence, or status as a valid interlocutor. This is the domain of diplomatic recognition, accreditation, professional licensing, and inter-institutional cooperation. The credibility basis is the institution's demonstrated structural integrity and regime compliance; the forward commitment is continued adherence to the standards that justify the recognition; the regime is the rules governing the recognition relationship.
+
+These forms of credit are not competing alternatives. In practice, they operate simultaneously and reinforce each other. An institution with strong financial credibility typically also has strong delegational credibility. An agent with strong relational credit often finds it easier to access financial credit. The forms of credit are different expressions of the same underlying mechanism operating through different coordination domains.
+
+## 12.4 Credit and Risk
+
+Credit extension is irreducibly risky. The forward commitment on which credit is based has not yet occurred. The receiving agent's future contribution is not guaranteed.
+
+The risk structure of credit has three components:
+
+**Continuation risk**: the risk that the receiving agent will cease to exist, be incapacitated, or undergo changes that prevent them from fulfilling the forward commitment. This is the risk against which insurance, guarantors, and collateral are deployed.
+
+**Interpretation risk**: the risk that the credibility signal was misread — that the observer population's expectation of the agent's continuation capacity was wrong, or that it was right about the past but the agent's circumstances have since changed. This is the risk against which monitoring, reporting requirements, and ongoing assessment are deployed.
+
+**Regime risk**: the risk that the rules governing the credit relationship will not be enforced, or will be enforced differently than anticipated. This is the risk against which legal enforceability, jurisdictional reliability, and institutional robustness are assessed.
+
+The management of these risks is the function of the credit infrastructure of a cooperative system — the institutions, rules, and practices through which credit can be extended with sufficient confidence to enable the coordination benefits of temporal extension to be realised.
+
+## 12.5 Credit Cycles
+
+Credit is not a static equilibrium. It moves through cycles that are intrinsic to the logic of forward extension under uncertainty.
+
+During periods of high credibility stability — when contribution signals are strong, signal transmission infrastructure is intact, and regime enforcement is reliable — credit extends broadly and deeply. The amount of coordination that can be accomplished beyond immediate capacity grows. The temporal reach of cooperative commitments lengthens.
+
+During periods of credibility instability — when contribution signals deteriorate, revelation events undermine established expectations, or regime enforcement weakens — credit contracts. The amount of forward commitment that the observer population will support declines. The temporal reach of cooperation shortens. Coordination that depended on the extended credit becomes impossible, and the systems built upon it must adapt or contract.
+
+This credit cycle is not a pathology. It is the structural consequence of building cooperation on expectations rather than certainties. The cycle's phases — extension and contraction — correspond to the alignment and misalignment of the credibility signal with the underlying contribution reality.
+
+The characteristic failure of credit cycles occurs when the gap between the credibility expectation and the underlying contribution reality becomes too large. When credit has been extended on the basis of credibility signals that have become detached from actual contribution performance — through fraud, through structural decay, through systematic misinterpretation — the correction, when it comes, is sharp. The observer population updates simultaneously, credibility collapses, credit contracts, and the systems that depended on the extended credit are no longer sustainable.
+
+The prevention of catastrophic credit correction is therefore not a matter of eliminating risk — which is impossible — but of maintaining the alignment between credibility signals and the underlying contribution reality that justifies them.
+
+## 12.6 Credit and Continuation
+
+Credit is the mechanism through which the cooperation sequence closes.
+
+Recall the full sequence: Contribution → Signals → Observation → Expectation → Trust → Credibility → Credit → Continuation.
+
+Credit enables continuation in two senses.
+
+**Directly**: Credit extends the agent's capacity beyond what they could accomplish with their immediate resources. This extended capacity enables contribution at scales and over time horizons that would otherwise be impossible. The contribution that credit enables generates new signals, which feed back into the trust and credibility of the agent. If the agent delivers on their forward commitment, their credibility is reinforced. If they fail to deliver, their credibility is damaged. The credit extension is itself a test of the credibility signal.
+
+**Systemically**: Credit enables the cooperative system to grow beyond what simultaneous exchange could produce. Every institution that builds over time — every organisation that hires before its revenues arrive, every infrastructure project that constructs before its users pay, every science that funds research before its applications are known — depends on credit. The civilisational scale of cooperative achievement is possible only because credibility-backed credit allows coordination commitments to extend across time.
+
+Continuation, at the civilisational scale, is therefore not a passive outcome. It is actively produced by the credit mechanism — by the repeated cycle of contribution, signal, trust, credibility, and forward commitment that allows each generation of cooperation to build on what the previous generation created.
+
+---
+
+# 13. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
+
+## 13.1 Purpose of This Chapter
+
+The preceding chapters have described the conditions under which cooperative systems emerge, the mechanisms through which signals are generated and interpreted, and the structural architecture through which trust judgements form. These descriptions are intentionally non-formal: they map the territory without committing to precise boundary conditions.
+
+This chapter states the canonical definitions.
+
+A theory that cannot be precisely stated cannot be tested, applied, or extended. The definitions that follow are not simplifications of what precedes them — they are distillations. Each definition has been pressed to the point where it cannot be further reduced without losing something essential.
+
+The definitions operate at two levels: the ontological level, which situates trust, credibility, and credit within the structure of any cooperative system; and the operational level, which states how they function in practice.
+
+## 13.2 Ontological Formalisation
+
+The following definitions express trust, credibility, and credit as structural positions within cooperative continuation systems.
+
+**Trust** is the coordination mechanism that deploys expectations of continuation under uncertainty.
+
+**Credibility** is the stabilisation of trust across observers, time, and interaction contexts, enabling scalable coordination.
+
+**Credit** is the forward extension of coordination commitments beyond immediate capacity and across time.
+
+These three definitions express the same underlying logic at three successive stages of coordination:
+
+- Trust is the act of deploying an expectation (one observer, one context, one moment).
+- Credibility is the durability of that act across multiple observers and contexts (the expectation becomes a stable property of the agent).
+- Credit is the forward deployment of credibility — the commitment of present resources in anticipation of future continuation (the expectation enables action).
+
+Each stage is irreducible to the preceding stage. Credibility cannot be possessed without prior trust having been formed. Credit cannot be extended without prior credibility having been established.
+
+## 13.3 Operational Formalisation
+
+The following definitions add the contextual structure through which trust, credibility, and credit operate in practice.
+
+**Trust** is a context-bound interpretive judgement through which observers deploy an expectation of continuation, inferred from observed contribution outcomes, to enable coordination under uncertainty, by evaluating the expected persistence of identity, capability, structure, and coordination.
+
+**Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, producing a durable basis for evaluating an agent's continuation capacity.
+
+**Credit** is the extension of resources or commitments in the present, justified by credibility, to enable coordination beyond immediate capacity and across time.
+
+
+---
