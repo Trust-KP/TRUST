@@ -664,73 +664,83 @@ As a result, trust interpretation within institutional settings reflects the eva
 
 # 11. CREDIBILITY — STABILISATION ACROSS OBSERVERS
 
-## 11.1 The Problem That Credibility Solves
+## 11.1 Origin of Credibility
 
-Trust, as described in the preceding chapters, is formed locally. Observer O forms a judgement about agent A in context c at time t, based on the signals available in that context. This judgement is revisable, context-sensitive, and may differ from the judgements of other observers who have encountered different signals or applied different evaluation principles.
+Human observers operate under persistent uncertainty.
 
-A cooperative system that operates only at the level of local trust judgements faces a fundamental scaling problem. In small, repeated-interaction environments — villages, families, guilds, long-standing trading relationships — local trust is sufficient. Each observer has accumulated enough direct experience of each agent to form reliable expectations independently.
+In any cooperative system, participants must repeatedly form expectations about the behaviour of others based on incomplete and imperfect information.
 
-As cooperative systems grow beyond the scale at which repeated direct interaction is possible, local trust ceases to be sufficient for coordination. A merchant who trades only with those he has personally observed cannot trade across a continent. A bank that extends credit only to those it has personally evaluated cannot finance an economy. An institution that governs only those it has directly assessed cannot govern a civilisation.
+At the level of individual interaction, observers interpret signals derived from past contribution events to form trust judgements. These judgements are inherently local and provisional. Each new interaction may introduce new signals that confirm, contradict, or alter prior expectations.
 
-The problem that credibility solves is this: how can trust — a local, context-bound judgement — produce coordination at scales that far exceed the reach of any single observer?
+However, as interaction extends across time and across multiple contexts, a practical limitation emerges. Observers cannot continuously re-evaluate all available signals from first principles at every moment of decision. The cognitive and informational cost of repeated interpretation becomes prohibitive.
 
-The answer is stabilisation. Credibility is what trust becomes when it has been confirmed across multiple observers, multiple contexts, and multiple moments — to the point where the expectation of continuation attached to an agent can be relied upon without requiring any particular observer to have formed it independently.
+Under these conditions, observers begin to stabilise their expectations.
 
-## 11.2 The Mechanism of Credibility Formation
+When signals relating to a participant’s behaviour accumulate across interactions and are repeatedly interpreted in a consistent manner, observers form a more durable judgement regarding the likely continuation of that behaviour. This stabilised judgement reduces the need for repeated re-evaluation and allows decisions to be made with lower interpretive effort.
 
-Credibility does not emerge from a single trust judgement. It accumulates through the aggregation of trust judgements across the observer population.
+This stabilised expectation is referred to as credibility.
 
-The mechanism has three stages:
+Credibility therefore represents the condition under which a participant becomes believable within a cooperative system. It reflects not a single trust judgement, but the persistence of interpreted signals across time and contexts to a degree sufficient for observers to rely on them without reinterpreting each underlying signal independently.
 
-**Stage 1: Repetition.** An agent generates contribution outcomes that produce trust signals across repeated interactions. Each individual observer forms a trust judgement based on the signals available to them. If those judgements are consistently positive — if the agent repeatedly demonstrates the expected persistence of identity, capability, structure, and coordination — the judgements begin to converge.
+## 11.2 Credibility as Stability of Belief
 
-**Stage 2: Circulation.** The trust judgements formed by individual observers do not remain local. They circulate: through reputation, through institutional records, through certification systems, through public accounts of behaviour. An observer who has never directly interacted with an agent can access the judgements of observers who have. This circulation extends the reach of the trust signal beyond the range of direct observation.
+Trust is formed within a specific interaction.
 
-**Stage 3: Consolidation.** As the circulated judgements accumulate, they consolidate into a durable signal about the agent. This consolidated signal is credibility: the observer population's stable expectation that the agent will continue to perform in the future as it has performed in the past.
+Credibility emerges across interactions.
 
-Once credibility is established, it exhibits properties that individual trust judgements do not:
+Where trust represents an observer’s decision to rely on an expectation under uncertainty, credibility represents the stabilisation of that expectation such that it no longer requires continuous reinterpretation.
 
-- **Resistance to single-observer revision**: Because credibility is held by a population rather than an individual, it cannot be altered by any single observer's updated judgement.
-- **Portability across contexts**: Because credibility has been confirmed across multiple contexts, it can be deployed in new contexts without requiring fresh direct observation.
-- **Temporal durability**: Because credibility has been confirmed across multiple time periods, it carries forward-looking validity that local trust — formed in a single moment — cannot.
+A participant is considered credible when observers perceive that the signals associated with that participant’s behaviour have exhibited sufficient consistency across time or across observers to support belief in their continuation.
 
-## 11.3 What Credibility Measures
+This belief is not certainty. It remains subject to revision as new signals emerge. However, it exhibits persistence: it does not reset with each new interaction.
 
-Credibility is not a measure of the agent's past performance. It is a measure of the observer population's stable expectation about the agent's future continuation.
+Credibility therefore reduces the interpretive burden faced by observers. It allows cooperation to extend beyond immediate interaction by enabling participants to rely on accumulated belief rather than on continuous re-evaluation of signals.
 
-This distinction matters. An agent's past performance is a fact about the world — a record of events that have occurred. The observer population's expectation is a social fact — a distributed epistemic state held across multiple observers, sustained by the circulation of trust signals.
+In this sense, credibility functions as a stabilising condition within cooperative systems, allowing expectations formed under uncertainty to persist across time.
 
-Past performance influences credibility but does not determine it. An agent with excellent past performance but whose signals are not accessible to the observer population (because they are not recorded, transmitted, or interpretable) will not acquire credibility from that performance. Conversely, an agent whose past performance signals are highly visible and widely circulated will acquire credibility proportional to the quality of those signals as interpreted through the prevailing evaluation principles.
+## 11.3 From Stability to Structure
 
-What credibility measures, therefore, is the degree to which the observer population's expectation of the agent's continuation has been stabilised across observers, contexts, and time.
+Although credibility arises as a stabilised belief, it does not exist independently of the signals from which it is formed.
 
-## 11.4 Four Dimensions of Credibility
+Observers encounter signals relating to a participant’s behaviour across multiple contexts. These signals may arise from direct interaction, from communication with other observers, or from institutional processes that record and transmit information about past behaviour.
 
-Credibility is not a single-dimensional quantity. It is itself structured through the four irreducible dimensions:
+As these signals accumulate, they do not remain isolated. They are interpreted together, forming a configuration through which the observer perceives the participant.
 
-**Interpretation-credibility (釋)**: The degree to which the observer population interprets the agent's contribution signals as evidence of durable continuation capacity. This dimension captures the meaning that the agent's track record is understood to carry. An agent may have a long record of activity that is systematically misinterpreted — in which case their interpretation-credibility is low regardless of their actual contribution history.
+Credibility therefore develops not only through the accumulation of signals, but through the organisation of those signals into a coherent structure.
 
-**Structure-credibility (構)**: The degree to which the agent's contribution history is recorded in forms that can be transmitted, verified, and reinterpreted across contexts. This dimension captures the institutional architecture of the credibility signal. An agent whose contribution history is rich but entirely informal and undocumented has low structure-credibility, because their record cannot be accessed by observers who have not encountered them directly.
+The following sections describe how this structure emerges and how it shapes the stability of credibility within cooperative systems.
 
-**Regime-credibility (度)**: The degree to which the agent has demonstrated compliance with the rules, norms, and constraints of the cooperative system over time. This dimension captures the agent's record of operating within established boundaries — of not only producing contribution outcomes but doing so through legitimate means. An agent who produces strong outcomes through boundary-violating behaviour may have high capability-credibility but low regime-credibility.
+## 11.4 Credibility Structure
 
-**Realisation-credibility (行)**: The degree to which the agent has demonstrated reliable translation of expectations into actual outcomes across repeated interactions. This dimension captures the execution record — not what the agent has claimed to be capable of, but what the agent has actually produced when called upon to act. Realisation-credibility is the dimension most directly evidenced by past performance outcomes.
+A credibility structure refers to the configuration of trust signals available to an observer when evaluating the expected continuation of a participant’s behaviour.
 
-A fully credible agent — one whose credibility can support large-scale credit extension — will exhibit strength across all four dimensions. Weakness in any single dimension creates a vulnerability in the credibility signal that observers with access to the relevant information will detect.
+This structure represents how contribution history becomes visible through signals. Some elements may arise from direct observation, others from identity recognition, procedural validation, or recorded performance.
 
-## 11.5 Credibility Failure
+The credibility structure does not replace the underlying contribution history. Instead, it represents the observable and interpretable configuration through which that history is accessed.
 
-Credibility fails when the accumulated expectation about an agent's continuation ceases to be stable across the observer population.
+Because signals originate from different lenses, credibility is inherently multi-dimensional. The observer encounters signals relating to relational continuity, identity alignment, structural validation, and realised capability.
 
-This can occur in three ways:
+These signals are not evaluated independently. They are interpreted jointly as a configuration.
 
-**Revelation**: New signals emerge that are inconsistent with the prior credibility expectation — a default, a discovered fraud, a failure to perform under observable conditions. Revelation attacks the evidential basis of credibility. If the new signals are sufficiently strong, and sufficiently accessible to the observer population, the credibility expectation may collapse rapidly.
+## 11.5 Combinatorial Structure of Credibility
 
-**Erosion**: The agent's contribution signals gradually weaken over time, without any single dramatic revelation. The expectation of continuation slowly decays as the gap between expectation and observed performance widens. Erosion is slower than revelation but may be more difficult to arrest, because it lacks the triggering event that would prompt the observer population to update simultaneously.
+The credibility structure is defined by the combinations of trust signals present within the evaluation context.
 
-**Structural decay**: The institutional architecture that circulates and validates the credibility signal degrades. Records become unavailable, certification systems lose legitimacy, transmission channels for reputation signals break down. The credibility expectation fails not because the agent's behaviour has changed but because the signal infrastructure that sustained the expectation has collapsed.
+Given four primary lenses of trust interpretation, the possible configurations of signals correspond to all combinations of these lenses. These include single-lens signals, pairwise combinations, higher-order combinations, and full convergence across all lenses.
 
-Each mode of credibility failure has a different implication for the agent and for the cooperative system. Revelation can sometimes be recovered through renewed contribution performance and signal correction. Erosion requires sustained restoration of contribution quality. Structural decay requires rebuilding of the institutional architecture through which credibility is transmitted.
+These combinations do not represent independent states. Instead, they represent interaction terms within a single integrated structure.
+
+Each combination carries its own interpretive significance. The meaning of a signal depends on the other signals with which it appears. Relational continuity on its own does not carry the same implication as relational continuity combined with structural validation or realised performance.
+
+For this reason, combinations of signals are not interpreted as simple aggregates.
+
+Each combination reflects a distinct interaction between signals, where the meaning of a signal depends on the other signals with which it appears.
+
+A pairwise combination therefore represents the joint interpretation of two lenses. Higher-order combinations represent increasingly integrated interpretations across multiple lenses.
+
+Credibility arises from the total configuration of these interacting combinations.
+
+It is not formed by summing independent signals, but by interpreting the structure created by their interaction.
 
 ## 11.6 Institutional Credibility
 
