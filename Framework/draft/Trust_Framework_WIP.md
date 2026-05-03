@@ -662,7 +662,7 @@ Institutional environments do not interpret trust independently. Instead, they s
 
 As a result, trust interpretation within institutional settings reflects the evaluation of organisational contribution histories within structured signal environments, whereas interpersonal contexts rely more heavily on direct observation and less formalised signals.
 
-# 11. CREDIBILITY — STABILISATION ACROSS OBSERVERS
+# 11. CREDIBILITY
 
 ## 11.1 Origin of Credibility
 
@@ -698,19 +698,15 @@ Credibility therefore reduces the interpretive burden faced by observers. It all
 
 In this sense, credibility functions as a stabilising condition within cooperative systems, allowing expectations formed under uncertainty to persist across time.
 
-## 11.3 From Stability to Structure
+## 11.3 Emergence of Credibility Structure
 
 Although credibility arises as a stabilised belief, it does not exist independently of the signals from which it is formed.
 
 Observers encounter signals relating to a participant’s behaviour across multiple contexts. These signals may arise from direct interaction, from communication with other observers, or from institutional processes that record and transmit information about past behaviour.
 
-As these signals accumulate, they do not remain isolated. They are interpreted together, forming a configuration through which the observer perceives the participant.
+As these signals accumulate, they do not remain isolated. They are interpreted together, forming a credibility structure — a configuration through which the observer perceives the participant.
 
-Credibility therefore develops not only through the accumulation of signals, but through the organisation of those signals into a coherent structure.
-
-The following sections describe how this structure emerges and how it shapes the stability of credibility within cooperative systems.
-
-## 11.4 Credibility Structure
+At the point of decision, the observer does not revisit isolated signals or reconstruct the underlying structure. The observer relies on the credibility produced by that structure to resolve whether belief is sufficient for trust to be deployed.
 
 A credibility structure refers to the configuration of trust signals available to an observer when evaluating the expected continuation of a participant’s behaviour.
 
@@ -720,7 +716,9 @@ The credibility structure does not replace the underlying contribution history. 
 
 Because signals originate from different lenses, credibility is inherently multi-dimensional. The observer encounters signals relating to relational continuity, identity alignment, structural validation, and realised capability.
 
-These signals are not evaluated independently. They are interpreted jointly as a configuration.
+These signals are not evaluated independently. They are interpreted jointly as a configuration of signals within the credibility structure.
+
+Credibility therefore allows observers to act without reconstructing expectations from first principles at each interaction. It emerges not only through the accumulation of signals, but through the organisation of those signals into a coherent structure.
 
 ## 11.5 Combinatorial Structure of Credibility
 
@@ -741,6 +739,8 @@ A pairwise combination therefore represents the joint interpretation of two lens
 Credibility arises from the total configuration of these interacting combinations.
 
 It is not formed by summing independent signals, but by interpreting the structure created by their interaction.
+
+## 11.6 Dynamics of Credibility Structure
 
 ## 11.6 Institutional Credibility
 
