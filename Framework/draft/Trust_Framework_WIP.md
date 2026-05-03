@@ -708,37 +708,25 @@ As these signals accumulate, they do not remain isolated. They are interpreted t
 
 At the point of decision, the observer does not revisit isolated signals or reconstruct the underlying structure. The observer relies on the credibility produced by that structure to resolve whether belief is sufficient for trust to be deployed.
 
-A credibility structure refers to the configuration of trust signals available to an observer when evaluating the expected continuation of a participant’s behaviour.
+Credibility therefore allows observers to act without reconstructing expectations from first principles at each interaction. It emerges through the accumulation of signals and their organisation into a coherent structure.
 
-This structure represents how contribution history becomes visible through signals. Some elements may arise from direct observation, others from identity recognition, procedural validation, or recorded performance.
+## 11.4 Credibility Structure
 
-The credibility structure does not replace the underlying contribution history. Instead, it represents the observable and interpretable configuration through which that history is accessed.
+In practical interaction, credibility is not constructed explicitly by observers at the point of decision.
 
-Because signals originate from different lenses, credibility is inherently multi-dimensional. The observer encounters signals relating to relational continuity, identity alignment, structural validation, and realised capability.
+Observers do not enumerate signals, isolate interpretive lenses, or reconstruct the underlying contribution history. Instead, they encounter credibility as a stabilised judgement — a belief that a participant’s behaviour is likely to continue in a predictable manner.
 
-These signals are not evaluated independently. They are interpreted jointly as a configuration of signals within the credibility structure.
+This judgement arises from the presence of multiple signals relating to the participant, which have been encountered, interpreted, and accumulated across prior interactions, contexts, and institutional processes.
 
-Credibility therefore allows observers to act without reconstructing expectations from first principles at each interaction. It emerges not only through the accumulation of signals, but through the organisation of those signals into a coherent structure.
+These signals reflect different aspects of contribution history. Some relate to relational continuity, others to identity recognition, structural validation, or realised outcomes. Together, they form a multi-dimensional informational field through which the participant becomes perceivable.
 
-## 11.5 Combinatorial Structure of Credibility
+The credibility structure refers to this underlying configuration of signals as it exists prior to, and independent of, explicit reconstruction.
 
-The credibility structure is defined by the combinations of trust signals present within the evaluation context.
+It is not directly accessed at the point of decision. Instead, it operates as the latent structure that produces the observed credibility judgement.
 
-Given four primary lenses of trust interpretation, the possible configurations of signals correspond to all combinations of these lenses. These include single-lens signals, pairwise combinations, higher-order combinations, and full convergence across all lenses.
+Because signals originate from different interpretive lenses, the structure is inherently multi-dimensional. However, it is not experienced as separate components. It is experienced as a unified state.
 
-These combinations do not represent independent states. Instead, they represent interaction terms within a single integrated structure.
-
-Each combination carries its own interpretive significance. The meaning of a signal depends on the other signals with which it appears. Relational continuity on its own does not carry the same implication as relational continuity combined with structural validation or realised performance.
-
-For this reason, combinations of signals are not interpreted as simple aggregates.
-
-Each combination reflects a distinct interaction between signals, where the meaning of a signal depends on the other signals with which it appears.
-
-A pairwise combination therefore represents the joint interpretation of two lenses. Higher-order combinations represent increasingly integrated interpretations across multiple lenses.
-
-Credibility arises from the total configuration of these interacting combinations.
-
-It is not formed by summing independent signals, but by interpreting the structure created by their interaction.
+Credibility therefore reflects the presence of a structured, multi-dimensional signal configuration that has stabilised into a unified belief regarding the expected continuation of behaviour.
 
 ## 11.6 Dynamics of Credibility Structure
 
