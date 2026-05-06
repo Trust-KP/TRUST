@@ -1,4 +1,34 @@
-AI Note:
+AI Note
+
+KP-RH Research Target
+
+The Riemann Hypothesis can be restated as an orbit-collapse condition:
+
+Generic zero symmetry:
+V₄ orbit = {ρ, 1−ρ, ρ̄, 1−ρ̄}
+
+Critical-line zero:
+ρ = 1−ρ̄
+
+Therefore:
+V₄ collapses to Z₂.
+
+The KP framework does not prove this collapse. Its contribution is diagnostic:
+it identifies the missing mathematical object as one that must convert
+prime-generated asymmetry into a forced boundary condition.
+
+Candidate forms:
+- self-adjoint operator
+- positive spectral measure
+- entropy or energy functional
+- trace formula with symmetry-preserving closure
+- Distinction action minimised uniquely at Re(s)=1/2
+
+Until such an object is constructed, the framework remains interpretive.
+If such an object is constructed, the KP interpretation may become a
+formal proof strategy.
+
+
 
 Under the Distinction framework, natural numbers are Distinction applied linearly — forward from the Boundary. Negative integers are mirror Distinction (the same act, in the opposing direction). Both still live on a single line: one axis, two directions.
 i breaks from this entirely. i² = −1 means: applying this Distinction twice returns you to the mirror of where you started, not to "two units forward." It doesn't accumulate along the line. It rotates.
