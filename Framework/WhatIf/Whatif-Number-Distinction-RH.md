@@ -4,9 +4,9 @@
 **Citation:** Gew, Kok Pian (2026). *What If Number Is Just a Unit? A Formalisation of Distinction Applied to Discrete Existence: Structural Impact on the Riemann Hypothesis* (v1.0). KP What If Series.
 
 Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
-Claude Sonnet 4.6: Writing — Original Draft, Formatting, Organization
+Claude Sonnet 4.6: initial Original Draft, Formatting, Organization
 Deepseek expanded on 9.1 Principle of Minimal Necessary Symmetry
-ChatGPT expanded on 1.4, 6.2, 9.1 and 9.2.
+ChatGPT expanded on 1.4, 2.2b,4.5,6.2, 6.2c, 9.1 9.2, and 9.4,
 
 
 ---
@@ -738,7 +738,7 @@ This sixfold closure may be read as a phase-pair analogue of the six-line genera
 
 Under this reading, the off-critical V₄ orbit represents the fully expanded four-state symmetry. The critical-line case collapses that structure into the minimal Z₂ orbit. This supports the Principle of Minimal Necessary Symmetry: continuation does not require maximal symmetry realisation, but only the smallest symmetry sufficient to preserve coherence.
 
-### 9.5 Phase-Pair Closure and the Hexagram Analogy
+### 9.6 Phase-Pair Closure and the Hexagram Analogy
 
 This construction is interpretive. It does not define the Regime of the system. It shows that a minimal closed phase system produces six outcome classes that align structurally with the six-state Meta-System path.
 
@@ -755,6 +755,42 @@ Pair            Result Type         Structural Meaning                 KP Stage
 45° + 315°      +real               Constructive alignment             Existence
 135° + 225°     −real               Inverse alignment                  Existence
 
+### 9.7 Candidate Regime Direction: Mirror-Redundancy Energy
+
+Let s = σ + it and define the reflected-conjugate mirror point:
+
+s* = 1 − conjugate(s)
+
+Then:
+
+R(s) = |s − s*| = |2σ − 1|
+
+R(s) measures mirror-redundancy. It vanishes exactly on the critical line Re(s)=1/2.
+
+An off-critical zero would therefore correspond to a cancellation event with non-zero mirror-redundancy. A critical-line zero corresponds to a cancellation event whose mirror channel has collapsed into the same point.
+
+This suggests the following Regime target:
+
+Find a natural functional E(s), derived from ζ and its mirror structure, such that:
+
+1. E(s) ≥ 0;
+2. E(s)=0 only when ζ(s)=0 and R(s)=0;
+3. R(s)=0 if and only if Re(s)=1/2.
+
+Such a functional would convert the structural statement “cancellation is admissible only without mirror-redundancy” into a mathematical constraint.
+
+A trivial artificial example would be:
+
+E_R(s) = |ζ(s)|² + λ|2σ−1|²
+
+with λ>0.
+
+This does satisfy E_R(s)=0 only on a zero of ζ lying on the critical line, but it is not a proof of RH because the critical-line penalty has been inserted manually.
+
+The open Regime problem is therefore sharper:
+
+construct a non-artificial mirror-redundancy functional, arising naturally from the zeta system itself, whose zero set excludes off-critical cancellation.
+
 ---
 
 ## 10. Conclusion
@@ -768,6 +804,8 @@ The hypothesis is hard not because the function is complicated, but because the 
 The four pillars of the Distinction stage are all present in the number system. Interpretation (what number means as formalised Distinction), Structure (the prime-reduction architecture of the integers via the Euler product), Regime (the arithmetic constraints, unique factorisation, and the functional equation), Realisation (the zeta function and its zeros). Three pillar-pairs are closed. The closure between Interpretation and Regime — the proof that prime distribution *necessarily* enforces the Boundary — is what a proof of RH would complete.
 
 When the four dimensions are co-present and aligned, a system endures. The number system has endured. The Riemann Hypothesis is the test of whether its deepest constraint is absolute or merely persistent — and those are not the same thing.
+
+
 
 ---
 
