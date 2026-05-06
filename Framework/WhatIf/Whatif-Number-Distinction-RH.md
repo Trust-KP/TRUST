@@ -455,7 +455,13 @@ The Distinction system does not realise the full V₄ orbit of possible asymmetr
 
 This does not prove RH. But it refines the structural diagnosis. The missing mathematical object must not merely explain why zeros are symmetric. It must explain why the richer four-point symmetry is forbidden, suppressed, unstable, or non-continuable.
 
-Internal orbit sprint. Consider the four‑point orbit itself as a system. Its six pairwise sums generate the full compass‑rose of Existence, Possibility, and two independent zero‑sum cancellations (diagonal opposites). This is a richer “noisy” algebra than the on‑critical case, which yields only a single conjugate pair with no zero‑sums. When the orbit is forced through the six‑state path, it passes Indeterminacy, Boundary, and Possibility without contradiction, but at Existence it introduces a V₄‑symmetric structure that the global zeta accumulation does not realise—a structural mismatch. At Continuation, it fails: an orbit that permanently retains its full V₄ independence would cascade into every generalised L‑function, tearing the ensemble apart. The only orbit that survives the Continuation test is the collapsed Z₂ pair on the critical line. Thus the KP framework itself diagnoses the off‑critical orbit as a State that cannot become a Being.
+Internal orbit sprint. Consider the four‑point orbit itself as a system. 
+
+Its six pairwise sums generate the full compass‑rose of Existence, Possibility, and two independent zero‑sum cancellations (diagonal opposites). 
+
+This is a richer “noisy” algebra than the on‑critical case, which yields only a single conjugate pair with no zero‑sums. When the orbit is forced through the six‑state path, it passes Indeterminacy, Boundary, and Possibility without contradiction, but at Existence it introduces a V₄‑symmetric structure that the global zeta accumulation does not realise—a structural mismatch. 
+
+At Continuation, it fails: an orbit that permanently retains its full V₄ independence would cascade into every generalised L‑function, tearing the ensemble apart. The only orbit that survives the Continuation test is the collapsed Z₂ pair on the critical line. Thus the KP framework itself diagnoses the off‑critical orbit as a State that cannot become a Being.
 
 In proof-strategy terms, this points toward a constraint of one of the following kinds:
 
