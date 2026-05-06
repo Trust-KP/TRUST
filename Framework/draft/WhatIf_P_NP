@@ -1,0 +1,476 @@
+# CONTINUATION-STRUCTURED SEARCH FRAMEWORK (CSSF v0.2.3)
+
+Research Note — Descriptive / Formalisation / Regime / Realisation  
+(Archive-ready; all feedback integrated and deduced)
+
+**Author:** Kok Pian Gew (derived)  
+**Status:** Final Archival Research Note  
+**Date:** 2026
+
+The KP Conjecture predicts that any system is fully expressible through the six-state path and four dimensions. Computational search is one such system. CSSF is what that instantiation looks like.
+
+***
+
+##  PURPOSE
+
+To formally record a structural framework for analysing computational search problems, including NP problems, via:
+
+- state-space structure (构)
+- admissibility constraints (度)
+- transition dynamics (行)
+- continuation property (续)
+- interpretation layer (释)
+
+This note:
+
+- does **not** claim resolution of P vs NP
+- does align with standard computational complexity interpretations
+- does provide a structural lens consistent with branch-and-bound, backtracking, CSP, SAT search, proof complexity, and heuristic search
+- does distinguish true continuation from algorithmic approximation
+
+***
+
+##  DESCRIPTIVE FRAMEWORK (LMNO CONSISTENT)[1]
+
+System = \((H, E, A, T, \Sigma)\)
+
+Where:
+
+**H (态域 / State Space) — 构**  
+Set of partial and full states used for analysis
+
+**E (邻接 / Adjacency) — 构**  
+Valid transition relations between states
+
+**A (界集 / Admissibility) — 度**  
+Subset of states satisfying constraints
+
+**T (变序 / Transition) — 行**  
+State evolution rules (search progression)
+
+**Σ (释义 / Interpretation) — 释**  
+Defines validity, optimality, or acceptance criteria
+
+Additional structural primitive:
+
+**续 (Continuation)**
+
+A property of a state indicating whether it can be extended to a valid or optimal final state under \(\Sigma\).
+
+Interpretive note:
+
+续 is treated as the structural state of extendability.  
+It is not an additional algorithmic heuristic.  
+It is the underlying feasibility relation that algorithms try to approximate, infer, or prune against.
+
+***
+
+##  FORMALISATION[2]
+
+### 2.1 State
+
+\(h \in H\)
+
+### 2.2 Search-Tree Encoding (alignment with NP)
+
+For any problem instance \(x\):
+
+- \(H_x\) = set of partial certificates
+- Root = empty certificate
+- Leaves = full certificates
+- Edges = extension by one decision step
+
+This provides a search-tree encoding for analysis.
+
+Note:  
+This is an analytical encoding, not a claim that every problem has a unique canonical tree in a formal complexity-theoretic sense.
+
+### 2.3 True Continuation (oracle definition)
+
+\(Continue^*(h) \in \{0,1\}\)
+
+\(Continue^*(h) = 1\) iff there exists a leaf below \(h\) that satisfies \(\Sigma\).
+
+\(Continue^*(h) = 0\) iff no valid extension exists.
+
+Note:  
+\(Continue^*(h)\) is the structural feasibility of extension.  
+For NP search relations, deciding whether such an extension exists is equivalent in difficulty to the underlying NP relation under standard encoding assumptions.[3][4]
+
+### 2.4 Algorithmic Continuation Predicate
+
+\(B(h) \in \{0,1\}\)
+
+- \(B(h) = 0\) ⇒ prune state \(h\)
+- \(B(h) = 1\) ⇒ continue exploring \(h\)
+
+Soundness condition:
+
+\(B(h) = 0 \Rightarrow Continue^*(h) = 0\)
+
+(no false pruning of valid solutions)
+
+Complementary interpretation:
+
+The main difficulty is not only sound pruning, but the inability to sharply reject non-continuable states early.
+
+### 2.5 Continuation Strength (heuristic)
+
+\(CS(h) \in [0,1]\)
+
+\(CS(h) \approx\) likelihood that \(h\) extends to a valid or optimal solution
+
+Interpretation:
+
+- high \(CS\) → promising
+- low \(CS\) → near pruning
+
+Operational note:  
+\(CS(h)\) may be heuristic, probabilistic, or bound-derived.  
+It is not required to equal \(Continue^*(h)\).
+
+### 2.6 Discrimination Error
+
+Define the early false-retention rate:
+
+\[\varepsilon(t) = \Pr[B(h)=1 \mid Continue^*(h)=0,\ h \in S_t]\]
+
+Interpretation:
+
+- low \(\varepsilon(t)\) = strong early discrimination
+- high \(\varepsilon(t)\) = many non-continuable states survive pruning
+
+This quantity is intended to connect the framework into one measurable axis that drives \(CS\), \(CPR\), and \(CE\).
+
+### 2.7 Continuation Pruning Rate
+
+Let \(S_t\) = states at depth \(t\)
+
+\[CPR(t) = \frac{|S_t| - |S_{t+1}|}{|S_t|}\]
+
+Interpretation:
+
+- high \(CPR(t)\) early → strong pruning
+- low \(CPR(t)\) early → weak pruning
+
+Note:  
+\(CPR(t)\) and \(\varepsilon(t)\) are related but distinct.  
+\(CPR(t)\) captures realised pruning rate overall, while \(\varepsilon(t)\) captures missed pruning among non-continuable states.  
+Descriptively, \(CPR(t)\) is lower-bounded by the true non-continuation rate times \(1-\varepsilon(t)\).
+
+### 2.8 Continuation Entropy
+
+\[CE(t) = \log |S_t|\]
+
+Interpretation:
+
+- fast \(CE(t)\) decay → collapsing search space
+- slow \(CE(t)\) decay → persistent growth
+
+### 2.9 Effective Branching Factor
+
+Let \(b\) be nominal branching factor
+
+\[b_{eff}(t) = (1 - CPR(t)) \cdot b\]
+
+Approximation caveat:
+
+\[CE(t+1) - CE(t) \approx \log b_{eff}(t)\]
+
+This approximation is most accurate when surviving states branch approximately uniformly. If branching is highly non-uniform, the relationship remains heuristic rather than exact.
+
+### 2.10 Symmetry Reduction (optional)
+
+Let \(G\) be a transformation group acting on \(H\):
+
+\[H_{eff} = H / G\]
+
+Search operates over equivalence classes rather than raw states.
+
+Practical form:
+
+\(H_{eff}\) = representatives of \(H/G\) that also satisfy \(A\) and remain continuation-feasible.
+
+***
+
+##  REGIME (COMPLEXITY CHARACTERISATION)[5]
+
+Core regime statement:
+
+Computational difficulty is governed not only by the size of the state space, but by the ability to distinguish non-continuable states early.
+
+Epigraph:
+
+难不在路多，  
+在续不可早辨；
+
+若续可早辨，  
+则万路可裁；  
+若续迟显，  
+则不得不穷。
+
+### 3.1 P-like Behaviour
+
+Conditions:
+
+- there exists a polynomial-time predicate \(B(h)\)
+- \(B(h)\) approximates \(Continue^*(h)\) effectively on the instance family
+- \(\varepsilon(t)\) decays quickly with depth
+- \(CPR(t)\) is high for small \(t\)
+- \(b_{eff}(t)\) approaches 1 rapidly
+
+Result:
+
+- \(CE(t)\) collapses quickly
+- total explored states can be polynomial
+- the search behaves tractably on the instance family
+
+### 3.2 Hard-Search Behaviour
+
+Conditions:
+
+- for any polynomial-time predicate \(B(h)\), early discrimination is weak
+- many states satisfy \(B(h)=1\) but \(Continue^*(h)=0\)
+- \(\varepsilon(t)\) remains bounded away from 0 for early depths
+- \(CPR(t)\) is small for early \(t\)
+- \(b_{eff}(t)\) remains bounded away from 1
+
+Result:
+
+- \(CE(t)\) remains high
+- total explored states can be exponential
+- the search retains hard-search behaviour
+
+### 3.3 Structural Boundary
+
+True continuation:
+
+\(Continue^*(h)\) expresses the underlying feasibility of extension.
+
+Algorithmic continuation:
+
+\(B(h)\) approximates \(Continue^*(h)\).
+
+Heuristic continuation:
+
+\(CS(h)\) estimates continuation strength.
+
+Complexity boundary:
+
+Practical difficulty depends on the quality of early approximation and the rate at which false retention disappears.
+
+### 3.4 Proof-Complexity Alignment
+
+The framework is consistent with the intuition that many hard instances resist short proofs or short refutations.[6][7]
+
+Concrete anchors include Haken-style exponential resolution lower bounds for the pigeonhole principle and related exponential lower bounds for hard refutations.[8][9][10]
+
+This does not redefine proof complexity. It provides a structural search-language compatible with it.[11][6]
+
+### 3.5 Complexity Interpretation
+
+If there exists a polynomial-time sound pruning predicate \(B(h)\) that sharply separates continuable from non-continuable states early:
+
+- effective branching collapses
+- P-like behaviour may occur on the instance family
+
+If no such predicate is available:
+
+- continuation remains indistinguishable early
+- hard-search behaviour persists
+
+***
+
+##  REALISATION (ALGORITHMIC INTERPRETATION)[12]
+
+### 4.1 Generic Search Process
+
+Initialize \(S_0\)
+
+For \(t = 0 \dots n\):
+
+For each \(h \in S_t\):
+
+- evaluate \(B(h)\) or \(CS(h)\)
+- if \(B(h)=0\), prune \(h\)
+- else, generate successors via \(T\)
+
+Form \(S_{t+1}\)
+
+### 4.2 TSP Instantiation
+
+State:  
+partial route \(h\)
+
+Constraint:  
+no repeated cities
+
+Continuation predicate:
+
+If \(LB(h) \ge C^*\), then \(B(h)=0\).
+
+Continuation strength:
+
+\[CS(h) = clip\left(\frac{C^* - LB(h)}{C^*}, 0, 1\right)\]
+
+Note:  
+\(CS\) is clipped to \([0,1]\) so it remains a valid strength measure.
+
+### 4.3 SAT / CSP Instantiation
+
+State:  
+partial assignment \(h\)
+
+Constraint:  
+clause satisfiability
+
+Continuation predicate:
+
+If a clause becomes impossible, then \(B(h)=0\).
+
+Continuation strength:
+
+proportion of clauses not yet violated
+
+Optional refinement:
+
+\(CS(h)\) may be defined using unit propagation strength, domain reduction, or bound tightness rather than a raw proportion.[13][14]
+
+### 4.4 Symmetry + Continuation
+
+Effective space:
+
+\[H_{eff} = (H / G) \cap A \cap \text{continuation-feasible states}\]
+
+Interpretation:  
+Search should be understood as operating on compressed, constraint-respecting, continuation-feasible equivalence classes.
+
+### 4.5 Algorithm Design Interpretation
+
+Algorithm improvements arise from:
+
+1. Symmetry compression (reduce \(H\) via \(G\))
+2. Continuation discrimination (improve \(B\) or \(CS\))
+3. Combined effect
+
+In practical exact search, these improvements may come from:
+
+- stronger inference
+- better bounds
+- learned branching heuristics
+- backjumping or clause learning
+- problem-specific reductions
+
+***
+
+##  MEASUREMENT PROTOCOL[15]
+
+A falsifiable research program should measure the framework on a benchmark instance family.
+
+Suggested protocol:
+
+- choose an instance family, for example random 3-SAT or TSP
+- for random 3-SAT, separate easier and harder regimes by clause-to-variable ratio, with the satisfiability threshold occurring around 4.267.[16][17][18]
+- for TSP, compare structurally different families such as Euclidean, random, or clustered instances
+- define depth \(t\) in the search tree
+- at each depth, log:
+  - \(|S_t|\)
+  - \(CPR(t)\)
+  - \(CE(t)\)
+  - \(b_{eff}(t)\)
+  - an empirical proxy for \(CS(h)\)
+  - an empirical proxy for \(\varepsilon(t)\)
+- compare across easier and harder instance families
+- examine whether harder instances show:
+  - slow \(CE\) decay
+  - low early \(CPR\)
+  - high early \(\varepsilon\)
+  - persistently large live frontier
+
+Interpretation:
+
+This converts CSSF from a descriptive framework into one that can be benchmarked and refuted or supported empirically.
+
+***
+
+##  CORE CLAIM[19]
+
+Search complexity is governed not only by the size of the state space, but by the ability to distinguish non-continuable states early, measured through pruning efficiency, effective branching, and false-retention behaviour.
+
+***
+
+##  LIMITATION[20]
+
+This framework:
+
+- does **not** resolve P vs NP
+- does **not** provide universal polynomial algorithms
+- does **not** redefine complexity classes
+
+It provides:
+
+- structural interpretation
+- measurable metrics \((CS, CPR, CE, \varepsilon)\)
+- unified view of pruning-based algorithms
+- alignment with proof-complexity intuition
+- a basis for empirical testing
+
+***
+
+## g[21]
+
+***
+
+##  FINAL SUMMARY[21]
+
+Continuation is the structural core of search.
+
+- true continuation defines the problem
+- approximated continuation defines the algorithm
+- distinguishability of continuation shapes complexity
+- measurable pruning behaviour reveals the regime
+
+***
+
+## FINAL CANONICAL
+
+构成其域，  
+度定其界，  
+行引其变，  
+续决其存；
+
+续之真不可得，  
+故以近似行；
+
+近似若强，  
+则万路可裁；  
+近似若弱，  
+则不得不穷。
+
+============================================================
+END OF RESEARCH NOTE
+============================================================
+```
+
+Sources
+[1] A CONTINUATION APPROACH FOR SOLVING ... https://web.stanford.edu/group/SOL/dissertations/kmthesis.pdf
+[2] Computational complexity continuum within Ising ... https://www.nature.com/articles/s42005-021-00792-0
+[3] The Complexity of Decision versus Search https://cseweb.ucsd.edu/~mihir/papers/compip.pdf
+[4] The Relative Complexity of NP Search Problems https://homes.cs.washington.edu/~beame/papers/NPSearchJournal.pdf
+[5] Probabilistic Checking of Proofs: A New Characterization of ... https://www.cs.umd.edu/~gasarch/TOPICS/pcp/AS.pdf
+[6] [PDF] CSE 599S Course Notes: Proof Complexity and Its Applications https://courses.cs.washington.edu/courses/cse599s/20au/notes/Proof_Complexity_Notes.pdf
+[7] Proof complexity - Wikipedia https://en.wikipedia.org/wiki/Proof_complexity
+[8] [PDF] Lecture 2: Resolution Lower Bounds Via The Pigeonhole Principle https://www.cs.columbia.edu/~toni/Courses/ProofComplexity2025/ScribeNotes/l2-scribe.pdf
+[9] Resolution Proofs of Generalized Pigeonhole Principles https://mathweb.ucsd.edu/~sbuss/ResearchWeb/WPHP/paper.pdf
+[10] Exponential lower bounds for the pigeonhole principle https://www.cs.toronto.edu/~toni/Papers/exp-pigeon.pdf
+[11] [PDF] Proof Complexity and SAT Solving - Jakob Nordström https://jakobnordstrom.se/docs/publications/ProofComplexityChapter.pdf
+[12] Probabilistic checking of proofs: a new characterization of NP https://dl.acm.org/doi/10.1145/273865.273901
+[13] Understanding and Enhancing CDCL-based SAT Solvers https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/11122410-2f45-4281-a8ca-682f15448372/content
+[14] Ann Math Artif Intell (2014) 70:399–431 https://www.cs.cornell.edu/gomes/pdf/2014_dilkina_amai_dynamic.pdf
+[15] Graph-Based Deterministic Polynomial Framwork for NP ... https://arxiv.org/abs/2508.13166
+[16] Boolean satisfiability problem - Wikipedia https://en.wikipedia.org/wiki/Boolean_satisfiability_problem
+[17] [PDF] Algorithms for Random 3-SAT https://www.math.cmu.edu/~adf/research/rand-sat-algs.pdf
+[18] Typical random 3-SAT formulae and the satisfiability threshold∗ https://web.stevens.edu/algebraic/Files/SAT/SAT_Report.pdf
+[19] A Fast Dynamic Programming and Branch & Bound ... https://arxiv.org/html/2406.02175v1
+[20] Pruning Decision Trees: A Guide to Pre-Pruning and Post- ... https://www.displayr.com/machine-learning-pruning-decision-trees/
+[21] NP-complete Problems and Physics: A 2019 View https://scottaaronson.blog/?p=4199
