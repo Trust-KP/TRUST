@@ -21,6 +21,8 @@ This reframing has structural consequences for the Riemann Hypothesis. If number
 
 The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Realisation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime  and Interpretation . The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
 
+The paper further distinguishes additive cancellation, multiplicative structure, and global pairwise interaction, locating the remaining open Regime question as the search for a constraint forcing |ζ(s)|² to vanish only on Re(s)=1/2.
+
 ---
 
 ## 1. Introduction
@@ -222,7 +224,7 @@ This theorem is the Regime that makes the Distinction system coherent. Without u
 
 The second-order Regime is the distribution law for primes. The prime number theorem (Hadamard, de la Vallée-Poussin, 1896) establishes the first-order Regime rule: the density of irreducible Distinctions up to scale x follows π(x) ~ x/ln(x). But this is an approximation. The exact distribution — the precise statement of how irreducible Distinctions are placed within the Distinction continuum — is governed by the zeros of ζ(s).
 
-The Riemann Hypothesis is the complete Regime statement: the zeros lie on Re(s) = ½. In KP terms, this asserts that the Regime of the Distinction system enforces its own Boundary constraint absolutely — no zero escapes the fixed point. The Regime does not permit cancellation of Distinction except at the Boundary itself.
+The Riemann Hypothesis is a candidate complete Regime statement: the zeros lie on Re(s) = ½. In KP terms, this asserts that the Regime of the Distinction system enforces its own Boundary constraint absolutely — no zero escapes the fixed point. The Regime does not permit cancellation of Distinction except at the Boundary itself.
 
 **Completion Assessment:** Regime pillar = present but not closed. The functional equation establishes the Boundary. The Hypothesis asserts the Regime is fully enforced. The proof that it is enforced — the closure of the Regime pillar — has not been found. This is the structural location of the difficulty.
 
@@ -342,23 +344,6 @@ Under the KP framework with number as formalised Distinction, the Riemann Hypoth
 > *All cancellation events in the accumulated Distinction wave occur at the Boundary — the self-symmetric fixed point of the Distinction system — and at no other location.*
 
 This is not merely a restatement. It is a structural claim with a different epistemic weight. The conventional form says: a specific analytic function has a specific geometric property. The structural form says: the act of Distinction has an invariant — namely, that it can only cancel itself at its own Boundary. This is a claim about the nature of Distinction itself, not about a particular function that encodes Distinction.
-
-### 6.2A.1 Phase-Pair Closure and the Six-State Correspondence
-
-This construction is interpretive. It does not define the Regime of the system. It shows that a minimal closed phase system produces six outcome classes that align structurally with the six-state Meta-System path.
-
-THE SIX PAIR OUTCOMES AND THE SIX-STATE PATH
-
-Pair            Result Type         Structural Meaning                 KP Stage
-
-45° + 225°      0                   Total cancellation                 Indeterminacy
-135° + 315°     0                   Symmetric cancellation             Boundary
-
-45° + 135°      +i                  Unresolved forward phase           Possibility
-225° + 315°     −i                  Unresolved reverse phase           Possibility
-
-45° + 315°      +real               Constructive alignment             Existence
-135° + 225°     −real               Inverse alignment                  Existence
 
 ### 6.2 Why Re(s) = ½ Is the Boundary Fixed Point
 
@@ -752,6 +737,23 @@ Thus:
 This sixfold closure may be read as a phase-pair analogue of the six-line generative layer beneath the hexagram system. It is not the 64-hexagram system itself, but it shares the same principle: a finite set of structural states is compressed and organised by symmetry.
 
 Under this reading, the off-critical V₄ orbit represents the fully expanded four-state symmetry. The critical-line case collapses that structure into the minimal Z₂ orbit. This supports the Principle of Minimal Necessary Symmetry: continuation does not require maximal symmetry realisation, but only the smallest symmetry sufficient to preserve coherence.
+
+### 9.5 Phase-Pair Closure and the Hexagram Analogy
+
+This construction is interpretive. It does not define the Regime of the system. It shows that a minimal closed phase system produces six outcome classes that align structurally with the six-state Meta-System path.
+
+THE SIX PAIR OUTCOMES AND THE SIX-STATE PATH
+
+Pair            Result Type         Structural Meaning                 KP Stage
+
+45° + 225°      0                   Total cancellation                 Indeterminacy
+135° + 315°     0                   Symmetric cancellation             Boundary
+
+45° + 135°      +i                  Unresolved forward phase           Possibility
+225° + 315°     −i                  Unresolved reverse phase           Possibility
+
+45° + 315°      +real               Constructive alignment             Existence
+135° + 225°     −real               Inverse alignment                  Existence
 
 ---
 
