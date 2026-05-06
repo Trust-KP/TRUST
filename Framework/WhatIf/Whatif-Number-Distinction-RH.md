@@ -64,7 +64,7 @@ If number is not a primitive object but a derived construct — if it is what Di
 
 The answers, under this framework, are not numerical — they are structural. And structural answers are more durable than analytic ones, because they locate the constraint rather than merely describing the output.
 
-1.4 Domain Separation: n-space and s-space
+### 1.4 Domain Separation: n-space and s-space
 
 This paper separates two domains.
 
@@ -92,11 +92,26 @@ This means the question "what is a number?" resolves to "what is Distinction, an
 
 In the six-state path, Distinction is the third stage: the moment at which difference becomes irreversibly established. Before Distinction, there is Indeterminacy (the undivided continuum, no references, no differences) and Boundary (the threshold at which the pressure toward separation cannot be contained). At Distinction, "this" and "not-this" become established, and a system becomes possible.
 
-The number 1 is the Boundary marker carried forward into the Distinction stage. It is not a magnitude in the first instance; it is the *record* of the first separating act — the smallest unit of established difference. Every subsequent natural number is Distinction applied one more time to the same discrete existence: 2 is "1 and one further Distinction," 3 is "2 and one further Distinction." The successor function, which Peano's axioms take as primitive, is the repeated application of Distinction to discrete existence. Peano did not claim to be describing Distinction. He was recording the formal properties of a successor realisation. 
+The number 1 is the Boundary marker carried forward into the Distinction stage. It is not a magnitude in the first instance; it is the *record* of the first separating act — the smallest unit of established difference. Every subsequent natural number is Distinction applied one more time to the same discrete existence: 2 is "1 and one further Distinction," 3 is "2 and one further Distinction." The successor function, which Peano's axioms take as primitive, is the repeated application of Distinction to discrete existence. Peano did not claim to be describing Distinction. He was recording the formal properties of a successor operation. 
 
-The present claim is that the successor realisation is the repeated application of Distinction. This is not intended as a numerical theorem, but as the governing interpretive identity of this paper.
+The present claim is that the successor operation is the repeated application of Distinction. This is not intended as a numerical theorem, but as the governing interpretive identity of this paper.
 
 This recursive structure is self-consistent with the framework's core property: a State, examined as a system, becomes a Being. The Distinction stage, examined as a system, has its own four dimensions and six-stage path. The natural numbers are the output of that inner examination.
+
+### 2.2A Number as Cross-State Representation
+
+The term “number” in this paper does not belong exclusively to a single ontological state. It is the representational substrate through which different states of the Meta-System are expressed.
+
+What changes across states is not the symbol, but what the symbol encodes.
+
+- At Indeterminacy, number appears as continuous magnitude without discrete separation.
+- At Boundary, number appears as the markers 0 and 1 — the record of separation and non-separation.
+- At Distinction, number appears as natural numbers — discrete accumulated acts.
+- At Possibility, number appears as complex values — phase-bearing states not yet resolved into real-axis existence.
+- At Existence, number appears as realised measurement — resolved values.
+- At Continuation, number appears as constraint-satisfying structure across scales.
+
+In this paper, natural number is treated as the canonical form of Distinction. This is a positional assignment within the six-state path, not a claim that number is reducible to Distinction in all contexts.
 
 ### 2.3 What Each Number Class Becomes
 
@@ -316,7 +331,7 @@ The zeros of ζ(s) are where the accumulated interference of all Distinctions ca
 
 A zero off the critical line at Re(s₀) ≠ ½ would be a cancellation event occurring within the Existence region (Re(s₀) > ½) or within the Possibility region (Re(s₀) < ½). By the functional equation, its pair at 1 − s₀ would lie on the other side. This means the Distinction structure would contain self-cancellation events that were *not* at the Boundary — Distinctions extinguishing each other before reaching their fixed point, or after leaving it. The system's Regime would be violated: cancellation without Boundary.
 
-6.2A Spherical and Spiral-Field Interpretation
+### 6.2A Spherical and Spiral-Field Interpretation
 
 The complex variable s = σ + it may be interpreted through a spherical coordinate image.
 
@@ -347,7 +362,7 @@ In the spiral-field image:
 
 Thus the sphere gives the symmetry picture, while the cone / spiral field gives the accumulation picture. Together they form an Interpretation-layer representation only. They do not define the Regime that would prove RH.
 
-6.2B Finite Realisation System (Nine Chapters)
+### 6.2B Finite Realisation System (Nine Chapters)
 
 A classical operational system exists that encodes finite Distinction manipulation.
 
@@ -365,7 +380,7 @@ Its procedures correspond to:
 - Constraint solving (方程)
 - Structural invariance (勾股)
 
-九章算术 constitutes a complete finite operational system for Distinction under constraint.
+九章算术 constitutes a locally complete finite operational system for Distinction under constraint.
 
 However, it does not address the behaviour of such operations when extended to infinite scale.
 
@@ -544,7 +559,7 @@ In proof-strategy terms, this points toward a constraint of one of the following
 
 The structural target is therefore not “find the symmetry”. The symmetry is already known. The target is to find the principle that prevents the full V₄ orbit from materialising.
 
-9.1 Interpretation-Regime Bridge
+### 9.1 Interpretation-Regime Bridge
 
 The Interpretation layer is closed when the paper has separated:
 
@@ -557,7 +572,7 @@ What remains open is Regime: the rule that would enforce this confinement.
 
 In realisation-system terms, the Regime problem may be stated as follows:
 
-Given a system of accumulated Distinction whose finite realisation are coherent, what constraint ensures that its infinite cancellation events can occur only on the symmetry-fixed balance surface?
+Given a system of accumulated Distinction whose finite operations are coherent, what constraint ensures that its infinite cancellation events can occur only on the symmetry-fixed balance surface?
 
 A successful proof of RH would supply this missing constraint. It would not merely observe that zeros lie on the critical line; it would show why off-boundary cancellation is inadmissible.
 
