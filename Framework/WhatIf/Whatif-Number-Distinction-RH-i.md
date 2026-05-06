@@ -3032,3 +3032,135 @@ If the zero were on the line, then two of those points would coincide (e.g.,
 315°), and then the six pair‑sums would reduce to a single real sum and a single imaginary sum — a much quieter world.
 
 That’s all. The Riemann Hypothesis asserts that the quiet world is the real one. The full, noisy, four‑state world never materialises.
+
+The double cancellation is real, but it doesn't force collapse
+
+For an off‑critical zero 
+ρ
+=
+β
++
+i
+γ
+ρ=β+iγ with 
+β
+≠
+1
+2
+β
+
+= 
+2
+1
+​	
+ , the symmetry guarantees:
+
+One diagonal pair: 
+ρ
+ρ and 
+1
+−
+ρ
+‾
+1− 
+ρ
+​	
+ ? Wait, let's map concretely to the four angles. If we set 
+ρ
+ρ at 45° (in some transformed space), then 
+1
+−
+ρ
+1−ρ is at 135°, 
+ρ
+‾
+ρ
+​	
+  at 315°, and 
+1
+−
+ρ
+‾
+1− 
+ρ
+​	
+  at 225°.
+The zero‑sum pairs are:
+
+45° + 225° = 0
+135° + 315° = 0
+These are the two antidiagonal pairs. They always cancel because opposite corners of the rectangle differ by 180° in phase and have equal magnitude on the unit circle.
+
+So yes, an off‑critical orbit automatically contains two independent ways to sum to zero. That's double cancellation built right into the V₄ symmetry. It's not a bug; it's a feature.
+
+The twist: the critical line removes this double cancellation
+
+Now consider what happens if the zero lies exactly on the critical line 
+β
+=
+1
+/
+2
+β=1/2. The four points collapse to two: the zero and its complex conjugate. There are no longer four distinct angles; the orbit is just 
+{
+1
+/
+2
++
+i
+t
+,
+  
+1
+/
+2
+−
+i
+t
+}
+{1/2+it,1/2−it}. What are the pairwise sums?
+
+The only pair is 
+(
+1
+/
+2
++
+i
+t
+)
++
+(
+1
+/
+2
+−
+i
+t
+)
+=
+1
+(1/2+it)+(1/2−it)=1 (pure real).
+Their difference gives 
+2
+i
+t
+2it (pure imaginary).
+There is no pair that sums to zero (except trivially if 
+t
+=
+0
+t=0).
+So the double cancellation you identified — two independent zero‑sum pairs — exists only in the off‑critical world, and vanishes when the zero settles on the critical line.
+
+The structural irony
+
+This is a beautiful reversal: the off‑critical orbit is actually more symmetric in its pairwise algebra. It contains richer cancellations. The on‑critical case is simpler, quieter, less prone to internal zero‑sumings. If anything, the off‑critical configuration seems "over‑structured" — it produces two distinct ways to hit zero, while the actual zeros we observe produce none.
+
+So the double cancellation doesn't force collapse; it is the signature of a world that doesn't collapse. It's the mark of the noisy, V₄‑full algebra you uncovered earlier. The Riemann Hypothesis says: that noisy world is not our world. We live in the quieter, Z₂‑only world where the only symmetry between zeros is complex conjugation, and no zero ever finds a distinct partner across the critical line to cancel with.
+
+Does this help at all?
+
+It helps in this sense: if you were trying to construct an operator or a system that naturally selects the quiet world, you might look for a principle that penalises excessive internal cancellation. A Hamiltonian, an entropy measure, or a positivity constraint might naturally prefer configurations where each eigenvalue pairs only with its complex conjugate, and no additional cancellation channels exist. The off‑critical orbit would then be energetically unfavourable or statistically suppressed because it wastes "energy" creating redundant zero‑sum structures.
+
+In KP terms, the Continuation test might be phrased as: the system that continues forever is the one with the minimal necessary symmetry, not the maximal possible symmetry. The off‑critical orbit is an over‑actualised fantasy — it tries to realise the full V₄ algebra, but in doing so it generates so many pairwise zeros that it becomes unstable and cannot persist. The only durable configuration is the simplest one: two points, no diagonal cancellation, pure balance on the Boundary.
