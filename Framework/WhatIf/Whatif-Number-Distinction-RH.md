@@ -18,7 +18,7 @@ This paper proposes that number is not an ontologically primitive object but a f
 
 This reframing has structural consequences for the Riemann Hypothesis. If number is formalised Distinction, then the Riemann zeta function ζ(s) is the structural encoding of how all Distinctions interfere with each other under complex weighting. Its non-trivial zeros are not analytic curiosities — they are the cancellation events where the accumulated wave of Distinction returns to its origin. The hypothesis that all such zeros lie on Re(s) = ½ becomes a statement about the nature of Distinction itself: that cancellation of Distinction always occurs at the Boundary — the self-symmetric fixed point that is neither "more Existence" nor "less Existence" but precisely the midpoint of both.
 
-The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Operation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime (度) and Interpretation (釋). The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
+The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Operation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime  and Interpretation . The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
 
 ---
 
@@ -42,10 +42,10 @@ Indeterminacy → Boundary → Distinction → Possibility → Existence → Con
 
 Every system that exists has traversed this path. The four dimensions through which any stage is observable are:
 
-- **Interpretation (釋):** What the system means; how signals are read; what counts within it
-- **Structure (構):** How elements are organised and related; formal and informal organisation
-- **Regime (度):** What constraints apply; what is permitted and what is forbidden
-- **Operation (行):** How the system executes; what it produces across time
+- **Interpretation:** What the system means; how signals are read; what counts within it
+- **Structure:** How elements are organised and related; formal and informal organisation
+- **Regime:** What constraints apply; what is permitted and what is forbidden
+- **Operation:** How the system executes; what it produces across time
 
 A preceding paper in this series established that quantum physics is the complete and perfect instantiation of the Possibility stage — not an incomplete system struggling toward classical determinism, but the full structural expression of how Possibility must necessarily operate. Superposition, measurement uncertainty, and interpretation divergence are not problems to be solved; they are features of the Possibility stage.
 
@@ -63,6 +63,20 @@ If number is not a primitive object but a derived construct — if it is what Di
 
 The answers, under this framework, are not numerical — they are structural. And structural answers are more durable than analytic ones, because they locate the constraint rather than merely describing the output.
 
+CHANGE 1 — Add after Section 1.3
+
+1.4 Domain Separation: n-space and s-space
+
+This paper separates two domains.
+
+Primes live in n-space: the integer / generative domain.
+
+Zeros live in s-space: the complex / cancellation domain.
+
+The Euler product is the bridge between them.
+
+Therefore, primes should be interpreted as irreducible generators of the zeta phase structure, not as zero-events or crossings in the same space as zeros.
+
 ---
 
 ## 2. Number as Formalised Distinction
@@ -79,7 +93,9 @@ This means the question "what is a number?" resolves to "what is Distinction, an
 
 In the six-state path, Distinction is the third stage: the moment at which difference becomes irreversibly established. Before Distinction, there is Indeterminacy (the undivided continuum, no references, no differences) and Boundary (the threshold at which the pressure toward separation cannot be contained). At Distinction, "this" and "not-this" become established, and a system becomes possible.
 
-The number 1 is the Boundary marker carried forward into the Distinction stage. It is not a magnitude in the first instance; it is the *record* of the first separating act — the smallest unit of established difference. Every subsequent natural number is Distinction applied one more time to the same discrete existence: 2 is "1 and one further Distinction," 3 is "2 and one further Distinction." The successor function, which Peano's axioms take as primitive, is the repeated application of Distinction to discrete existence. Peano did not claim to be describing Distinction. He was recording the formal properties of a successor operation. The present claim is that the successor operation *is* the repeated application of Distinction — and that this is not metaphor but structural identity.
+The number 1 is the Boundary marker carried forward into the Distinction stage. It is not a magnitude in the first instance; it is the *record* of the first separating act — the smallest unit of established difference. Every subsequent natural number is Distinction applied one more time to the same discrete existence: 2 is "1 and one further Distinction," 3 is "2 and one further Distinction." The successor function, which Peano's axioms take as primitive, is the repeated application of Distinction to discrete existence. Peano did not claim to be describing Distinction. He was recording the formal properties of a successor operation. 
+
+The present claim is that the successor operation is the repeated application of Distinction. This is not intended as a numerical theorem, but as the governing interpretive identity of this paper.
 
 This recursive structure is self-consistent with the framework's core property: a State, examined as a system, becomes a Being. The Distinction stage, examined as a system, has its own four dimensions and six-stage path. The natural numbers are the output of that inner examination.
 
@@ -113,7 +129,7 @@ Different number systems across civilisations are not competing answers to "what
 | Civilisation / System | Signal Prioritised | Structural Role |
 |---|---|---|
 | **Babylonian (base 60)** | Cycle and angle — Distinction in periodic domains | Regime-heavy: strong constraint structure for astronomy and commerce |
-| **Egyptian (unit fractions)** | Fractional Distinction — parts of a whole | Operation-heavy: practical land division and resource allocation |
+| **Egyptian (unit fractions)** | Fractional Distinction — parts of a whole | Realisation-heavy: practical land division and resource allocation |
 | **Greek (geometric number)** | Structural Distinction — ratio and proportion | Structure-heavy: number as relation between magnitudes |
 | **Hindu-Arabic (positional)** | Scalable Distinction — any magnitude at any scale | All-pillar: the system that achieved continuation |
 | **Complex numbers (16th–19th c.)** | Possibility Distinction — imaginary extension | Interpretation-heavy: what does Distinction mean when pushed past real existence? |
@@ -168,7 +184,7 @@ This identity is not merely a useful analytic fact. It is the structural law of 
 
 **Completion Assessment:** Structure pillar = fully present for the Distinction stage.
 
-### Pillar 3: Regime (度) — What Governs Number?
+### Pillar 3: Regime — What Governs Number?
 
 **The Question:** What constraints maintain the Distinction system? What is permitted and what is forbidden?
 
@@ -184,7 +200,7 @@ The Riemann Hypothesis is the complete Regime statement: the zeros lie on Re(s) 
 
 **Completion Assessment:** Regime pillar = present but not closed. The functional equation establishes the Boundary. The Hypothesis asserts the Regime is fully enforced. The proof that it is enforced — the closure of the Regime pillar — has not been found. This is the structural location of the difficulty.
 
-### Pillar 4: Operation (行) — How Does Number Execute?
+### Pillar 4: Realisation — How Does Number Execute?
 
 **The Question:** How does the Distinction structure execute across all scales? What does it produce, and where does it break?
 
@@ -222,7 +238,7 @@ Each zero is a point at which the accumulated Distinction wave returns to its or
 | 5 | ζ(s) = 0 at s = ½ + it | Zero located — Distinction cancelled at Boundary |
 | 6 | System continues accumulation at other values of s | Operational continuation |
 
-**Completion Assessment:** Operation pillar = fully present. The zeta function provides a complete operational record of the Distinction structure across all scales and angles of the complex plane.
+**Completion Assessment:** Realisation pillar = fully present. The zeta function provides a complete operational record of the Distinction structure across all scales and angles of the complex plane.
 
 ---
 
@@ -254,11 +270,11 @@ Possibility: Complex numbers
     The critical strip 0 < Re(s) < 1 is the Possibility region of ζ(s).
     Superposed Distinctions coexist without determining a single outcome.
     ↓
-Existence: Real line / Critical line Re(s) = ½
-    Distinctions actualised as measurements, lengths, quantities.
-    Re(s) = ½: the Boundary between Existence and Possibility.
-    The Boundary fixed point — the self-symmetric midpoint of the system.
-    Non-trivial zeros: the collapse events where accumulated Distinction cancels.
+Existence: Real-axis resolution / Critical-line boundary
+    Distinctions actualised as measurable quantities.
+    The real axis represents resolved numerical existence.
+    Within the complex zeta extension, Re(s) = ½ is the internal balance boundary between mirror-weightings.
+    Non-trivial zeros: the collapse events where accumulated Distinction cancels on this balance boundary.
     ↓
 Continuation: The Riemann Hypothesis
     Does the Distinction structure maintain perfect symmetry at all scales?
@@ -301,42 +317,101 @@ The zeros of ζ(s) are where the accumulated interference of all Distinctions ca
 
 A zero off the critical line at Re(s₀) ≠ ½ would be a cancellation event occurring within the Existence region (Re(s₀) > ½) or within the Possibility region (Re(s₀) < ½). By the functional equation, its pair at 1 − s₀ would lie on the other side. This means the Distinction structure would contain self-cancellation events that were *not* at the Boundary — Distinctions extinguishing each other before reaching their fixed point, or after leaving it. The system's Regime would be violated: cancellation without Boundary.
 
+CHANGE 4 — Add after Section 6.2
+
+6.2A Spherical and Spiral-Field Interpretation
+
+The complex variable s = σ + it may be interpreted through a spherical coordinate image.
+
+In this image:
+
+- s = 1 is the accumulation anchor, where ζ(s) has its pole.
+- s = 0 is its mirror anchor under s ↦ 1 − s.
+- Re(s) = 1/2 is the fixed balance set between them.
+- σ measures displacement toward one anchor or its mirror.
+- t measures phase evolution.
+- primes generate the phase structure through the Euler product.
+- zeros are cancellation events in s-space.
+
+This model is interpretive only. It does not supply a force law, orbit law, or proof. Its purpose is to separate anchors, generators, symmetry, and cancellation.
+
+A dynamic refinement of this image is the expanding spiral field. In that representation, numbers are not treated as static positions, but as events within an expanding field of accumulated Distinction.
+
+Addition is the cone’s basic outward motion: each act of +1 pushes the system one unit further from 0. Multiplication folds that outward motion into repeated cycles. Primes are the points where the folded cycle cannot be decomposed further. The zeta function then takes all these additive and multiplicative structures and turns them into a complex interference field.
+
+In the spiral-field image:
+
+- additive accumulation gives the outward cone-like expansion;
+- multiplicative structure folds that expansion into cycles;
+- primes appear as irreducible vibration modes, corresponding to the frequencies log p;
+- composites appear as harmonic structures generated from irreducible modes;
+- the imaginary parameter t represents phase evolution;
+- zeros represent coherent cancellation events of the whole field.
+
+Thus the sphere gives the symmetry picture, while the cone / spiral field gives the accumulation picture. Together they form an Interpretation-layer representation only. They do not define the Regime that would prove RH.
+
+CHANGE 5 — Add after Section 6.2A
+
+6.2B 九章算术 as Finite Operation System
+
+Within this framework, 九章算术 may be interpreted as a finite operation system for Distinction.
+
+Its procedures are not merely computational techniques. They describe how finite differences are accumulated, distributed, reversed, balanced, and coordinated.
+
+方田 and 商功 express accumulation and dimensional expansion.
+粟米 expresses proportional translation between systems.
+衰分 expresses division of a whole into structured parts.
+少广 expresses reverse construction from outcome to generating path.
+均输 expresses redistribution toward balance.
+盈不足 expresses error, deviation, and correction.
+方程 expresses multi-constraint coordination.
+勾股 expresses structural invariance.
+
+In this sense, 九章 provides finite rules for operating on Distinction.
+
+The Riemann Hypothesis may then be interpreted as the infinite consistency test of such an operation system:
+
+when accumulation and constraint are extended to infinite scale, can the system maintain that all complete cancellation events occur only on the unique balance surface Re(s)=1/2?
+
+九章 provides the finite operation logic.
+The Riemann Hypothesis tests whether the operation remains globally consistent at infinity.
+
 ### 6.3 The Un-provability Gap in Structural Terms
 
 The RHKP research note (Gew 2026) identified the structural location of the difficulty: "the proof requires showing that V₄ symmetry is built into the prime generative structure at the B^∞ level, not only visible at the aggregate output." In the language of the Meta-System, this is the gap between:
 
-- **Operation (行):** The zeta function accumulates all Distinctions and produces zeros. The zeros are empirically on Re(s) = ½ — over 10 trillion instances.
-- **Regime (度):** The functional equation establishes Re(s) = ½ as the Boundary fixed point. The rule exists.
-- **Structure (構):** The Euler product shows that the aggregate structure reduces entirely to prime structure. The architecture is clear.
-- **Interpretation (釋):** What the prime distribution *means* — whether the generative layer has the Boundary symmetry built in intrinsically, not merely visible at the output.
+- **Realisation:** The zeta function accumulates all Distinctions and produces zeros. The zeros are empirically on Re(s) = ½ — over 10 trillion instances.
+- **Regime:** The functional equation establishes Re(s) = ½ as the Boundary fixed point. The rule exists.
+- **Structure:** The Euler product shows that the aggregate structure reduces entirely to prime structure. The architecture is clear.
+- **Interpretation:** What the prime distribution *means* — whether the generative layer has the Boundary symmetry built in intrinsically, not merely visible at the output.
 
-The gap is between **度 (Regime) and 釋 (Interpretation)**:
+The gap is between **Regime and Interpretation**:
 
 ```
 STRUCTURAL GAP IN THE RIEMANN HYPOTHESIS
 ─────────────────────────────────────────────────────────
 
-釋 (Interpretation)  What prime distribution means at the           OPEN
+Interpretation  What prime distribution means at the           OPEN
                      generative level — does B^∞ carry V₄
                      symmetry intrinsically?
        ↑
        ║  ← THE MISSING BRIDGE (the proof of RH)
        ║
-度 (Regime)          Functional equation / Boundary constraint       PRESENT
+Regime          Functional equation / Boundary constraint       PRESENT
                      Re(s) = ½ is the fixed point. Rule stated.
        ↑
-構 (Structure)        Euler product / prime architecture reduction    PRESENT
+Structure        Euler product / prime architecture reduction    PRESENT
                      All structure reduces to irreducible
                      Distinctions (primes).
        ↑
-行 (Operation)        Zeta function / zero computation                PRESENT
+Realisation        Zeta function / zero computation                PRESENT
                      Zeros found empirically at Re(s) = ½.
 ─────────────────────────────────────────────────────────
 ```
 
 All four dimensions are present. Three are closed. The closure between Interpretation and Regime — the bridge showing that the prime generative structure has the symmetry constraint intrinsically, not merely as an observed output property — is the missing element.
 
-This structural diagnosis is more precise than "no one has found a proof." It says: the proof cannot be found by working within the Operation or Structure dimensions alone (which is what most analytic approaches do — they work with ζ(s) directly). The proof requires working at the Interpretation level: what does the prime structure *mean* such that its aggregate output must always be self-symmetric?
+This structural diagnosis is more precise than "no one has found a proof." It says: the proof cannot be found by working within the Realisation or Structure dimensions alone (which is what most analytic approaches do — they work with ζ(s) directly). The proof requires working at the Interpretation level: what does the prime structure *mean* such that its aggregate output must always be self-symmetric?
 
 ### 6.4 What a Proof Would Structurally Look Like
 
@@ -348,8 +423,8 @@ Show that the prime generative mechanism (B^∞ level — each integer is prime 
 **Gap 2: Structure ↔ Regime**
 Show that the Regime (functional equation) is derivable from the Structure (prime generation), not merely from the analytic continuation of ζ(s). The functional equation must be a *structural necessity* of the Distinction architecture, not just an analytic curiosity. Bridges 度 and 構.
 
-**Gap 3: Regime → Operation**
-Show that the Operation (zero location) is fully determined by the Regime — that there is no computational or constructive path from the prime structure to a zero off the critical line without violating the Regime constraint. This closes 行 to 度.
+**Gap 3: Regime → Realisation**
+Show that the Realisation (zero location) is fully determined by the Regime — that there is no computational or constructive path from the prime structure to a zero off the critical line without violating the Regime constraint. This closes 行 to 度.
 
 The order-invariance result from the RHKP empirical test — the four constraint layers produce the same ~59–60% deviation reduction regardless of application order — provides empirical confirmation that the four dimensions are co-present and mutually constraining. But the proof requires showing this is analytically necessary across all zeros, not just empirically stable across a finite sample.
 
@@ -363,11 +438,11 @@ Each philosophy asks: *how does a system of Distinctions achieve transmissibilit
 
 | Philosophy | Core Claim | Pillar Emphasis | Historical Persistence |
 |---|---|---|---|
-| **Platonism** | Numbers exist independently of minds — they are discovered, not invented | 度 (Regime): the structure is necessary | High — dominant intuition of working mathematicians |
-| **Formalism (Hilbert)** | Numbers are formal symbols governed by axioms; mathematics is a game with rules | 行 (Operation): the rules execute | Moderate — practical in proof theory, philosophically unsatisfying |
-| **Intuitionism (Brouwer)** | Numbers are mental constructions; only constructible objects exist | 釋 (Interpretation): Distinction requires an agent | Minority — structurally coherent but operationally restrictive |
-| **Logicism (Frege, Russell)** | Numbers reduce to logical concepts; arithmetic is derivable from logic | 構 (Structure): number is structurally derivable | Low — Gödel's incompleteness theorems revealed the limits |
-| **Structuralism (Shapiro)** | Numbers are positions in a structure; they have no intrinsic properties | 構 + 度: number is relational and constrained | Rising — aligns with category-theoretic foundations |
+| **Platonism** | Numbers exist independently of minds — they are discovered, not invented | (Regime): the structure is necessary | High — dominant intuition of working mathematicians |
+| **Formalism (Hilbert)** | Numbers are formal symbols governed by axioms; mathematics is a game with rules | (Realisation): the rules execute | Moderate — practical in proof theory, philosophically unsatisfying |
+| **Intuitionism (Brouwer)** | Numbers are mental constructions; only constructible objects exist | (Interpretation): Distinction requires an agent | Minority — structurally coherent but operationally restrictive |
+| **Logicism (Frege, Russell)** | Numbers reduce to logical concepts; arithmetic is derivable from logic |  (Structure): number is structurally derivable | Low — Gödel's incompleteness theorems revealed the limits |
+| **Structuralism (Shapiro)** | Numbers are positions in a structure; they have no intrinsic properties |  (Structure + Regime) : number is relational and constrained | Rising — aligns with category-theoretic foundations |
 
 **Four-Pillar Analysis:**
 
@@ -455,13 +530,15 @@ The Distinction system does not realise the full V₄ orbit of possible asymmetr
 
 This does not prove RH. But it refines the structural diagnosis. The missing mathematical object must not merely explain why zeros are symmetric. It must explain why the richer four-point symmetry is forbidden, suppressed, unstable, or non-continuable.
 
-Internal orbit sprint. Consider the four‑point orbit itself as a system. 
+Internal orbit sprint. Consider the four-point orbit itself as a system.
 
-Its six pairwise sums generate the full compass‑rose of Existence, Possibility, and two independent zero‑sum cancellations (diagonal opposites). 
+Its six pairwise sums generate the full compass-rose of Existence, Possibility, and two independent zero-sum cancellations (diagonal opposites).
 
-This is a richer “noisy” algebra than the on‑critical case, which yields only a single conjugate pair with no zero‑sums. When the orbit is forced through the six‑state path, it passes Indeterminacy, Boundary, and Possibility without contradiction, but at Existence it introduces a V₄‑symmetric structure that the global zeta accumulation does not realise—a structural mismatch. 
+This is a richer “noisy” algebra than the on-critical case, which yields only a single conjugate pair with no zero-sums.
 
-At Continuation, it fails: an orbit that permanently retains its full V₄ independence would cascade into every generalised L‑function, tearing the ensemble apart. The only orbit that survives the Continuation test is the collapsed Z₂ pair on the critical line. Thus the KP framework itself diagnoses the off‑critical orbit as a State that cannot become a Being.
+At the Interpretation level, the full V₄ orbit may therefore be read as an over-structured possibility: it contains more independent relations than the observed critical-line pair. The KP framework interprets the off-critical orbit as a candidate non-continuable state, because it realises more symmetry than is minimally necessary for coherent continuation.
+
+This remains a diagnostic interpretation, not a proof. To make it mathematical, one would need a Regime object — for example an operator, positivity condition, energy functional, entropy principle, or trace formula — that formally excludes the full V₄ orbit.
 
 In proof-strategy terms, this points toward a constraint of one of the following kinds:
 
@@ -472,6 +549,23 @@ In proof-strategy terms, this points toward a constraint of one of the following
 
 The structural target is therefore not “find the symmetry”. The symmetry is already known. The target is to find the principle that prevents the full V₄ orbit from materialising.
 
+9.1 Interpretation-Regime Bridge
+
+The Interpretation layer is closed when the paper has separated:
+
+- primes as generators;
+- zeros as cancellations;
+- Re(s)=1/2 as the fixed balance boundary;
+- RH as the claim that cancellation is confined to that boundary.
+
+What remains open is Regime: the rule that would enforce this confinement.
+
+In realisation-system terms, the Regime problem may be stated as follows:
+
+Given a system of accumulated Distinction whose finite realisation are coherent, what constraint ensures that its infinite cancellation events can occur only on the symmetry-fixed balance surface?
+
+A successful proof of RH would supply this missing constraint. It would not merely observe that zeros lie on the critical line; it would show why off-boundary cancellation is inadmissible.
+
 ---
 
 ## 10. Conclusion
@@ -480,9 +574,9 @@ Number is not a primitive object. It is Distinction formalised — the act of se
 
 This framing does not dissolve the difficulty of the hypothesis. It does something more useful: it locates the difficulty precisely, and at the correct level.
 
-The hypothesis is hard not because the function is complicated, but because the proof requires showing that the generative layer — primes as irreducible Distinctions — has the Boundary symmetry built in as a structural necessity, not merely exhibited at the aggregate output. This is the gap between Interpretation (釋) and Regime (度): the regime boundary is visible and empirically confirmed across all computed zeros; the derivation of that boundary from the interpretive structure of the primes — from what it means for a Distinction to be irreducible — is the missing bridge.
+The hypothesis is hard not because the function is complicated, but because the proof requires showing that the generative layer — primes as irreducible Distinctions — has the Boundary symmetry built in as a structural necessity, not merely exhibited at the aggregate output. This is the gap between Interpretation and Regime : the regime boundary is visible and empirically confirmed across all computed zeros; the derivation of that boundary from the interpretive structure of the primes — from what it means for a Distinction to be irreducible — is the missing bridge.
 
-The four pillars of the Distinction stage are all present in the number system. Interpretation (what number means as formalised Distinction), Structure (the prime-reduction architecture of the integers via the Euler product), Regime (the arithmetic constraints, unique factorisation, and the functional equation), Operation (the zeta function and its zeros). Three pillar-pairs are closed. The closure between Interpretation and Regime — the proof that prime distribution *necessarily* enforces the Boundary — is what a proof of RH would complete.
+The four pillars of the Distinction stage are all present in the number system. Interpretation (what number means as formalised Distinction), Structure (the prime-reduction architecture of the integers via the Euler product), Regime (the arithmetic constraints, unique factorisation, and the functional equation), Realisation (the zeta function and its zeros). Three pillar-pairs are closed. The closure between Interpretation and Regime — the proof that prime distribution *necessarily* enforces the Boundary — is what a proof of RH would complete.
 
 When the four dimensions are co-present and aligned, a system endures. The number system has endured. The Riemann Hypothesis is the test of whether its deepest constraint is absolute or merely persistent — and those are not the same thing.
 
@@ -493,7 +587,7 @@ When the four dimensions are co-present and aligned, a system endures. The numbe
 **The KP framework makes testable structural predictions about the Riemann Hypothesis:**
 
 **Prediction 1: The proof, if found, will operate at the Interpretation layer**
-Any successful proof of RH should not merely show that zeros cannot lie off the critical line through analytic estimates — it should show *why* the prime generative structure carries the Boundary symmetry intrinsically. If a proof is found that operates purely at the Operation or Structure level (analytic estimates alone), this framework is weakened but not refuted.
+Any successful proof of RH should not merely show that zeros cannot lie off the critical line through analytic estimates — it should show *why* the prime generative structure carries the Boundary symmetry intrinsically. If a proof is found that operates purely at the Realisation or Structure level (analytic estimates alone), this framework is weakened but not refuted.
 
 **Prediction 2: Approaches that close the 度 ↔ 釋 gap will be more productive than those that do not**
 The Hilbert-Pólya conjecture (that the zeros are eigenvalues of a self-adjoint operator) is exactly a 度 ↔ 構 bridge attempt — it seeks a structural object (an operator) whose Regime (self-adjointness) forces the zeros onto the real axis of that operator. If the Hilbert-Pólya programme succeeds, it will have built the missing bridge, confirming the structural diagnosis.
