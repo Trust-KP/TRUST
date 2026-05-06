@@ -5,7 +5,8 @@
 
 Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
 Claude Sonnet 4.6: Writing — Original Draft, Formatting, Organization
-Deepseek expanded on Principle of Minimal Necessary Symmetry
+Deepseek expanded on 9.1 Principle of Minimal Necessary Symmetry
+ChatGPT extended on 6.2, 9.1 and 9.2.
 
 
 ---
@@ -317,8 +318,6 @@ The zeros of ζ(s) are where the accumulated interference of all Distinctions ca
 
 A zero off the critical line at Re(s₀) ≠ ½ would be a cancellation event occurring within the Existence region (Re(s₀) > ½) or within the Possibility region (Re(s₀) < ½). By the functional equation, its pair at 1 − s₀ would lie on the other side. This means the Distinction structure would contain self-cancellation events that were *not* at the Boundary — Distinctions extinguishing each other before reaching their fixed point, or after leaving it. The system's Regime would be violated: cancellation without Boundary.
 
-CHANGE 4 — Add after Section 6.2
-
 6.2A Spherical and Spiral-Field Interpretation
 
 The complex variable s = σ + it may be interpreted through a spherical coordinate image.
@@ -349,8 +348,6 @@ In the spiral-field image:
 - zeros represent coherent cancellation events of the whole field.
 
 Thus the sphere gives the symmetry picture, while the cone / spiral field gives the accumulation picture. Together they form an Interpretation-layer representation only. They do not define the Regime that would prove RH.
-
-CHANGE 5 — Add after Section 6.2A
 
 6.2B 九章算术 as Finite Operation System
 
@@ -566,6 +563,32 @@ Given a system of accumulated Distinction whose finite realisation are coherent,
 
 A successful proof of RH would supply this missing constraint. It would not merely observe that zeros lie on the critical line; it would show why off-boundary cancellation is inadmissible.
 
+### 9.2 Integer-Level Equivalent: Möbius Balance
+
+The same Regime problem may be expressed without direct reference to zeta zeros.
+
+Let μ(n) be the Möbius function, recording the parity of the prime composition of n:
+
+- μ(n)=1 if n is square-free with an even number of prime factors;
+- μ(n)=-1 if n is square-free with an odd number of prime factors;
+- μ(n)=0 if n contains a squared prime factor.
+
+Let:
+
+M(x)=∑_{n≤x} μ(n)
+
+The Riemann Hypothesis is equivalent to the statement that, for every ε>0,
+
+M(x)=O(x^{1/2+ε})
+
+In this framework, μ(n) records distinction-parity across the integer domain, and M(x) records the cumulative balance of this parity across all integers up to x.
+
+This gives an integer-level form of the same Regime constraint:
+
+the accumulated distinction-parity of all integers must not develop a persistent bias beyond the square-root scale.
+
+This does not prove RH. It provides a second expression of the same boundary principle: no off-boundary cancellation in s-space corresponds to no persistent parity drift in n-space.
+
 ---
 
 ## 10. Conclusion
@@ -599,7 +622,7 @@ A zero off the line would mean the Distinction system has a cancellation event o
 
 ## One-Line Summary
 
-The Riemann Hypothesis is not merely a statement about an analytic function; it is the claim that Distinction, as formalised in the prime structure of the integers, cancels only at its own Boundary, where the full V₄ possibility of asymmetry collapses into the minimal Z₂ symmetry required for continuation.
+The Riemann Hypothesis is not merely a statement about an analytic function; it is the claim that Distinction, as formalised in the prime structure of the integers, cancels only at its own Boundary, where additive accumulation, multiplicative vibration, and symmetry constraint meet on the unique balance surface Re(s)=1/2.
 
 ---
 
