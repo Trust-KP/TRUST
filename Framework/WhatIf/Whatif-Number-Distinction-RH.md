@@ -5,10 +5,14 @@
 
 Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
 Claude Sonnet 4.6: Writing — Original Draft, Formatting, Organization
+Deepseek expanded on Principle of Minimal Necessary Symmetry
+
 
 ---
 
 ## Abstract
+
+This paper does not claim to prove the Riemann Hypothesis. It offers a structural interpretation and research framing: a way to locate what kind of mathematical object would be needed for a proof.
 
 This paper proposes that number is not an ontologically primitive object but a formalisation of Distinction applied to discrete existence. Under this framing, number does not precede the act of distinguishing — it *is* that act, made transmissible and composable. One is not the first object in a sequence; it is the first unit of Distinction. Primes are not mysterious irregularities in the number line; they are the irreducible atoms of Distinction — the Distinctions that resist decomposition. Composites are composed Distinctions. Zero is the pre-Distinction state: the Boundary before the first separating act has been recorded.
 
@@ -427,8 +431,42 @@ The Riemann Hypothesis is not a statement about an analytic function. It is the 
 The empirical evidence (10 trillion+ zeros, all on Re(s) = ½) is the Continuation signal: the system has continued without regime violation to a depth far beyond any other unproven mathematical claim. But empirical continuation is not proof of structural necessity — any more than 100 billion coin flips of "heads" proves the coin has only one side.
 
 ---
+## 9. The V₄ Orbit and the Principle of Minimal Necessary Symmetry
 
-## 9. Conclusion
+The functional equation and complex conjugation imply that any non-trivial zero ρ generates the symmetry orbit:
+
+{ρ, 1−ρ, ρ̄, 1−ρ̄}
+
+If ρ is off the critical line, this orbit generally contains four distinct points. This is the full V₄ orbit. If ρ lies on the critical line Re(s)=½, then:
+
+ρ = 1 − ρ̄
+
+and the four-point orbit collapses into a two-point orbit:
+
+{ρ, ρ̄}
+
+This gives a sharper structural reading of the Riemann Hypothesis. RH is not simply the claim that the zeros exhibit “more symmetry”. In fact, an off-critical zero has a richer algebraic orbit: it generates the full four-point V₄ structure and additional pairwise cancellation channels. The critical-line zero is quieter. It has fewer independent relations. It is not maximally elaborate; it is minimally sufficient.
+
+Under the KP framework, this suggests that Continuation does not require the maximum possible symmetry. It requires the minimum symmetry necessary for coherence. The off-critical orbit is over-structured: it realises the full V₄ possibility space, but in doing so creates redundant cancellation channels. The critical-line orbit collapses this excess structure into the Z₂ conjugate pair.
+
+Therefore, RH may be restated as a minimal-symmetry condition:
+
+The Distinction system does not realise the full V₄ orbit of possible asymmetry. Every zero collapses to the smallest stable orbit compatible with the functional equation and complex conjugation.
+
+This does not prove RH. But it refines the structural diagnosis. The missing mathematical object must not merely explain why zeros are symmetric. It must explain why the richer four-point symmetry is forbidden, suppressed, unstable, or non-continuable.
+
+In proof-strategy terms, this points toward a constraint of one of the following kinds:
+
+- a self-adjoint operator whose spectrum only permits the collapsed orbit;
+- a positivity condition under which off-critical orbit-pairs introduce inadmissible negative or redundant contributions;
+- an energy or entropy functional minimised uniquely at Re(s)=½;
+- a trace formula whose closure removes the full V₄ orbit and leaves only the Z₂ spectral pair.
+
+The structural target is therefore not “find the symmetry”. The symmetry is already known. The target is to find the principle that prevents the full V₄ orbit from materialising.
+
+---
+
+## 10. Conclusion
 
 Number is not a primitive object. It is Distinction formalised — the act of separation made transmissible and composable. One is the unit of Distinction. Primes are the irreducible atoms of Distinction — the separations that resist decomposition. The integers are the complete Distinction record across all scales. The zeta function is the operational summary of all Distinctions accumulated with complex weighting. The zeros are the cancellation events. The Riemann Hypothesis is the claim that cancellation only occurs at the Boundary — the fixed point of the Distinction system's own self-symmetry.
 
@@ -459,7 +497,7 @@ A zero off the line would mean the Distinction system has a cancellation event o
 
 ## One-Line Summary
 
-The Riemann Hypothesis is not a statement about an analytic function — it is the claim that Distinction, as formalised in the prime structure of the integers, can only cancel itself at its own Boundary; its resistance to proof for over 160 years is the resistance of any system to proving its deepest symmetry from within itself.
+The Riemann Hypothesis is not merely a statement about an analytic function; it is the claim that Distinction, as formalised in the prime structure of the integers, cancels only at its own Boundary, where the full V₄ possibility of asymmetry collapses into the minimal Z₂ symmetry required for continuation.
 
 ---
 
