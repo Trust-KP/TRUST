@@ -1,3 +1,5 @@
+AI Note:
+
 Under the Distinction framework, natural numbers are Distinction applied linearly — forward from the Boundary. Negative integers are mirror Distinction (the same act, in the opposing direction). Both still live on a single line: one axis, two directions.
 i breaks from this entirely. i² = −1 means: applying this Distinction twice returns you to the mirror of where you started, not to "two units forward." It doesn't accumulate along the line. It rotates.
 So the first observation is: i is not linear Distinction — it is rotational Distinction. It's what Distinction looks like when the act of separation operates perpendicular to the real axis rather than along it.
@@ -48,3 +50,12 @@ That's a genuinely interesting structural restatement. Though the caveat stands:
 
 The short version
 i is Distinction that is orthogonal to real/linear Distinction — it represents the Possibility axis, not the Existence axis. Real numbers are Possibility resolved into Existence. Complex numbers are Distinctions that straddle both. ℂ is the minimal complete Distinction space because there are exactly two stages that number needs to express: Existence and Possibility. The imaginary axis is not an extension of number — it is the Possibility stage of number, present all along and made explicit by i.
+
+n the Distinction framework:
+
+Number class	Becomes
+ℕ	Linear Distinction, forward from the Boundary
+ℤ	Bidirectional Distinction (mirrors included)
+ℝ	Dense Distinction (incommensurables as boundary‑approaching)
+ℂ	Two‑axis Distinction: Existence (real) + Possibility (imaginary)
+The purpose is to show that numbers are not an arbitrary growing menagerie; they are a coherent ladder of Distinction modes, each corresponding to a stage in the six‑state path. This gives a principled answer to “why does the number system extend the way it does, and why does it stop at ℂ for algebraic closure?” — because ℂ covers the only two stages that a single Distinction needs to straddle: Existence and Possibility.
