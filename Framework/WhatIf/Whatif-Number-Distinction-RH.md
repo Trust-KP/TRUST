@@ -6,7 +6,7 @@
 Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
 Claude Sonnet 4.6: Writing — Original Draft, Formatting, Organization
 Deepseek expanded on 9.1 Principle of Minimal Necessary Symmetry
-ChatGPT extended on 6.2, 9.1 and 9.2.
+ChatGPT expanded on 1.4, 6.2, 9.1 and 9.2.
 
 
 ---
@@ -19,7 +19,7 @@ This paper proposes that number is not an ontologically primitive object but a f
 
 This reframing has structural consequences for the Riemann Hypothesis. If number is formalised Distinction, then the Riemann zeta function ζ(s) is the structural encoding of how all Distinctions interfere with each other under complex weighting. Its non-trivial zeros are not analytic curiosities — they are the cancellation events where the accumulated wave of Distinction returns to its origin. The hypothesis that all such zeros lie on Re(s) = ½ becomes a statement about the nature of Distinction itself: that cancellation of Distinction always occurs at the Boundary — the self-symmetric fixed point that is neither "more Existence" nor "less Existence" but precisely the midpoint of both.
 
-The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Operation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime  and Interpretation . The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
+The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Realisation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime  and Interpretation . The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
 
 ---
 
@@ -46,7 +46,7 @@ Every system that exists has traversed this path. The four dimensions through wh
 - **Interpretation:** What the system means; how signals are read; what counts within it
 - **Structure:** How elements are organised and related; formal and informal organisation
 - **Regime:** What constraints apply; what is permitted and what is forbidden
-- **Operation:** How the system executes; what it produces across time
+- **Realisation:** How the system executes; what it produces across time
 
 A preceding paper in this series established that quantum physics is the complete and perfect instantiation of the Possibility stage — not an incomplete system struggling toward classical determinism, but the full structural expression of how Possibility must necessarily operate. Superposition, measurement uncertainty, and interpretation divergence are not problems to be solved; they are features of the Possibility stage.
 
@@ -63,8 +63,6 @@ If number is not a primitive object but a derived construct — if it is what Di
 - Why has the Riemann Hypothesis resisted proof for over 160 years?
 
 The answers, under this framework, are not numerical — they are structural. And structural answers are more durable than analytic ones, because they locate the constraint rather than merely describing the output.
-
-CHANGE 1 — Add after Section 1.3
 
 1.4 Domain Separation: n-space and s-space
 
@@ -94,9 +92,9 @@ This means the question "what is a number?" resolves to "what is Distinction, an
 
 In the six-state path, Distinction is the third stage: the moment at which difference becomes irreversibly established. Before Distinction, there is Indeterminacy (the undivided continuum, no references, no differences) and Boundary (the threshold at which the pressure toward separation cannot be contained). At Distinction, "this" and "not-this" become established, and a system becomes possible.
 
-The number 1 is the Boundary marker carried forward into the Distinction stage. It is not a magnitude in the first instance; it is the *record* of the first separating act — the smallest unit of established difference. Every subsequent natural number is Distinction applied one more time to the same discrete existence: 2 is "1 and one further Distinction," 3 is "2 and one further Distinction." The successor function, which Peano's axioms take as primitive, is the repeated application of Distinction to discrete existence. Peano did not claim to be describing Distinction. He was recording the formal properties of a successor operation. 
+The number 1 is the Boundary marker carried forward into the Distinction stage. It is not a magnitude in the first instance; it is the *record* of the first separating act — the smallest unit of established difference. Every subsequent natural number is Distinction applied one more time to the same discrete existence: 2 is "1 and one further Distinction," 3 is "2 and one further Distinction." The successor function, which Peano's axioms take as primitive, is the repeated application of Distinction to discrete existence. Peano did not claim to be describing Distinction. He was recording the formal properties of a successor realisation. 
 
-The present claim is that the successor operation is the repeated application of Distinction. This is not intended as a numerical theorem, but as the governing interpretive identity of this paper.
+The present claim is that the successor realisation is the repeated application of Distinction. This is not intended as a numerical theorem, but as the governing interpretive identity of this paper.
 
 This recursive structure is self-consistent with the framework's core property: a State, examined as a system, becomes a Being. The Distinction stage, examined as a system, has its own four dimensions and six-stage path. The natural numbers are the output of that inner examination.
 
@@ -349,29 +347,29 @@ In the spiral-field image:
 
 Thus the sphere gives the symmetry picture, while the cone / spiral field gives the accumulation picture. Together they form an Interpretation-layer representation only. They do not define the Regime that would prove RH.
 
-6.2B 九章算术 as Finite Operation System
+6.2B Finite Realisation System (Nine Chapters)
 
-Within this framework, 九章算术 may be interpreted as a finite operation system for Distinction.
+A classical operational system exists that encodes finite Distinction manipulation.
 
-Its procedures are not merely computational techniques. They describe how finite differences are accumulated, distributed, reversed, balanced, and coordinated.
+(Original system: 九章算术)
 
-方田 and 商功 express accumulation and dimensional expansion.
-粟米 expresses proportional translation between systems.
-衰分 expresses division of a whole into structured parts.
-少广 expresses reverse construction from outcome to generating path.
-均输 expresses redistribution toward balance.
-盈不足 expresses error, deviation, and correction.
-方程 expresses multi-constraint coordination.
-勾股 expresses structural invariance.
+Its procedures correspond to:
 
-In this sense, 九章 provides finite rules for operating on Distinction.
+- Area accumulation (方田)
+- Volume accumulation (商功)
+- Proportional transformation (粟米)
+- Partitioning (衰分)
+- Reverse construction (少广)
+- Redistribution (均输)
+- Error balancing (盈不足)
+- Constraint solving (方程)
+- Structural invariance (勾股)
 
-The Riemann Hypothesis may then be interpreted as the infinite consistency test of such an operation system:
+九章算术 constitutes a complete finite operational system for Distinction under constraint.
 
-when accumulation and constraint are extended to infinite scale, can the system maintain that all complete cancellation events occur only on the unique balance surface Re(s)=1/2?
+However, it does not address the behaviour of such operations when extended to infinite scale.
 
-九章 provides the finite operation logic.
-The Riemann Hypothesis tests whether the operation remains globally consistent at infinity.
+Within this framework, the Riemann Hypothesis may be interpreted as the continuation test of such an operational system: whether the accumulation and balancing of Distinction remains globally coherent, such that all cancellation events occur only on the unique balance surface Re(s)=1/2.
 
 ### 6.3 The Un-provability Gap in Structural Terms
 
