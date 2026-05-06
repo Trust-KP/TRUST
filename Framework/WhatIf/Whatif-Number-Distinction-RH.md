@@ -113,6 +113,18 @@ What changes across states is not the symbol, but what the symbol encodes.
 
 In this paper, natural number is treated as the canonical form of Distinction. This is a positional assignment within the six-state path, not a claim that number is reducible to Distinction in all contexts.
 
+### 2.2B Distinction, Counting, and Observer Representation
+
+Distinction and counting are not identical.
+
+Distinction is the existence of separateness. Counting is the formal operation by which an observer or system represents separateness using number.
+
+For example, four apples may exist as separate objects, but “4” is a representation imposed by a counting system. A human may count four apples; another organism may respond only to food, surface, scent, or local contact. The separateness exists, but the numerical representation depends on the interpretive regime.
+
+Thus, number is not raw separateness itself. Number is the formalisation of separateness under a chosen representation system.
+
+Within this paper, natural number is treated as the canonical formalisation of repeated discrete Distinction. This preserves the claim that number is formalised Distinction while avoiding the stronger claim that every observer must experience Distinction numerically.
+
 ### 2.3 What Each Number Class Becomes
 
 Under this framework, each class of numbers receives a structural identity derived from its position in the Distinction ontology:
@@ -254,6 +266,20 @@ Each zero is a point at which the accumulated Distinction wave returns to its or
 
 **Completion Assessment:** Realisation pillar = fully present. The zeta function provides a complete operational record of the Distinction structure across all scales and angles of the complex plane.
 
+### 4.5 Operations and Regime
+
+A number is a realised Distinction, but an operation is a permitted transformation of Distinction.
+
+Thus, 1 by itself is a unit. The expression 1 + 1 introduces an operation: addition. Addition, multiplication, subtraction, and division are not merely symbols; they are transformation rules acting on realised Distinctions.
+
+Different operations expose different regimes:
+
+- additive regime: successor movement, accumulation, counting;
+- multiplicative regime: factor structure, composition, irreducibility;
+- analytic regime: weighting, phase, continuation, cancellation.
+
+The same realised value may therefore be read under different regimes. For example, 6 may be reached additively as 5 + 1, while structurally decomposed multiplicatively as 2 × 3. These are not competing definitions. They are different regime-dependent readings of the same realised value.
+
 ---
 
 ## 5. Number and the Six Stages of the Meta-System
@@ -379,7 +405,29 @@ In the spiral-field image:
 
 Thus the sphere gives the symmetry picture, while the cone / spiral field gives the accumulation picture. Together they form an Interpretation-layer representation only. They do not define the Regime that would prove RH.
 
-### 6.2B Finite Realisation System (Nine Chapters)
+### 6.2b What σ, t, and i Do in the Zeta Function
+
+For s = σ + it, each term of the zeta function may be written as:
+
+ζ(s) = Σ n^(-s)
+     = Σ n^(-σ) e^(-it log n)
+
+This separates the two roles:
+
+- σ controls weighting across scale. It determines how strongly large n contribute.
+- t controls phase evolution. It rotates each contribution at frequency log n.
+- i permits directional cancellation in the complex plane.
+
+Thus ζ(s) may be interpreted as the global sum of infinitely many weighted rotating vectors.
+
+A zero is not a local event. It is complete global cancellation:
+
+Σ n^(-σ) cos(t log n) = 0
+Σ n^(-σ) sin(t log n) = 0
+
+The Riemann Hypothesis asks why this simultaneous real and imaginary cancellation can occur only on σ = 1/2.
+
+### 6.2C Finite Realisation System (Nine Chapters)
 
 A classical operational system exists that encodes finite Distinction manipulation.
 
@@ -629,7 +677,45 @@ the accumulated distinction-parity of all integers must not develop a persistent
 
 This does not prove RH. It provides a second expression of the same boundary principle: no off-boundary cancellation in s-space corresponds to no persistent parity drift in n-space.
 
-### 9.4 Phase-Pair Closure and the Hexagram Analogy
+### 9.4 Global Pairwise Interaction: Additive and Multiplicative Cancellation
+
+Additive cancellation occurs inside ζ(s). Many non-zero rotating contributions sum to zero.
+
+Multiplicative coupling appears when ζ(s) is multiplied by another zeta expression. For example:
+
+ζ(s)^2 = Σ d(n) / n^s
+
+where d(n) is the divisor-counting function. This reveals factor-pair structure, but it does not create new cancellation by itself.
+
+The more structurally useful object is:
+
+|ζ(s)|² = ζ(s) · conjugate(ζ(s))
+
+Expanding this gives:
+
+|ζ(s)|²
+= Σ_n Σ_m (nm)^(-σ) e^{it log(m/n)}
+
+Taking the real part:
+
+|ζ(s)|²
+= Σ_n Σ_m (nm)^(-σ) cos(t log(m/n))
+
+This expression turns additive cancellation into a global pairwise interaction field. Every term n interacts with every term m through the ratio m/n.
+
+In this framework:
+
+- additive cancellation is the engine of zeros;
+- multiplicative structure encodes factor relationships;
+- pairwise interaction expresses the global accumulation of all relative Distinctions.
+
+The remaining Regime question is therefore precise:
+
+What constraint forces this global pairwise interaction energy |ζ(s)|² to reach zero only when σ = 1/2?
+
+This paper does not answer that question. It identifies it as the open Regime object required for proof.
+
+### 9.5 Phase-Pair Closure and the Hexagram Analogy
 
 The four-point orbit generated by complex conjugation and the functional equation has the same abstract group form as the swap system of the 64-hexagram structure.
 
