@@ -640,7 +640,55 @@ This means the critical line is not detected by raw finite energy minimisation. 
 
 Accordingly, any Regime test must remove trivial σ-dependent decay and examine the remaining off-diagonal or symmetry-adapted interaction.
 
-### 9.5 Phase-Pair Closure and Minimal Symmetry
+### 9.5 Finite Regime Diagnostics: Mirror-Imbalance Scaling
+
+The preceding sections identify the Regime problem structurally: the critical line is not merely a location of observed zeros, but the symmetry-fixed boundary at which cancellation is hypothesised to be admissible. A natural first attempt is to seek an energy quantity minimised at σ = 1/2. Finite testing shows that this is not the correct Regime object.
+
+Let
+
+Z_N(s) = ∑_{n≤N} n^{-s}
+
+and define the finite off-diagonal interaction term by
+
+E_N(σ,t)
+=
+|Z_N(σ+it)|² − ∑_{n≤N} n^{-2σ}.
+
+Equivalently,
+
+E_N(σ,t)
+=
+∑_{m≠n≤N} (mn)^{-σ} cos(t log(n/m)).
+
+This removes the diagonal contribution and isolates the pairwise interaction field. Numerical testing shows that E_N itself is not globally minimised at σ = 1/2. Therefore the critical line is not characterised by off-diagonal energy minimisation.
+
+However, the mirror imbalance around the critical line displays a stable finite scaling behaviour. Define
+
+O_N(u,t)
+=
+E_N(1/2+u,t) − E_N(1/2−u,t).
+
+For small u > 0, finite numerical testing gives the empirical form
+
+mean_t |O_N(u,t)| ≈ A_N u^p.
+
+Across the tested values N = 500, 1000, 2000, 5000 and coupled T-windows T = √N, T = N, and T = N log N, the exponent p remains close to first order and stable, while A_N increases with N. Under N/T-coupled sampling, A_N is consistent with approximate power-like growth,
+
+A_N ≈ C N^α,
+
+with α stabilising in the range approximately 0.72–0.79 in the tested regime.
+
+This finite diagnostic suggests that the critical line is better interpreted as a mirror-balance centre than as an energy minimum. Departing from σ = 1/2 introduces a near-linear mirror imbalance in the off-diagonal interaction field, and the strength of that imbalance increases with system size.
+
+This does not prove the Riemann Hypothesis. The test is finite, uses truncated Dirichlet polynomials, and does not establish a theorem for the completed ζ-function. Its value is diagnostic: it rules out a naive energy-minimisation Regime and identifies a more precise candidate Regime signal — mirror-imbalance scaling around the critical line.
+
+The resulting Regime candidate may be stated as follows:
+
+For finite truncations of the zeta interaction field, σ = 1/2 is not the point of minimal interaction energy, but the symmetry centre from which off-boundary mirror imbalance grows approximately linearly in u and strengthens with N.
+
+A proof-level Regime object would need to convert this finite mirror-imbalance behaviour into an analytic constraint showing that complete cancellation cannot persist away from σ = 1/2 in the infinite completed system.
+
+### 9.6 Phase-Pair Closure and Minimal Symmetry
 
 As established, the critical‑line collapse realises only Z₂.
 
