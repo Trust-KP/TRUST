@@ -21,7 +21,7 @@ This reframing has structural consequences for the Riemann Hypothesis. If number
 
 The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Realisation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime  and Interpretation . The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
 
-The paper further distinguishes additive cancellation, multiplicative structure, and global pairwise interaction, locating the remaining open Regime question as the search for a constraint forcing |ζ(s)|² to vanish only on Re(s)=1/2.
+The paper separates additive cancellation, multiplicative structure, and global pairwise interaction, and finds that the missing Regime is a constraint forcing |ζ(s)|² to zero only on Re(s)=1/2.
 
 ---
 
@@ -102,28 +102,21 @@ This recursive structure is self-consistent with the framework's core property: 
 
 ### 2.2A Number as Cross-State Representation
 
-The term “number” in this paper does not belong exclusively to a single ontological state. It is the representational substrate through which different states of the Meta-System are expressed.
+The term “number” is the representational substrate through which different meta‑system states are expressed. What changes is not the symbol but what it encodes:
 
-What changes across states is not the symbol, but what the symbol encodes.
-
-- At Indeterminacy, number appears as continuous magnitude without discrete separation.
-- At Boundary, number appears as the markers 0 and 1 — the record of separation and non-separation.
-- At Distinction, number appears as natural numbers — discrete accumulated acts.
-- At Possibility, number appears as complex values — phase-bearing states not yet resolved into real-axis existence.
-- At Existence, number appears as realised measurement — resolved values.
-- At Continuation, number appears as constraint-satisfying structure across scales.
-
-In this paper, natural number is treated as the canonical form of Distinction. This is a positional assignment within the six-state path, not a claim that number is reducible to Distinction in all contexts.
+Indeterminacy → continuous magnitude without discrete separation.
+Boundary → the markers 0 and 1.
+Distinction → natural numbers – accumulated acts.
+Possibility → complex values – unresolved phases.
+Existence → realised measurements.
+Continuation → constraint‑satisfying structure across scales.
+Natural number is treated as the canonical form of Distinction. This is a positional assignment, not a claim of reduction.
 
 ### 2.2B Distinction, Counting, and Observer Representation
 
 Distinction and counting are not identical.
 
-Distinction is the existence of separateness. Counting is the formal operation by which an observer or system represents separateness using number.
-
-For example, four apples may exist as separate objects, but “4” is a representation imposed by a counting system. A human may count four apples; another organism may respond only to food, surface, scent, or local contact. The separateness exists, but the numerical representation depends on the interpretive regime.
-
-Thus, number is not raw separateness itself. Number is the formalisation of separateness under a chosen representation system.
+Distinction is the existence of separateness. Counting is the formal representation of that separateness by an observer using number. Four apples exist separately; “4” is a representation imposed by a counting system. Thus number is not raw separateness but its formalisation under a chosen representation. Within this paper, natural number is that formalisation.
 
 Within this paper, natural number is treated as the canonical formalisation of repeated discrete Distinction. This preserves the claim that number is formalised Distinction while avoiding the stronger claim that every observer must experience Distinction numerically.
 
@@ -280,7 +273,7 @@ Different operations expose different regimes:
 - multiplicative regime: factor structure, composition, irreducibility;
 - analytic regime: weighting, phase, continuation, cancellation.
 
-The same realised value may therefore be read under different regimes. For example, 6 may be reached additively as 5 + 1, while structurally decomposed multiplicatively as 2 × 3. These are not competing definitions. They are different regime-dependent readings of the same realised value.
+The same realised value may therefore be read under different regimes. For example, 6 may be reached additively as 5 + 1, while structurally decomposed multiplicatively as 2 × 3. 
 
 ---
 
@@ -359,58 +352,7 @@ The zeros of ζ(s) are where the accumulated interference of all Distinctions ca
 
 A zero off the critical line at Re(s₀) ≠ ½ would be a cancellation event occurring within the Existence region (Re(s₀) > ½) or within the Possibility region (Re(s₀) < ½). By the functional equation, its pair at 1 − s₀ would lie on the other side. This means the Distinction structure would contain self-cancellation events that were *not* at the Boundary — Distinctions extinguishing each other before reaching their fixed point, or after leaving it. The system's Regime would be violated: cancellation without Boundary.
 
-### 6.2A Geometric–Interference Interpretation of ζ(s)
-
-The complex variable s = σ + it may be interpreted through a geometric–interference picture of the Dirichlet series.
-
-In this interpretation:
-
-- s = 1 is the pole of ζ(s), acting as a divergence anchor.
-- s = 0 is the reflected counterpart of s = 1 under s ↦ 1 − s, although ζ(s) itself is not symmetric in this raw form; the symmetry belongs to the completed zeta function.
-- The line Re(s) = 1/2 is the symmetry axis of this reflection.
-- σ controls amplitude decay through weights n^−σ.
-- t controls phase through rotations e^(−it log n).
-- Primes generate multiplicative structure via the Euler product.
-- Zeros correspond to global cancellation of all contributing terms.
-
-This interpretation is descriptive only. It introduces no force law, dynamics, or geometric embedding; it serves to separate symmetry, weighting, and interference.
-
-A complementary view is obtained by interpreting the Dirichlet series as a superposition of rotating contributions:
-
-ζ(s) = Σ_{n=1}^{∞} n^−σ e^(−it log n)
-
-In this view:
-
-- Each term is a rotating vector with amplitude n^−σ and phase −t log n.
-- The sum forms an interference pattern in the complex plane.
-- Primes determine the underlying multiplicative structure that governs these phases.
-- Composite terms arise as combinations of prime contributions.
-- Zeros occur when the entire system cancels.
-
-This representation may be loosely visualised as an interference field rather than a physical spiral or cone.
-
-Thus:
-
-- The symmetry s ↦ 1 − s provides the global structure.
-- The Dirichlet series provides the interference mechanism.
-- The Euler product encodes the prime structure.
-
-These form an Interpretation-layer description only. They do not specify the analytic Regime required to establish the Riemann Hypothesis.
-
-
-
-In the spiral-field image:
-
-- additive accumulation gives the outward cone-like expansion;
-- multiplicative structure folds that expansion into cycles;
-- primes appear as irreducible vibration modes, corresponding to the frequencies log p;
-- composites appear as harmonic structures generated from irreducible modes;
-- the imaginary parameter t represents phase evolution;
-- zeros represent coherent cancellation events of the whole field.
-
-Thus the sphere gives the symmetry picture, while the cone / spiral field gives the accumulation picture. Together they form an Interpretation-layer representation only. They do not define the Regime that would prove RH.
-
-### 6.2b What σ, t, and i Do in the Zeta Function
+### 6.2a What σ, t, and i Do in the Zeta Function
 
 For s = σ + it, each term of the zeta function may be written as:
 
@@ -432,31 +374,7 @@ A zero is not a local event. It is complete global cancellation:
 
 The Riemann Hypothesis asks why this simultaneous real and imaginary cancellation can occur only on σ = 1/2.
 
-### 6.2C Finite Realisation System (Nine Chapters)
-
-A classical operational system exists that encodes finite Distinction manipulation.
-
-(Original system: 九章算术)
-
-Its procedures correspond to:
-
-- Area accumulation (方田)
-- Volume accumulation (商功)
-- Proportional transformation (粟米)
-- Partitioning (衰分)
-- Reverse construction (少广)
-- Redistribution (均输)
-- Error balancing (盈不足)
-- Constraint solving (方程)
-- Structural invariance (勾股)
-
-九章算术 constitutes a locally complete finite operational system for Distinction under constraint.
-
-However, it does not address the behaviour of such operations when extended to infinite scale.
-
-Within this framework, the Riemann Hypothesis may be interpreted as the continuation test of such an operational system: whether the accumulation and balancing of Distinction remains globally coherent, such that all cancellation events occur only on the unique balance surface Re(s)=1/2.
-
-### 6.3 The Un-provability Gap in Structural Terms
+### 6.2 The Un-provability Gap in Structural Terms
 
 The RHKP research note (Gew 2026) identified the structural location of the difficulty: "the proof requires showing that V₄ symmetry is built into the prime generative structure at the B^∞ level, not only visible at the aggregate output." In the language of the Meta-System, this is the gap between:
 
@@ -610,11 +528,7 @@ The Distinction system does not realise the full V₄ orbit of possible asymmetr
 
 This does not prove RH. But it refines the structural diagnosis. The missing mathematical object must not merely explain why zeros are symmetric. It must explain why the richer four-point symmetry is forbidden, suppressed, unstable, or non-continuable.
 
-Internal orbit sprint. Consider the four-point orbit itself as a system.
-
-Its six pairwise sums generate the full compass-rose of Existence, Possibility, and two independent zero-sum cancellations (diagonal opposites).
-
-This is a richer “noisy” algebra than the on-critical case, which yields only a single conjugate pair with no zero-sums.
+Consider the four‑point orbit itself as a system. Its six pairwise sums generate the full compass‑rose of Existence, Possibility, and two independent zero‑sum cancellations. This is a richer noisy algebra than the on‑critical case which yields only a single conjugate pair with no zero-sums.
 
 At the Interpretation level, the full V₄ orbit may therefore be read as an over-structured possibility: it contains more independent relations than the observed critical-line pair. The KP framework interprets the off-critical orbit as a candidate non-continuable state, because it realises more symmetry than is minimally necessary for coherent continuation.
 
@@ -629,17 +543,9 @@ In proof-strategy terms, this points toward a constraint of one of the following
 
 The structural target is therefore not “find the symmetry”. The symmetry is already known. The target is to find the principle that prevents the full V₄ orbit from materialising.
 
-### 9.1 Expression-Level Symmetry vs Generative Structure
+### 9.1 Interpretation-Regime Bridge
 
 The symmetry operations {identity, complex conjugation, reflection s ↦ 1−s, and their composition} act on the expressed form of the zeta system in s-space.
-
-They do not operate directly on the generative structure of primes in n-space.
-
-Thus, the observed V₄ symmetry belongs to the Realisation layer under Regime constraints, not to the Structure layer itself.
-
-The unresolved problem is whether this symmetry is merely a property of the expression, or whether it is intrinsically enforced by the underlying generative structure.
-
-### 9.2 Interpretation-Regime Bridge
 
 The Interpretation layer is closed when the paper has separated:
 
@@ -656,7 +562,7 @@ Given a system of accumulated Distinction whose finite operations are coherent, 
 
 A successful proof of RH would supply this missing constraint. It would not merely observe that zeros lie on the critical line; it would show why off-boundary cancellation is inadmissible.
 
-### 9.3 Integer-Level Equivalent: Möbius Balance
+### 9.2 Integer-Level Equivalent: Möbius Balance
 
 The same Regime problem may be expressed without direct reference to zeta zeros.
 
@@ -682,7 +588,7 @@ the accumulated distinction-parity of all integers must not develop a persistent
 
 This does not prove RH. It provides a second expression of the same boundary principle: no off-boundary cancellation in s-space corresponds to no persistent parity drift in n-space.
 
-### 9.4 Global Pairwise Interaction: Additive and Multiplicative Cancellation
+### 9.3 Global Pairwise Interaction: Additive and Multiplicative Cancellation
 
 Additive cancellation occurs inside ζ(s). Many non-zero rotating contributions sum to zero.
 
@@ -718,9 +624,7 @@ The remaining Regime question is therefore precise:
 
 What constraint forces this global pairwise interaction energy |ζ(s)|² to reach zero only when σ = 1/2?
 
-This paper does not answer that question. It identifies it as the open Regime object required for proof.
-
-### 9.4a Correction: Raw Mean-Square Energy Is Not the Regime Object
+### 9.4 Correction: Raw Mean-Square Energy Is Not the Regime Object
 
 A natural first candidate for a Regime observable is the finite mean-square energy
 
@@ -736,76 +640,17 @@ This means the critical line is not detected by raw finite energy minimisation. 
 
 Accordingly, any Regime test must remove trivial σ-dependent decay and examine the remaining off-diagonal or symmetry-adapted interaction.
 
-### 9.4b Refined Regime Target: Normalised Off-Diagonal Interaction
+### 9.5 Phase-Pair Closure and Minimal Symmetry
 
-Write
+As established, the critical‑line collapse realises only Z₂.
 
-E_N(σ,t)
-=
-|Σ_{n≤N} n^(-σ-it)|²
+A complementary view is obtained by examining pairwise phase interactions.
 
-=
-Σ_{n≤N} n^(-2σ)
-+
-Σ_{n≠m≤N} (nm)^(-σ) cos(t log(m/n)).
+Consider four phase directions:
 
-The first term is diagonal size. The second term is off-diagonal interference.
+45°, 135°, 225°, 315°.
 
-Define the diagonal term:
-
-D_N(σ) = Σ_{n≤N} n^(-2σ)
-
-and the normalised interaction:
-
-I_N(σ,t)
-=
-[E_N(σ,t) - D_N(σ)] / D_N(σ).
-
-This removes the trivial decay effect and isolates relative interference.
-
-The Regime question is therefore not whether raw energy is minimised at σ=1/2, but whether the normalised off-diagonal interaction, under the infinite zeta structure and functional symmetry, admits complete cancellation only at the boundary Re(s)=1/2.
-
-### 9.5 Phase-Pair Closure and the Hexagram Analogy
-
-The four-point orbit generated by complex conjugation and the functional equation has the same abstract group form as the swap system of the 64-hexagram structure.
-
-In the hexagram system, the transformations:
-
-- identity,
-- complement,
-- reverse,
-- complement-reverse
-
-form the Klein four-group V₄.
-
-In the zeta symmetry system, the transformations:
-
-- identity,
-- complex conjugation,
-- reflection s ↦ 1−s,
-- conjugated reflection
-
-also form a V₄-type orbit.
-
-This does not mean that zeta zeros are hexagrams. It means that both systems share the same abstract symmetry pattern: a four-state structure generated by two commuting involutions.
-
-When the four phase directions 45°, 135°, 225°, and 315° are paired, their six pairwise sums produce:
-
-- two real-axis outcomes,
-- two imaginary-axis outcomes,
-- two cancellation outcomes.
-
-Thus:
-
-4 directional states + 2 collapse states = 6 structural outcomes.
-
-This sixfold closure may be read as a phase-pair analogue of the six-line generative layer beneath the hexagram system. It is not the 64-hexagram system itself, but it shares the same principle: a finite set of structural states is compressed and organised by symmetry.
-
-Under this reading, the off-critical V₄ orbit represents the fully expanded four-state symmetry. The critical-line case collapses that structure into the minimal Z₂ orbit. This supports the Principle of Minimal Necessary Symmetry: continuation does not require maximal symmetry realisation, but only the smallest symmetry sufficient to preserve coherence.
-
-### 9.6 Phase-Pair Closure and the Hexagram Analogy
-
-This construction is interpretive. It does not define the Regime of the system. It shows that a minimal closed phase system produces six outcome classes that align structurally with the six-state Meta-System path.
+These generate six pairwise combinations. Each pair produces a distinct structural outcome:
 
 THE SIX PAIR OUTCOMES AND THE SIX-STATE PATH
 
@@ -820,43 +665,26 @@ Pair            Result Type         Structural Meaning                 KP Stage
 45° + 315°      +real               Constructive alignment             Existence
 135° + 225°     −real               Inverse alignment                  Existence
 
-### 9.7 Candidate Regime Direction: Mirror-Redundancy Energy
+These six outcomes form a closed interaction system:
 
-Let s = σ + it and define the reflected-conjugate mirror point:
+- cancellation outcomes,
+- unresolved phase outcomes,
+- realised alignment outcomes.
 
-s* = 1 − conjugate(s)
+This closure aligns structurally with the six-stage Meta-System path:
 
-Then:
+Indeterminacy → Boundary → Possibility → Existence
 
-R(s) = |s − s*| = |2σ − 1|
+The construction is interpretive. It does not define a Regime constraint. It shows that a minimal closed phase system naturally produces a finite set of structurally distinct outcomes that map onto the system’s ontological stages.
 
-R(s) measures mirror-redundancy. It vanishes exactly on the critical line Re(s)=1/2.
+Within this framing:
 
-An off-critical zero would therefore correspond to a cancellation event with non-zero mirror-redundancy. A critical-line zero corresponds to a cancellation event whose mirror channel has collapsed into the same point.
+- the full V₄ orbit corresponds to the expanded symmetry space of possible relations,
+- the critical-line collapse corresponds to the minimal symmetry required for stable continuation.
 
-This suggests the following Regime target:
+The unresolved Regime question remains:
 
-Find a natural functional E(s), derived from ζ and its mirror structure, such that:
-
-1. E(s) ≥ 0;
-2. E(s)=0 only when ζ(s)=0 and R(s)=0;
-3. R(s)=0 if and only if Re(s)=1/2.
-
-Such a functional would convert the structural statement “cancellation is admissible only without mirror-redundancy” into a mathematical constraint.
-
-A trivial artificial example would be:
-
-E_R(s) = |ζ(s)|² + λ|2σ−1|²
-
-with λ>0.
-
-This does satisfy E_R(s)=0 only on a zero of ζ lying on the critical line, but it is not a proof of RH because the critical-line penalty has been inserted manually.
-
-The open Regime problem is therefore sharper:
-
-construct a non-artificial mirror-redundancy functional, arising naturally from the zeta system itself, whose zero set excludes off-critical cancellation.
-
-
+What constraint prevents the full four-point orbit from being realised as stable cancellation, and restricts zeros to the collapsed two-point structure on Re(s)=1/2?
 
 ---
 
@@ -865,8 +693,6 @@ construct a non-artificial mirror-redundancy functional, arising naturally from 
 Number is not a primitive object. It is Distinction formalised — the act of separation made transmissible and composable. One is the unit of Distinction. Primes are the irreducible atoms of Distinction — the separations that resist decomposition. The integers are the complete Distinction record across all scales. The zeta function is the operational summary of all Distinctions accumulated with complex weighting. The zeros are the cancellation events. The Riemann Hypothesis is the claim that cancellation only occurs at the Boundary — the fixed point of the Distinction system's own self-symmetry.
 
 This framing does not dissolve the difficulty of the hypothesis. It does something more useful: it locates the difficulty precisely, and at the correct level.
-
-The paper does not claim that finite Dirichlet-polynomial energies minimise at the critical line. They do not, unless normalised or symmetry-adapted. The critical line is treated not as a raw energy minimum, but as the fixed boundary at which global cancellation would have to be admissible under the completed zeta Regime.
 
 The hypothesis is hard not because the function is complicated, but because the proof requires showing that the generative layer — primes as irreducible Distinctions — has the Boundary symmetry built in as a structural necessity, not merely exhibited at the aggregate output. This is the gap between Interpretation and Regime : the regime boundary is visible and empirically confirmed across all computed zeros; the derivation of that boundary from the interpretive structure of the primes — from what it means for a Distinction to be irreducible — is the missing bridge.
 
