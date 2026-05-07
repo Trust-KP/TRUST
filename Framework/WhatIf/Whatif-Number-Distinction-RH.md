@@ -694,6 +694,24 @@ This indicates that A_N is not a pure function of N, but depends jointly on trun
 
 Accordingly, the finite diagnostic supports the existence of a stable local mirror-imbalance mechanism, but does not support a universal growth exponent for its magnitude. Any proof-level Regime object must therefore account for coupled scaling between truncation and observation, rather than relying on a single-parameter asymptotic law.
 
+A further normalisation was tested after the larger-N stress test showed that the raw growth coefficient A_N was not governed by a universal one-parameter power law. Define the normalised mirror ratio
+
+R_N(u)
+=
+mean_t |O_N(u,t)| / mean_t |E_N(1/2,t)|.
+
+This compares mirror imbalance against the central off-diagonal interaction scale itself.
+
+For larger truncations N = 10000, 20000, 50000 and coupled observation windows T = √N, T = N, and T = N log N, the ratio R_N(u) is stable in the local regime u ∈ [0.01, 0.08]. The maximum coefficient of variation in this local window is below the configured stability threshold. The ratio is not uniformly stable for larger offsets such as u = 0.20 or u = 0.30, so the claim is local rather than global.
+
+This refines the finite Regime diagnostic. The raw mirror imbalance grows with N and depends on the N/T scaling regime, but the normalised local mirror ratio remains stable after scaling by the central off-diagonal interaction. This suggests that the relevant finite signal is not absolute imbalance magnitude, but relative departure from the central mirror-balance scale.
+
+The candidate finite Regime principle therefore becomes:
+
+near σ = 1/2, off-diagonal mirror imbalance grows approximately linearly with distance from the boundary when measured relative to the central interaction scale.
+
+This remains a finite diagnostic only. It does not establish an analytic constraint for ζ(s), but it sharpens the target: a proof-level Regime object should explain why local mirror imbalance is stable relative to the central off-diagonal scale and why complete cancellation cannot be maintained away from the critical boundary.
+
 ### 9.6 Phase-Pair Closure and Minimal Symmetry
 
 As established, the critical‑line collapse realises only Z₂.
