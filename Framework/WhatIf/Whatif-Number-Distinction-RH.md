@@ -21,7 +21,7 @@ This reframing has structural consequences for the Riemann Hypothesis. If number
 
 The paper applies the KP Meta-System framework (Gew 2026) to number through the six-state path (Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation) and four irreducible dimensions (Interpretation / Structure / Regime / Realisation). Natural number sits at the Distinction stage of this path — exactly as quantum physics sits at the Possibility stage. The Riemann Hypothesis is a Continuation test: it asks whether the Distinction structure sustains its deepest symmetry across all scales. The proof has resisted discovery not because the function is complicated, but because the proof requires bridging the generative layer (primes as irreducible Distinctions) to the aggregate (zeros as cancellation events) — a bridge that lives in the structural gap between Regime  and Interpretation . The regime boundary is visible. The derivation of that boundary from the interpretive structure of the primes has not been closed.
 
-The paper separates additive cancellation, multiplicative structure, and global pairwise interaction, and finds that the missing Regime is a constraint forcing |ζ(s)|² to zero only on Re(s)=1/2.
+The paper separates additive cancellation, multiplicative structure, and global pairwise interaction, and identifies the missing Regime as a constraint preventing complete cancellation away from Re(s)=1/2. Finite diagnostics suggest that the critical line is not an energy minimum but a mirror-balance centre whose off-diagonal imbalance grows under departure from the boundary.
 
 ---
 
