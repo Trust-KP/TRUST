@@ -688,6 +688,12 @@ For finite truncations of the zeta interaction field, σ = 1/2 is not the point 
 
 A proof-level Regime object would need to convert this finite mirror-imbalance behaviour into an analytic constraint showing that complete cancellation cannot persist away from σ = 1/2 in the infinite completed system.
 
+Further stress testing at larger truncation sizes shows that while the local mirror-imbalance exponent p remains stable, the apparent power-law exponent α is not invariant across different N/T coupling regimes. In particular, for T growing proportionally to N or N log N, the fitted α increases beyond the previously observed band, whereas for T = √N it remains within it.
+
+This indicates that A_N is not a pure function of N, but depends jointly on truncation size and observation window. The mirror-imbalance signal therefore appears to be governed by a two-parameter scaling structure rather than a single intrinsic power law.
+
+Accordingly, the finite diagnostic supports the existence of a stable local mirror-imbalance mechanism, but does not support a universal growth exponent for its magnitude. Any proof-level Regime object must therefore account for coupled scaling between truncation and observation, rather than relying on a single-parameter asymptotic law.
+
 ### 9.6 Phase-Pair Closure and Minimal Symmetry
 
 As established, the critical‑line collapse realises only Z₂.
