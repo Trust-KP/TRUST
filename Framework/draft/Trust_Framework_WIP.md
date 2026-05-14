@@ -917,6 +917,8 @@ The following chapter examines how stabilised belief is extended into the future
 
 ## 12.1 What Credit Is
 
+The term credit is used here in its forward-operational sense, referring to the deployment of expectation into present action dependent on future contribution, distinct from its use as retrospective attribution of past contribution.
+
 Credibility is a stabilised belief. Credit is the deployment of that belief.
 
 Credibility represents the persistence of expectation regarding the continuation of an agent’s behaviour. It allows observers to rely on accumulated signals without reconstructing the underlying contribution history at each interaction. However, as a stabilised belief, credibility remains a state. It does not, by itself, extend coordination beyond the present moment.
@@ -974,59 +976,132 @@ In such cases, credit extends beyond individual relationships into system-level 
 
 ## 12.3 Forms of Credit
 
-Credit takes many forms across different domains of cooperative activity. These forms share the same structural logic — present resource extension against future contribution — but differ in what is extended and what the forward commitment consists of.
+Credit, as defined in this chapter, refers to the forward deployment of expectation — the use of present action based on expected future contribution.
 
-**Coordination credit** is the extension of cooperation into future interactions on the basis of accumulated mutual trust: agreements, collaborations, alliances, and partnerships where the full value cannot be specified in advance and depends on the continued good faith of both parties. This is the domain of personal relationships, informal agreements, and long-term business partnerships. The credibility basis is the shared history of trust events between the parties; the forward commitment is the continuation of reciprocal contribution; the regime is social norms, reputation, and the ongoing relationship itself.
+The term “credit,” however, also appears in other temporal directions. These include attribution of past contribution (present to past), interpretive judgement of behavioural patterns (present to pattern), and the persistence of past contribution into future expectation (past to future).
 
-**Delegational credit** is the extension of authority and responsibility: assigning an agent to act on behalf of another in a domain where the assigning agent cannot directly supervise every action. This is the domain of employment, professional certification, and institutional governance. The credibility basis is the agent's qualification, track record, and demonstrated regime compliance; the forward commitment is faithful execution of the delegated responsibility; the regime is professional norms, performance review, and accountability structures.
+Among these, only the forward extension constitutes credit as an act. The others represent interpretive or structural conditions that support the operation of credit across time.
 
-**Institutional credit** is the extension of legitimacy and standing: the recognition by one institution of another's authority, competence, or status as a valid interlocutor. This is the domain of diplomatic recognition, accreditation, professional licensing, and inter-institutional cooperation. The credibility basis is the institution's demonstrated structural integrity and regime compliance; the forward commitment is continued adherence to the standards that justify the recognition; the regime is the rules governing the recognition relationship.
+Within this forward-directed structure, credit may be expressed through different dimensions of the framework. These expressions correspond to distinct modes through which contribution is coordinated across time.
 
-**Capability credit** One form of credit involves the extension of quantifiable resources in the present: the extension of monetary resources now in exchange for their return with interest at a future time. This form commonly appears in financial systems. The credibility basis is the borrower's credit history and structural position; the forward commitment is repayment with interest; the regime is contract law and collateral enforcement.
+**Coordination mode (Coordination-Interpretation)**  
+Credit may be expressed through the extension of cooperation on the basis of shared expectation. In this mode, participants act on the belief that reciprocal contribution will continue, even when the full structure of that contribution is not specified in advance. The credibility basis arises from accumulated interaction, and the forward commitment is sustained through continued participation.
 
-These forms of credit are not competing alternatives. In practice, they operate simultaneously and reinforce each other. An institution with strong financial credibility typically also has strong delegational credibility. An agent with strong relational credit often finds it easier to access financial credit. The forms of credit are different expressions of the same underlying mechanism operating through different coordination domains.
+**Obligation mode (Structure-Structure)**  
+Credit may be expressed through explicitly defined commitments that specify the form of future contribution. In this mode, present action is linked to a structured obligation that determines how future contribution is to be delivered. The credibility basis supports the formation of this structure, and the forward commitment is defined in advance.
+
+**Admissibility mode (Identity-Regime)**  
+Credit may be expressed through the recognition of a participant’s standing within a system. In this mode, present action is enabled by the acceptance that a participant will continue to operate within the conditions required by the system. The credibility basis reflects conformity with these conditions, and the forward commitment is the continued maintenance of admissibility.
+
+**Execution mode (Capability-Realisation)**  
+Credit may be expressed through the extension of capacity to act. In this mode, present resources or capabilities are deployed on the basis that future contribution will materialise through execution. The credibility basis reflects demonstrated capability, and the forward commitment is realised through actual delivery over time.
+
+These modes are not mutually exclusive. A single credit relationship may involve multiple modes simultaneously, with interpretation, structure, regime, and realisation operating together within a unified configuration.
+
+Credit therefore does not exist as a single form, but as a structured mechanism that manifests differently depending on how contribution is coordinated across time within the dimensions of the framework.
 
 ## 12.4 Credit and Risk
 
-Credit extension is irreducibly risky. The forward commitment on which credit is based has not yet occurred. The receiving agent's future contribution is not guaranteed.
+Credit is irreducibly uncertain.
 
-The risk structure of credit has three components:
+The defining feature of credit is the temporal separation between present action and future contribution. Because the forward commitment has not yet been realised, the continuation on which credit depends cannot be guaranteed.
 
-**Continuation risk**: the risk that the receiving agent will cease to exist, be incapacitated, or undergo changes that prevent them from fulfilling the forward commitment. This risk arises when the continuation of the receiving agent becomes uncertain.
+Risk therefore arises not as an external condition, but as a structural consequence of credit itself.
 
-**Interpretation risk**: the risk that the credibility signal was misread — that the observer population's expectation of the agent's continuation capacity was wrong, or that it was right about the past but the agent's circumstances have since changed. This risk arises when the interpretation of credibility does not align with future outcomes.
+Risk may also be understood as the redistribution of uncertainty across participants and across time.
 
-**Regime risk**: the risk that the rules governing the credit relationship will not be enforced, or will be enforced differently than anticipated. This is the risk against which legal enforceability, jurisdictional reliability, and institutional robustness are assessed.
+In extending credit, present stability is achieved by acting on expected future contribution. This does not eliminate uncertainty, but shifts and restructures it. The uncertainty associated with future outcomes is redistributed within the credit relationship, embedded within the forward commitment and the conditions that sustain it.
 
-The management of these risks is the function of the credit infrastructure of a cooperative system — the institutions, rules, and practices through which credit can be extended with sufficient confidence to enable the coordination benefits of temporal extension to be realised.
+Credit transforms indeterminate future outcomes into structured expectation. However, this transformation is incomplete. Residual uncertainty remains within the system and may re-emerge when the conditions supporting the expectation no longer hold.
+
+Risk therefore reflects the persistence of uncertainty within structured coordination, and the limits of its redistribution across time.
+
+The risk structure of credit may be understood across three components:
+
+**Structural risk**  
+The risk that the forward commitment is not coherently defined or cannot be sustained in its given form. This arises when the structure linking present action to future contribution is unstable or indeterminate.
+
+**Interpretation risk**  
+The risk that the credibility basis on which credit is extended does not correspond to future behaviour. The interpretation of past contribution may be incomplete, misaligned, or no longer valid under changing conditions. Interpretation risk arises from the gap between inferred expectation and realised outcome.
+
+**Regime risk**  
+The risk that the conditions governing the forward commitment do not persist across time. The structure within which the commitment is embedded may change, degrade, or fail to maintain the conditions under which the commitment was formed. Regime risk arises from the instability of the coordinating framework itself.
+
+**Continuation risk**  
+The risk that the participant whose future contribution is expected will not continue in a manner consistent with that expectation. This includes cessation, transformation, or degradation of capacity such that the forward commitment can no longer be fulfilled. Continuation risk arises from the uncertainty of persistence across the temporal interval.
+
+These risks are not independent. They may interact, reinforce, or propagate through the structure of credit. A change in regime conditions may alter interpretation, which in turn affects the perceived continuation of the participant.
+
+Risk therefore reflects the limits of extending expectation across time. It defines the boundary within which credit can operate, and the conditions under which forward coordination may or may not be sustained.
+
+Credit does not eliminate uncertainty. It operates through it.
 
 ## 12.5 Credit Cycles
 
-Credit is not a static equilibrium. It moves through cycles that are intrinsic to the logic of forward extension under uncertainty.
+Credit cycles operate within the broader cycle of contribution and credibility. 
+They describe how credit itself expands and contracts as expectation is extended across time under uncertainty.
 
-During periods of high credibility stability — when contribution signals are strong, signal transmission infrastructure is intact, and regime enforcement is reliable — credit extends broadly and deeply. The amount of coordination that can be accomplished beyond immediate capacity grows. The temporal reach of cooperative commitments lengthens.
+When credit is extended, it enables new contribution, which generates signals and feeds back into the credibility of participants. This feedback loop allows credit to persist and expand when outcomes align with expectations.
 
-During periods of credibility instability — when contribution signals deteriorate, revelation events undermine established expectations, or regime enforcement weakens — credit contracts. The amount of forward commitment that the observer population will support declines. The temporal reach of cooperation shortens. Coordination that depended on the extended credit becomes impossible, and the systems built upon it must adapt or contract.
+However, the extension of credit also accumulates uncertainty within the system. When this uncertainty re-emerges through new signals or changing conditions, credibility is reassessed and credit contracts. The resulting adjustment feeds back into the contribution process, altering future signals and expectations.
 
-This credit cycle is not a pathology. It is the structural consequence of building cooperation on expectations rather than certainties. The cycle's phases — extension and contraction — correspond to the alignment and misalignment of the credibility signal with the underlying contribution reality.
+Credit cycles therefore form part of a larger process in which contribution, credibility, and credit evolve together across time.
 
-The characteristic failure of credit cycles occurs when the gap between the credibility expectation and the underlying contribution reality becomes too large. When credit has been extended on the basis of credibility signals that have become detached from actual contribution performance — through fraud, through structural decay, through systematic misinterpretation — the correction, when it comes, is sharp. The observer population updates simultaneously, credibility collapses, credit contracts, and the systems that depended on the extended credit are no longer sustainable.
+In extending credit, present coordination is made dependent on future contribution. This process redistributes uncertainty: indeterminate future outcomes are incorporated into forward commitments, allowing action to occur before those outcomes are realised.
 
-The magnitude of credit adjustment depends on the degree of alignment between credibility signals and underlying contribution reality.
+This redistribution does not eliminate uncertainty. It embeds it within the structure of credit.
+
+As credit extends, the amount of uncertainty carried within the system increases. Each forward commitment introduces additional reliance on future conditions, expanding the range over which coordination depends on expectations that have not yet been fulfilled.
+
+When credibility remains stable, this accumulation allows coordination to extend further across time. Expectations persist without continual reinterpretation, and increasingly distant or complex commitments can be sustained.
+
+However, the underlying uncertainty remains present within the system. It may re-emerge when new signals alter the interpretation of credibility, or when structural, regime, or realisation conditions change.
+
+When such changes occur, the alignment between expectation and future outcome is disrupted. The uncertainty that had been embedded within forward commitments becomes visible.
+
+This leads to adjustment.
+
+Forward commitments may be reduced, restructured, or withdrawn. The temporal extension of coordination contracts toward conditions that can be supported by more immediate or more certain expectations.
+
+Credit cycles therefore arise from the accumulation and release of redistributed uncertainty, governed by the stability of credibility.
+
+Expansion corresponds to the continued extension of expectation across time under stable credibility. Contraction corresponds to the re-emergence of uncertainty as credibility is reassessed.
+
+These phases are not anomalies. They are intrinsic to the structure of credit.
+
+Because credit operates by structuring uncertainty rather than eliminating it, any sustained extension across time carries the possibility of subsequent adjustment. Credit cycles therefore define the limits within which future-dependent coordination can be maintained.
 
 ## 12.6 Credit and Continuation
 
-Credit is the mechanism through which the cooperation sequence closes.
+Credit is the mechanism through which expectation is extended across time toward continuation.
 
-Recall the full sequence: Contribution → Signals → Observation → Expectation → Trust → Credibility → Credit → Continuation.
+Within the cooperative sequence — Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation — credit marks the point at which stabilised belief is deployed beyond immediate interaction. It enables present action to depend on future contribution, allowing coordination to persist across temporal intervals.
 
-Credit enables continuation in two senses.
+Credit contributes to continuation in two senses.
 
-**Directly**: Credit extends the agent's capacity beyond what they could accomplish with their immediate resources. This extended capacity enables contribution at scales and over time horizons that would otherwise be impossible. The contribution that credit enables generates new signals, which feed back into the trust and credibility of the agent. If the agent delivers on their forward commitment, their credibility is reinforced. If they fail to deliver, their credibility is damaged. The credit extension is itself a test of the credibility signal.
+**Locally**, credit extends the capacity of participants to act beyond their present conditions. By incorporating expected future contribution into present coordination, it enables actions that would otherwise be constrained by immediate resources or certainty. The outcomes of these actions generate new contributions and signals, which feed back into the formation of expectation, trust, and credibility. In this way, credit forms part of a continuous process in which expectation is tested against realised behaviour. Alignment reinforces credibility and supports further extension, while misalignment alters credibility and constrains subsequent coordination. These adjustments correspond to the expansion and contraction of credit described in the preceding section.
 
-**Systemically**: Credit enables the cooperative system to grow beyond what simultaneous exchange could produce. Every institution that builds over time — every organisation that hires before its revenues arrive, every infrastructure project that constructs before its users pay, every science that funds research before its applications are known — depends on credit. The civilisational scale of cooperative achievement is possible only because credibility-backed credit allows coordination commitments to extend across time.
+**Systemically**, credit enables coordination to persist across time at the level of the system as a whole. By structuring expectation into forward commitments, it allows cooperative activity to extend beyond the limits of direct observation or immediate exchange. The persistence of coordinated systems depends on the sustained interaction between contribution, signal formation, credibility, and credit extension.
 
-Continuation, at the civilisational scale, is therefore not a passive outcome. It is actively produced by the credit mechanism — by the repeated cycle of contribution, signal, trust, credibility, and forward commitment that allows each generation of cooperation to build on what the previous generation created.
+Credit does not produce continuation directly. It defines the conditions under which continuation may be sustained.
+
+Continuation emerges when the expectations embedded within credit remain sufficiently aligned with realised contribution across time. Where this alignment holds, coordination persists. Where it does not, credit contracts and the temporal extension of coordination is reduced.
+
+Credit thus establishes the boundary within which future-dependent coordination can be maintained. Through the repeated extension and reassessment of expectation across time, credit enables cooperative systems to persist, adapt, and evolve.
+
+## 12.7 Credit and Temporal Coordination
+
+Credit operates through the extension of expectation across time. It allows present action to depend on future contribution, and thereby enables coordination beyond immediate capacity.
+
+However, credit is not the only mechanism through which cooperative systems operate across time.
+
+In general, coordinated systems transform indeterminate conditions into stabilised outcomes through different temporal processes. These processes may act on physical production, informational signals, behavioural interpretation, or forward commitment. Each represents a distinct way in which uncertainty is structured and redistributed across time.
+
+Credit represents one such process: the temporal extension of expectation into commitment.
+
+Other processes govern how material outputs are produced, how information is generated and transmitted, and how trust is formed and stabilised through repeated observation. Together, these processes constitute the temporal structure through which cooperative systems persist and evolve.
+
+The following chapter examines these temporal processes in a unified manner, describing how coordination is sustained through the interaction of production, information, trust, and credit across time.
 
 ---
 
