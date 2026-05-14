@@ -674,7 +674,7 @@ At the level of individual interaction, observers interpret signals derived from
 
 However, as interaction extends across time and across multiple contexts, a practical limitation emerges. Observers cannot continuously re-evaluate all available signals from first principles at every moment of decision. The cognitive and informational cost of repeated interpretation becomes prohibitive.
 
-Under these conditions, observers begin to stabilise their expectations.
+Under these conditions, expectations stabilise.
 
 When signals relating to a participant’s behaviour accumulate across interactions and are repeatedly interpreted in a consistent manner, observers form a more durable judgement regarding the likely continuation of that behaviour. This stabilised judgement reduces the need for repeated re-evaluation and allows decisions to be made with lower interpretive effort.
 
@@ -704,7 +704,7 @@ Although credibility arises as a stabilised belief, it does not exist independen
 
 Observers encounter signals relating to a participant’s behaviour across multiple contexts. These signals may arise from direct interaction, from communication with other observers, or from institutional processes that record and transmit information about past behaviour.
 
-As these signals accumulate, they do not remain isolated. They are interpreted together, forming a credibility structure — a configuration through which the observer perceives the participant.
+As these signals accumulate, they do not remain isolated. They are interpreted together, forming a credibility structure — the configuration through which the participant is perceived.
 
 At the point of decision, the observer does not revisit isolated signals or reconstruct the underlying structure. The observer relies on the credibility produced by that structure to resolve whether belief is sufficient for trust to be deployed.
 
@@ -724,25 +724,162 @@ The credibility structure refers to this underlying configuration of signals as 
 
 It is not directly accessed at the point of decision. Instead, it operates as the latent structure that produces the observed credibility judgement.
 
-Because signals originate from different interpretive lenses, the structure is inherently multi-dimensional. However, it is not experienced as separate components. It is experienced as a unified state.
+Because signals originate from different interpretive lenses, the structure is inherently multi-dimensional. However, it is not experienced as separate components. It is experienced as a unified judgement.
 
 Credibility therefore reflects the presence of a structured, multi-dimensional signal configuration that has stabilised into a unified belief regarding the expected continuation of behaviour.
 
-## 11.6 Dynamics of Credibility Structure
+## 11.5 Combinatorial Structure of Credibility
 
-## 11.6 Institutional Credibility
+Credibility arises from a structured configuration of signals accumulated across time. However, this structure is not accessed in its entirety at every moment of decision.
 
-The preceding sections have primarily described credibility at the level of individual agents. But cooperative systems also develop credibility at the institutional level — the stable expectation across the observer population that an institution will continue to perform its coordination function.
+In practical interaction, observers do not recall all available signals relating to a participant. Instead, specific signals become salient depending on the context in which a decision is made.
 
-Institutional credibility follows the same mechanism as individual credibility but operates at a different scale and with a different temporal structure.
+When a situation requires action, only a subset of the credibility structure is activated. This subset consists of the signals that are most relevant to the context, together with the interpretive lenses through which those signals are evaluated.
 
-Institutions accumulate credibility through sustained structural integrity — through consistent application of their own rules, reliable delivery of their coordination function, and demonstrated regime compliance over extended periods. Institutional credibility is slower to build than individual credibility because it requires the consolidation of expectations across much larger observer populations and much longer time periods.
+As a result, the credibility applied at the point of decision is not the full structure, but a selective configuration drawn from it.
 
-Institutional credibility is also more resistant to local failure than individual credibility. Because the observer population's expectation is anchored to the institution's structure and function rather than to any individual's behaviour, the failure of individual participants within the institution does not necessarily undermine the institution's credibility — provided that the institutional regime is seen to respond appropriately to such failures.
+Different contexts activate different signal combinations.
 
-Conversely, institutional credibility can collapse more catastrophically than individual credibility when the failure is structural — when the institution's regime is itself revealed to be illegitimate, captured, or systematically applied in ways that contradict its stated function.
+A participant may be evaluated primarily through realised capability in one context, through relational continuity in another, and through structural validation in a third. In some cases, signals from multiple lenses are activated together, forming pairwise or higher-order combinations. In other cases, a single lens may dominate the interpretation.
 
-The civilisational history of monetary systems, legal orders, and governance institutions is in large part a history of credibility construction, maintenance, and collapse at the institutional scale.
+The meaning of a signal depends on the configuration in which it is activated. A signal interpreted in isolation does not carry the same implication as the same signal interpreted alongside others. Combinations of signals therefore represent interaction effects rather than independent contributions.
+
+The selection of signals and lenses is influenced by the context of interaction.
+
+In situations where observers possess direct relational experience, relational signals may dominate the credibility assessment. In situations where such experience is absent, observers may rely more heavily on signals of realised capability, structural validation, or recognised identity.
+
+As a result, the same participant may be evaluated through different configurations of signals depending on the observer’s position and the context of interaction. Credibility is therefore not only structured by the signals available, but also by which aspects of that structure are activated in a given situation.
+
+Applied credibility is formed through the selective activation of signal combinations within the broader credibility structure.
+
+It is not constructed through exhaustive evaluation, nor through the simple accumulation of all available signals. It emerges through the context-dependent activation of relevant signals and their joint interpretation under the appropriate lenses.
+
+The credibility structure therefore operates in two modes:
+
+- as a latent configuration of accumulated signals across time, and  
+- as an activated configuration through which belief is applied at the point of decision.
+
+The combinatorial nature of credibility arises from this activation process, where different combinations of signals and lenses are engaged depending on the context of interaction.
+
+## 11.6 Signal Independence and Dependence
+
+The credibility applied at the point of decision depends on the signals that are activated within the credibility structure. The reliability of this activated configuration depends on the informational relationship between those signals.
+
+Signals may appear distinct because they arise through different lenses or are encountered in different contexts. A participant may be known through relational interaction, recognised through identity, validated through structure, and assessed through realised outcomes. To the observer, these signals may appear to provide multiple confirmations.
+
+However, signals that appear distinct are not necessarily independent.
+
+Different signals may reflect the same underlying contribution history, or may originate from the same informational source. A reputational signal may derive from earlier performance. A structural validation may be based on the same evaluation that produced a capability signal. Identity recognition may reflect prior institutional validation rather than independent evidence.
+
+As a result, multiple signals may reinforce one another without increasing the informational depth of the credibility structure.
+
+Independence arises when signals provide distinct evidence regarding the participant’s behaviour. Dependence arises when multiple signals trace back to the same underlying source, process, or prior interpretation.
+
+This distinction becomes particularly important under selective activation.
+
+Because only a subset of signals is typically activated at the point of decision, the observer may rely on signals that appear to confirm one another while in fact reflecting the same underlying information. The activated configuration may therefore appear strong while remaining informationally narrow.
+
+Credibility formed from independent signals reflects broader visibility into contribution history. Credibility formed from dependent signals may reflect repeated confirmation of a limited informational base.
+
+Signal dependence therefore introduces the possibility that credibility may be stabilised around incomplete or overlapping evidence.
+
+The strength of credibility is thus determined not only by the number of signals activated, but by the informational depth and independence of those signals within the credibility structure.
+
+## 11.7 Credibility Dynamics
+
+Credibility represents a stabilised belief, but this belief remains subject to change as new signals are encountered.
+
+When a new signal enters a cooperative system, it is interpreted in relation to the existing credibility structure. The effect of this signal depends on how it interacts with the signals already present and the configuration through which credibility has been stabilised.
+
+In some cases, new signals reinforce the existing structure. When a signal aligns with previously observed patterns and provides consistent evidence regarding the expected continuation of behaviour, it may strengthen the credibility applied at the point of decision. This reinforcement is more substantial when the signal extends the informational depth of the structure rather than repeating what is already known.
+
+In other cases, new signals weaken the existing structure. When a signal contradicts or challenges previously stabilised expectations, it may reduce the credibility associated with the participant. The degree of weakening depends on how central the affected signals are within the activated configuration and whether alternative signals continue to support the existing belief.
+
+New signals may also reorganise credibility. A signal may not simply strengthen or weaken belief, but alter how existing signals are interpreted. Information that previously appeared consistent may be reinterpreted as partial or incomplete. Signals that were considered independent may be understood as related. In such cases, the credibility structure is not only adjusted, but reconfigured.
+
+The effect of a signal depends on the structure into which it enters. A signal that reinforces credibility in one context may weaken it in another if it conflicts with the existing configuration of signals.
+
+Because credibility is applied through selective activation, these dynamics operate on the subset of signals that are relevant at the point of decision. New signals may enter the broader structure without immediately affecting applied credibility, or may rapidly alter the activated configuration when they become salient within a given context.
+
+Credibility dynamics therefore arise from the interaction between new signals and the existing structure. Reinforcement, weakening, and reconfiguration represent different ways in which stabilised belief adjusts as the informational environment evolves.
+
+## 11.8 Credibility Entropy
+
+Credibility may appear stable even when the structure supporting it is fragile.
+
+This fragility arises when the signals within a credibility structure appear diverse but are informationally dependent. Multiple signals may be observed across different contexts, lenses, or sources, giving the impression that the participant’s behaviour has been broadly confirmed.
+
+However, when these signals derive from the same underlying informational base, their apparent diversity may conceal structural dependence.
+
+In such cases, the credibility structure contains hidden correlation. Signals reinforce one another not because they provide distinct evidence, but because they reflect the same underlying contribution history or prior interpretation.
+
+As a result, the structure may exhibit apparent stability while lacking informational depth.
+
+This condition defines credibility entropy.
+
+Entropy describes the divergence between the apparent strength of a credibility structure and the actual independence of the signals supporting it. The greater this divergence, the more fragile the structure becomes despite appearing stable.
+
+Because credibility is applied through selective activation, this fragility may not be immediately visible. The activated configuration may continue to support belief until a new signal becomes salient that exposes the underlying dependence.
+
+When such a signal is encountered, multiple elements of the credibility structure may be affected simultaneously. Signals that previously appeared independent may be reinterpreted as overlapping or derivative. The credibility applied at the point of decision may therefore change rapidly, not because all signals have changed, but because their informational relationship has been reassessed.
+
+What appears as sudden loss of credibility may therefore reflect the delayed recognition of structural fragility already present within the system.
+
+Credibility entropy therefore explains how stabilised belief may persist under conditions of hidden dependence and adjust abruptly when that dependence becomes visible.
+
+## 11.9 Institutional Credibility
+
+Credibility does not arise only around individual participants. It also arises at the level of institutions within cooperative systems.
+
+At the individual level, credibility is formed through signals encountered across direct interaction, communication, and observation. At the institutional level, the same structure applies, but the signals through which contribution history becomes visible are more heavily mediated.
+
+Institutional signals are often generated, recorded, and transmitted through structured processes. Behaviour is represented through reports, records, certifications, decisions, and observable outcomes that persist beyond any single interaction. These signals circulate across a wider population of observers and are interpreted across multiple contexts.
+
+As a result, institutional credibility emerges from the accumulation and configuration of signals that are distributed, standardised, and shared across observers rather than directly experienced.
+
+The credibility structure at institutional scale therefore reflects a broader informational field. Signals may originate from operational outcomes, structural consistency, identity recognition, or relational continuity across stakeholders. These signals are interpreted through the same lenses as at the individual level, but their form is often encoded within systems that extend beyond immediate interaction.
+
+Because institutional signals persist and circulate, credibility may stabilise across larger populations and longer time horizons. Observers may rely on institutional credibility without direct interaction, drawing on signals that have been recorded and transmitted through collective processes.
+
+At the same time, the dependence and entropy described in earlier sections may also operate at institutional scale. Signals that appear diverse may derive from shared informational bases. Reinforcement may occur through repeated transmission rather than independent observation. As a result, institutional credibility may appear broadly supported while remaining dependent on underlying structures that are not directly visible.
+
+At institutional scale, credibility may appear more stable because it is supported by a larger number of signals and a broader population of observers. This distributed support allows credibility to persist even when individual signals weaken or isolated events occur.
+
+However, this apparent stability does not eliminate fragility.
+
+Because institutional credibility is mediated through circulating signals, it remains sensitive to signals that alter the interpretation of the structure as a whole. A newly encountered signal may not represent a structural failure in itself, but may change how existing signals are understood. When such reinterpretation occurs, multiple elements of the credibility structure may be affected simultaneously.
+
+Institutional credibility may therefore adjust rapidly even when the underlying structure has not changed, reflecting a shift in how signals are interpreted rather than a direct change in the contribution history itself.
+
+It therefore reflects the same underlying structure as individual credibility, but expressed through mediated signals, distributed observation, and extended temporal persistence.
+
+At this scale, credibility becomes part of the shared informational environment within which cooperation occurs, allowing participants to form expectations and coordinate without direct personal experience of one another.
+
+## 11.10 Credibility and the Transition to Credit
+
+The preceding sections have described how signals derived from contribution history are interpreted, structured, and stabilised into credibility.
+
+Credibility represents a stabilised belief regarding the expected continuation of behaviour. It allows observers to rely on accumulated signals without reconstructing the underlying structure at each interaction. Through this stabilisation, credibility reduces the interpretive burden of cooperation under uncertainty.
+
+However, credibility remains a state of belief.
+
+By itself, it does not produce coordination across time.
+
+In cooperative systems, participants must act not only on what has been observed, but on what is expected to occur. Decisions are made in the present, while the outcomes of those decisions often depend on future behaviour that has not yet been realised.
+
+A participant may be considered credible, but this credibility becomes consequential only when it is used to support action that extends beyond immediate interaction.
+
+At this point, the role of credibility changes.
+
+What has been stabilised as belief is now used as a basis for commitment, delegation, or reliance that depends on future continuation. The observer acts as if the expected behaviour will persist, even though this continuation remains uncertain.
+
+This extension from belief to action introduces a new condition within the framework.
+
+Credibility enables expectation. Expectation alone is not sufficient to sustain coordination across time. For cooperation to extend beyond immediate interaction, expectation must be deployed in a form that allows present action to depend on future outcomes.
+
+This condition defines the transition to credit.
+
+The following chapter examines how stabilised belief is extended into the future and used to support coordination through the mechanism of credit.
 
 ---
 
