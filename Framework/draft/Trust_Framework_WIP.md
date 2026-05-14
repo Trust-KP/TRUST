@@ -617,11 +617,11 @@ The Identity lens therefore compresses wider histories of validation or reputati
 
 Examples include professional titles, institutional prestige, religious roles, national symbols, and cultural traditions.
 
-Procedural validation reduces the amount of personal trust required for coordination by transferring evaluation responsibility from individual observers to recognised institutional processes.
-
 ### 10.4.3 Structural lens
 
 The Structural lens interprets signals derived from contribution history of the participant through adherence to recognised processes, rules, and governance structures.
+
+Procedural validation reduces the amount of personal trust required for coordination by transferring evaluation responsibility from individual observers to recognised institutional processes.
 
 Within this lens, observers rely on the integrity of defined procedures rather than on direct familiarity with the individual participant. 
 
@@ -679,8 +679,6 @@ As a result, trust interpretation within institutional settings reflects the eva
 
 ## 11.1 Origin of Credibility
 
-Human observers operate under persistent uncertainty.
-
 In any cooperative system, participants must repeatedly form expectations about the behaviour of others based on incomplete and imperfect information.
 
 At the level of individual interaction, observers interpret signals derived from past contribution events to form trust judgements. These judgements are inherently local and provisional. Each new interaction may introduce new signals that confirm, contradict, or alter prior expectations.
@@ -693,7 +691,7 @@ When signals relating to a participant’s behaviour accumulate across interacti
 
 This stabilised expectation is referred to as credibility.
 
-Credibility therefore represents the condition under which observers treat the participant as believable within a cooperative system. It reflects not a single trust judgement, but the persistence of interpreted signals across time and contexts to a degree sufficient for observers to rely on them without reinterpreting each underlying signal independently.
+Credibility therefore represents the observer's stabilised belief regarding a participant within a cooperative system. It reflects not a single trust judgement, but the persistence of interpreted signals across time and contexts to a degree sufficient for the observer to rely on them without reinterpreting each underlying signal independently.
 
 ## 11.2 Credibility as Stability of Belief
 
@@ -896,7 +894,7 @@ A participant may be considered credible, but this credibility becomes consequen
 
 At this point, the role of credibility changes.
 
-What has been stabilised as belief is now used as a basis for commitment, delegation, or reliance that depends on future continuation. The observer acts as if the expected behaviour will persist, even though this continuation remains uncertain.
+What has been stabilised as belief is now used as a basis for commitment, delegation, or reliance that depends on future continuation — the three forms of credit deployment examined in Chapter 12. The observer acts as if the expected behaviour will persist, even though this continuation remains uncertain.
 
 This extension from belief to action introduces a new condition within the framework.
 
