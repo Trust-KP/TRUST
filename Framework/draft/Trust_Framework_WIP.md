@@ -152,7 +152,20 @@ Signals originate from contribution outcomes and exist independently of any spec
 ## Trust Interpretation
 
 The mechanism through which participants evaluate and deploy expectations about future behaviour of the observed participant, formed through the interpretation of signals derived from observed contribution outcomes.
- 
+
+## Credibility
+
+The stabilised condition of belief that arises when interpreted signals  relating to a participant accumulate across time and contexts to a degree sufficient for observers to rely on them without continuous re-evaluation.
+
+Credibility is formally developed in Chapter 11.
+
+## Credit
+
+The deployment of credibility to support action that extends beyond immediate interaction, enabling commitment, delegation, or reliance 
+dependent on future continuation.
+
+Credit is formally developed in Chapter 12.
+ 
 # 3.	THEORY OF CONTINUATION (Ontology Elaboration)
 
 All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Continuation represents the condition under which a system retains sufficient structure, capability, and coordination to survive the pressures acting upon it across time.
