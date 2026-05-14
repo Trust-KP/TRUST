@@ -1033,11 +1033,10 @@ Each stage is irreducible to the preceding stage. Credibility cannot be possesse
 
 The following definitions add the contextual structure through which trust, credibility, and credit operate in practice.
 
-**Trust** is a context-bound interpretive judgement through which observers deploy an expectation of continuation, inferred from observed contribution outcomes, to enable coordination under uncertainty, by evaluating the expected persistence of identity, capability, structure, and coordination.
+**Trust** is a context-bound interpretive judgement through which an observer deploys an expectation of continuation, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
 
-**Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, producing a durable basis for evaluating an agent's continuation capacity.
+**Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating an agent's expected continuation of behaviour.
 
-**Credit** is the extension of resources or commitments in the present, justified by credibility, to enable coordination beyond immediate capacity and across time.
-
+**Credit** is the extension of resources or commitments in the present, drawing on stabilised credibility, to enable coordination beyond immediate capacity and across time.
 
 ---
