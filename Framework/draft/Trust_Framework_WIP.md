@@ -658,6 +658,21 @@ Unlike interpersonal interpretation, the capability lens does not depend on rela
 
 In principle, if contribution histories were fully observable and reliably recorded, instrumental interpretation would provide the most precise representation of continuation-relevant behaviour. In practice, however, contribution histories remain partial, bounded, and mediated through institutional observation systems.
 
+### 10.4.5 The Four Lenses and the Structure of Being
+
+The four interpretive lenses are not arbitrary categories. They correspond to the four irreducible dimensions through which any system becomes observable: Being, Structure, Regime, and Realisation.
+
+Each lens reads one aspect of the agent's external expression:
+
+|Lens| Aspect of external expression evaluated|
+|--|--|
+|Coordination| Being — what the agent means and how it is recognised within shared interaction|
+|Identity| Regime — how the agent has been institutionally validated and admitted to standing|
+|Structural| Structure — how the agent's commitments are procedurally organised|
+|Capability| Realisation — what the agent has demonstrably delivered|
+
+The lenses are therefore observer-side evaluation mechanisms; the four pillars are system-side dimensions of expression. Each lens evolves to read the pillar through which the agent presents the corresponding signal.
+
 ## 10.5 Institutional Trust Infrastructure
 
 In large cooperative systems, individual observers cannot independently interpret all signals derived from contribution history. Societies therefore develop institutional structures that perform validation and signal processing on behalf of participants.
@@ -911,6 +926,26 @@ This condition defines the transition to credit.
 
 The following chapter examines how stabilised belief is extended into the future and used to support coordination through the mechanism of credit.
 
+## 11.11 The Four Aspects of Forward Coordination
+
+The preceding chapters have developed the framework through observer-side mechanisms: signals are observed, interpreted through evaluation principles, and stabilised across lenses into credibility. The four lenses introduced in Chapter 10.4 — Coordination, Identity, Structural, and Capability — describe how an observer evaluates an agent's behaviour from different vantage points.
+
+Each lens, however, reads a corresponding aspect of the agent itself. The Coordination lens reads how the agent generates and sustains meaning in interaction. The Structural lens reads how the agent's commitments are organised. The Identity lens reads whether the agent has been admitted to standing within the system's conditions. The Capability lens reads whether the agent's contributions are realised in observable outcomes.
+
+These four aspects — what may be referred to as Interpretation, Structure, Regime, and Realisation — are not separate from the lenses but are what the lenses are designed to read. They constitute the four system-side aspects that any cooperative agent must sustain for coordination to occur.
+
+The transition from credibility to credit makes this structure consequential. Credibility is the stabilised observer-side belief; credit is the deployment of that belief into commitment that depends on the agent's continued operation across all four aspects. A credit relationship therefore requires that all four aspects of the agent remain forward-projectable:
+
+Interpretation must persist for the signal of commitment to retain meaning. 
+
+Structure must persist for the form of the commitment to remain coherent.
+
+Regime must persist for the conditions admitting the commitment to remain valid. 
+
+Realisation must persist for the future contribution to materialise.
+
+The four dimensions of credit introduced in the following sections, and the four corresponding risk types in Chapter 12.4, follow directly from this requirement.
+
 ---
 
 # 12. CREDIT — EXTENSION BEYOND IMMEDIATE CAPACITY
@@ -959,6 +994,9 @@ These components map onto the four dimensions of the framework:
 | Forward commitment structure (the form of the obligation or contribution) | Structure |
 | Conditions governing the commitment across time | Regime|
 | Execution of present and future contributions | Realisation|
+
+These four dimensions — Interpretation, Structure, Regime, Realisation — are the irreducible dimensions of any system, developed in The Ontology of Everything (Gew 2026). In the Trust Framework, they appear as the structural components of a credit relationship, while the four lenses (Coordination, Identity, Structural, Capability) introduced in §10.4 are the corresponding observer-side mechanisms for evaluating them. The credit modes in §12.3 pair each lens with the dimension it reads.
+
 
 Credit is structurally complete only when all four dimensions are present.
 
