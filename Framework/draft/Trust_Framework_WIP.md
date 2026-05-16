@@ -1533,6 +1533,8 @@ A theory that cannot be precisely stated cannot be tested, applied, or extended.
 
 The definitions operate at two levels: the ontological level, which situates trust, credibility, and credit within the structure of any cooperative system; and the operational level, which states how they function in practice.
 
+In addition, this chapter establishes the structural conditions under which these definitions remain valid. These conditions are not domain-specific rules, but minimal constraints required for interpretability, stability, and deployment within cooperative systems.
+
 ## 14.2 Ontological Formalisation
 
 The following definitions express trust, credibility, and credit as structural positions within cooperative continuation systems.
@@ -1545,11 +1547,15 @@ The following definitions express trust, credibility, and credit as structural p
 
 These three definitions express the same underlying logic at three successive stages of coordination:
 
-- Trust is the act of deploying an expectation (one observer, one context, one moment).
-- Credibility is the durability of that act across multiple observers and contexts (the expectation becomes a stable property of the agent).
-- Credit is the forward deployment of credibility — the commitment of present resources in anticipation of future continuation (the expectation enables action).
+Trust is the act of deploying an expectation (one observer, one context, one moment).
+
+Credibility is the durability of that act across multiple observers and contexts (the expectation becomes a stable property of the agent).
+
+Credit is the forward deployment of credibility — the commitment of present resources in anticipation of future continuation (the expectation enables action).
 
 Each stage is irreducible to the preceding stage. Credibility cannot be possessed without prior trust having been formed. Credit cannot be extended without prior credibility having been established.
+
+These definitions describe the structural sequence through which expectation is deployed, stabilised, and extended within cooperative systems.
 
 ## 14.3 Operational Formalisation
 
@@ -1560,6 +1566,14 @@ The following definitions add the contextual structure through which trust, cred
 **Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating an agent's expected continuation of behaviour.
 
 **Credit** is the extension of resources or commitments in the present, drawing on stabilised credibility, to enable coordination beyond immediate capacity and across time.
+
+The operational validity of these definitions depends on the presence of minimal structural conditions:
+	•	Signals must be admissible within the receiving system.
+	•	Interpretation must occur under a consistent evaluation principle.
+	•	Stabilisation must persist across sufficient time or observer alignment to reduce reinterpretation.
+	•	Forward deployment must occur across a non-zero temporal interval.
+
+These conditions do not prescribe how systems operate, but define the minimal requirements under which trust, credibility, and credit can be meaningfully formed and applied.
 
 ## 14.4 System-Relative Credibility
 
@@ -1572,9 +1586,9 @@ Credibility is always formed within a specific interpretive and structural conte
 As a result, the same underlying contribution signals may give rise to different credibility structures when interpreted within different systems.
 
 A participant whose contribution history generates strong credibility in one system may not be attributed the same credibility in another. This variation does not arise from a change in the underlying contribution events, but from differences in:
-	•	signal admissibility (which signals are recognised as valid evidence),
-	•	interpretive weighting (how signals are evaluated), and
-	•	structural conditions (how signals are organised and stabilised).
+• signal admissibility (which signals are recognised as valid evidence),
+• interpretive weighting (how signals are evaluated), and
+• structural conditions (how signals are organised and stabilised).
 
 Credibility is therefore system-relative.
 
@@ -1602,13 +1616,12 @@ Where signals move across systems, credibility is not transferred but reconstruc
 
 The multi-dimensional structure of credibility may be represented as a grid formed by the intersection of interpretive lenses and system-side aspects.
 
-This grid does not define fixed categories of credit or credibility. 
-It represents a structural space within which credibility judgements may be located according to their dominant configuration.
+This grid does not define fixed categories of credit or credibility. It represents a structural space within which credibility judgements may be located according to their dominant configuration.
 
 Each position corresponds to a particular pairing between:
 
-- an interpretive lens (how signals are evaluated), and  
-- a system-side aspect (what is being evaluated)
+an interpretive lens (how signals are evaluated), and
+a system-side aspect (what is being evaluated)
 
 A given credibility judgement or credit instrument may be associated with a dominant position within this space. However, it may also draw on multiple positions simultaneously.
 
@@ -1628,6 +1641,6 @@ This structure is not system-independent. As established in section 14.4, credib
 
 The representation introduced in section 14.5 provides a structural view of this process. Credibility and credit may be located within a multi-dimensional space defined by interpretive lenses and system-side aspects. These positions reflect dominant configurations rather than fixed classifications, allowing for variation across contexts and systems.
 
-The purpose of this chapter has been to establish definitional clarity and structural representation.
+The purpose of this chapter has been to establish definitional clarity, structural positioning, and minimal operational conditions.
 
 The admissibility, constraints, and governing conditions under which these structures operate are not part of formalisation. They belong to the regime layer of the framework and are developed in the following chapter.
