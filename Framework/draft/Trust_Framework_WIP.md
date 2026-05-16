@@ -240,15 +240,15 @@ Systems that coexist within the same environment do not automatically cooperate.
 
 Within coexistence systems, interactions may take many forms including competition, avoidance, domination, or passive coexistence. In these situations, systems influence one another’s continuation conditions without forming shared expectations or coordinated behaviour. Cooperation becomes possible only when the perceived risks of interaction fall below a threshold at which continued engagement is considered preferable to conflict, domination, or withdrawal.
 
-The cooperative boundary therefore represents the point at which interaction risk becomes sufficiently manageable for participants to rely on repeated engagement rather than defensive behaviour. Below this boundary, systems remain in coexistence, responding primarily through deterrence, avoidance, or competition. Above this boundary, participants begin to form expectations about one another’s behaviour and coordinated interaction becomes possible.
+The cooperative boundary therefore represents the point at which interaction risk becomes sufficiently manageable for participants to rely on repeated engagement rather than defensive behaviour. This occurs when observed outcomes align sufficiently with expectations, reducing the perceived uncertainty of continued interaction.
 
 Several structural conditions influence the position of the cooperative boundary. These include the degree of capability asymmetry between interacting participants, the reversibility of potential losses, the availability of communication or signal interpretation, and the expected cost of conflict relative to cooperation. When capability asymmetry becomes extreme or potential losses are irreversible, participants may remain below the cooperative boundary even when mutual benefits from cooperation exist.
 
-Crossing the cooperative boundary allows a new form of system interaction to emerge. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
+The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be sustained through continued alignment between expectation and realised outcomes. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
 
 The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems. It defines the structural condition under which participants shift from defensive interaction toward coordinated behaviour.
 
-Only after this boundary is crossed can temporal coordination processes develop, enabling the emergence of trust, credibility, credit, and institutional cooperation.
+Only after this boundary is crossed can temporal coordination processes develop and sustain cooperation across time.
 
 Within the Trust Framework, the cooperative boundary provides the necessary condition for the formation of trust-based coordination. By identifying the threshold at which interaction becomes stable enough for repeated engagement, it explains how systems move from mere coexistence toward sustained cooperation capable of supporting institutional and civilizational continuation. 
 
@@ -258,11 +258,13 @@ Systems that cross the cooperative boundary and begin coordinating behaviour fac
 
 The sequence that follows describes continuation at the level of temporal coordination between participants, which operates within, and contributes to, the continuation of the broader coexistence system.
 
-Temporal coordination arises when participants use observations of past behaviour to form expectations about future interaction. Actions performed by participants generate observable signals that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
+Actions performed by participants generate realised contributions, which produce observable outcomes that other participants can interpret as signals.
+
+Temporal coordination arises when participants interpret observations of past behaviour to form expectations, which may be deployed through trust in subsequent interaction. Actions performed by participants generate observable signals that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
 
 Because coordination occurs across time, cooperation remains inherently provisional. Each interaction produces new information that may reinforce or weaken existing expectations. When observed outcomes confirm prior expectations, the perceived reliability of cooperation increases and coordination becomes more stable. When outcomes contradict expectations, confidence deteriorates and coordination may weaken or collapse.
 
-Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences produce signals that other participants interpret when forming expectations about future behaviour. Based on these expectations, participants decide whether to continue cooperating. The resulting interactions generate new outcomes and signals, restarting the cycle.
+Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences produce signals that other participants interpret when forming expectations about future behaviour. Based on these expectations, participants deploy expectation into further coordinated action, extending cooperation across time. The resulting interactions generate new outcomes and signals, restarting the cycle.
 
 Through this iterative process, systems are able to coordinate behaviour across time without requiring certainty about the future. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
 
@@ -1234,6 +1236,8 @@ Trust interprets reliability.
 Credit extends commitment.
 
 Through repeated operation, the cycle stabilises the cooperative boundary. It maintains the conditions under which participants continue to engage in coordinated activity.
+
+At different points within the temporal structure, contribution may be represented in forms that enable its transfer across agents or across time.
 
 The cooperative boundary is therefore not a one-time transition. It is a continuously sustained condition, dependent on the ongoing operation of temporal coordination.
 
