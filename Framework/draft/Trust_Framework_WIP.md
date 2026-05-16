@@ -699,6 +699,12 @@ Institutional environments do not interpret trust independently. Instead, they s
 
 As a result, trust interpretation within institutional settings reflects the evaluation of organisational contribution histories within structured signal environments, whereas interpersonal contexts rely more heavily on direct observation and less formalised signals.
 
+Signals are not interpreted in isolation from the systems within which they are received. 
+
+Observers—whether individuals or institutions—apply interpretive lenses within structured environments that determine which signals are admissible, how they are weighted, and how they are combined. 
+
+As a result, the same underlying contribution signals may give rise to different trust judgements across systems. Trust formation is therefore not only a function of signals and evaluation principles, but also of the structural context within which interpretation occurs.
+
 # 11. CREDIBILITY
 
 ## 11.1 Origin of Credibility
@@ -746,6 +752,10 @@ As these signals accumulate, they do not remain isolated. They are interpreted t
 The formation of such structure is not optional. Without organisation of signals into a coherent configuration, observers would be required to reconstruct expectations from first principles at each interaction. The emergence of credibility structure therefore reflects the necessity of reducing interpretive complexity under conditions of repeated interaction.
 
 At the point of decision, the observer does not revisit isolated signals or reconstruct the underlying structure. The observer relies on the credibility produced by that structure to resolve whether belief is sufficient for trust to be deployed.
+
+The credibility structure should not be understood as a fixed or universally shared configuration.  It is formed within the interpretive context of the observer or observing system. 
+
+Different observers or institutions may construct different credibility structures from the same underlying signals, depending on the interpretive lenses applied and the structural conditions governing signal admissibility.
 
 Credibility therefore allows observers to act without reconstructing expectations from first principles at each interaction. It emerges through the accumulation of signals and their organisation into a coherent structure.
 
@@ -804,7 +814,19 @@ The credibility structure therefore operates in two modes:
 
 The combinatorial nature of credibility arises from this activation process, where different combinations of signals and lenses are engaged depending on the context of interaction.
 
-## 11.6 Signal Independence and Dependence
+## 11.6 — System-Relative Credibility
+
+Credibility does not transfer across systems as a fixed structure.
+
+When a participant enters a new system—such as an institution or a different social domain—the participant’s credibility is not carried intact. Instead, signals associated with that participant are reinterpreted within the receiving system’s own interpretive and structural conditions.
+
+Each system applies its own criteria of admissibility, weighting, and validation. As a result, the credibility attributed to a participant is always system-relative.
+
+This implies that credibility cannot be treated as a universal scalar quantity. It exists as a structured configuration that is reconstructed within each observing system.
+
+The same participant may therefore be credible in one system and not credible in another, even when the underlying contribution history remains unchanged.
+
+## 11.7 Signal Independence and Dependence
 
 The credibility applied at the point of decision depends on the signals that are activated within the credibility structure. The reliability of this activated configuration depends on the informational relationship between those signals.
 
@@ -828,7 +850,7 @@ Signal dependence therefore introduces the possibility that credibility may be s
 
 The strength of credibility is thus determined not only by the number of signals activated, but by the informational depth and independence of those signals within the credibility structure.
 
-## 11.7 Credibility Dynamics
+## 11.8 Credibility Dynamics
 
 Credibility represents a stabilised belief, but this belief remains subject to change as new signals are encountered.
 
@@ -846,7 +868,7 @@ Because credibility is applied through selective activation, these dynamics oper
 
 Credibility dynamics therefore arise from the interaction between new signals and the existing structure. Reinforcement, weakening, and reconfiguration represent different ways in which stabilised belief adjusts as the informational environment evolves.
 
-## 11.8 Credibility Entropy
+## 11.9 Credibility Entropy
 
 The effects described in the preceding section become particularly pronounced when signals within the credibility structure are not independent.
 
@@ -872,7 +894,7 @@ What appears as sudden adjustment in credibility may therefore reflect the delay
 
 Credibility entropy therefore explains how stabilised belief may persist under conditions of hidden dependence and adjust abruptly when that dependence becomes visible.
 
-## 11.9 Institutional Credibility
+## 11.10 Institutional Credibility
 
 Credibility does not arise only around individual participants. It also arises at the level of institutions within cooperative systems.
 
@@ -892,6 +914,8 @@ At the same time, the dependence and entropy described in earlier sections may a
 
 At institutional scale, credibility may appear more stable because it is supported by a larger number of signals and a broader population of observers. This distributed support allows credibility to persist even when individual signals weaken or isolated events occur.
 
+Distributed credibility is therefore not only an aggregation across observers, but also across systems, each of which may reconstruct the credibility structure differently.
+
 However, this apparent stability does not eliminate fragility.
 
 Because institutional credibility is mediated through circulating signals, it remains sensitive to signals that alter the interpretation of the structure as a whole. A newly encountered signal may not represent a structural failure in itself, but may change how existing signals are understood. When such reinterpretation occurs, multiple elements of the credibility structure may be affected simultaneously.
@@ -902,7 +926,7 @@ It therefore reflects the same underlying structure as individual credibility, b
 
 At this scale, credibility becomes part of the shared informational environment within which cooperation occurs, allowing participants to form expectations and coordinate without direct personal experience of one another.
 
-## 11.10 Credibility and the Transition to Credit
+## 11.11 Credibility and the Transition to Credit
 
 The preceding sections have described how signals derived from contribution history are interpreted, structured, and stabilised into credibility.
 
@@ -928,7 +952,7 @@ This condition defines the transition to credit.
 
 The following chapter examines how stabilised belief is extended into the future and used to support coordination through the mechanism of credit.
 
-## 11.11 The Four Aspects of Forward Coordination
+## 11.12 The Four Aspects of Forward Coordination
 
 The preceding chapters have developed the framework through observer-side mechanisms: signals are observed, interpreted through evaluation principles, and stabilised across lenses into credibility. The four lenses introduced in Chapter 10.4 — Coordination, Identity, Structural, and Capability — describe how an observer evaluates an agent's behaviour from different vantage points.
 
@@ -988,6 +1012,10 @@ Four structural components define a credit relationship:
 
 **The temporal interval**: the separation between present action and future contribution. Credit exists only where this interval is non-zero. The presence of this interval introduces uncertainty, making the credibility basis necessary.
 
+The credibility basis of a credit relationship is not a fixed object transferred between participants.  It is the activated credibility structure as interpreted within the system in which the credit relationship is formed.
+
+As a result, the same participant may support different credit relationships in different systems, depending on how their credibility is interpreted within each context.
+
 These components map onto the four dimensions of the framework:
 
 | Component | Dimension |
@@ -998,7 +1026,6 @@ These components map onto the four dimensions of the framework:
 | Execution of present and future contributions | Realisation|
 
 These four dimensions — Interpretation, Structure, Regime, Realisation — are the irreducible dimensions of any system, developed in The Ontology of Everything (Gew 2026). In the Trust Framework, they appear as the structural components of a credit relationship, while the four lenses (Coordination, Identity, Structural, Capability) introduced in §10.4 are the corresponding observer-side mechanisms for evaluating them. The credit modes in §12.3 pair each lens with the dimension it reads.
-
 
 Credit is structurally complete only when all four dimensions are present.
 
@@ -1036,11 +1063,38 @@ Credit may be expressed through the recognition of a participant’s standing wi
 **Execution mode (Capability-Realisation)**  
 Credit may be expressed through the extension of capacity to act. In this mode, present resources or capabilities are deployed on the basis that future contribution will materialise through execution. The credibility basis reflects demonstrated capability, and the forward commitment is realised through actual delivery over time.
 
-These modes are not mutually exclusive. A single credit relationship may involve multiple modes simultaneously, with interpretation, structure, regime, and realisation operating together within a unified configuration.
+These modes represent dominant configurations within the credit structure. 
+
+In practice, a single credit relationship may involve multiple dimensions simultaneously, and its classification depends on which dimension dominates the coordination process within the given system.
 
 Credit therefore does not exist as a single form, but as a structured mechanism that manifests differently depending on how contribution is coordinated across time within the dimensions of the framework.
 
-## 12.4 Credit and Risk
+## 12.4 Dominant Position and Non-Equivalence of Credit
+
+Credit instruments should not be interpreted as occupying fixed positions within the structural dimensions.
+
+Each credit relationship exhibits a dominant configuration, reflecting the primary dimension through which coordination is achieved. However, this dominance does not imply exclusivity. Other dimensions may remain active within the same relationship.
+
+As a result, credit instruments are not strictly comparable across different configurations. Two instruments that appear similar may rely on different underlying structures, while different instruments may operate through similar dominant configurations.
+
+Credit is therefore not a single homogeneous construct, but a heterogeneous set of coordination mechanisms structured across multiple dimensions.
+
+## 12.5 System Overlay in Credit Formation
+
+Credit relationships do not arise solely from the participant’s credibility structure. 
+They are formed through the interaction between the participant’s signals and the structure of the system within which credit is extended.
+
+When a participant enters an institutional or societal system, their credibility profile is interpreted through that system’s own structural and regime conditions. The resulting credit instrument reflects this interaction.
+
+Credit formation is therefore an overlay process:
+
+- The participant provides signals derived from contribution history.
+- The receiving system filters, validates, and structures those signals.
+- The resulting credit relationship reflects both the participant and the system.
+
+This explains why the same participant may receive different forms of credit across systems, and why credit instruments cannot be reduced to a single underlying structure independent of context.
+
+## 12.5 Credit and Risk
 
 Credit is irreducibly uncertain.
 
@@ -1076,7 +1130,7 @@ Risk therefore reflects the limits of extending expectation across time. It defi
 
 Credit does not eliminate uncertainty. It operates through it.
 
-## 12.5 Credit Cycles
+## 12.6 Credit Cycles
 
 Credit cycles operate within the broader cycle of contribution and credibility. 
 They describe how credit itself expands and contracts as expectation is extended across time under uncertainty.
@@ -1111,7 +1165,7 @@ These phases are not anomalies. They are intrinsic to the structure of credit.
 
 Because credit operates by structuring uncertainty rather than eliminating it, any sustained extension across time carries the possibility of subsequent adjustment. Credit cycles therefore define the limits within which future-dependent coordination can be maintained.
 
-## 12.6 Credit and Continuation
+## 12.7 Credit and Continuation
 
 Credit is the mechanism through which expectation is extended across time toward continuation.
 
@@ -1129,7 +1183,7 @@ Continuation emerges when the expectations embedded within credit remain suffici
 
 Credit thus establishes the boundary within which future-dependent coordination can be maintained. Through the repeated extension and reassessment of expectation across time, credit enables cooperative systems to persist, adapt, and evolve.
 
-## 12.7 Credit and Temporal Coordination
+## 12.8 Credit and Temporal Coordination
 
 Credit operates through the extension of expectation across time. It allows present action to depend on future contribution, and thereby enables coordination beyond immediate capacity.
 
@@ -1157,7 +1211,7 @@ Credit therefore marks the transition from stabilised belief to temporal coordin
 
 Temporal coordination addresses this requirement. It describes the processes through which cooperation is sustained beyond individual acts of extension.
 
-## 13.2 The Four Temporal
+## 13.2 The Four Temporals
 
 Cooperation across time is structured across four interdependent temporals:
 
@@ -1170,7 +1224,15 @@ These temporals correspond to the operational expression of the framework’s fo
 
 Any system, at any scale, instantiates these temporals through its own operations. The same temporal structure therefore appears across domains, from individual interaction to institutional systems to biological processes.
 
-Each temporal transforms the outputs generated by the preceding temporal, linking realised contribution to subsequent coordination.
+Each temporal operates within a system-specific structure. The outputs of one temporal are not interpreted uniformly across systems, but are processed according to the structural and regime conditions of the receiving system.
+
+As a result, temporal coordination must be understood as system-relative, even though the underlying temporal structure remains invariant.
+
+Each temporal transforms the outputs generated within coordination, and these transformations are typically observed in the sequence:
+
+production → information → trust → credit.
+
+This ordering describes the operational flow of coordination, but does not constrain the point at which observers enter or interpret the system.
 
 **Production Temporal**  
 The realisation of contribution over time. It transforms indeterminate conditions into observable outcomes. Production generates the underlying events upon which all subsequent interpretation depends.
@@ -1192,7 +1254,43 @@ Recursion arises because any participant within a system may itself be understoo
 
 Together, these temporals define the operational structure through which cooperation persists across time.
 
-## 13.3 The Temporal Coordination Cycle
+Temporal processes alone do not guarantee coordination stability across time. For coordination to persist, the outputs of each temporal must stabilise into reference points that can be relied upon by observers. These stabilised reference points are formalised in the following section as temporal anchors.
+
+## 13.3 — Temporal Anchors
+
+Temporal coordination requires not only the existence of production, information, trust, and credit processes, but also the stabilisation of expectation across time.
+
+Within each temporal, systems generate points at which expectation becomes sufficiently stable to be relied upon for coordination. These points are referred to as temporal anchors.
+
+A temporal anchor is a stabilised reference within a temporal process through which expectations about sequence, timing, or continuation become sufficiently aligned across observers to support coordination.
+
+Temporal anchors do not measure time. They make temporal expectation usable for coordination.
+
+Temporal anchors operate as the minimal condition under which temporal expectation becomes shareable across observers. Without such alignment, coordination cannot extend beyond local or immediate interaction. Without anchors, signals remain transient, trust remains local, and credit cannot extend reliably across time. Anchors therefore provide the condition under which temporal coordination becomes repeatable.
+
+Each temporal produces its own class of anchors:
+- Production produces event anchors, where realised contribution establishes
+  expectation of occurrence.
+- Information produces record anchors, where signals are stabilised into
+  transmissible reference points.
+- Trust produces expectation anchors, where interpreted signals stabilise
+  into predictable behavioural expectation.
+- Credit produces commitment anchors, where forward obligations bind
+  expectation across time.
+
+A system does not possess a single anchor. It operates through a configuration of anchors across temporals. The alignment or misalignment of these anchors determines the stability of temporal coordination.
+
+Temporal anchors are system-relative. However, while anchors are system-relative in interpretation, their role as stabilisation mechanisms within temporals is invariant. The same underlying event, record, expectation, or commitment may function as an anchor in one system but not in another, depending on how signals are interpreted and stabilised within that system.
+
+Temporal anchors stabilise expectation about when or in what sequencevevents are expected to occur. They do not determine what is expected to occur, which remains the role of trust and credibility.
+
+## 13.4 The Temporal Coordination Cycle
+
+Temporal coordination operates not only through cyclical movement, but through the stabilisation of expectation within that movement.
+
+Temporal anchors provide local points of stability within each temporal, while the coordination cycle describes how these temporals interact across time.
+
+The cycle therefore operates through transitions between stabilised expectations, where temporal anchors provide the reference points that enable these transitions to be interpreted consistently across time.
 
 The four temporals are linked through a repeating cycle of coordination:
 
@@ -1222,7 +1320,7 @@ The temporals do not replace this sequence. They operationalise it at system lev
 
 Continuation emerges when this cycle persists across time.
 
-## 13.4 Continuation of the Cooperative Boundary
+## 13.5 Continuation of the Cooperative Boundary
 
 The cooperative boundary defines the condition under which cooperation is preferred over withdrawal or conflict.
 
@@ -1241,7 +1339,7 @@ At different points within the temporal structure, contribution may be represent
 
 The cooperative boundary is therefore not a one-time transition. It is a continuously sustained condition, dependent on the ongoing operation of temporal coordination.
 
-## 13.5 Reinforcement and Accumulation
+## 13.6 Reinforcement and Accumulation
 
 The temporal coordination cycle does not operate as a neutral repetition. Its continued operation produces cumulative effects.
 
@@ -1253,6 +1351,8 @@ As alignment persists, coordination extends across longer temporal intervals, in
 
 This extension is accompanied by accumulation.
 
+As accumulation increases, the system becomes increasingly dependent on the stability and alignment of its temporal anchors. Misalignment between anchors across temporals may therefore propagate instability through the coordination cycle.
+
 As coordination extends, reliance on future contribution increases. Signals may become mediated through layers of information, aggregated across participants, or delayed across time. The stability of the system increasingly depends on expectations that are further removed from direct observation.
 
 This introduces structural dependence.
@@ -1261,7 +1361,7 @@ The apparent stability produced by repeated alignment may exceed the information
 
 Temporal coordination therefore involves both reinforcement and accumulation.
 
-Reinforcement strengthens the conditions for continued coordination. Accumulation increases the degree to which coordination depends on the persistence of those conditions.
+Reinforcement strengthens the stability of expectation on which future coordination depends. Accumulation increases the degree to which coordination depends on the persistence of those conditions.
 
 The continuation of the cycle depends on maintaining alignment between accumulated expectation and realised contribution. Where such alignment persists, coordination may extend further. Where it does not, accumulated dependence becomes exposed, and adjustment becomes necessary.
 
@@ -1269,7 +1369,85 @@ As accumulation increases, the stability of temporal coordination becomes increa
 
 Where this alignment cannot be maintained, the accumulated dependence becomes exposed, and the conditions sustaining the cycle begin to deteriorate.
 
-## 13.6 Direction and Reversibility
+Instability may arise not only from failure within a single temporal, but from misalignment between anchors across temporals.
+
+An event anchor may indicate occurrence, while a record anchor delays or distorts transmission, leading to divergence in expectation anchors across observers. Similarly, commitment anchors may persist beyond the conditions supported by production anchors.
+
+Such cross-temporal misalignment may propagate through the coordination cycle, producing instability even when individual temporals remain locally functional.
+
+## 13.7 Entry and Perceived Sequence in Temporal Coordination
+
+The temporal coordination cycle describes an invariant structure through which cooperation is sustained:
+
+Production → Information → Trust → Credit → Production
+
+This structure does not change across contexts. However, participants do not necessarily encounter or engage with the cycle from the same starting point.
+
+The point at which a participant enters the cycle influences how the sequence is perceived in practice.
+
+A participant may begin from realised contribution, from available information, from an existing trust judgement, or from an established commitment structure. Each of these corresponds to a different entry into the same underlying cycle.
+
+As a result, the experienced order of coordination may differ depending on the entry point, even though the underlying structure remains unchanged.
+
+This may be illustrated through a single activity: a farmer repeatedly selling apples within a cooperative system.
+
+**Operation-entry (Production-first)**  
+A participant observing from execution encounters the cycle beginning with realised contribution:
+
+Production → Information → Trust → Credit → Production
+
+Apples are produced and delivered.  
+Outcomes are observed and recorded.  
+Expectations are formed based on observed quality.  
+Commitment is extended through repeat purchase or deferred payment.  
+Production continues.
+
+**Interpretation-entry (Trust-first)**  
+A participant beginning from judgement encounters the cycle through trust:
+
+Trust → Information → Production → Credit → Production
+
+A prior trust judgement is held.  
+Supporting information is recalled or accessed.  
+Production is anticipated and evaluated.  
+Commitment is extended.  
+Production is realised.
+
+**Structure-entry (Information-first)**  
+A participant beginning from records or systems encounters the cycle through information:
+
+Information → Trust → Credit → Production → Information
+
+Recorded outcomes or reputational signals are accessed.  
+Expectations are formed through interpretation.  
+Commitment is established.  
+Production is executed.  
+New information is generated.
+
+**Regime-entry (Credit-first)**  
+A participant beginning from rules or contractual structures encounters the cycle through commitment:
+
+Credit → Production → Information → Trust → Credit
+
+A contractual or institutional structure enables forward commitment.  
+Production is undertaken under that commitment.  
+Outcomes are recorded.  
+Trust is updated through observed alignment.  
+Commitment is sustained or revised.
+
+These variations do not represent different temporal sequences.
+
+They are different entry trajectories into the same coordination cycle.
+
+The temporal structure remains invariant. Entry determines where coordination is first encountered, not how it is constituted.
+
+The variation in perceived sequence arises not only from entry point, but also from the structural context within which the participant operates. Different systems foreground different temporals, leading to variation in perceived ordering even when the underlying cycle remains unchanged.
+
+For this reason, temporal coordination must be understood as a cyclic structure rather than a linear sequence. Participants traverse the same cycle from different positions, and their perception of order reflects their point of entry.
+
+This resolves the apparent variation in observed sequence without requiring any reordering of the underlying temporal structure.
+
+## 13.8 Direction and Reversibility
 
 The temporal coordination cycle may be understood from two complementary perspectives.
 
@@ -1290,7 +1468,7 @@ The backward ordering describes interpretation.
 
 Together, they capture the bidirectional nature of temporal coordination: action generates signals, and signals inform future action.
 
-## 13.7 Imbalance and Failure
+## 13.9 Imbalance and Failure
 
 Failure arises when accumulated dependence described in the preceding section can no longer be sustained.
 
@@ -1311,7 +1489,19 @@ As a result, the cooperative boundary may no longer hold. Interaction risk incre
 
 Failure is therefore not a discrete event, but a breakdown in the sustained alignment of temporal processes.
 
-## 13.8 Closure of the Framework
+## 13.10 Scale and Aspect of Credit
+
+The four-temporal architecture describes the closure of coordination at a single level of abstraction. In practice, each temporal may generate distinct forms of credit depending on the scale of the system and the aspect of the agent to which it is attached.
+
+At different scales, the same temporal may produce different credit forms. Production at the individual level may generate task-based recognition, while at the institutional level it may generate performance records, and at the societal level broader indicators of productive capacity.
+
+Within each scale, credit may attach to different aspects of the agent. Information-based validation may apply to capability (certification), to regime admissibility (licensing), or to identity (membership recognition). These represent distinct forms of credit generated from the same temporal layer.
+
+The four-temporal structure therefore admits a range of credit forms differentiated by scale and by aspect. Cooperative systems in practice operate through a heterogeneous set of such credit instruments, including certification, licensing, reputation, performance indicators, and financial commitments.
+
+A full treatment of scale and aspect differentiation lies beyond the present scope and is developed in related work.
+
+## 13.11 Closure of the Framework
 
 The framework began with the problem of cooperation under uncertainty.
 
@@ -1329,12 +1519,11 @@ This extension represents a higher-order continuation of cooperative systems at 
 
 The Trust Framework therefore closes its argument at the cooperative boundary — the structural condition under which cooperation becomes possible and can be sustained.
 
-
 ---
 
-# 15. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
+# 14. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
 
-## 15.1 Purpose of This Chapter
+## 14.1 Purpose of This Chapter
 
 The preceding chapters have described the conditions under which cooperative systems emerge, the mechanisms through which signals are generated and interpreted, and the structural architecture through which trust judgements form. These descriptions are intentionally non-formal: they map the territory without committing to precise boundary conditions.
 
@@ -1344,7 +1533,7 @@ A theory that cannot be precisely stated cannot be tested, applied, or extended.
 
 The definitions operate at two levels: the ontological level, which situates trust, credibility, and credit within the structure of any cooperative system; and the operational level, which states how they function in practice.
 
-## 15.2 Ontological Formalisation
+## 14.2 Ontological Formalisation
 
 The following definitions express trust, credibility, and credit as structural positions within cooperative continuation systems.
 
@@ -1362,7 +1551,7 @@ These three definitions express the same underlying logic at three successive st
 
 Each stage is irreducible to the preceding stage. Credibility cannot be possessed without prior trust having been formed. Credit cannot be extended without prior credibility having been established.
 
-## 15.3 Operational Formalisation
+## 14.3 Operational Formalisation
 
 The following definitions add the contextual structure through which trust, credibility, and credit operate in practice.
 
@@ -1372,4 +1561,73 @@ The following definitions add the contextual structure through which trust, cred
 
 **Credit** is the extension of resources or commitments in the present, drawing on stabilised credibility, to enable coordination beyond immediate capacity and across time.
 
----
+## 14.4 System-Relative Credibility
+
+Credibility, as developed in the preceding chapters, represents the stabilisation of trust judgements across time, observers, and interaction contexts. This stabilisation allows expectation to persist without continuous reinterpretation, forming the basis for coordinated action under uncertainty.
+
+However, credibility does not exist as a universal or system-independent construct.
+
+Credibility is always formed within a specific interpretive and structural context. Observers—whether individuals, institutions, or collective systems—do not evaluate signals in isolation. They interpret signals through the lenses, structures, and regime conditions that define their own system of coordination.
+
+As a result, the same underlying contribution signals may give rise to different credibility structures when interpreted within different systems.
+
+A participant whose contribution history generates strong credibility in one system may not be attributed the same credibility in another. This variation does not arise from a change in the underlying contribution events, but from differences in:
+	•	signal admissibility (which signals are recognised as valid evidence),
+	•	interpretive weighting (how signals are evaluated), and
+	•	structural conditions (how signals are organised and stabilised).
+
+Credibility is therefore system-relative.
+
+This implies that credibility cannot be treated as a scalar quantity that transfers unchanged across contexts. It is not an intrinsic property of the participant alone, but a structured relation between the participant’s signals and the system within which those signals are interpreted.
+
+When a participant enters a new system, their prior signals are not carried as a complete credibility structure. Instead, those signals are reinterpreted, filtered, and reorganised according to the receiving system’s own interpretive lenses and structural conditions. The resulting credibility is reconstructed within that system.
+
+This reconstruction has two consequences.
+
+First, credibility may diverge across systems. A participant may be highly credible within one institutional or social domain while remaining untrusted in another, even when the underlying contribution history is unchanged.
+
+Second, credibility becomes non-commensurable across systems. Two credibility structures formed in different systems cannot be directly compared without reference to the interpretive and structural conditions under which they were constructed.
+
+System-relative credibility therefore establishes a boundary condition for the deployment of credit.
+
+Because credit depends on the extension of credibility into forward commitment, and because credibility itself is system-relative, credit relationships must also be understood as arising within specific systems rather than transferring directly across them.
+
+This leads to a general principle:
+
+Credibility is stabilised within a system; Credit is extended from that stabilisation within the same system.
+
+Where signals move across systems, credibility is not transferred but reconstructed.
+
+## 14.5 — Structural Representation of Credibility (16-Grid)
+
+The multi-dimensional structure of credibility may be represented as a grid formed by the intersection of interpretive lenses and system-side aspects.
+
+This grid does not define fixed categories of credit or credibility. 
+It represents a structural space within which credibility judgements may be located according to their dominant configuration.
+
+Each position corresponds to a particular pairing between:
+
+- an interpretive lens (how signals are evaluated), and  
+- a system-side aspect (what is being evaluated)
+
+A given credibility judgement or credit instrument may be associated with a dominant position within this space. However, it may also draw on multiple positions simultaneously.
+
+The grid therefore serves as a descriptive representation of structural relationships rather than a classification system.
+
+Its full development, including scale variation and system overlay, is treated in related work.
+
+## 14.6 Formal Closure
+
+The preceding sections have established the formal representation of trust, credibility, and credit within cooperative coordination systems.
+
+These constructs are defined as distinct but sequentially related positions within the coordination process. Trust operates as the deployment of expectation under uncertainty. Credibility represents the stabilisation of such expectations across time and observers. Credit extends this stabilised expectation into forward commitment, enabling coordination beyond immediate interaction.
+
+Together, they form a continuous structure through which expectation is interpreted, stabilised, and deployed across time.
+
+This structure is not system-independent. As established in section 14.4, credibility is formed within specific interpretive and structural contexts, and credit is extended within those same contexts. Signals may circulate across systems, but credibility is reconstructed rather than transferred.
+
+The representation introduced in section 14.5 provides a structural view of this process. Credibility and credit may be located within a multi-dimensional space defined by interpretive lenses and system-side aspects. These positions reflect dominant configurations rather than fixed classifications, allowing for variation across contexts and systems.
+
+The purpose of this chapter has been to establish definitional clarity and structural representation.
+
+The admissibility, constraints, and governing conditions under which these structures operate are not part of formalisation. They belong to the regime layer of the framework and are developed in the following chapter.
