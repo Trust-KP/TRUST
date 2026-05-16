@@ -1141,11 +1141,182 @@ Other processes govern how material outputs are produced, how information is gen
 
 The following chapter examines these temporal processes in a unified manner, describing how coordination is sustained through the interaction of production, information, trust, and credit across time.
 
+# 13. TEMPORAL COORDINATION — THE SUSTENANCE OF COOPERATION
+
+## 13.1 From Credit to Continuation
+
+Credit extends expectation across time. It enables present action to depend on future contribution. However, forward extension alone does not constitute continuation.
+
+Continuation requires that such extension can be sustained and repeated.
+
+A single deployment of credit may enable isolated coordination. Continuation arises only when the conditions that support such deployment persist across successive intervals. This persistence depends not on credit alone, but on the processes through which contribution is produced, information is captured, expectation is formed, and commitment is extended.
+
+Credit therefore marks the transition from stabilised belief to temporal coordination. It enables coordination across time, but does not by itself ensure that coordination continues.
+
+Temporal coordination addresses this requirement. It describes the processes through which cooperation is sustained beyond individual acts of extension.
+
+## 13.2 The Four Temporal Processes
+
+Cooperation across time is sustained through four interdependent temporal processes:
+
+- **Production**
+- **Information**
+- **Trust**
+- **Credit**
+
+These processes correspond to the operational expression of the framework’s four dimensions. They do not represent ontological states, but modes through which coordination unfolds across time.
+
+Each process operates on a distinct aspect of contribution:
+
+**Production**  
+The realisation of contribution. It transforms indeterminate conditions into observable outcomes. Production generates the underlying events upon which all subsequent interpretation depends.
+
+**Information**  
+The capture and transmission of realised contribution. It records, encodes, and distributes evidence of production across participants and contexts. Information makes contribution visible beyond immediate interaction.
+
+**Trust**  
+The interpretation of information into expectation. It evaluates observed signals and forms judgements regarding the continuation of behaviour. Trust stabilises expectation within a given interaction context.
+
+**Credit**  
+The deployment of expectation across time. It converts stabilised belief into forward commitment, enabling present coordination to depend on future contribution.
+
+These processes are distinct but interdependent. No single process is sufficient to sustain coordination across time. Production without information remains local. Information without trust remains uninterpreted. Trust without credit remains undeployed. Credit without production cannot be fulfilled.
+
+Together, they form the operational structure through which cooperation persists.
+
+## 13.3 The Temporal Coordination Cycle
+
+The four temporal processes operate as a closed cycle:
+
+**Production → Information → Trust → Credit → Production**
+
+Production generates realised contribution.  
+Information captures and transmits this contribution as signals.  
+Trust interprets these signals into expectation.  
+Credit deploys this expectation into forward commitment.  
+This commitment enables further production.
+
+The cycle is self-reinforcing but not self-guaranteeing.
+
+Each iteration depends on the alignment between expectation and realised contribution. Where alignment holds, the cycle continues. Where misalignment arises, the cycle is disrupted.
+
+This cycle corresponds to the operational projection of the cooperative sequence:
+
+Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit
+
+The temporal processes do not replace this sequence. They operationalise it at system level, transforming discrete interactions into sustained coordination.
+
+Continuation emerges when this cycle persists across time.
+
+## 13.4 Continuation of the Cooperative Boundary
+
+The cooperative boundary defines the condition under which cooperation is preferred over withdrawal or conflict.
+
+This boundary is not maintained statically. It is reproduced through the temporal coordination cycle.
+
+Each successful iteration of the cycle provides evidence that expected behaviour continues to align with realised outcomes. This repeated alignment sustains the expectation that interaction risk remains within acceptable limits.
+
+Production demonstrates capability.  
+Information communicates evidence.  
+Trust interprets reliability.  
+Credit extends commitment.
+
+Through repeated operation, the cycle stabilises the cooperative boundary. It maintains the conditions under which participants continue to engage in coordinated activity.
+
+The cooperative boundary is therefore not a one-time transition. It is a continuously sustained condition, dependent on the ongoing operation of temporal coordination.
+
+## 13.5 Reinforcement and Accumulation
+
+The temporal coordination cycle does not operate as a neutral repetition. Its continued operation produces cumulative effects.
+
+When successive iterations of the cycle align — where realised contribution corresponds with prior expectation — the processes of production, information, trust, and credit reinforce one another. Each successful cycle strengthens the credibility basis on which future coordination depends, reducing the need for direct verification at each interaction.
+
+Reinforcement is associated with extension.
+
+As alignment persists, coordination extends across longer temporal intervals, involve more participants, and support more complex structures. Expectations stabilise beyond immediate observation, and credit may be deployed with increasing temporal reach. The cooperative boundary is not only maintained, but becomes more readily traversable within the system.
+
+This extension is accompanied by accumulation.
+
+As coordination extends, reliance on future contribution increases. Signals may become mediated through layers of information, aggregated across participants, or delayed across time. The stability of the system increasingly depends on expectations that are further removed from direct observation.
+
+This introduces structural dependence.
+
+The apparent stability produced by repeated alignment may exceed the informational depth supporting it. Signals that appear diverse may derive from common underlying processes. Expectations may persist not because they are continuously verified, but because they are reinforced through prior alignment.
+
+Temporal coordination therefore involves both reinforcement and accumulation.
+
+Reinforcement strengthens the conditions for continued coordination. Accumulation increases the degree to which coordination depends on the persistence of those conditions.
+
+The continuation of the cycle depends on maintaining alignment between accumulated expectation and realised contribution. Where such alignment persists, coordination may extend further. Where it does not, accumulated dependence becomes exposed, and adjustment becomes necessary.
+
+As accumulation increases, the stability of temporal coordination becomes increasingly dependent on the persistence of alignment between expectation and realised contribution.
+
+Where this alignment cannot be maintained, the accumulated dependence becomes exposed, and the conditions sustaining the cycle begin to deteriorate.
+
+## 13.6 Direction and Reversibility
+
+The temporal coordination cycle may be understood from two complementary perspectives.
+
+**Operational ordering (forward):**  
+Production → Information → Trust → Credit → Production
+
+This describes how coordination unfolds across time. Contribution is realised, recorded, interpreted, and extended into future commitment.
+
+**Interpretive ordering (backward):**  
+Observed outcomes → recorded information → interpreted expectation → deployed commitment
+
+This describes how participants reconstruct and evaluate the system from realised states. It reflects the retrospective interpretation through which expectation and credibility are formed.
+
+These orderings do not represent different systems. They are distinct perspectives on the same underlying coordination process.
+
+The forward ordering describes operation.  
+The backward ordering describes interpretation.
+
+Together, they capture the bidirectional nature of temporal coordination: action generates signals, and signals inform future action.
+
+## 13.7 Imbalance and Failure
+
+Temporal coordination depends on the sustained operation of all four processes.
+
+Failure may arise when one or more processes are absent, weakened, or misaligned.
+
+If production fails, contribution does not materialise.  
+If information fails, contribution is not transmitted or becomes distorted.  
+If trust fails, signals are not interpreted into stable expectation.  
+If credit fails, expectation is not deployed into commitment.
+
+Such failures may not be immediate. Weakness in one process may propagate through the cycle, gradually undermining coordination.
+
+When misalignment becomes sufficient, the temporal coordination cycle is disrupted. Expectations are no longer supported by realised outcomes, and forward commitments cannot be sustained.
+
+As a result, the cooperative boundary may no longer hold. Interaction risk increases, and coordination may revert toward conditions of coexistence.
+
+Failure is therefore not a discrete event, but a breakdown in the sustained alignment of temporal processes.
+
+## 13.8 Closure of the Framework
+
+The framework began with the problem of cooperation under uncertainty.
+
+The ontological movement established the conditions under which cooperation becomes possible, culminating in the formation of trust.
+
+The operational movement described how trust is stabilised as credibility and deployed as credit.
+
+The present chapter has shown how credit operates within a system of temporal coordination, through which cooperation is sustained across time.
+
+Through the repeated operation of production, information, trust, and credit, cooperative systems maintain the conditions required for their own continuation. The cooperative boundary is not only crossed, but continuously reproduced.
+
+The operational ascent may be extended further. A sustained cooperative boundary stabilises the coexistence system itself, altering the conditions under which interaction occurs.
+
+This extension represents a higher-order continuation of cooperative systems at civilisational scale. While consistent with the framework presented here, it lies beyond the present scope of analysis.
+
+The Trust Framework therefore closes its argument at the cooperative boundary — the structural condition under which cooperation becomes possible and can be sustained.
+
+
 ---
 
-# 13. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
+# 15. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
 
-## 13.1 Purpose of This Chapter
+## 15.1 Purpose of This Chapter
 
 The preceding chapters have described the conditions under which cooperative systems emerge, the mechanisms through which signals are generated and interpreted, and the structural architecture through which trust judgements form. These descriptions are intentionally non-formal: they map the territory without committing to precise boundary conditions.
 
@@ -1155,7 +1326,7 @@ A theory that cannot be precisely stated cannot be tested, applied, or extended.
 
 The definitions operate at two levels: the ontological level, which situates trust, credibility, and credit within the structure of any cooperative system; and the operational level, which states how they function in practice.
 
-## 13.2 Ontological Formalisation
+## 15.2 Ontological Formalisation
 
 The following definitions express trust, credibility, and credit as structural positions within cooperative continuation systems.
 
@@ -1173,7 +1344,7 @@ These three definitions express the same underlying logic at three successive st
 
 Each stage is irreducible to the preceding stage. Credibility cannot be possessed without prior trust having been formed. Credit cannot be extended without prior credibility having been established.
 
-## 13.3 Operational Formalisation
+## 15.3 Operational Formalisation
 
 The following definitions add the contextual structure through which trust, credibility, and credit operate in practice.
 
