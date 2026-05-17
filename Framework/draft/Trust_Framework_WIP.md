@@ -6,13 +6,13 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 Author: Kok Pian Gew  
-Version: 1.4 
+Version: 1.5 
 Year: 2026  
 Status: Working Paper
 
-Official DOI for this release: [None - minor version]
+Official DOI for this release: [to be added]
 
-This document represents the canonical description of the Trust Framework for version 1.4 within the archived repository snapshot.
+This document represents the canonical description of the Trust Framework for version 1.5 within the archived repository snapshot.
 
 The Trust Framework describes how cooperation emerges and persists within coexistence systems through the interpretation of contribution signals across time.
 
@@ -33,31 +33,11 @@ No part of this publication may be reproduced, stored in a retrieval system, or 
 
 First edition, 2026.
 
-Suggested citation:
+Citation:
 
 Gew, Kok Pian. 2026.
 The Trust Framework: Contribution, Signals, and the Continuation of Cooperation.
 Working Paper / Private Publication. 
-
-## Version Information
-
-**Current Version:** v1.4  
-**Status:** Draft / Working Paper  
-**Author:** Kok Pian Gew  
-**Year:** 2026  
-
-## Version Information
-
-**Current Version:** v1.4_WIP
-**Status:** Draft  
-
-### Version History (Summary)
-
-- v1.4 - Replace agent with participant
-- v1.3 — Origin of Trust (new chapter) + Trust Definition Update
-- v1.2 — Signal Foundations & Evaluation (Ch. 8–9 added)
-- v1.1 — Primitive reorganisation (Ontology vs Operational split)
-- v1.0 — Initial framework release
 
 # Abstract
 
@@ -67,7 +47,7 @@ This paper proposes the Trust Framework, a conceptual model describing how coope
 
 Once this boundary is crossed, temporal coordination becomes possible. Participants begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate observable signals, signals are interpreted under uncertainty to form expectations, which are then evaluated through trust judgements, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
 
-The Trust Framework therefore describes the state development of structural sequence through which cooperation persists across time:
+The Trust Framework therefore describes the structural sequence through which cooperation persists across time:
 
 Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
@@ -1016,6 +996,8 @@ This extension is not incidental. It is the condition that allows coordination t
 
 Credit is therefore not defined by the form of what is extended, but by the temporal structure it introduces. It is the act through which expectation, stabilised as credibility, is deployed to enable coordination beyond the present.
 
+Because credit is defined by its temporal structure rather than its form, the same mechanism appears across domains that are otherwise unrelated.
+
 Credit (in this framework) refers to the domain-independent mechanism of forward capacity extension, of which the following are specific instantiations across domains:
 	•	financial credit (capital extension),
 	•	political authority (governing power),
@@ -1033,7 +1015,9 @@ Credit (in this framework) refers to the domain-independent mechanism of forward
 
 These are not identical in form, but they share the same structural function: each represents a forward extension of capacity grounded in stabilised interpretation of prior contribution.
 
-Any system that supports coordination across time necessarily produces such a mechanism of capacity extension.
+Some instantiations may be less immediately intuitive. A proved mathematical theorem, for example, represents stabilised credibility established through validated proof; its accepted status allows subsequent work to proceed without re-derivation, thereby extending mathematical capacity forward. Similarly, validated data represents contribution whose credibility has been established through verification, enabling decisions without re-collection.
+
+Any system that supports coordination across time necessarily produces a mechanism of capacity extension grounded in stabilised interpretation of prior contribution.
 
 ## 12.2 The Structure of Credit
 
@@ -1321,7 +1305,7 @@ A system does not possess a single anchor. It operates through a configuration o
 
 Temporal anchors are system-relative. However, while anchors are system-relative in interpretation, their role as stabilisation mechanisms within temporals is invariant. The same underlying event, record, expectation, or commitment may function as an anchor in one system but not in another, depending on how signals are interpreted and stabilised within that system.
 
-Temporal anchors stabilise expectation about when or in what sequencevevents are expected to occur. They do not determine what is expected to occur, which remains the role of trust and credibility.
+Temporal anchors stabilise when coordination is expected to occur; trust and credibility stabilise what is expected to occur. They do not determine what is expected to occur, which remains the role of trust and credibility.
 
 ## 13.4 The Temporal Coordination Cycle
 
@@ -1606,7 +1590,7 @@ The following definitions add the contextual structure through which trust, cred
 
 **Credit** is the extension of resources or commitments in the present, drawing on stabilised credibility, to enable coordination beyond immediate capacity and across time.
 
-The operational validity of these definitions depends on the presence of minimal structural conditions:
+The operational validity of these definitions depends on the presence of minimal structural conditions for admissibility:
 	•	Signals must be admissible within the receiving system.
 	•	Interpretation must occur under a consistent evaluation principle.
 	•	Stabilisation must persist across sufficient time or observer alignment to reduce reinterpretation.
