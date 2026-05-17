@@ -12,7 +12,7 @@ Status: Working Paper
 
 Official DOI for this release: [None - minor version]
 
-This document represents the canonical description of the Trust Framework for version 1.2 within the archived repository snapshot.
+This document represents the canonical description of the Trust Framework for version 1.4 within the archived repository snapshot.
 
 The Trust Framework describes how cooperation emerges and persists within coexistence systems through the interpretation of contribution signals across time.
 
@@ -71,13 +71,6 @@ The Trust Framework therefore describes the state development of structural sequ
 
 Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
-(Indeterminacy) Coexistence System
-→ (Boundary) Cooperative Boundary System
-→ (Distinction) Temporal Coordination System
-→ (Possibility) [Contribution → Observation → Signals → Expectation]
-→ (Existence) [Trust → Credibility → Credit]
-→ (Continuation) Sustained Coordination Across Time
-
 Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
 # INTRODUCTION 
@@ -107,6 +100,9 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 - [7 Emergence of Trust Systems](#7-emergence-of-trust-systems)
 - [8 Signal Foundations of Signal Generation](#8-signal-foundations-of-signal-generation)
 - [9 Signal Evaluation Principles](#9-signal-evaluation-principles)
+- [10 ORIGIN OF TRUST](#10-Origin-of-trust)
+- 
+- 
 
 # 1.	FIRST PRINCIPLE
 
@@ -198,6 +194,15 @@ For this reason, sustainable systems operate through a balance between stability
 Within such environments, cooperative systems must allocate resources and authority among participants who differ in their ability to generate future contributions. Across repeated interactions, participants demonstrate varying levels of reliability in transforming uncertain opportunities into dependable outcomes. Over time, these histories of contribution accumulate into expectations about the future contribution capacity of each agent.
 
 This accumulated expectation can be understood as temporal trust capital — the anticipated capacity of a participant to generate reliable contributions across future time. Participants who consistently convert uncertainty into stable contributions accumulate greater temporal trust capital and therefore attract greater coordination, resources, and opportunities from the wider system.
+
+The ontological state mapping can be presented as below:
+
+(Indeterminacy) Coexistence System
+→ (Boundary) Cooperative Boundary System
+→ (Distinction) Temporal Coordination System
+→ (Possibility) [Contribution → Observation → Signals → Expectation]
+→ (Existence) [Trust → Credibility → Credit]
+→ (Continuation) Sustained Coordination Across Time
 
 Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a currency of cooperative allocation, representing accumulated credibility regarding a participant’s future contribution capacity.
 
@@ -662,16 +667,31 @@ In principle, if contribution histories were fully observable and reliably recor
 
 ### 10.4.5 The Four Lenses and the Structure of Being
 
-The four interpretive lenses are not arbitrary categories. They correspond to the four irreducible dimensions through which any system becomes observable: Being, Structure, Regime, and Realisation.
+The four interpretive lenses are observer-side evaluation mechanisms. Each lens is calibrated to read one of the four State dimensions through which a participant's contribution history becomes observable.
 
-Each lens reads one aspect of the agent's external expression:
+The participant expresses itself through:
 
-|Lens| Aspect of external expression evaluated|
-|--|--|
-|Coordination| Being — what the agent means and how it is recognised within shared interaction|
-|Identity| Regime — how the agent has been institutionally validated and admitted to standing|
-|Structural| Structure — how the agent's commitments are procedurally organised|
-|Capability| Realisation — what the agent has demonstrably delivered|
+Intepretation — what it means and how it generates meaning in interaction
+Structure — how its commitments and relationships are organised
+Regime — under what conditions it has been validated and admitted to standing
+Realisation — what it has actually delivered and realised
+
+The observer evaluates these expressions through:
+
+The **Coordination** lens, which reads **Intepretation**
+The **Structural** lens, which reads **Structure**
+The **Identity** lens, which reads **Regime**
+The **Capability** lens, which reads **Realisation**
+
+The lenses are not the dimensions. The lenses are how the observer accesses the dimensions.
+
+|Lens|State dimension it reads|The question it asks|
+|--|--|--|
+|Coordination| Intepretation - how the participant generates meaning| Will the relational signals persist?|
+|Structural| Structure - how the participant's commitments are organised|Will the regime standing persist?|
+|Identity| Regime — how the participant is institutionally validated|Will the regime standing persist?|
+|Capability| Realisation — what the participant has delivered| Will demonstrated performance persist?|
+
 
 The lenses are therefore observer-side evaluation mechanisms; the four pillars are system-side dimensions of expression. Each lens evolves to read the pillar through which the agent presents the corresponding signal.
 
@@ -988,13 +1008,32 @@ Credit arises when this stabilised expectation is used to support present action
 
 In such cases, an agent acts on the basis that another agent’s behaviour will continue in a manner consistent with the credibility attributed to them. This action may involve the provision of resources, the extension of capacity, or the acceptance of a deferred return. In all cases, the defining characteristic is the same: present coordination is made contingent on expected future behaviour.
 
-Credit therefore operates within the existence layer of the framework as the mechanism through which expectation is transformed into commitment.
+Credit therefore operates within the operational layer of the framework as the mechanism through which expectation is transformed into commitment.
 
 Without credit, cooperation is limited to immediate exchange, where contribution and return must occur simultaneously. With credit, cooperation extends across time, allowing present action to depend on future outcomes that have not yet been realised.
 
 This extension is not incidental. It is the condition that allows coordination to exceed immediate capacity. Any activity in which the realisation of outcomes is temporally separated from the provision of resources requires credit. The ability of cooperative systems to operate across time — to initiate actions whose completion lies in the future — depends on the existence of credit as a mechanism of forward commitment.
 
 Credit is therefore not defined by the form of what is extended, but by the temporal structure it introduces. It is the act through which expectation, stabilised as credibility, is deployed to enable coordination beyond the present.
+
+Credit (in this framework) refers to the domain-independent mechanism of forward capacity extension, of which the following are specific instantiations across domains:
+	•	financial credit (capital extension),
+	•	political authority (governing power),
+	•	educational qualification (access to institutional pathways),
+	•	legal rights (enforceable claims),
+	•	organisational authority (delegated decision power),
+	•	biological fitness (reproductive capacity),
+	•	mathematical theorems (reusable logical capacity),
+	•	scientific knowledge (predictive and technological capacity),
+	•	social reputation (cooperative access and influence),
+	•	linguistic meaning (shared coordination capacity),
+	•	market price (resource allocation capacity),
+	•	personal skill (reliable execution capacity),
+	•	validated data (decision-making capacity).
+
+These are not identical in form, but they share the same structural function: each represents a forward extension of capacity grounded in stabilised interpretation of prior contribution.
+
+Any system that supports coordination across time necessarily produces such a mechanism of capacity extension.
 
 ## 12.2 The Structure of Credit
 
@@ -1025,7 +1064,7 @@ These components map onto the four dimensions of the framework:
 | Conditions governing the commitment across time | Regime|
 | Execution of present and future contributions | Realisation|
 
-These four dimensions — Interpretation, Structure, Regime, Realisation — are the irreducible dimensions of any system, developed in The Ontology of Everything (Gew 2026). In the Trust Framework, they appear as the structural components of a credit relationship, while the four lenses (Coordination, Identity, Structural, Capability) introduced in §10.4 are the corresponding observer-side mechanisms for evaluating them. The credit modes in §12.3 pair each lens with the dimension it reads.
+These four dimensions — Interpretation, Structure, Regime, Realisation — correspond to the four system-side aspects derived in section 11.12 from the framework's interpretive lens architecture. In the Trust Framework, they appear as the structural components of a credit relationship, while the four lenses (Coordination, Identity, Structural, Capability) introduced in section 10.4 are the corresponding observer-side mechanisms for evaluating them.
 
 Credit is structurally complete only when all four dimensions are present.
 
@@ -1094,7 +1133,7 @@ Credit formation is therefore an overlay process:
 
 This explains why the same participant may receive different forms of credit across systems, and why credit instruments cannot be reduced to a single underlying structure independent of context.
 
-## 12.5 Credit and Risk
+## 12.6 Credit and Risk
 
 Credit is irreducibly uncertain.
 
@@ -1130,7 +1169,7 @@ Risk therefore reflects the limits of extending expectation across time. It defi
 
 Credit does not eliminate uncertainty. It operates through it.
 
-## 12.6 Credit Cycles
+## 12.7 Credit Cycles
 
 Credit cycles operate within the broader cycle of contribution and credibility. 
 They describe how credit itself expands and contracts as expectation is extended across time under uncertainty.
@@ -1165,7 +1204,7 @@ These phases are not anomalies. They are intrinsic to the structure of credit.
 
 Because credit operates by structuring uncertainty rather than eliminating it, any sustained extension across time carries the possibility of subsequent adjustment. Credit cycles therefore define the limits within which future-dependent coordination can be maintained.
 
-## 12.7 Credit and Continuation
+## 12.8 Credit and Continuation
 
 Credit is the mechanism through which expectation is extended across time toward continuation.
 
@@ -1183,7 +1222,7 @@ Continuation emerges when the expectations embedded within credit remain suffici
 
 Credit thus establishes the boundary within which future-dependent coordination can be maintained. Through the repeated extension and reassessment of expectation across time, credit enables cooperative systems to persist, adapt, and evolve.
 
-## 12.8 Credit and Temporal Coordination
+## 12.9 Credit and Temporal Coordination
 
 Credit operates through the extension of expectation across time. It allows present action to depend on future contribution, and thereby enables coordination beyond immediate capacity.
 
@@ -1629,7 +1668,7 @@ The grid therefore serves as a descriptive representation of structural relation
 
 Its full development, including scale variation and system overlay, is treated in related work.
 
-## 14.6 Formal Closure
+## 14.6 Formalisation Summary
 
 The preceding sections have established the formal representation of trust, credibility, and credit within cooperative coordination systems.
 
