@@ -51,6 +51,8 @@ The Trust Framework therefore describes the structural sequence through which co
 
 Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
+The full state development sequence is presented in section 3.1.
+
 Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
 
 # INTRODUCTION 
@@ -175,15 +177,6 @@ Within such environments, cooperative systems must allocate resources and author
 
 This accumulated expectation can be understood as temporal trust capital — the anticipated capacity of a participant to generate reliable contributions across future time. Participants who consistently convert uncertainty into stable contributions accumulate greater temporal trust capital and therefore attract greater coordination, resources, and opportunities from the wider system.
 
-The ontological state mapping can be presented as below:
-
-(Indeterminacy) Coexistence System
-→ (Boundary) Cooperative Boundary System
-→ (Distinction) Temporal Coordination System
-→ (Possibility) [Contribution → Observation → Signals → Expectation]
-→ (Existence) [Trust → Credibility → Credit]
-→ (Continuation) Sustained Coordination Across Time
-
 Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a currency of cooperative allocation, representing accumulated credibility regarding a participant’s future contribution capacity.
 
 For such a system to remain coherent across multiple communities and institutions, the interpretation of contribution signals must remain consistent. Local communities may adopt different operational calibrations depending on their circumstances, but the evaluation of contribution must remain comparable across the broader system. This requires the presence of a neutral interpretive lens capable of maintaining consistency in how contributions are recognized and how status is assigned.
@@ -193,6 +186,19 @@ Through this separation between local calibration and shared interpretation, coo
 Under this interpretation, trust, credibility, credit, status, and institutional design can all be understood as mechanisms developed within cooperative systems to manage the fundamental challenge of continuation. They allow participants to coordinate behaviour, allocate responsibility, and manage uncertainty in ways that preserve the system’s ability to endure across time.
 
 The Trust Framework builds upon this foundation by examining how contribution signals are interpreted within cooperative systems and how these interpretations shape the dynamics of coordination that sustain civilizational continuation. 
+
+## 3.1 Ontological State Mapping
+
+The structural sequence developed across the framework can be mapped onto the six ontological states:
+
+(Indeterminacy) Coexistence System
+→ (Boundary) Cooperative Boundary System
+→ (Distinction) Temporal Coordination System
+→ (Possibility) [Contribution → Observation → Signals → Expectation]
+→ (Existence) [Trust → Credibility → Credit]
+→ (Continuation) Sustained Coordination Across Time
+
+This mapping is developed across the chapters that follow.
 
 # 4.	THEORY OF COEXISTENCE SYSTEMS
 All systems that seek continuation exist within environments populated by other interacting systems. These surrounding systems influence one another’s conditions for survival even when they do not intentionally coordinate their actions. The Theory of Coexistence Systems describes how systems affect each other’s continuation through shared environments, constraints, and indirect interaction.
@@ -651,14 +657,14 @@ The four interpretive lenses are observer-side evaluation mechanisms. Each lens 
 
 The participant expresses itself through:
 
-Intepretation — what it means and how it generates meaning in interaction
+Interpretation — what it means and how it generates meaning in interaction
 Structure — how its commitments and relationships are organised
 Regime — under what conditions it has been validated and admitted to standing
 Realisation — what it has actually delivered and realised
 
 The observer evaluates these expressions through:
 
-The **Coordination** lens, which reads **Intepretation**
+The **Coordination** lens, which reads **Interpretation**
 The **Structural** lens, which reads **Structure**
 The **Identity** lens, which reads **Regime**
 The **Capability** lens, which reads **Realisation**
@@ -667,7 +673,7 @@ The lenses are not the dimensions. The lenses are how the observer accesses the 
 
 |Lens|State dimension it reads|The question it asks|
 |--|--|--|
-|Coordination| Intepretation - how the participant generates meaning| Will the relational signals persist?|
+|Coordination| Interpretation - how the participant generates meaning| Will the relational signals persist?|
 |Structural| Structure - how the participant's commitments are organised|Will the regime standing persist?|
 |Identity| Regime — how the participant is institutionally validated|Will the regime standing persist?|
 |Capability| Realisation — what the participant has delivered| Will demonstrated performance persist?|
@@ -999,19 +1005,19 @@ Credit is therefore not defined by the form of what is extended, but by the temp
 Because credit is defined by its temporal structure rather than its form, the same mechanism appears across domains that are otherwise unrelated.
 
 Credit (in this framework) refers to the domain-independent mechanism of forward capacity extension, of which the following are specific instantiations across domains:
-	•	financial credit (capital extension),
-	•	political authority (governing power),
-	•	educational qualification (access to institutional pathways),
-	•	legal rights (enforceable claims),
-	•	organisational authority (delegated decision power),
-	•	biological fitness (reproductive capacity),
-	•	mathematical theorems (reusable logical capacity),
-	•	scientific knowledge (predictive and technological capacity),
-	•	social reputation (cooperative access and influence),
-	•	linguistic meaning (shared coordination capacity),
-	•	market price (resource allocation capacity),
-	•	personal skill (reliable execution capacity),
-	•	validated data (decision-making capacity).
+- financial credit (capital extension),
+- political authority (governing power),
+- educational qualification (access to institutional pathways),
+- legal rights (enforceable claims),
+- organisational authority (delegated decision power),
+- biological fitness (reproductive capacity),
+- mathematical theorems (reusable logical capacity),
+- scientific knowledge (predictive and technological capacity),
+- social reputation (cooperative access and influence),
+- linguistic meaning (shared coordination capacity),
+- market price (resource allocation capacity),
+- personal skill (reliable execution capacity),
+- validated data (decision-making capacity).
 
 These are not identical in form, but they share the same structural function: each represents a forward extension of capacity grounded in stabilised interpretation of prior contribution.
 
@@ -1591,10 +1597,10 @@ The following definitions add the contextual structure through which trust, cred
 **Credit** is the extension of resources or commitments in the present, drawing on stabilised credibility, to enable coordination beyond immediate capacity and across time.
 
 The operational validity of these definitions depends on the presence of minimal structural conditions for admissibility:
-	•	Signals must be admissible within the receiving system.
-	•	Interpretation must occur under a consistent evaluation principle.
-	•	Stabilisation must persist across sufficient time or observer alignment to reduce reinterpretation.
-	•	Forward deployment must occur across a non-zero temporal interval.
+- Signals must be admissible within the receiving system.
+- Interpretation must occur under a consistent evaluation principle.
+- Stabilisation must persist across sufficient time or observer alignment to reduce reinterpretation.
+- Forward deployment must occur across a non-zero temporal interval.
 
 These conditions do not prescribe how systems operate, but define the minimal requirements under which trust, credibility, and credit can be meaningfully formed and applied.
 
