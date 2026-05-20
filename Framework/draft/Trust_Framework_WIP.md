@@ -73,7 +73,7 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 
 ## Table of Contents
 
-**PART ONE - ONTOLOGY UNFOLDING**
+**PART I - ONTOLOGY UNFOLDING**
 - [1 First Principle](#1-first-principle)
 - [2 Layered Structure of the Framework](#2-layered-structure-of-the-framework)
 - [3 Theory of Continuation](#3-theory-of-continuation)
@@ -81,7 +81,7 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 - [5 Theory of Cooperative Boundary](#5-theory-of-cooperative-boundary)
 - [6 Theory of Temporal Coordination](#6-theory-of-temporal-coordination)
 
-**PART TWO - DESCRIPTIVE FRAMEWORK**
+**PART II - DESCRIPTIVE FRAMEWORK**
 - [7 Emergence of Trust Systems](#7-emergence-of-trust-systems)
 - [8 Signal Foundations of Signal Generation](#8-signal-foundations-of-signal-generation)
 - [9 Signal Evaluation Principles](#9-signal-evaluation-principles)
@@ -90,24 +90,36 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 - [12 CREDIT](#12-Credit)
 - [13 TEMPORAL COORDINATION](#13-TEMPORAL-COORDINATION)
 
-**PART THREE - FORMALISATION**
+**PART III - FORMALISATION**
 - [14 FORMALISATION OF TRUST, CREDIBILITY and CREDIT](#14-FORMALISATION-OF-TRUST-CREDIBILITY-AND-CREDIT)
+- [15]
+- [16]
 
-PART FOUR - GOVERNANCE
-- [15 PRINCIPLE]
-- [16 LAW]
+**PART IV - Trust Regime**
+- [15 PRINCIPLES]
+- [16 LAWS]
+- [17 BOUNDARY CONDITIONS]
+- [18 FAILURE CONDITIONS]
 
+**PART V — Realisation**
+21. Institutional Applications
+22. Credit Forms Across Domains
+23. Education / Law / Finance / Science / AI Examples
+24. Closure: Trust as Continuation Infrastructure
 
-**PART ONE - ONTOLOGY UNFOLDING**
+**PART I - ONTOLOGY UNFOLDING**
+
 # 1.	FIRST PRINCIPLE
 
-Cooperative systems persist only when participants are able to act despite uncertainty regarding the future behaviour of others.
+Cooperative systems persist across time only when participants are able to act despite uncertainty regarding the future behaviour of others.
 
-Because the future cannot be directly observed, participants rely on signals derived from past contribution events to form expectations about future cooperation of the observed participant.
+Because the future cannot be directly observed, participants rely on observable signals derived from past contribution events when forming expectations regarding future cooperation of the observed participant.
 
-Expectation functions as the interpretive outcome through which participants translate observed signals into projections of continuation. Trust evaluates and deploys these expectations to enable coordination under uncertainty.
+Expectation functions as the interpretive outcome through which participants translate observed signals into projections regarding the continuation of behaviour.
 
-Within this descriptive framework, trust is understood as an interpretive process that always occurs within a specific interaction context.
+Trust evaluates and deploys these expectations to enable coordination under uncertainty.
+
+Within this framework, trust is understood as a context-bound interpretive process through which expectations are deployed within a specific interaction context.
 
 # 2	LAYERED STRUCTURE OF THE FRAMEWORK
 
@@ -115,7 +127,7 @@ Within this descriptive framework, trust is understood as an interpretive proces
 
 ## Contribution
 
-Actions that affect the stability, reliability, or welfare of others within a coexistence system.
+Actions that affect the continuation capacity, stability, reliability, or welfare of others within a coexistence system.
 
 Contribution events generate observable outcomes that accumulate into contribution history.
 
@@ -125,7 +137,7 @@ These histories form the informational substrate from which cooperative systems 
 
 Access to contribution outcomes, whether through direct experience, records, or other means.
 
-Observation provides the informational basis available to the observer when forming expectations under uncertainty.
+Observation provides the informational basis available to an observer when forming expectations under uncertainty.
 
 Observation may be incomplete, delayed, or imperfect.
 
@@ -133,7 +145,7 @@ Observation may be incomplete, delayed, or imperfect.
 
 The persistence of cooperative systems across time.
 
-Continuation depends on the stability of trust interpretations, because only credible expectations allow participants (whether the participants are agents, institutions, or societies) to maintain coordinated behaviour.
+Within cooperative systems, continuation depends on the stability of trust interpretations, because only credible expectations allow participants (whether agents, institutions, or societies) to maintain coordinated behaviour across time.
 
 ## 2.2 OPERATIONAL LAYER (Derived Structures)
 
@@ -149,11 +161,11 @@ Signals originate from contribution outcomes and exist independently of any spec
 
 ## Trust Interpretation
 
-The mechanism through which participants evaluate and deploy expectations about future behaviour of the observed participant, formed through the interpretation of signals derived from observed contribution outcomes.
+The mechanism through which participants evaluate and deploy expectations regarding future behaviour of the observed participant, where such expectations are formed through interpretation of signals derived from observed contribution outcomes.
 
 ## Credibility
 
-The stabilised condition of belief that arises when interpreted signals  relating to a participant accumulate across time and contexts to a degree sufficient for observers to rely on them without continuous re-evaluation.
+The stabilised condition of belief that arises when interpreted signals relating to a participant accumulate across time and contexts to a degree sufficient for observers to rely to them without continuous re-evaluation.
 
 Credibility is formally developed in Chapter 11.
 
@@ -166,19 +178,21 @@ Credit is formally developed in Chapter 12.
  
 # 3.	THEORY OF CONTINUATION (Ontology Elaboration)
 
-All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Continuation represents the condition under which a system retains sufficient structure, capability, and coordination to survive the pressures acting upon it across time.
+All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Within cooperative systems, continuation represents the condition under which a system retains sufficient structure, capability, and coordination to persist across transformation and withstand pressures acting upon it through time.
 
 Continuation is constantly challenged by uncertainty and entropy. Environmental shocks, resource depletion, coordination failure, and internal decay gradually erode a system’s stability. Without continuous corrective action, most systems tend toward deterioration rather than persistence. This natural pressure toward disorder means that continuation is never automatic; it must be actively sustained through actions that restore stability and maintain the system’s capacity to absorb shocks.
 
-Within this framework, contribution can be interpreted as any action or event that alters the continuation capacity of a system. Positive contributions strengthen the system’s resilience, coordination, or resource base, increasing the likelihood that the system will endure future uncertainty. Negative contributions weaken these capacities and increase the probability of failure. Across time, these actions accumulate into a history of continuation effects that shape the system’s trajectory.
+Within this framework, contribution can be interpreted as any action or event that alters the realised continuation capacity. Positive contributions strengthen the system’s resilience, coordination, or resource base, increasing the likelihood that the system will endure future uncertainty. Negative contributions weaken these capacities and increase the probability of failure. Across time, these actions accumulate into a history of continuation effects that shape the system’s trajectory.
 
 Because future continuation cannot be observed directly, participants must interpret signals derived from past contribution events when making decisions under uncertainty. These signals form the informational basis from which expectations about future cooperation are constructed.
 
 Expectation arises when participants interpret contribution signals as evidence that cooperative behaviour is likely to continue. Trust arises when these expectations are evaluated and deployed to support coordination under uncertainty.
 
+As trust judgements accumulate across repeated interactions and contexts, they may stabilise into credibility, reducing the need for continuous reinterpretation of underlying signals.
+
 Credit then emerges as the operational deployment of credibility, enabling participants to extend cooperation, delegation, or obligation based on expectations about future continuation.
 
-The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when participants must coordinate actions across time in order to maintain continuation under uncertainty. Institutions such as law, governance, banking, insurance, and pensions can be understood as structured mechanisms developed by societies to stabilize continuation across increasingly complex systems. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
+The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when participants must coordinate actions across time in order to maintain continuation under uncertainty. Institutions such as law, governance, banking, insurance, and pensions can be understood as structured coordination mechanisms developed by societies to stabilise continuation across increasingly complex systems. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
 
 Continuation also defines the boundary between persistence and collapse. When a system’s continuation capacity remains greater than the pressures acting upon it, the system endures and adapts. When these pressures exceed the system’s capacity to respond, coordination breaks down and collapse occurs. Collapse therefore represents not merely the failure of individual components, but the point at which the system can no longer sustain the conditions required for its own continuation.
 
@@ -278,7 +292,7 @@ Within the Trust Framework, this temporal coordination cycle can be interpreted 
 
 Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows participants to maintain stable patterns of cooperation that support institutions, collective organization, and civilizational persistence across time. 
 
-**PART TWO - DESCRIPTIVE FRAMEWORK**
+**PART II - DESCRIPTIVE FRAMEWORK**
 
 # 7.	EMERGENCE OF TRUST SYSTEMS
 
@@ -1565,7 +1579,7 @@ The Trust Framework therefore closes its argument at the cooperative boundary �
 
 ---
 
-**PART THREE - FORMALISATION**
+**PART III - FORMALISATION**
 
 # 14. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
 
