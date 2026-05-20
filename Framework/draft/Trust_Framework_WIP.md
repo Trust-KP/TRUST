@@ -844,7 +844,7 @@ A participant may be evaluated primarily through realised capability in one cont
 
 The meaning of a signal depends on the configuration in which it is activated. A signal interpreted in isolation does not carry the same implication as the same signal interpreted alongside others. Combinations of signals therefore represent interaction effects rather than independent contributions.
 
-The selection of signals and lenses is influenced by the context of interaction.
+The selection of signals and lenses is influenced by the context of interaction. Activation therefore depends not only on accumulated credibility, but also on the coordination demands present within the interaction context.
 
 In situations where observers possess direct coordination experience, coordination signals may dominate the credibility assessment. In situations where such experience is absent, observers may rely more heavily on signals of realised capability, structural validation, or recognised identity.
 
@@ -1060,9 +1060,11 @@ Credit (in this framework) refers to the domain-independent mechanism of forward
 - personal skill (reliable execution capacity),
 - validated data (decision-making capacity).
 
-These are not identical in form, but they share the same structural function: each represents a forward extension of capacity grounded in stabilised interpretation of prior contribution.
+The framework does not claim that these domains are ontologically identical, but that they instantiate structurally analogous forms of forward coordination under uncertainty. These are not identical in form, but they share the same structural function: each represents a forward extension of capacity grounded in stabilised interpretation of prior contribution. 
 
 Some instantiations may be less immediately intuitive. A proved mathematical theorem, for example, represents stabilised credibility established through validated proof; its accepted status allows subsequent work to proceed without re-derivation, thereby extending mathematical capacity forward. Similarly, validated data represents contribution whose credibility has been established through verification, enabling decisions without re-collection.
+
+The extension concerns coordination capacity dependent on expected future contribution, rather than realised capability alone.
 
 Any system that supports coordination across time necessarily produces a mechanism of capacity extension grounded in stabilised interpretation of prior contribution.
 
@@ -1097,7 +1099,7 @@ These components map onto the four dimensions of the framework:
 
 These four dimensions — Interpretation, Structure, Regime, Realisation — correspond to the four system-side aspects derived in section 11.12 from the framework's interpretive lens architecture. In the Trust Framework, they appear as the structural components of a credit relationship, while the four lenses (Coordination, Identity, Structural, Capability) introduced in section 10.4 are the corresponding observer-side mechanisms for evaluating them.
 
-Credit is structurally complete only when all four dimensions are present.
+Within the framework, credit is treated as structurally complete when all four dimensions are present.
 
 When the interpretive basis is absent, present action is no longer anchored in expectation of continuation.
 
