@@ -982,7 +982,7 @@ The four dimensions of credit introduced in the following sections, and the four
 
 ---
 
-# 12. CREDIT — EXTENSION BEYOND IMMEDIATE CAPACITY
+# 12. CREDIT
 
 ## 12.1 What Credit Is
 
