@@ -1275,7 +1275,7 @@ The following chapter examines these temporal processes in a unified manner, des
 
 Credit extends expectation across time. It enables present action to depend on future contribution. However, forward extension alone does not constitute continuation.
 
-Continuation requires that such extension can be sustained and repeated.
+Continuation requires that such extension can be sustained and repeated. Within this chapter, continuation refers operationally to the persistence of coordinated behaviour across temporal intervals rather than to the ontological primitive of referability developed earlier in the framework.
 
 A single deployment of credit may enable isolated coordination. Continuation arises only when the conditions that support such deployment persist across successive intervals. This persistence depends not on credit alone, but on the temporals through which contribution is produced, information is captured, expectation is formed, and commitment is extended.
 
@@ -1294,11 +1294,11 @@ Cooperation across time is structured across four interdependent temporals:
 
 These temporals correspond to the operational expression of the framework’s four dimensions. They do not represent ontological states, nor are they properties of any specific system. Rather, they describe the general structure through which coordination unfolds across time.
 
-Any system, at any scale, instantiates these temporals through its own operations. The same temporal structure therefore appears across domains, from individual interaction to institutional systems to biological processes.
+Cooperative systems at different scales may express coordination through analogous temporal structures. The same temporal structure therefore appears across domains, from individual interaction to institutional systems to biological processes.
 
 Each temporal operates within a system-specific structure. The outputs of one temporal are not interpreted uniformly across systems, but are processed according to the structural and regime conditions of the receiving system.
 
-As a result, temporal coordination must be understood as system-relative, even though the underlying temporal structure remains invariant.
+As a result, temporal coordination must be understood as system-relative, even though the underlying temporal structure remains structurally consistent.
 
 Each temporal transforms the outputs generated within coordination, and these transformations are typically observed in the sequence:
 
@@ -1328,11 +1328,13 @@ Together, these temporals define the operational structure through which coopera
 
 Temporal processes alone do not guarantee coordination stability across time. For coordination to persist, the outputs of each temporal must stabilise into reference points that can be relied upon by observers. These stabilised reference points are formalised in the following section as temporal anchors.
 
+The four temporals describe how coordination unfolds across time. However, coordination requires more than temporal process alone. For cooperation to persist across repeated interaction, participants must also stabilise expectations regarding when and how coordination is expected to occur. This stabilisation gives rise to temporal anchors.
+
 ## 13.3 — Temporal Anchors
 
 Temporal coordination requires not only the existence of production, information, trust, and credit processes, but also the stabilisation of expectation across time.
 
-Within each temporal, systems generate points at which expectation becomes sufficiently stable to be relied upon for coordination. These points are referred to as temporal anchors.
+Within each temporal, systems generate points at which expectation becomes sufficiently stable to be relied upon for coordination. These points are referred to as temporal anchors. A temporal anchor stabilises when sufficiently consistent temporal expectation is reproduced across interactions, observers, or institutional processes to support repeated coordination.
 
 A temporal anchor is a stabilised reference within a temporal process through which expectations about sequence, timing, or continuation become sufficiently aligned across observers to support coordination.
 
@@ -1408,6 +1410,8 @@ Credit extends commitment.
 Through repeated operation, the cycle stabilises the cooperative boundary. It maintains the conditions under which participants continue to engage in coordinated activity.
 
 At different points within the temporal structure, contribution may be represented in forms that enable its transfer across agents or across time.
+
+The stability of cooperation therefore depends not only on crossing the cooperative boundary initially, but on continuously reproducing the conditions under which the boundary remains traversable across time.
 
 The cooperative boundary is therefore not a one-time transition. It is a continuously sustained condition, dependent on the ongoing operation of temporal coordination.
 
@@ -1590,6 +1594,8 @@ The operational ascent may be extended further. A sustained cooperative boundary
 This extension represents a higher-order continuation of cooperative systems at civilisational scale. While consistent with the framework presented here, it lies beyond the present scope of analysis.
 
 The Trust Framework therefore closes its argument at the cooperative boundary — the structural condition under which cooperation becomes possible and can be sustained.
+
+The framework therefore does not describe a final equilibrium state, but the recursive conditions under which cooperative systems sustain coordination despite uncertainty across time.
 
 ---
 
