@@ -1228,7 +1228,7 @@ Other processes govern how material outputs are produced, how information is gen
 
 The following chapter examines these temporal processes in a unified manner, describing how coordination is sustained through the interaction of production, information, trust, and credit across time.
 
-# 13. TEMPORAL COORDINATION — THE SUSTENANCE OF COOPERATION
+# 13. TEMPORAL COORDINATION
 
 ## 13.1 From Credit to Continuation
 
