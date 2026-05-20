@@ -1,14 +1,6 @@
 # What If Number Is Just a Unit?
 ## A Formalisation of Distinction Applied to Discrete Existence: Structural Impact on the Riemann Hypothesis
 
-**Citation:** Gew, Kok Pian (2026). *What If Number Is Just a Unit? A Formalisation of Distinction Applied to Discrete Existence: Structural Impact on the Riemann Hypothesis* (v1.0). KP What If Series.
-
-Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
-Claude Sonnet 4.6: initial Original Draft, Formatting, Organization
-Deepseek expanded on 9.1 Principle of Minimal Necessary Symmetry
-ChatGPT expanded on 1.4, 2.2b,4.5,6.2, 6.2c, 9.1 9.2, and 9.4,
-
-
 ---
 
 ## Abstract
@@ -793,16 +785,3 @@ A zero off the line would mean the Distinction system has a cancellation event o
 
 The Riemann Hypothesis is not merely a statement about an analytic function; it is the claim that Distinction, as formalised in the prime structure of the integers, cancels only at its own Boundary, where additive accumulation, multiplicative vibration, and symmetry constraint meet on the unique balance surface Re(s)=1/2.
 
----
-
-*For integration with: Gew, Kok Pian. 2026. The Ontology of Everything v0.1.1. DOI: https://doi.org/10.5281/zenodo.19622156*
-
-*For companion reading: Gew, Kok Pian. 2026. RHKP v0.1 — Riemann Hypothesis KP Meta-System Instantiation.*
-
-*For companion reading: Gew, Kok Pian. 2026. Quantum Physics as the Possibility Stage: A Meta-System Structural Framework.*
-
-*For companion reading: Gew, Kok Pian. 2026. CSSF v0.2.3 — Continuation-Structured Search Framework.*
-
----
-
-*What If Number Is Just a Unit? — Kok Pian Gew — 2026*
