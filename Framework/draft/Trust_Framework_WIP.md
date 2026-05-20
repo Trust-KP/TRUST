@@ -372,13 +372,15 @@ In humans, signalling similarly influences behaviour, but actions by a participa
 
 The behaviour of a participant therefore functions both as a response to signals and as a generator of signals that an observer may perceive and interpret within cooperative systems. 
 
-Human cooperative signalling inherits the same informational logic as biological signalling but operates through socially constructed evaluation principles.
+Human cooperative signalling operates through informational principles structurally analogous to biological signalling, while relying on socially constructed evaluation mechanisms rather than biochemical coordination processes.
 
 ## 8.4 Observable Contribution Signals
 
 Within cooperative environments, actions performed by a participant generate observable outcomes that affect others within the system. These outcomes produce signals that provide information about the contributions made by a participant within the system.
 
 Contribution events may take many forms, including the completion of tasks, fulfilment of obligations, delivery of goods or services, or other actions that produce measurable effects within a shared system. Although an observer rarely possesses complete knowledge of the underlying actions themselves, the observable results of these actions provide signals from which past behaviour may be inferred.
+
+These signals provide partial informational access to underlying contribution history rather than direct access to the contribution events themselves.
 
 These observable contribution signals form the informational basis through which an observer evaluates the reliability and behaviour of a participant within cooperative systems.
 
@@ -402,7 +404,7 @@ Trust can therefore be understood as an interpretive judgement formed through th
 
 Understanding how signals emerge and become observable therefore provides the conceptual foundation for explaining how trust is interpreted within cooperative systems.
 
-While signals provide observable information about past behaviour, their interpretation depends on the evaluation principles used by an observer.
+While signals provide observable information about past behaviour, their interpretation depends on the evaluation principles used by an observer. The same signal may therefore produce different expectations when interpreted by different observers.
 
 Different systems interpret signals through different evaluation mechanisms. In biological organisms, signals may be evaluated through biochemical or neurological processes that influence behavioural responses such as movement, feeding, or reproduction. In social environments, humans evaluate signals through socially learned evaluation principles shaped by culture, institutions, and personal experience.
 
