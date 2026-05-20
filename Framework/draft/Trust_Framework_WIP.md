@@ -91,7 +91,10 @@ PART ONE - DESCRIPTIVE FRAMEWORK
 PART TWO - FORMALISATION
 - [14 FORMALISATION OF TRUST, CREDIBILITY and CREDIT](#14-FORMALISATION-OF-TRUST-CREDIBILITY-AND-CREDIT)
 
-
+PART THREE - GOVERNANCE
+- [15 PRINCIPLE]
+- [16 LAW]
+- 
 # 1.	FIRST PRINCIPLE
 
 Cooperative systems persist only when participants are able to act despite uncertainty regarding the future behaviour of others.
