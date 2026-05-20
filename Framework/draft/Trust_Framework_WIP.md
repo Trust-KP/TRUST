@@ -711,14 +711,14 @@ The **Structural** lens, which reads **Structure**
 The **Identity** lens, which reads **Regime**
 The **Capability** lens, which reads **Realisation**
 
-The lenses are not the dimensions. The lenses are how the observer accesses the dimensions.
+The lenses are not the dimensions. The lenses are how the observer accesses the dimensions. The dimensions describe how the participant expresses contribution-relevant behaviour within the system; the lenses describe how observers interpret those expressions under uncertainty.
 
 |Lens|State dimension it reads|The question it asks|
 |--|--|--|
-|Coordination| Interpretation - how the participant generates meaning| Will the relational signals persist?|
-|Structural| Structure - how the participant's commitments are organised|Will the regime standing persist?|
-|Identity| Regime — how the participant is institutionally validated|Will the regime standing persist?|
-|Capability| Realisation — what the participant has delivered| Will demonstrated performance persist?|
+|Coordination| Interpretation - how the participant generates meaning| Will relational coordination persist?|
+|Structural| Structure - how the participant's commitments are organised|Will the commitment structure persist coherently?|
+|Identity| Regime — how the participant is institutionally validated|Will institutional standing persist?|
+|Capability| Realisation — what the participant has delivered| Will realised performance persist?|
 
 
 The lenses are therefore observer-side evaluation mechanisms; the four pillars are system-side dimensions of expression. Each lens evolves to read the pillar through which the agent presents the corresponding signal.
