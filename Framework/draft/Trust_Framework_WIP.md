@@ -264,9 +264,9 @@ The cooperative boundary therefore represents the point at which interaction ris
 
 Several structural conditions influence the position of the cooperative boundary. These include the degree of capability asymmetry between interacting participants, the reversibility of potential losses, the availability of communication or signal interpretation, and the expected cost of conflict relative to cooperation. When capability asymmetry becomes extreme or potential losses are irreversible, participants may remain below the cooperative boundary even when mutual benefits from cooperation exist.
 
-The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be sustained through continued alignment between expectation and realised outcomes. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
+The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be continuously reproduced through sustained alignment between expectation and realised outcomes across time. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
 
-The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems. It defines the structural condition under which participants shift from defensive interaction toward coordinated behaviour.
+The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems capable of sustaining coordinated continuation across time. It defines the structural condition under which participants shift from defensive interaction toward coordinated behaviour.
 
 Only after this boundary is crossed can temporal coordination processes develop and sustain cooperation across time.
 
