@@ -937,7 +937,7 @@ Because credibility is applied through selective activation, this fragility may 
 
 When such a signal is encountered, multiple elements of the credibility structure may be affected simultaneously. Signals that previously appeared independent may be reinterpreted as overlapping or derivative. The credibility applied at the point of decision may therefore change rapidly, not because all signals have changed, but because their informational relationship has been reassessed.
 
-What appears as sudden adjustment in credibility may therefore reflect the delayed recognition of structural fragility already present within the system.
+What appears as sudden adjustment in credibility may therefore reflect the delayed recognition of structural fragility already present within the system. Credibility may weaken either because observed behaviour deteriorates or because informational access to prior contribution history becomes increasingly incomplete across time.
 
 Credibility entropy therefore explains how stabilised belief may persist under conditions of hidden dependence and adjust abruptly when that dependence becomes visible.
 
