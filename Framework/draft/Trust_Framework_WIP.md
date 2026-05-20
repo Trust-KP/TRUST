@@ -5,12 +5,11 @@ This page intentionally left blank
 # The Trust Framework
 ## Contribution, Signals, and the Continuation of Cooperation
 
-Author: Kok Pian Gew  
-Version: 1.5 
-Year: 2026  
-Status: Working Paper
-
-Official DOI for this release: [to be added]
+### Author: Kok Pian Gew  
+### Version: 1.5
+### Year: 2026  
+### Status: Working Paper
+### Official DOI for this release: [to be added]
 
 This document represents the canonical description of the Trust Framework for version 1.5 within the archived repository snapshot.
 
