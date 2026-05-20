@@ -73,13 +73,15 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 
 ## Table of Contents
 
-PART ONE - DESCRIPTIVE FRAMEWORK
+**PART ONE - ONTOLOGY UNFOLDING**
 - [1 First Principle](#1-first-principle)
 - [2 Layered Structure of the Framework](#2-layered-structure-of-the-framework)
 - [3 Theory of Continuation](#3-theory-of-continuation)
 - [4 Theory of Coexistence Systems](#4-theory-of-coexistence-systems)
 - [5 Theory of Cooperative Boundary](#5-theory-of-cooperative-boundary)
 - [6 Theory of Temporal Coordination](#6-theory-of-temporal-coordination)
+
+**PART TWO - DESCRIPTIVE FRAMEWORK**
 - [7 Emergence of Trust Systems](#7-emergence-of-trust-systems)
 - [8 Signal Foundations of Signal Generation](#8-signal-foundations-of-signal-generation)
 - [9 Signal Evaluation Principles](#9-signal-evaluation-principles)
@@ -88,13 +90,15 @@ PART ONE - DESCRIPTIVE FRAMEWORK
 - [12 CREDIT](#12-Credit)
 - [13 TEMPORAL COORDINATION](#13-TEMPORAL-COORDINATION)
 
-PART TWO - FORMALISATION
+**PART THREE - FORMALISATION**
 - [14 FORMALISATION OF TRUST, CREDIBILITY and CREDIT](#14-FORMALISATION-OF-TRUST-CREDIBILITY-AND-CREDIT)
 
-PART THREE - GOVERNANCE
+PART FOUR - GOVERNANCE
 - [15 PRINCIPLE]
 - [16 LAW]
-- 
+
+
+**PART ONE - ONTOLOGY UNFOLDING**
 # 1.	FIRST PRINCIPLE
 
 Cooperative systems persist only when participants are able to act despite uncertainty regarding the future behaviour of others.
@@ -273,6 +277,8 @@ Expectation is held by observers. Stabilisation refers to the alignment of expec
 Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of states development: contribution events generate observable outcomes; these outcomes produce interpretable signals; signals are interpreted to form expectations; trust evaluates and deploys these expectations; trust judgements accumulate into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
 
 Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows participants to maintain stable patterns of cooperation that support institutions, collective organization, and civilizational persistence across time. 
+
+**PART TWO - DESCRIPTIVE FRAMEWORK**
 
 # 7.	EMERGENCE OF TRUST SYSTEMS
 
@@ -1558,6 +1564,8 @@ This extension represents a higher-order continuation of cooperative systems at 
 The Trust Framework therefore closes its argument at the cooperative boundary — the structural condition under which cooperation becomes possible and can be sustained.
 
 ---
+
+**PART THREE - FORMALISATION**
 
 # 14. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
 
