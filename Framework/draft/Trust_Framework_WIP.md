@@ -1707,6 +1707,8 @@ The preceding sections have established the formal representation of trust, cred
 
 These constructs are defined as distinct but sequentially related positions within the coordination process. Trust operates as the deployment of expectation under uncertainty. Credibility represents the stabilisation of such expectations across time and observers. Credit extends this stabilised expectation into forward commitment, enabling coordination beyond immediate interaction.
 
+The belief itself remains observer-bound, while the stabilisation of such beliefs across repeated interactions allows credibility to function structurally within cooperative systems.
+
 Together, they form a continuous structure through which expectation is interpreted, stabilised, and deployed across time.
 
 This structure is not system-independent. As established in section 14.4, credibility is formed within specific interpretive and structural contexts, and credit is extended within those same contexts. Signals may circulate across systems, but credibility is reconstructed rather than transferred.
