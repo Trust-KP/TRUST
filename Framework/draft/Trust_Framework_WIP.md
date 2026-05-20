@@ -73,6 +73,7 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 
 ## Table of Contents
 
+PART ONE - DESCRIPTIVE FRAMEWORK
 - [1 First Principle](#1-first-principle)
 - [2 Layered Structure of the Framework](#2-layered-structure-of-the-framework)
 - [3 Theory of Continuation](#3-theory-of-continuation)
@@ -86,7 +87,10 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 - [11 CREDIBILITY](#11-Credibility)
 - [12 CREDIT](#12-Credit)
 - [13 TEMPORAL COORDINATION](#13-TEMPORAL-COORDINATION)
-- 
+
+PART TWO - FORMALISATION
+- [14 FORMALISATION OF TRUST, CREDIBILITY and CREDIT](#14-FORMALISATION-OF-TRUST-CREDIBILITY-AND-CREDIT)
+
 
 # 1.	FIRST PRINCIPLE
 
