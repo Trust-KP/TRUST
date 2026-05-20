@@ -85,7 +85,7 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 - [10 ORIGIN OF TRUST](#10-Origin-of-trust)
 - [11 CREDIBILITY](#11-Credibility)
 - [12 CREDIT](#12-Credit)
-- [13 TEMPORAL COORDINATION](#13-TEMPORAL-COORDINATION---THE-SUSTENANCE-OF-COOPERATION)
+- [13 TEMPORAL COORDINATION](#13-TEMPORAL-COORDINATION)
 - 
 
 # 1.	FIRST PRINCIPLE
