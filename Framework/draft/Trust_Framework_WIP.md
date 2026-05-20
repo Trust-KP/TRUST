@@ -83,7 +83,7 @@ mechanisms through which cooperation emerges and persists, rather than to optimi
 - [8 Signal Foundations of Signal Generation](#8-signal-foundations-of-signal-generation)
 - [9 Signal Evaluation Principles](#9-signal-evaluation-principles)
 - [10 ORIGIN OF TRUST](#10-Origin-of-trust)
-- 
+- [11 CREDIBILITY](#11-Credibility)
 - 
 
 # 1.	FIRST PRINCIPLE
