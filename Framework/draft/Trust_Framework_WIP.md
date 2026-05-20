@@ -192,7 +192,9 @@ As trust judgements accumulate across repeated interactions and contexts, they m
 
 Credit then emerges as the operational deployment of credibility, enabling participants to extend cooperation, delegation, or obligation based on expectations about future continuation.
 
-The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when participants must coordinate actions across time in order to maintain continuation under uncertainty. Institutions such as law, governance, banking, insurance, and pensions can be understood as structured coordination mechanisms developed by societies to stabilise continuation across increasingly complex systems. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
+The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when participants must coordinate actions across time in order to maintain continuation under uncertainty. 
+
+Institutions such as law, governance, banking, insurance, and social norms do not emerge ex nihilo, but develop as structured coordination mechanisms through which societies stabilise continuation under increasing complexity and uncertainty. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
 
 Continuation also defines the boundary between persistence and collapse. When a system’s continuation capacity remains greater than the pressures acting upon it, the system endures and adapts. When these pressures exceed the system’s capacity to respond, coordination breaks down and collapse occurs. Collapse therefore represents not merely the failure of individual components, but the point at which the system can no longer sustain the conditions required for its own continuation.
 
@@ -280,17 +282,17 @@ The sequence that follows describes continuation at the level of temporal coordi
 
 Actions performed by participants generate realised contributions, which produce observable outcomes that other participants can interpret as signals.
 
-Temporal coordination arises when participants interpret observations of past behaviour to form expectations, which may be deployed through trust in subsequent interaction. Actions performed by participants generate observable signals that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
+Temporal coordination arises when participants interpret observations of past behaviour to form expectations regarding future behaviour, which may then be evaluated and deployed through trust within subsequent interaction. Actions performed by participants generate observable signals that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
 
 Because coordination occurs across time, cooperation remains inherently provisional. Each interaction produces new information that may reinforce or weaken existing expectations. When observed outcomes confirm prior expectations, the perceived reliability of cooperation increases and coordination becomes more stable. When outcomes contradict expectations, confidence deteriorates and coordination may weaken or collapse.
 
 Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences produce signals that other participants interpret when forming expectations about future behaviour. Based on these expectations, participants deploy expectation into further coordinated action, extending cooperation across time. The resulting interactions generate new outcomes and signals, restarting the cycle.
 
-Through this iterative process, systems are able to coordinate behaviour across time without requiring certainty about the future. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
+Through repeated alignment between expectation and realised outcomes, the coordination process becomes recursively self-reinforcing across time. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
 
 Expectation is held by observers. Stabilisation refers to the alignment of expectations across multiple observers rather than a property of the system itself.
 
-Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of states development: contribution events generate observable outcomes; these outcomes produce interpretable signals; signals are interpreted to form expectations; trust evaluates and deploys these expectations; trust judgements accumulate into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
+Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of states development: contribution events generate observable outcomes; these outcomes produce interpretable signals; signals are interpreted to form expectations; trust evaluates and deploys these expectations; trust judgements accumulate and stabilise into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
 
 Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows participants to maintain stable patterns of cooperation that support institutions, collective organization, and civilizational persistence across time. 
 
@@ -419,7 +421,6 @@ Signals alone do not determine trust.
 Observers must interpret signals in order to form expectations about future behaviour. This interpretation depends on the evaluation principles used by the observer. The next section therefore examines how observers evaluate signals when forming trust judgements.
 
 ---
-***
 
 # 9 Signal Evaluation Principles
 
@@ -439,6 +440,8 @@ Evaluation principles are not created at the moment signals are observed.
 Observers interpret signals through structured evaluation processes that reflect their underlying interpretive purpose, processing structure, permissible constraints, and decision mechanisms. These processes reflect the observer system’s interpretive purpose,
 processing structure, permissible constraints, and realisation mechanisms.
 
+Evaluation principles do not arise instantly. Repeated interpretation, reinforcement, social validation, and behavioural repetition may gradually stabilise interpretive patterns into durable evaluative regimes through which future signals are filtered and assessed.
+
 As a result, the identical observable signal may give rise to different expectations depending on the observer system through which it is interpreted or when it is interpreted by different observer systems.
 
 Human observers possess the ability to evaluate signals through cognitive processes that allow information from past interactions to influence future expectations. Through repeated interaction with others, individuals gradually develop patterns for interpreting how particular signals relate to behaviour and outcomes.
@@ -457,7 +460,9 @@ Although evaluation principles develop through shared experiences within coopera
 
 Because observers encounter different experiences and interpret past events differently, the evaluation principles they develop may vary even when they participate within the same cooperative environment. As a result, observers may assign different significance to the same signals when evaluating behaviour.
 
-Individual evaluation principles influence which signals observers notice, how strongly those signals are weighted, and how they are interpreted when forming expectations regarding the behaviour of participants. These individual differences explain why trust judgements may vary between observers even when they observe the same contribution events.
+Observers do not interpret signals through abstract informational processing alone. They do not evaluate full system reality directly, but operate through compressed representations formed from limited observations, prior experience, memory, affective weighting, and socially stabilised evaluation principles.
+
+As a result, identical observable signals may produce different expectations across observers not only because of differences in knowledge or social conditioning, but also because signals are compressed, prioritised, and experienced differently within each observer’s internal evaluative system. A signal that appears neutral to one observer may be experienced by another as salient, threatening, desirable, or trustworthy.
 
 Despite these differences, individual evaluation principles do not operate in isolation. Observers participate within broader cooperative environments that shape shared expectations regarding how signals should be interpreted. The interaction between individual judgement and shared interpretive norms therefore influences how trust judgements emerge within cooperative systems.
 
