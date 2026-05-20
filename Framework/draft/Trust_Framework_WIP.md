@@ -446,6 +446,8 @@ Evaluation principles do not arise instantly. Repeated interpretation, reinforce
 
 As a result, the identical observable signal may give rise to different expectations depending on the observer system through which it is interpreted or when it is interpreted by different observer systems.
 
+The variation does not arise from the signal alone, but from differences in the observer systems through which the signal is interpreted.
+
 Human observers possess the ability to evaluate signals through cognitive processes that allow information from past interactions to influence future expectations. Through repeated interaction with others, individuals gradually develop patterns for interpreting how particular signals relate to behaviour and outcomes.
 
 Over time, these experiences contribute to the development of evaluation principles that guide how observers interpret signals when forming expectations regarding the behaviour of other participants. These principles influence which signals observers attend to, how strongly signals are weighted, and how signals are interpreted when evaluating behaviour within cooperative environments.
@@ -466,11 +468,13 @@ Observers do not interpret signals through abstract informational processing alo
 
 As a result, identical observable signals may produce different expectations across observers not only because of differences in knowledge or social conditioning, but also because signals are compressed, prioritised, and experienced differently within each observer’s internal evaluative system. A signal that appears neutral to one observer may be experienced by another as salient, threatening, desirable, or trustworthy.
 
-Despite these differences, individual evaluation principles do not operate in isolation. Observers participate within broader cooperative environments that shape shared expectations regarding how signals should be interpreted. The interaction between individual judgement and shared interpretive norms therefore influences how trust judgements emerge within cooperative systems.
+Despite these differences, individual evaluation principles do not operate in isolation. Individual observers participate within broader cooperative environments that shape the interpretive structures through which signals are evaluated. The interaction between individual judgement and shared interpretive norms therefore influences how trust judgements emerge within cooperative systems.
 
 ## 9.3 Shared Evaluation Principles
 
 While individual observers apply their own evaluation principles when interpreting signals, cooperative environments often develop shared evaluation principles that guide how signals are commonly understood by participants within the system.
+
+These shared principles function as stabilising interpretive constraints within cooperative systems.
 
 These shared evaluation principles emerge through repeated interaction among participants who participate within the same cooperative environment. Over time, participants develop common expectations regarding how particular signals relate to behaviour and reliability. These shared expectations help reduce interpretive uncertainty and allow participants to form trust judgements in a more consistent manner.
 
