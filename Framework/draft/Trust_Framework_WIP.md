@@ -1601,128 +1601,256 @@ The framework therefore does not describe a final equilibrium state, but the rec
 
 **PART III - FORMALISATION**
 
-# 14. FORMALISATION OF TRUST, CREDIBILITY, AND CREDIT
+The purpose of Part III is to stabilise the interpretive structure of trust, credibility, and credit within cooperative systems.
 
-## 14.1 Purpose of This Chapter
+Where the preceding chapters described the emergence of cooperative coordination, Part III formalises the interpretive architecture through which these structures may be represented, reconstructed, and compared across systems.
 
-The preceding chapters have described the conditions under which cooperative systems emerge, the mechanisms through which signals are generated and interpreted, and the structural architecture through which trust judgements form. These descriptions are intentionally non-formal: they map the territory without committing to precise boundary conditions.
+# 14. FORMAL DEFINITION OF TRUST, CREDIBILITY, AND CREDIT
 
-This chapter states the canonical definitions.
+## 14.1 Purpose of Formalisation
 
-A theory that cannot be precisely stated cannot be tested, applied, or extended. The definitions that follow are not simplifications of what precedes them — they are distillations. Each definition has been pressed to the point where it cannot be further reduced without losing something essential.
+The preceding chapters described the emergence of cooperative systems, the generation and interpretation of signals, and the structural processes through which trust judgements stabilise across time and observers.
 
-The definitions operate at two levels: the ontological level, which situates trust, credibility, and credit within the structure of any cooperative system; and the operational level, which states how they function in practice.
+These descriptions mapped the structure of the framework without fully stabilising the interpretive meaning of its core concepts.
 
-In addition, this chapter establishes the structural conditions under which these definitions remain valid. These conditions are not domain-specific rules, but minimal constraints required for interpretability, stability, and deployment within cooperative systems.
+The purpose of this chapter is therefore formalisation.
+
+Formalisation does not reduce the framework into abstraction detached from practice. Rather, it stabilises the interpretive meaning of the framework’s primary constructs so that they may be coherently applied, compared, and extended across systems and contexts.
+
+The definitions developed here operate simultaneously at two levels.
+
+At the ontological level, they situate trust, credibility, and credit within the general structure of cooperative continuation systems.
+
+At the operational level, they describe how these structures function within practical coordination under uncertainty.
+
+The chapter therefore establishes the minimal formal conditions under which these structures may coherently emerge and persist within cooperative systems.
 
 ## 14.2 Ontological Formalisation
 
-The following definitions express trust, credibility, and credit as structural positions within cooperative continuation systems.
+The following definitions express trust, credibility, and credit as structurally related positions within cooperative continuation systems.
 
-**Trust** is the coordination mechanism that deploys expectations of continuation under uncertainty.
+**TRUST** is the coordination mechanism through which expectations of continuation are deployed under uncertainty.
 
 **Credibility** is the stabilisation of trust across observers, time, and interaction contexts, enabling scalable coordination.
 
 **Credit** is the forward extension of coordination commitments beyond immediate capacity and across time.
 
-These three definitions express the same underlying logic at three successive stages of coordination:
+These definitions describe successive stages within the same underlying coordination structure.
 
-Trust is the act of deploying an expectation (one observer, one context, one moment).
+Trust represents the deployment of expectation within a specific interaction context.
 
-Credibility is the durability of that act across multiple observers and contexts (the expectation becomes a stable property of the agent).
+Credibility represents the stabilisation of such expectations across repeated interactions, observers, and temporal intervals.
 
-Credit is the forward deployment of credibility — the commitment of present resources in anticipation of future continuation (the expectation enables action).
+Credit represents the extension of stabilised expectations into future-oriented coordination commitments.
 
-Each stage is irreducible to the preceding stage. Credibility cannot be possessed without prior trust having been formed. Credit cannot be extended without prior credibility having been established.
+Each stage depends upon but is irreducible to the preceding stage.
 
-These definitions describe the structural sequence through which expectation is deployed, stabilised, and extended within cooperative systems.
+Trust may occur without durable stabilisation.
+
+Credibility cannot emerge without prior trust formation.
+
+Credit cannot be extended without prior credibility stabilisation.
+
+Under recursive interpretation, trust, credibility, and credit may also be understood as successive operational states through which expectations of continuation are deployed, stabilised, and extended within cooperative systems.
+
+Together, these structures form a continuous coordination sequence through which cooperative systems maintain persistence across uncertainty and time.
 
 ## 14.3 Operational Formalisation
 
-The following definitions add the contextual structure through which trust, credibility, and credit operate in practice.
+The following definitions extend the ontological structures above into operational coordination contexts.
 
 **Trust** is a context-bound interpretive judgement through which an observer deploys an expectation of continuation, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
 
-**Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating an agent's expected continuation of behaviour.
+**Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating an agent’s expected continuation of behaviour.
 
-**Credit** is the extension of resources or commitments in the present, drawing on stabilised credibility, to enable coordination beyond immediate capacity and across time.
+**Credit** is the extension of present commitments or resources, drawing upon stabilised credibility, to enable coordination beyond immediate capacity and across time.
 
-The operational validity of these definitions depends on the presence of minimal structural conditions for admissibility:
-- Signals must be admissible within the receiving system.
-- Interpretation must occur under a consistent evaluation principle.
-- Stabilisation must persist across sufficient time or observer alignment to reduce reinterpretation.
-- Forward deployment must occur across a non-zero temporal interval.
+The operational coherence of these definitions depends on the presence of minimal formal conditions within the receiving system.
 
-These conditions do not prescribe how systems operate, but define the minimal requirements under which trust, credibility, and credit can be meaningfully formed and applied.
+Signals must be recognisable within the interpretive structure of the system.
 
-## 14.4 System-Relative Credibility
+Interpretation must occur under sufficiently consistent evaluation principles.
 
-Credibility, as developed in the preceding chapters, represents the stabilisation of trust judgements across time, observers, and interaction contexts. This stabilisation allows expectation to persist without continuous reinterpretation, forming the basis for coordinated action under uncertainty.
+Stabilisation must persist across sufficient time or observer alignment to reduce continual reinterpretation.
 
-However, credibility does not exist as a universal or system-independent construct.
+Forward deployment must occur across a non-zero temporal interval.
 
-Credibility is always formed within a specific interpretive and structural context. Observers—whether individuals, institutions, or collective systems—do not evaluate signals in isolation. They interpret signals through the lenses, structures, and regime conditions that define their own system of coordination.
+These conditions do not prescribe how systems should operate. They describe the minimal formal conditions under which trust, credibility, and credit may coherently form within cooperative systems.
 
-As a result, the same underlying contribution signals may give rise to different credibility structures when interpreted within different systems.
+## 14.4 Formalisation Summary
 
-A participant whose contribution history generates strong credibility in one system may not be attributed the same credibility in another. This variation does not arise from a change in the underlying contribution events, but from differences in:
-• signal admissibility (which signals are recognised as valid evidence),
-• interpretive weighting (how signals are evaluated), and
-• structural conditions (how signals are organised and stabilised).
+This chapter established the formal definitions of trust, credibility, and credit as structurally related positions within cooperative coordination systems.
 
-Credibility is therefore system-relative.
+Trust deploys expectation under uncertainty.
 
-This implies that credibility cannot be treated as a scalar quantity that transfers unchanged across contexts. It is not an intrinsic property of the participant alone, but a structured relation between the participant’s signals and the system within which those signals are interpreted.
+Credibility stabilises such expectations across time, observers, and contexts.
 
-When a participant enters a new system, their prior signals are not carried as a complete credibility structure. Instead, those signals are reinterpreted, filtered, and reorganised according to the receiving system’s own interpretive lenses and structural conditions. The resulting credibility is reconstructed within that system.
+Credit extends stabilised expectations into future-oriented coordination commitments.
 
-This reconstruction has two consequences.
+Together, these structures form a continuous coordination sequence through which cooperative systems maintain persistence across time.
 
-First, credibility may diverge across systems. A participant may be highly credible within one institutional or social domain while remaining untrusted in another, even when the underlying contribution history is unchanged.
+The following chapter develops the structural representation through which these interpretive structures may be positioned, compared, and reconstructed across systems.
 
-Second, credibility becomes non-commensurable across systems. Two credibility structures formed in different systems cannot be directly compared without reference to the interpretive and structural conditions under which they were constructed.
+⸻
 
-System-relative credibility therefore establishes a boundary condition for the deployment of credit.
+# 15. STRUCTURAL REPRESENTATION
 
-Because credit depends on the extension of credibility into forward commitment, and because credibility itself is system-relative, credit relationships must also be understood as arising within specific systems rather than transferring directly across them.
+## 15.1 Purpose of Structural Representation
 
-This leads to a general principle:
+Formal definitions alone are insufficient to represent the full multi-dimensional structure of credibility and credit within cooperative systems.
 
-Credibility is stabilised within a system; Credit is extended from that stabilisation within the same system.
+The purpose of this chapter is therefore representational rather than classificatory.
 
-Where signals move across systems, credibility is not transferred but reconstructed.
+The structures introduced here do not define fixed categories of agents, institutions, or systems. Rather, they provide a structured representational space within which configurations of credibility and credit may be positioned according to their dominant interpretive and structural characteristics.
 
-## 14.5 — Structural Representation of Credibility (16-Grid)
+The framework therefore distinguishes between observer-side interpretive lenses and system-side aspects of the observed participant or system.
 
-The multi-dimensional structure of credibility may be represented as a grid formed by the intersection of interpretive lenses and system-side aspects.
+## 15.2 Observer-Side Lenses and System-Side Aspects
 
-This grid does not define fixed categories of credit or credibility. It represents a structural space within which credibility judgements may be located according to their dominant configuration.
+Observers do not interpret signals directly in isolation.
 
-Each position corresponds to a particular pairing between:
+Signals are interpreted through lenses that determine how continuation expectations are evaluated within cooperative systems.
 
-an interpretive lens (how signals are evaluated), and
-a system-side aspect (what is being evaluated)
+The framework identifies four observer-side interpretive lenses:
+	•	Coordination lens
+	•	Identity lens
+	•	Structural lens
+	•	Capability lens
 
-A given credibility judgement or credit instrument may be associated with a dominant position within this space. However, it may also draw on multiple positions simultaneously.
+These lenses correspond to four system-side aspects of the observed participant or system:
 
-The grid therefore serves as a descriptive representation of structural relationships rather than a classification system.
+- Observer-Side Lens	System-Side Aspect
+- Coordination	Interpretation
+- Identity	Regime
+- Structural	Structure
+- Capability	Realisation
 
-Its full development, including scale variation and system overlay, is treated in related work.
+The lenses therefore do not merely classify signals. They evaluate whether the corresponding dimensions of the participant or system are expected to continue in a manner sufficient for coordination under uncertainty.
 
-## 14.6 Formalisation Summary
+The observer interprets not only present behaviour, but the expected persistence of meaning, structure, admissibility, and realised capability across time.
 
-The preceding sections have established the formal representation of trust, credibility, and credit within cooperative coordination systems.
+## 15.3 The 16-Grid Representation
 
-These constructs are defined as distinct but sequentially related positions within the coordination process. Trust operates as the deployment of expectation under uncertainty. Credibility represents the stabilisation of such expectations across time and observers. Credit extends this stabilised expectation into forward commitment, enabling coordination beyond immediate interaction.
+The intersection between observer-side lenses and system-side aspects forms a sixteen-position representational grid.
 
-The belief itself remains observer-bound, while the stabilisation of such beliefs across repeated interactions allows credibility to function structurally within cooperative systems.
+This grid does not define fixed categories or scalar rankings.
 
-Together, they form a continuous structure through which expectation is interpreted, stabilised, and deployed across time.
+Rather, it represents a structured interpretive space within which credibility and credit configurations may be located according to dominant relational characteristics.
 
-This structure is not system-independent. As established in section 14.4, credibility is formed within specific interpretive and structural contexts, and credit is extended within those same contexts. Signals may circulate across systems, but credibility is reconstructed rather than transferred.
+Positions within the grid are therefore dominant configurations rather than exclusive classifications.
 
-The representation introduced in section 14.5 provides a structural view of this process. Credibility and credit may be located within a multi-dimensional space defined by interpretive lenses and system-side aspects. These positions reflect dominant configurations rather than fixed classifications, allowing for variation across contexts and systems.
+Multiple positions may be simultaneously active within a participant, institution, or system.
 
-The purpose of this chapter has been to establish definitional clarity, structural positioning, and minimal operational conditions.
+The same representational position may also produce different interpretations depending on system context, observer structure, and interaction history.
 
-The admissibility, constraints, and governing conditions under which these structures operate are not part of formalisation. They belong to the regime layer of the framework and are developed in the following chapter.
+The grid therefore supports structured comparison without implying direct equivalence or commensurability across systems.
+
+## 15.4 Dominant Configurations and Overlay
+
+Participants and systems rarely occupy singular positions within the representational space.
+
+Instead, credibility structures emerge through overlapping configurations across multiple interpretive lenses and system-side aspects.
+
+A participant may therefore exhibit strong capability credibility within one system while maintaining weak identity credibility within another.
+
+Similarly, institutions may stabilise around dominant structural configurations while remaining dependent upon supporting coordination or capability configurations.
+
+Overlay between configurations modifies interpretation.
+
+The same observed contribution signals may therefore produce different credibility structures depending on which configurations dominate within the receiving system.
+
+The framework consequently treats representational positioning as context-relative and structurally reconstructive rather than universally fixed.
+
+## 15.5 Representation and Non-Commensurability
+
+Because credibility structures are formed through system-relative interpretation, representational positions cannot be treated as universally equivalent across systems.
+
+The same apparent position within the representational grid may correspond to different stabilisation structures depending on the interpretive boundaries, signal weighting, temporal persistence, and coordination mechanisms of the receiving system.
+
+Representational positioning therefore enables structured comparison without collapsing distinct systems into a common scalar framework.
+
+The grid functions as a representational coordinate structure rather than a universal metric of value or legitimacy.
+
+## 15.6 Structural Representation Summary
+
+This chapter established the representational architecture through which credibility and credit structures may be positioned within cooperative systems.
+
+The framework distinguishes between observer-side interpretive lenses and system-side aspects of the observed participant or system.
+
+The sixteen-position grid represents dominant structural configurations rather than fixed classifications.
+
+Multiple configurations may coexist simultaneously, and representational overlay modifies interpretation across systems and contexts.
+
+The following chapter develops the reconstruction dynamics through which credibility and credit structures emerge differently across interpretive systems.
+
+⸻
+
+# 16. SYSTEM-RELATIVE RECONSTRUCTION
+
+## 16.1 Signals and Reconstruction
+
+Signals may circulate across systems, but credibility is reconstructed within systems.
+
+Contribution events themselves do not directly determine credibility.
+
+Rather, credibility emerges through the interpretation, weighting, stabilisation, and reconstruction of signals within specific cooperative systems.
+
+The same underlying contribution history may therefore generate different credibility structures across different systems without contradiction.
+
+## 16.2 System-Relative Credibility
+
+Credibility is not a universal scalar property attached intrinsically to a participant.
+
+It is a structured relation between observed signals and the interpretive architecture of the receiving system.
+
+Observers evaluate signals through different lenses, structures, temporal expectations, and coordination requirements.
+
+As a result, credibility formed within one system may not persist unchanged within another.
+
+When participants move across systems, prior signals are reinterpreted according to the receiving system’s own interpretive structures and stabilisation mechanisms.
+
+Credibility is therefore reconstructed rather than transferred.
+
+## 16.3 Credit Extension Within Systems
+
+Because credit depends upon stabilised credibility, and credibility itself is system-relative, credit relationships must also emerge within specific interpretive systems.
+
+Credit therefore extends not from raw signals alone, but from reconstructed credibility structures sufficiently stabilised within the receiving system.
+
+This implies that credit portability across systems is necessarily partial, conditional, and reconstructive rather than absolute.
+
+## 16.4 Non-Commensurability Across Systems
+
+Different systems may stabilise credibility using different signal structures, weighting mechanisms, temporal expectations, and coordination priorities.
+
+As a result, credibility structures formed in different systems cannot always be directly compared through a single scalar framework.
+
+The framework therefore rejects the assumption that credibility possesses universal commensurability across all systems.
+
+Structured comparison remains possible, but only relative to the interpretive architecture within which credibility is reconstructed.
+
+## 16.5 Reconstruction Summary
+
+This chapter established the system-relative reconstruction dynamics through which credibility and credit emerge within cooperative systems.
+
+Signals may circulate across systems, but credibility is reconstructed within those systems according to their own interpretive structures, stabilisation mechanisms, and coordination requirements.
+
+Credit extends from reconstructed credibility rather than directly from signal transfer alone.
+
+The framework therefore treats credibility and credit as structurally reconstructive rather than universally transferable.
+
+⸻
+
+# 17. FORMALISATION SUMMARY
+
+Part III established the formalisation through which trust, credibility, and credit may be formally interpreted, structurally represented, and comparatively reconstructed within cooperative systems.
+
+Chapter 14 stabilised the formal definitions of the framework’s primary constructs.
+
+Chapter 15 developed the representational architecture through which credibility and credit configurations may be positioned across observer-side lenses and system-side aspects.
+
+Chapter 16 established the system-relative reconstruction dynamics through which credibility and credit emerge differently across interpretive systems.
+
+Together, these chapters form the analytic layer of the Trust Framework.
+
+The governance constraints, admissibility structures, and operational deployment conditions through which these analytic structures are regulated belong to the regime layer developed in the following part of the framework.
