@@ -6,7 +6,7 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 ### Author: Kok Pian Gew  
-### Version: 1.5
+### Version: 1.6
 ### Year: 2026  
 ### Status: Working Paper
 ### Official DOI for this release: [to be added]
