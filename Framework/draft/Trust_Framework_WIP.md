@@ -67,8 +67,9 @@ where cooperation must persist across time despite incomplete knowledge of futur
 ## Non-Scope
 This framework does not attempt to provide a quantitative model of trust, prescribe governance  arrangements, or offer normative guidance on institutional design.
 
-The framework is descriptive rather than prescriptive. It aims to clarify the structural 
-mechanisms through which cooperation emerges and persists, rather than to optimise or evaluate specific social systems. 
+The framework is descriptive rather than prescriptive. It aims to clarify the structural mechanisms through which cooperation emerges and persists, rather than to optimise or evaluate specific social systems. 
+
+The principles and laws developed in Part IV are structural derivations from the framework's analytic architecture, not prescriptions for institutional design or governance.
 
 ## Table of Contents
 
