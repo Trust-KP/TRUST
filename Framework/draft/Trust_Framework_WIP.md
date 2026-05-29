@@ -723,8 +723,9 @@ The lenses are not the dimensions. The lenses are how the observer accesses the 
 |Identity| Regime — how the participant is institutionally validated|Will institutional standing persist?|
 |Capability| Realisation — what the participant has delivered| Will realised performance persist?|
 
-
 The lenses are therefore observer-side evaluation mechanisms; the four pillars are system-side dimensions of expression. Each lens evolves to read the pillar through which the agent presents the corresponding signal.
+
+Because observers may evaluate multiple dimensions simultaneously, trust interpretation need not occur through a single lens–dimension relationship. Complex credibility structures may emerge through combinations of lenses acting upon multiple dimensions of the participant. The representational consequences of these combinations are developed later in the formalisation layer.
 
 ## 10.5 Institutional Trust Infrastructure
 
@@ -864,6 +865,8 @@ The credibility structure therefore operates in two modes:
 - as an activated configuration through which belief is applied at the point of decision.
 
 The combinatorial nature of credibility arises from this activation process, where different combinations of signals and lenses are engaged depending on the context of interaction.
+
+As lens interactions multiply across contexts, credibility no longer behaves as a single-dimensional judgement but as a position within a broader interpretive space. The formal representation of this space is developed in Part III.
 
 ## 11.6 — System-Relative Credibility
 
@@ -1635,15 +1638,15 @@ The chapter therefore establishes the minimal formal conditions under which thes
 
 ---PLACEHOLDER-- 
 
-## 14.3 Cooperative Boundary — Formal Conditions (Step 2)
+## 14.3 Cooperative Boundary — Formal Conditions
 
 ---PLACEHOLDER-- 
 
-## 14.4 Temporal Coordination — Formal Conditions (Step 3)
+## 14.4 Temporal Coordination — Formal Conditions
 
 ---PLACEHOLDER-- 
 
-## 14.5 Contribution, Signals, and Expectation — Formal Conditions (Step 4)
+## 14.5 Contribution, Observation, Signals, and Expectation — Formal Conditions
 
 ---PLACEHOLDER-- 
 
@@ -1697,9 +1700,9 @@ The following chapter develops the structural representation through which these
 
 ⸻
 
-# 15. STRUCTURAL REPRESENTATION
+# 15. INTERPRETATIVE ARCHITECTURE
 
-## 15.1 Purpose of Structural Representation
+## 15.1 Purpose of Interpretive Architecture
 
 Formal definitions alone are insufficient to represent the full multi-dimensional structure of credibility and credit within cooperative systems.
 
@@ -1708,6 +1711,10 @@ The purpose of this chapter is therefore representational rather than classifica
 The structures introduced here do not define fixed categories of agents, institutions, or systems. Rather, they provide a structured representational space within which configurations of credibility and credit may be positioned according to their dominant interpretive and structural characteristics.
 
 The framework therefore distinguishes between observer-side interpretive lenses and system-side aspects of the observed participant or system.
+
+## 15.2 From Formal Sequence to Interpretive Space
+
+-- Placeholder -- 
 
 ## 15.2 Observer-Side Lenses and System-Side Aspects
 
@@ -1723,17 +1730,24 @@ The framework identifies four observer-side interpretive lenses:
 
 These lenses correspond to four system-side aspects of the observed participant or system:
 
-- Observer-Side Lens	System-Side Aspect
-- Coordination	Interpretation
-- Identity	Regime
-- Structural	Structure
-- Capability	Realisation
+|Observer-Side Lens|System-Side Aspect|
+|--|--|
+|Coordination|Interpretation|
+|Identity|Regime|
+|Structural|Structure|
+|Capability|Realisation|
 
 The lenses therefore do not merely classify signals. They evaluate whether the corresponding dimensions of the participant or system are expected to continue in a manner sufficient for coordination under uncertainty.
 
 The observer interprets not only present behaviour, but the expected persistence of meaning, structure, admissibility, and realised capability across time.
 
-## 15.3 The Sixteen-Position Representational Grid
+## 15.4 Canonical Positions
+
+-- Placeholder -- 
+
+## 15.5 The Sixteen-Position Representational Grid
+
+The descriptive framework established two observations. First, trust interpretation occurs through multiple observer-side lenses acting upon different aspects of the observed participant. Second, credibility emerges not from isolated signals, but from the activation of combinations of those interpretations. Together, these observations imply the existence of a structured representational space. The purpose of this chapter is to formalise that space and provide the architectural framework through which credibility and credit configurations may be represented across cooperative systems.
 
 The intersection between observer-side lenses and system-side aspects forms a sixteen-position representational grid.
 
@@ -1749,7 +1763,7 @@ The same representational position may also produce different interpretations de
 
 The grid therefore supports structured comparison without implying direct equivalence or commensurability across systems.
 
-## 15.4 Dominant Configurations and Overlay
+## 15.6 Dominant Configurations and Overlay
 
 Participants and systems rarely occupy singular positions within the representational space.
 
@@ -1765,29 +1779,7 @@ The same observed contribution signals may therefore produce different credibili
 
 The framework consequently treats representational positioning as context-relative and structurally reconstructive rather than universally fixed.
 
-## 15.5 Representation and Non-Commensurability
-
-Because credibility structures are formed through system-relative interpretation, representational positions cannot be treated as universally equivalent across systems.
-
-The same apparent position within the representational grid may correspond to different stabilisation structures depending on the interpretive boundaries, signal weighting, temporal persistence, and coordination mechanisms of the receiving system.
-
-Representational positioning therefore enables structured comparison without collapsing distinct systems into a common scalar framework.
-
-The grid functions as a representational coordinate structure rather than a universal metric of value or legitimacy.
-
-## 15.6 Structural Representation Summary
-
-This chapter established the representational architecture through which credibility and credit structures may be positioned within cooperative systems.
-
-The framework distinguishes between observer-side interpretive lenses and system-side aspects of the observed participant or system.
-
-The sixteen-position grid represents dominant structural configurations rather than fixed classifications.
-
-Multiple configurations may coexist simultaneously, and representational overlay modifies interpretation across systems and contexts.
-
-The following chapter develops the reconstruction dynamics through which credibility and credit structures emerge differently across interpretive systems.
-
-## 15.4. SYSTEM-RELATIVE RECONSTRUCTION
+## 15.7. SYSTEM-RELATIVE RECONSTRUCTION
 
 ### 15.4.1 Signals and Reconstruction
 
@@ -1821,7 +1813,7 @@ Credit therefore extends not from raw signals alone, but from reconstructed cred
 
 This implies that credit portability across systems is necessarily partial, conditional, and reconstructive rather than absolute.
 
-## 15.5 Non-Commensurability Across Systems
+## 15.8 Non-Commensurability Across Systems
 
 Different systems may stabilise credibility using different signal structures, weighting mechanisms, temporal expectations, and coordination priorities.
 
@@ -1831,7 +1823,9 @@ The framework therefore rejects the assumption that credibility possesses univer
 
 Structured comparison remains possible, but only relative to the interpretive architecture within which credibility is reconstructed.
 
-## 15.6 Reconstruction Summary
+## 15.6 Interpretive Architecture Summary
+
+-- PLACEHOLDER -- 
 
 This chapter established the system-relative reconstruction dynamics through which credibility and credit emerge within cooperative systems.
 
