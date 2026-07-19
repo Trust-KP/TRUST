@@ -74,17 +74,17 @@ The principles and laws developed in Part IV are structural derivations from the
 ## Table of Contents
 
 **PART I - ONTOLOGY UNFOLDING**
-- [1 First Principle](#1-first-principle)
-- [2 Layered Structure of the Framework](#2-layered-structure-of-the-framework)
-- [3 Theory of Continuation](#3-theory-of-continuation)
-- [4 Theory of Coexistence Systems](#4-theory-of-coexistence-systems)
-- [5 Theory of Cooperative Boundary](#5-theory-of-cooperative-boundary)
-- [6 Theory of Temporal Coordination](#6-theory-of-temporal-coordination)
+- [1 FIRST PRINCIPLE](#1-first-principle)
+- [2 LAYERED STRUCTURE OF THE FRAMEOWKR](#2-layered-structure-of-the-framework)
+- [3 THEORY OF CONTINUATION](#3-theory-of-continuation)
+- [4 THEORY OF COEXISTENCE SYSTEMS](#4-theory-of-coexistence-systems)
+- [5 THEORY OF COOPERATIVE BOUNDARY](#5-theory-of-cooperative-boundary)
+- [6 THEORY OF TEMPORAL COORDINATION](#6-theory-of-temporal-coordination)
 
 **PART II - DESCRIPTIVE FRAMEWORK**
-- [7 Emergence of Trust Systems](#7-emergence-of-trust-systems)
-- [8 Signal Foundations of Signal Generation](#8-signal-foundations-of-signal-generation)
-- [9 Signal Evaluation Principles](#9-signal-evaluation-principles)
+- [7 EMERGENCE OF TRUST SYSTEMS](#7-emergence-of-trust-systems)
+- [8 SIGNAL FOUNDATION OF SIGNAL GENERATION](#8-signal-foundations-of-signal-generation)
+- [9 SIGNAL EVALUATION PRINCIPLES](#9-signal-evaluation-principles)
 - [10 ORIGIN OF TRUST](#10-Origin-of-trust)
 - [11 CREDIBILITY](#11-Credibility)
 - [12 CREDIT](#12-Credit)
