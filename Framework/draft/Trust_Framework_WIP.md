@@ -1637,7 +1637,7 @@ The chapter therefore establishes the minimal formal conditions under which thes
 
 ## 14.2 Coexistence — Formal Conditions
 
-**Coexistence is the condition in which two or more participants — human, institutional, biological, or environmental — occupy a shared system such that the actions or states of each influence the continuation conditions of the others, independent of intent, awareness, coordination, or communication.**
+**Coexistence** is the condition in which two or more participants — human, institutional, biological, or environmental — occupy a shared system such that the actions or states of each influence the continuation conditions of the others, independent of intent, awareness, coordination, or communication.
 
 Coexistence is the minimal ontological condition from which all subsequent cooperative structures are derived.
 
@@ -1645,11 +1645,11 @@ A participant may be an individual, institution, organism, or environmental/ecol
 
 Coexistence does not require communication, recognition, or mutual understanding between participants. Influence operates through physical, ecological, economic, or systemic consequences rather than through shared interpretation.
 
-Coexistence is prior to cooperation. It neither implies nor requires the cooperative boundary, temporal coordination, or trust. These structures emerge from coexistence but cannot be reduced to it.
+Coexistence does not guarantee cooperation. It provides the ontological ground from which cooperative structures become possible
 
 ## 14.3 Cooperative Boundary — Formal Conditions
 
-**A cooperative boundary is the threshold at which, within a coexistence system, perceived interaction risk falls below the level at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.**
+**Cooperative Boundary** is the threshold at which, within a coexistence system, perceived interaction risk falls below the level at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.
 
 A cooperative boundary obtains when, within a coexistence system, perceived interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.
 
@@ -1657,11 +1657,13 @@ The position of this threshold is influenced by four structural conditions: the 
 
 The cooperative boundary is not a permanent condition established through a single crossing. It must be continuously reproduced through sustained alignment between expectation and realised outcomes across successive interactions. Where this alignment fails, the boundary may recede and cooperative coordination may revert toward coexistence conditions.
 
-The cooperative boundary is the necessary condition for the formation of temporal coordination. Without it, signal interpretation and expectation formation cannot develop.
+Crossing the cooperative boundary does not guarantee temporal coordination. It provides the necessary condition through which signal interpretation and expectation formation can develop.
+
+From this stage onward, the framework presumes participants capable of interpreting signals and forming expectations; coexistence pairs incapable of interpretation remain permanently within coexistence relative to one another.
 
 ## 14.4 Temporal Coordination — Formal Conditions
 
-**Temporal coordination is the condition in which participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.**
+**Temporal coordination** is the condition in which participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.
 
 Temporal coordination obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.
 
@@ -1677,34 +1679,31 @@ Temporal coordination does not guarantee continuation. It provides the mechanism
 
 ## 14.5 Contribution, Observation, Signals, and Expectation — Formal Conditions
 
-**First Draft**
-The following conditions express contribution, signals, and expectation as the three constituent structures of the Possibility state.
+**Contribution** obtains when an action by a participant produces a change in the continuation capacity of another participant or of the cooperative system as a whole.
 
-Contribution obtains when an action by a participant produces a change in the continuation capacity of another participant or of the cooperative system as a whole. Contribution events accumulate into a contribution history that forms the evidential substrate from which signals emerge. Contribution is the originating condition. Without it, no signals exist and no expectations can form.
+**Observation** obtains when a contribution event’s outcomes become accessible to a participant, whether through direct experience, records, or other means; observation may be incomplete, delayed, or imperfect.
 
-A signal obtains when a contribution event produces observable consequences accessible to interpretation by observers. Signals are the realised interface between underlying contribution events and observer interpretation. They exist independently of any specific observer's access to them, although access, resolution, and timing may vary across observers. Signals do not possess intrinsic meaning. Their significance is determined through interpretation.
+A **signal** obtains when an observed contribution outcome becomes available for interpretation; signals possess no intrinsic meaning, their significance being determined entirely through interpretation.
 
-An expectation obtains when an observer applies evaluation principles to signals derived from contribution history and forms a projection regarding the continuation of a participant's behaviour. Expectation is held by the observer. It is not a property of the participant or of the signals themselves.
+An **expectation** obtains when an observer applies evaluation principles to interpreted signals and forms a projection regarding the continuation of a participant’s behaviour.
 
-Each structure depends upon but is irreducible to the one preceding it. Signals cannot exist without contribution. Expectation cannot form without signals. Together, they constitute the informational and interpretive conditions under which trust can emerge.
+Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, no observation is possible, no signals exist, and no expectations can form.
+
+Signals exist independently of any specific observer’s access to them, although access, resolution, and timing may vary across observers. Expectation, by contrast, is held by the observer; it is not a property of the participant, the contribution event, or the signal itself.
+
+Each structure depends upon but is irreducible to the one preceding it: observation cannot occur without contribution, signals cannot be interpreted without observation, and expectation cannot form without signals.
+
+Contribution, observation, signals, and expectation do not by themselves guarantee trust. They provide the informational and interpretive conditions through which trust becomes possible.
 
 ## 14.6 Trust, Credibility, and Credit — Formal Definitions
 
 The following definitions express trust, credibility, and credit as structurally related positions within cooperative continuation systems.
 
-**TRUST** is the coordination mechanism through which expectations of continuation are deployed under uncertainty.
+**Trust** is the coordination mechanism through which expectations of continuation are deployed under uncertainty.
 
 **Credibility** is the stabilisation of trust across observers, time, and interaction contexts, enabling scalable coordination.
 
 **Credit** is the forward extension of coordination commitments beyond immediate capacity and across time.
-
-These definitions describe successive stages within the same underlying coordination structure.
-
-Trust represents the deployment of expectation within a specific interaction context.
-
-Credibility represents the stabilisation of such expectations across repeated interactions, observers, and temporal intervals.
-
-Credit represents the extension of stabilised expectations into future-oriented coordination commitments.
 
 Each stage depends upon but is irreducible to the preceding stage.
 
@@ -1714,9 +1713,13 @@ Credibility cannot emerge without prior trust formation.
 
 Credit cannot be extended without prior credibility stabilisation.
 
-Under recursive interpretation, trust, credibility, and credit may also be understood as successive operational states through which expectations of continuation are deployed, stabilised, and extended within cooperative systems.
+The sequence is self-compounding: credit extended in one cycle constitutes a new contribution event, generating new signals capable of stabilising into deeper credibility in the next cycle. 
+
+This recursive compounding is what allows temporal coordination to strengthen across repeated engagement, rather than merely repeating at constant stability.
 
 Together, these structures form a continuous coordination sequence through which cooperative systems maintain persistence across uncertainty and time.
+
+Trust, credibility, and credit do not by themselves guarantee continuation. Their recursive compounding across repeated cycles provides the mechanism through which continuation becomes possible.
 
 ## 14.7 Continuation — Formal Conditions (Step 6)
 
