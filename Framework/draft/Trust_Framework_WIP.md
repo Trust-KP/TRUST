@@ -1723,21 +1723,21 @@ Trust, credibility, and credit do not by themselves guarantee continuation. Thei
 
 ## 14.7 Continuation — Formal Conditions (Step 6)
 
-**First Draft**
-
 The following conditions express continuation as the terminal ontological state and the governing purpose of the cooperative sequence.
 
 Continuation obtains when a cooperative system retains sufficient coordination capacity to persist across time despite uncertainty, entropy, and external shocks.
 
 Continuation requires the sustained operation of the temporal coordination cycle, the stability of credibility structures sufficient to support repeated trust deployment, and the availability of credit mechanisms enabling coordination beyond immediate interaction. Where any of these conditions fails, the system's capacity for continuation is diminished.
 
-Continuation is not a terminal state achieved once and retained. It is a continuously reproduced condition whose persistence depends on the ongoing alignment between expectation and realised contribution across successive interactions.
+Continuation is the terminal ontological state of the cooperative sequence: the condition toward which coexistence, the cooperative boundary, temporal coordination, contribution, signal, expectation, trust, and credibility are all oriented, and beyond which no further stage in the sequence is defined.
+
+Operationally, however, continuation is not achieved once and retained. Each completed cycle re-enters the sequence as a new instance of contribution, recursively reproducing the same terminal condition across successive cycles — as a day is ontologically terminal at midnight, while operationally recurring as the next day’s cycle.
 
 The full cooperative sequence —
 
 **Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Expectation → Trust → Credibility → Credit → Continuation**
 
-— constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented.
+This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented.
 
 ## 14.8 Formalisation Summary
 
