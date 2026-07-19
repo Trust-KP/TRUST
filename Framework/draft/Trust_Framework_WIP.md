@@ -1649,9 +1649,7 @@ Coexistence is prior to cooperation. It neither implies nor requires the coopera
 
 ## 14.3 Cooperative Boundary — Formal Conditions
 
-**FIRST DRAFT**
-
-The following conditions express the cooperative boundary as the structural threshold separating coexistence from cooperative coordination.
+**A cooperative boundary is the threshold at which, within a coexistence system, perceived interaction risk falls below the level at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.**
 
 A cooperative boundary obtains when, within a coexistence system, perceived interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.
 
@@ -1663,9 +1661,8 @@ The cooperative boundary is the necessary condition for the formation of tempora
 
 ## 14.4 Temporal Coordination — Formal Conditions
 
-**FIRST DRAFT**
+**Temporal coordination is the condition in which participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.**
 
-The following conditions express temporal coordination as the mechanism through which cooperation persists beyond isolated interaction.
 Temporal coordination obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.
 
 The operational sequence is invariant:
