@@ -233,6 +233,7 @@ The structural sequence developed across the framework can be mapped onto the si
 This mapping is developed across the chapters that follow.
 
 # 4.	THEORY OF COEXISTENCE SYSTEMS
+
 All systems that seek continuation exist within environments populated by other interacting systems. These surrounding systems influence one another’s conditions for survival even when they do not intentionally coordinate their actions. The Theory of Coexistence Systems describes how systems affect each other’s continuation through shared environments, constraints, and indirect interaction.
 
 Coexistence arises whenever multiple systems occupy the same environment and their actions or states influence one another’s ability to persist. These systems may include biological organisms, ecological systems, individuals, institutions, technological networks, states, or entire civilizations. The defining characteristic of coexistence is that systems affect one another’s continuation even in the absence of deliberate coordination or shared intention.
@@ -1606,7 +1607,7 @@ The framework therefore does not describe a final equilibrium state, but the rec
 
 ---
 
-**PART III - FORMALISATION**
+# **PART III - FORMALISATION**
 
 The purpose of Part III is to stabilise the interpretive structure of trust, credibility, and credit within cooperative systems.
 
@@ -1636,18 +1637,15 @@ The chapter therefore establishes the minimal formal conditions under which thes
 
 ## 14.2 Coexistence — Formal Conditions
 
-**FIRST DRAFT**
+**Coexistence is the condition in which two or more participants — human, institutional, biological, or environmental — occupy a shared system such that the actions or states of each influence the continuation conditions of the others, independent of intent, awareness, coordination, or communication.**
 
-The following conditions express the coexistence system as the ontological ground from which all cooperative structures emerge.
+Coexistence is the minimal ontological condition from which all subsequent cooperative structures are derived.
 
-A coexistence system obtains when at least two agents occupy a shared environment and the actions or states of each agent influence the continuation conditions of others, regardless of intent, awareness, or coordination.
+A participant may be an individual, institution, organism, or environmental/ecological system; agency or intentionality is not required.
 
-Coexistence does not require communication, recognition, or mutual understanding between agents. Influence operates through physical, ecological, economic, or systemic consequences rather than through shared interpretation.
-
-The primitive condition of coexistence is therefore mutual influence on continuation capacity in the absence of coordination. It is the minimal ontological condition from which all subsequent cooperative structures are derived.
+Coexistence does not require communication, recognition, or mutual understanding between participants. Influence operates through physical, ecological, economic, or systemic consequences rather than through shared interpretation.
 
 Coexistence is prior to cooperation. It neither implies nor requires the cooperative boundary, temporal coordination, or trust. These structures emerge from coexistence but cannot be reduced to it.
-
 
 ## 14.3 Cooperative Boundary — Formal Conditions
 
