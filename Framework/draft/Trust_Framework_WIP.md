@@ -1759,6 +1759,8 @@ The following chapter develops the structural representation through which these
 
 ## 15.1 Purpose of Interpretive Architecture
 
+DRAFT - 
+
 Formal definitions alone are insufficient to represent the full multi-dimensional structure of credibility and credit within cooperative systems.
 
 The purpose of this chapter is therefore representational rather than classificatory.
