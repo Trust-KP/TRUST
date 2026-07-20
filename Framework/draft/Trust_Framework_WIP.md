@@ -1757,130 +1757,307 @@ The following chapter develops the structural representation through which these
 
 # 15. INTERPRETATIVE ARCHITECTURE
 
-## 15.1 Purpose of Interpretive Architecture
+15. INTERPRETATIVE ARCHITECTURE
 
-DRAFT - 
+15.1 Purpose of Interpretative Architecture
 
-Formal definitions alone are insufficient to represent the full multi-dimensional structure of credibility and credit within cooperative systems.
+The preceding chapters established the structural sequence through which trust, credibility, and credit emerge within cooperative systems.
 
-The purpose of this chapter is therefore representational rather than classificatory.
+Formal structure alone, however, does not determine the meaning attributed to that structure.
 
-The structures introduced here do not define fixed categories of agents, institutions, or systems. Rather, they provide a structured representational space within which configurations of credibility and credit may be positioned according to their dominant interpretive and structural characteristics.
+The same contribution, signal, expectation, behaviour, or credibility configuration may acquire different meanings across observers, systems, contexts, and periods of time. These differences do not necessarily imply that the underlying structural relationships have changed. They may instead arise because the structure is being interpreted differently.
 
-The framework therefore distinguishes between observer-side interpretive lenses and system-side aspects of the observed participant or system.
+The purpose of Interpretative Architecture is therefore to provide a formal space within which the structures established by the framework may acquire system-relative, context-relative, and temporally evolving meaning without requiring the underlying structural framework to be continuously rewritten.
 
-## 15.2 From Formal Sequence to Interpretive Space
+The architecture is representational rather than classificatory.
 
--- Placeholder -- 
+It does not define fixed categories of participants, institutions, or systems. It describes how meaning is organised around the structural relationships established in the preceding chapters, and how those meanings may vary, overlap, persist, or change.
 
-## 15.2 Observer-Side Lenses and System-Side Aspects
+This separation allows the structural framework to remain stable while its interpretation remains capable of evolving with changes in language, knowledge, culture, technology, institutions, and social convention.
 
-Observers do not interpret signals directly in isolation.
+Interpretative change therefore does not, by itself, constitute structural change.
 
-Signals are interpreted through lenses that determine how continuation expectations are evaluated within cooperative systems.
+⸻
 
-The framework identifies four observer-side interpretive lenses:
-	•	Coordination lens
-	•	Identity lens
-	•	Structural lens
-	•	Capability lens
+15.2 From Formal Sequence to Interpretative Space
 
-These lenses correspond to four system-side aspects of the observed participant or system:
+The formal sequence established in the preceding chapters describes the structural path through which cooperative coordination becomes possible:
 
-|Observer-Side Lens|System-Side Aspect|
-|--|--|
-|Coordination|Interpretation|
-|Identity|Regime|
-|Structural|Structure|
-|Capability|Realisation|
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
-The lenses therefore do not merely classify signals. They evaluate whether the corresponding dimensions of the participant or system are expected to continue in a manner sufficient for coordination under uncertainty.
+This sequence establishes structural relationships.
 
-The observer interprets not only present behaviour, but the expected persistence of meaning, structure, admissibility, and realised capability across time.
+Interpretative Architecture addresses a different question: what do those relationships mean when encountered by an observer within a particular cooperative system?
 
-## 15.4 Canonical Positions
+An observer does not encounter the entire structural history of a participant or system directly. The observer encounters accessible signals and interprets those signals from a particular position, within a particular system, at a particular time.
 
--- Placeholder -- 
+Meaning therefore arises through a relation between:
 
-## 15.5 The Sixteen-Position Representational Grid
+1. the aspect of the participant or system being interpreted; and
+2. the lens through which the observer interprets it.
 
-The descriptive framework established two observations. First, trust interpretation occurs through multiple observer-side lenses acting upon different aspects of the observed participant. Second, credibility emerges not from isolated signals, but from the activation of combinations of those interpretations. Together, these observations imply the existence of a structured representational space. The purpose of this chapter is to formalise that space and provide the architectural framework through which credibility and credit configurations may be represented across cooperative systems.
+The intersection of these two dimensions creates an interpretative space.
 
-The intersection between observer-side lenses and system-side aspects forms a sixteen-position representational grid.
+This space does not alter the structural sequence from which it arises. It provides the architecture through which that structure becomes meaningful to observers and consequential within cooperative systems.
 
-This grid does not define fixed categories or scalar rankings.
+⸻
 
-Rather, it represents a structured interpretive space within which credibility and credit configurations may be located according to dominant relational characteristics.
+15.3 Observer-Side Lenses and System-Side Aspects
 
-Positions within the grid are therefore dominant configurations rather than exclusive classifications.
+The framework identifies four observer-side interpretative lenses:
 
-Multiple positions may be simultaneously active within a participant, institution, or system.
+* Coordination lens
+* Identity lens
+* Structural lens
+* Capability lens
 
-The same representational position may also produce different interpretations depending on system context, observer structure, and interaction history.
+These lenses correspond canonically to four system-side aspects of the observed participant or system:
 
-The grid therefore supports structured comparison without implying direct equivalence or commensurability across systems.
+Observer-Side Lens	Canonical System-Side Aspect
+Coordination	Interpretation
+Identity	Regime
+Structural	Structure
+Capability	Realisation
+
+The observer-side lenses describe the position from which continuation is evaluated.
+
+The system-side aspects describe what is being read.
+
+The distinction is important.
+
+A lens is not itself the aspect it observes. The Coordination lens, for example, does not constitute Interpretation; it reads the interpretative capacity through which meaning is generated and sustained in interaction. Similarly, the Capability lens reads Realisation: whether expected contribution becomes observable outcome.
+
+The four canonical relationships therefore represent the most direct alignment between observer position and system-side aspect.
+
+They do not exhaust the possible interpretative relationships between them.
+
+⸻
+
+15.4 Canonical Positions
+
+The four canonical positions represent the direct alignment between each observer-side lens and its corresponding system-side aspect.
+
+Coordination–Interpretation
+
+The Coordination lens reads whether meaning can be generated, communicated, and sustained sufficiently for participants to coordinate under uncertainty.
+
+Identity–Regime
+
+The Identity lens reads whether the participant possesses recognised standing within the conditions through which participation is admitted, maintained, or withdrawn.
+
+Structural–Structure
+
+The Structural lens reads whether commitments, relationships, and dependencies are organised in a sufficiently coherent and persistent form to support continuation.
+
+Capability–Realisation
+
+The Capability lens reads whether expected contribution can be realised through observable action, output, or outcome.
+
+These canonical positions provide the primary interpretative alignment of the framework.
+
+However, cooperative systems do not necessarily interpret participants only through canonical alignments. An observer operating through one lens may interpret signals arising from any of the four system-side aspects.
+
+The full interpretative space is therefore larger than the four canonical positions.
+
+⸻
+
+15.5 The Sixteen-Position Interpretative Space
+
+The intersection of four observer-side lenses with four system-side aspects produces a sixteen-position interpretative space.
+
+|| Structure | Interpretation| 	Regime|	Realisation|
+|--|--|--|
+|Structural |Canonical	|Cross-position	|Cross-position| Cross-position|
+|Coordination	|Cross-position|	Canonical|	Cross-position|	Cross-position|
+|Identity	|Cross-position|	Cross-position|	Canonical	| Cross-position|
+|Capability	|Cross-position|	Cross-position|	Cross-position|	Canonical|
+
+Each position represents a distinct interpretative relation between the perspective from which an observer evaluates continuation and the aspect of the participant or system being evaluated.
+
+The sixteen positions do not constitute sixteen fixed types of trust, credibility, participant, or system.
+
+They constitute sixteen possible interpretative relations.
+
+The canonical positions represent direct lens–aspect alignment. The remaining positions represent cross-readings in which one observer-side lens interprets a different system-side aspect.
+
+Such cross-readings are not necessarily errors or distortions. They may become relevant because cooperative systems frequently require one aspect of a participant to be interpreted in relation to another coordination concern.
+
+The interpretative space therefore permits the same underlying structure to carry multiple meanings simultaneously.
+
+A complete specification of the sixteen positions may be developed where domain application requires it. The framework itself establishes the architecture of the space without requiring every possible position to be permanently assigned a universal meaning.
+
+This preserves interpretative openness while retaining structural coherence.
 
 ## 15.6 Dominant Configurations and Overlay
 
-Participants and systems rarely occupy singular positions within the representational space.
+Participants and systems rarely occupy a singular interpretative position.
 
-Instead, credibility structures emerge through overlapping configurations across multiple interpretive lenses and system-side aspects.
+Multiple positions may be active simultaneously.
 
-A participant may therefore exhibit strong capability credibility within one system while maintaining weak identity credibility within another.
+Within a particular interaction, one or more positions may become dominant because they are most relevant to the continuation expectation being evaluated.
 
-Similarly, institutions may stabilise around dominant structural configurations while remaining dependent upon supporting coordination or capability configurations.
+A participant may, for example, possess strong capability credibility because realised outcomes are consistently observed while simultaneously possessing weaker identity credibility because standing within the relevant regime remains uncertain.
 
-Overlay between configurations modifies interpretation.
+Similarly, an institution may be interpreted primarily through structural persistence in one context and through coordination capacity in another.
 
-The same observed contribution signals may therefore produce different credibility structures depending on which configurations dominate within the receiving system.
+Interpretative configurations therefore overlap.
 
-The framework consequently treats representational positioning as context-relative and structurally reconstructive rather than universally fixed.
+The meaning attributed to a signal may be affected by the other active positions surrounding it. A realised outcome may be interpreted differently depending on the identity of the actor, the structure through which it was produced, or the regime under which it occurred.
 
-## 15.7. SYSTEM-RELATIVE RECONSTRUCTION
+The framework therefore treats interpretative positioning as:
 
-### 15.4.1 Signals and Reconstruction
+* non-exclusive;
+* context-relative;
+* capable of overlay;
+* capable of changing dominance.
+
+A representational position identifies an interpretative relationship. It does not permanently classify the participant occupying it.
+
+
+## 15.7 Temporal and Semantic Evolution
+
+Interpretative Architecture is temporally adaptive.
+
+The meaning attributed to a structurally unchanged signal, behaviour, role, category, or contribution may evolve over time.
+
+Such evolution may arise from changes in:
+
+* language;
+* social convention;
+* cultural understanding;
+* accumulated knowledge;
+* technology;
+* institutional practice;
+* collective experience;
+* historical context.
+
+A signal interpreted positively in one period may later become neutral or negative. A previously weak signal may acquire greater significance. A term or category may undergo semantic drift, semantic pejoration, or semantic amelioration while the underlying structural relationship in which it appears remains unchanged.
+
+The framework therefore distinguishes between structural change and interpretative change.
+
+Structural change occurs when the relationships established by the structural framework themselves change.
+
+Interpretative change occurs when the meaning attributed to those relationships changes while the underlying structure remains intact.
+
+Accordingly:
+
+Same structure does not require same meaning across time.
+
+The interpretative architecture may evolve without requiring reconstruction of the structural framework, provided that the revised interpretation remains an interpretation of the underlying structural relationships rather than a replacement of them.
+
+This allows the framework to remain structurally stable while remaining capable of evolving with the systems in which it is applied.
+
+## 15.8 System-Relative Reconstruction
 
 Signals may circulate across systems, but credibility is reconstructed within systems.
 
-Contribution events themselves do not directly determine credibility.
+Contribution events do not directly determine credibility.
 
-Rather, credibility emerges through the interpretation, weighting, stabilisation, and reconstruction of signals within specific cooperative systems.
+Credibility emerges through the interpretation, weighting, accumulation, and stabilisation of signals within a particular interpretative architecture.
 
 The same underlying contribution history may therefore generate different credibility structures across different systems without contradiction.
 
-## 15.4.2 System-Relative Credibility
+This difference may arise because systems:
 
-Credibility is not a universal scalar property attached intrinsically to a participant.
+* observe different signals;
+* assign different meanings to the same signals;
+* activate different interpretative positions;
+* give different positions different dominance;
+* stabilise expectations over different temporal horizons.
 
-It is a structured relation between observed signals and the interpretive architecture of the receiving system.
+Credibility is therefore not a universal scalar property intrinsically attached to a participant.
 
-Observers evaluate signals through different lenses, structures, temporal expectations, and coordination requirements.
+It is a stabilised relationship between accessible signals and the interpretative architecture within which those signals are received.
 
-As a result, credibility formed within one system may not persist unchanged within another.
+When a participant moves between systems, prior signals may travel with the participant, but their meaning is reconstructed according to the receiving system.
 
-When participants move across systems, prior signals are reinterpreted according to the receiving system’s own interpretive structures and stabilisation mechanisms.
+Credibility is therefore reconstructed rather than simply transferred.
 
-Credibility is therefore reconstructed rather than transferred.
+The same reconstruction may occur without physical movement between systems. Where the interpretative architecture of an existing system changes over time, previously accumulated signals may acquire different meanings within that same system.
 
-## 15.4.3 Credit Extension Within Systems
+Interpretative evolution can therefore produce temporal reconstruction as well as cross-system reconstruction.
 
-Because credit depends upon stabilised credibility, and credibility itself is system-relative, credit relationships must also emerge within specific interpretive systems.
+## 15.9 Credit Extension and Interpretative Consequence
 
-Credit therefore extends not from raw signals alone, but from reconstructed credibility structures sufficiently stabilised within the receiving system.
+Credit depends upon stabilised credibility.
 
-This implies that credit portability across systems is necessarily partial, conditional, and reconstructive rather than absolute.
+Because credibility is reconstructed within interpretative systems, credit is extended on the basis of the credibility structure recognised by the system in which the credit relationship is formed.
 
-## 15.8 Non-Commensurability Across Systems
+Credit therefore does not extend directly from raw contribution history or signal transfer alone.
 
-Different systems may stabilise credibility using different signal structures, weighting mechanisms, temporal expectations, and coordination priorities.
+It extends from an interpretation of those signals that has become sufficiently stabilised to support forward action under uncertainty.
 
-As a result, credibility structures formed in different systems cannot always be directly compared through a single scalar framework.
+The same participant may consequently support different forms or degrees of credit in different systems, even where the underlying contribution history is identical.
 
-The framework therefore rejects the assumption that credibility possesses universal commensurability across all systems.
+Where interpretative meaning changes over time, the credibility basis supporting an existing or prospective credit relationship may also change without any corresponding change in the participant’s historical contribution record.
 
-Structured comparison remains possible, but only relative to the interpretive architecture within which credibility is reconstructed.
+Interpretative change can therefore alter the future consequences of an unchanged past.
 
-## 15.6 Interpretive Architecture Summary
+## 15.10 Comparability and Non-Commensurability
+
+Different systems may interpret and stabilise credibility using different signals, interpretative positions, weighting mechanisms, temporal expectations, and coordination priorities.
+
+Credibility structures formed within different systems therefore cannot necessarily be reduced to a single universal scalar.
+
+Structured comparison remains possible.
+
+Universal equivalence does not necessarily follow.
+
+Two systems may recognise the same contribution history while assigning different meanings to it. Alternatively, they may assign similar meanings while differing in the significance given to those meanings within their broader credibility structures.
+
+The framework therefore treats credibility as system-relative and rejects the assumption of automatic commensurability across interpretative systems.
+
+Comparison requires reference to the architecture within which credibility was reconstructed.
+
+## 15.11 Boundary of Interpretative Architecture
+
+Interpretative Architecture determines how structural relationships acquire meaning.
+
+It does not determine which meanings are permissible, authoritative, enforceable, or admissible.
+
+Those questions belong to Regime.
+
+A system may retain the same interpretation of a signal while changing the rules governing whether, when, or how that interpretation may be used.
+
+Interpretative continuity therefore does not require regime continuity.
+
+Similarly, a regime may remain unchanged while the mechanisms through which it is realised evolve.
+
+The separation between these layers allows change to occur without requiring unnecessary reconstruction of the layers that precede it.
+
+Accordingly:
+
+Interpretation may change while Structure remains intact.
+
+Regime may change while Interpretation remains intact.
+
+Realisation may change while Regime remains intact.
+
+A change in a later layer does not, by itself, imply a change in an earlier layer.
+
+The following Part develops the Regime layer: the principles, conditions, and admissibility structures governing the operation of trust, credibility, and credit within cooperative systems.
+
+## 15.12 Interpretative Architecture Summary
+
+This chapter established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
+
+Observer-side lenses intersect with system-side aspects to create a sixteen-position interpretative space. Four canonical positions represent direct lens–aspect alignment, while cross-positions permit the same structural relationships to be interpreted from different observer perspectives.
+
+Interpretative configurations may overlap, vary in dominance, and change across contexts.
+
+They may also evolve across time.
+
+Changes in language, knowledge, technology, culture, institutions, or social convention may alter the meaning attributed to structurally unchanged signals and relationships. The framework therefore permits interpretative evolution without requiring corresponding structural revision.
+
+Because interpretation is system-relative and temporally adaptive, credibility is reconstructed rather than universally transferred. Signals may persist across systems and across time while the credibility structures derived from them change.
+
+Credit consequently extends from credibility as reconstructed within the relevant interpretative architecture.
+
+The framework therefore separates structural persistence from interpretative evolution.
+
+This separation allows the structural account of trust to remain stable while its meaning remains capable of evolving with the cooperative systems to which it is applied.
+
+The next Part addresses Regime: the principles and conditions governing which interpretations and resulting relationships are admissible within a cooperative system.
 
 -- PLACEHOLDER -- 
 
