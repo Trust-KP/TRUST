@@ -1757,9 +1757,7 @@ The following chapter develops the structural representation through which these
 
 # 15. INTERPRETATIVE ARCHITECTURE
 
-15. INTERPRETATIVE ARCHITECTURE
-
-15.1 Purpose of Interpretative Architecture
+## 15.1 Purpose of Interpretative Architecture
 
 The preceding chapters established the structural sequence through which trust, credibility, and credit emerge within cooperative systems.
 
@@ -1777,9 +1775,7 @@ This separation allows the structural framework to remain stable while its inter
 
 Interpretative change therefore does not, by itself, constitute structural change.
 
-⸻
-
-15.2 From Formal Sequence to Interpretative Space
+## 15.2 From Formal Sequence to Interpretative Space
 
 The formal sequence established in the preceding chapters describes the structural path through which cooperative coordination becomes possible:
 
@@ -1800,9 +1796,7 @@ The intersection of these two dimensions creates an interpretative space.
 
 This space does not alter the structural sequence from which it arises. It provides the architecture through which that structure becomes meaningful to observers and consequential within cooperative systems.
 
-⸻
-
-15.3 Observer-Side Lenses and System-Side Aspects
+## 15.3 Observer-Side Lenses and System-Side Aspects
 
 The framework identifies four observer-side interpretative lenses:
 
@@ -1831,9 +1825,7 @@ The four canonical relationships therefore represent the most direct alignment b
 
 They do not exhaust the possible interpretative relationships between them.
 
-⸻
-
-15.4 Canonical Positions
+## 15.4 Canonical Positions
 
 The four canonical positions represent the direct alignment between each observer-side lens and its corresponding system-side aspect.
 
@@ -1859,9 +1851,7 @@ However, cooperative systems do not necessarily interpret participants only thro
 
 The full interpretative space is therefore larger than the four canonical positions.
 
-⸻
-
-15.5 The Sixteen-Position Interpretative Space
+## 15.5 The Sixteen-Position Interpretative Space
 
 The intersection of four observer-side lenses with four system-side aspects produces a sixteen-position interpretative space.
 
@@ -2162,6 +2152,11 @@ These conditions do not prescribe how systems should operate. They describe the 
 # 23: Interpretive Execution
 
 ## 23.1 How Interpretation Executes in Operation
+
+Asymmetric Resolution: Acknowledge that an observer rarely sees all four lenses with equal clarity. The architecture allows for "blind spots" where certain lenses remain completely dark, yet trust can still execute if the visible lenses provide sufficient baseline clarity.
+
+The Signal Horizon: Define the exact boundary where a flat expectation line meets a new incoming signal. The execution point is the moment the signal hits the observer's evaluation principles, causing the flat expectation vector to instantly bend, step-up, or drop to map the new reality.
+
 ## 23.2 Evaluation Under Execution Conditions
 ## 23.3 The Temporal Coordination Cycle as Operational Infrastructure
 
@@ -2169,7 +2164,22 @@ These conditions do not prescribe how systems should operate. They describe the 
 
 ## 24.1 How Regime Constraints Execute in Practice
 ## 24.2 Failure Detection and Operational Response
+
+In an observer-bound architecture, a "shock" is a signal that violently contradicts the slope of the current expectation line.
+Expected Death (Old Age)   ---> [Flat Line / Small Delta] ---> High Systemic Stability
+Sudden Shock (Young Friend) ---> [Severe Slope Disruption] ---> Structural Recalibration
+
+The Expected Realisation: The death of an elderly person is within the "permissible variation" of the observer’s long-term anticipation. 
+
+The signal aligns with systemic expectations, meaning the delta is small and credibility remains stable.The Structural Shock: The death of a young friend is outside the anticipated variation. It delivers a violent informational shock, forcing the observer to rapidly and drastically flatten or drop their expectation vector, straining the interpretive framework.
+
 ## 24.3 Credit as State Transition Trigger
+
+When an agent fakes their death, they do not just receive a negative rating; their formal signal profile is set to Nil.
+
+The Formal System Exclusion: Because formal coordination mechanics like mortgages, loans, and ID verification require forward commitments based on stabilised credibility structure. An agent with a Nil signal profile becomes a ghost to the architecture. The system cannot process a state transition because there is no historical substrate to generate a forward-facing Light Cone.
+
+he Descent to Coexistence / Grey Economy: However, the agent is not erased from reality. As long as they occupy the physical system, they remain in a state of Coexistence. They can still cross into the informal grey economy because that realm operates entirely on the immediate, self-reinforcing sequence of Raw Contribution -> Observable Outcomes. It requires no forward-looking credit extensions, only immediate, transactional value.
 
 # 25: Realisation Closure
 
