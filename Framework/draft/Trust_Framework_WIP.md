@@ -2027,9 +2027,9 @@ A change in a later layer does not, by itself, imply a change in an earlier laye
 
 The following Part develops the Regime layer: the principles, conditions, and admissibility structures governing the operation of trust, credibility, and credit within cooperative systems.
 
-## 15.12 Interpretative Architecture Summary
+# 15.2.Interpretative Architecture Summary
 
-This chapter established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
+This chpater established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
 
 Observer-side lenses intersect with system-side aspects to create a sixteen-position interpretative space. Four canonical positions represent direct lens–aspect alignment, while cross-positions permit the same structural relationships to be interpreted from different observer perspectives.
 
@@ -2047,33 +2047,17 @@ The framework therefore separates structural persistence from interpretative evo
 
 This separation allows the structural account of trust to remain stable while its meaning remains capable of evolving with the cooperative systems to which it is applied.
 
-The next Part addresses Regime: the principles and conditions governing which interpretations and resulting relationships are admissible within a cooperative system.
+# 16. Formalisation Summary
 
--- PLACEHOLDER -- 
+Part III established the analytic layer of the Trust Framework.
 
-This chapter established the system-relative reconstruction dynamics through which credibility and credit emerge within cooperative systems.
+Chapter 14 stabilised the formal definitions of the framework's primary constructs — Coexistence, the Cooperative Boundary, Temporal Coordination, Contribution, Signals, Expectation, Trust, Credibility, Credit, and Continuation.
 
-Signals may circulate across systems, but credibility is reconstructed within those systems according to their own interpretive structures, stabilisation mechanisms, and coordination requirements.
+Chapter 15 established the Interpretative Architecture through which these formal structures acquire system-relative, context-relative, and temporally evolving meaning — separating structural persistence from interpretative evolution, and establishing that credibility is reconstructed rather than universally transferred.
 
-Credit extends from reconstructed credibility rather than directly from signal transfer alone.
+Together, these two chapters establish what the framework's structures are and how they come to mean something to observers within cooperative systems — without yet addressing which meanings are admissible, enforceable, or governed.
 
-The framework therefore treats credibility and credit as structurally reconstructive rather than universally transferable.
-
-⸻
-
-# 16. FORMALISATION SUMMARY
-
-Part III established the formalisation through which trust, credibility, and credit may be formally interpreted, structurally represented, and comparatively reconstructed within cooperative systems.
-
-Chapter 14 stabilised the formal definitions of the framework’s primary constructs.
-
-Chapter 15 developed the representational architecture through which credibility and credit configurations may be positioned across observer-side lenses and system-side aspects.
-
-Chapter 16 established the system-relative reconstruction dynamics through which credibility and credit emerge differently across interpretive systems.
-
-Together, these chapters form the analytic layer of the Trust Framework.
-
-The governance constraints, admissibility structures, and operational deployment conditions through which these analytic structures are regulated belong to the regime layer developed in the following part of the framework.
+The following Part addresses Regime: the principles, laws, and admissibility conditions governing which interpretations and resulting relationships are permitted within a cooperative system.
 
 ⸻
 
