@@ -2027,7 +2027,7 @@ A change in a later layer does not, by itself, imply a change in an earlier laye
 
 The following Part develops the Regime layer: the principles, conditions, and admissibility structures governing the operation of trust, credibility, and credit within cooperative systems.
 
-# 15.2.Interpretative Architecture Summary
+## 15.12.Interpretative Architecture Summary
 
 This chpater established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
 
@@ -2065,11 +2065,47 @@ The following Part addresses Regime: the principles, laws, and admissibility con
 
 # 17. Regime Foundation
 
+Chapters 14 through 16 established the formal structure of temporal coordination and the architecture through which that structure acquires meaning.
+
+Formal structure and interpretative meaning together, however, do not determine what is permitted.
+
+A signal may be coherently structured. An interpretation may be internally consistent, stable, and widely shared. Neither condition, by itself, establishes whether the structure or interpretation it supports is admissible within a given cooperative system — whether it may be acted upon, relied upon, or extended into commitment.
+
+The purpose of the Regime layer is therefore to establish the conditions under which structures and interpretations become admissible within a cooperative system: what may enter, what may persist, what must be excluded, and what governs the rate and direction of change in the structures and interpretations admitted.
+
+Regime does not determine meaning. That is the province of Interpretative Architecture. Regime does not execute. That is the province of Realisation. Regime determines admissibility — the boundary conditions within which meaning may be acted upon and structure may be realised.
+
+This distinction is not incidental. A cooperative system may retain an unchanged interpretation while its admissibility conditions change; equally, a system's admissibility conditions may remain stable while the mechanisms through which they are realised evolve. Each layer may vary independently of the others, a property already established in Section 15.11.
+
+A general principle governs every admissibility mechanism examined in this Part, independent of its domain or institutional form: a regulator can only constrain a system whose variety does not exceed its own. Where the space of admissible structures and interpretations is simpler than the space of structures and interpretations actually arising within the system, admissibility fails silently — not through the absence of rules, but through rules inadequate to what they attempt to govern. This principle, first stated formally in cybernetics as the Law of Requisite Variety, recurs wherever an admissibility mechanism is examined closely enough, and it governs the remainder of this Part.
+
+The following sections establish the regime conditions attaching to each stage of the formal sequence: Coexistence (17.2), the Cooperative Boundary (17.3), Temporal Coordination (17.4), and the admissibility of Signals themselves (17.5).
+
 ## 17.1 Purpose of the Regime Layer
 ## 17.2 Coexistence — Regime Conditions 
 ## 17.3 Cooperative Boundary — Admissibility Conditions
 ## 17.4 Temporal Coordination — Governing Rules
 ## 17.5 Contribution, Signals, and Expectation — Signal Admissibility Conditions
+
+## 17.6 Trust, Credibility, and Credit — Admissibility Conditions
+
+Trust, credibility, and credit each depend on an admissibility mechanism whose own discriminating capacity is sufficient for what it is required to distinguish. Where this capacity is insufficient, admissibility is not genuinely exercised — it is merely asserted.
+
+Trust is admissible only where the system possesses a mechanism capable of distinguishing the interaction contexts in which expectation may reasonably be deployed from those in which it may not. A system lacking this discriminating capacity does not restrict trust deployment — it merely fails to notice where deployment has occurred outside any defensible context, producing the appearance of admissibility without its function.
+
+Credibility is admissible only where the system's stabilisation mechanism can distinguish signals that genuinely warrant accumulated confidence from signals that resemble them without warranting it. Where the volume or complexity of incoming signals exceeds this discriminating capacity, credibility stabilises indiscriminately — accumulating confidence in proportion to signal volume rather than signal validity, a condition later developed as a failure mode in Chapter 21.
+
+Credit is admissible only where the system can bound its aggregate exposure to the forward commitments credit relationships create. A system capable of admitting individual credit relationships but incapable of tracking their aggregate correlated exposure has not established credit admissibility — it has established individual approval without systemic constraint, which is a materially weaker and more fragile condition.
+
+Admissibility, in each case, is not the presence of a rule. It is the presence of a rule whose discriminating capacity is adequate to what it is applied against.
+
+## 17.7 Continuation — Regime Conditions
+
+A cooperative system's Regime determines the conditions under which continuation itself remains admissible.
+
+This does not concern whether continuation occurs, which is governed by the formal conditions established in Chapter 14. It concerns whether the system's own admissibility mechanism continues to function as a coherent gate — whether it retains the capacity to distinguish admissible from inadmissible structures, interpretations, and commitments as the system persists across time.
+
+Where a Regime's admissibility mechanism itself degrades — where it can no longer reliably distinguish what it is intended to exclude — continuation may proceed in form while the Regime layer ceases to perform its governing function. This condition is developed further in Chapter 21.
 
 # 18. Principles 
 
@@ -2137,41 +2173,104 @@ These conditions do not prescribe how systems should operate. They describe the 
 
 ## 23.1 How Interpretation Executes in Operation
 
+-- Draft -- 
+
+An observer does not, in practice, receive all four lenses with equal clarity. In many cooperative interactions one or more lenses remain dark — the observer has no access to a participant's Identity standing, or no visibility into their Structural commitments — and trust nonetheless executes on the basis of whichever lenses remain visible, provided the visible lenses supply sufficient baseline clarity to support an expectation. Execution itself occurs at a specific point: the Signal Horizon, the moment an incoming signal reaches the observer's evaluation principle and causes a previously flat expectation vector to bend, step, or drop in response. Interpretation, at the operational level, is therefore not a continuous process but a series of discrete resolution events, each triggered by a signal crossing this horizon.
+
 Asymmetric Resolution: Acknowledge that an observer rarely sees all four lenses with equal clarity. The architecture allows for "blind spots" where certain lenses remain completely dark, yet trust can still execute if the visible lenses provide sufficient baseline clarity.
 
 The Signal Horizon: Define the exact boundary where a flat expectation line meets a new incoming signal. The execution point is the moment the signal hits the observer's evaluation principles, causing the flat expectation vector to instantly bend, step-up, or drop to map the new reality.
 
 ## 23.2 Evaluation Under Execution Conditions
+
+-- Draft -- 
+
+[Placeholder paragraph — to develop: how the evaluation principle itself behaves once execution is underway, i.e., how weighting and admissibility of incoming signals is actually applied in real time, as distinct from the idealised description in Chapter 14. Likely covers partial/asymmetric lens visibility interacting with evaluation confidence.]
+
+
 ## 23.3 The Temporal Coordination Cycle as Operational Infrastructure
+
+-- Draft -- 
+
+The Temporal Coordination cycle described formally in Chapter 14.4 does not run as an abstract sequence but as continuously operating infrastructure — the actual, ongoing machinery of contribution, observation, signal generation, and expectation revision that a cooperative system depends on to function moment to moment. At the operational level, this infrastructure is what makes the Signal Horizon (23.1) possible at all: without a functioning coordination cycle generating and carrying signals, there is no mechanism through which a new signal could ever reach an observer to be resolved.
 
 # 24: Regime Execution
 
 ## 24.1 How Regime Constraints Execute in Practice
+
+-- Draft -- 
+
+Regime, as formalised in Chapter 17, states admissibility conditions in the abstract. In operation, those conditions execute as concrete, moment-by-moment gating decisions — a specific signal is admitted or excluded, a specific participant's standing is checked against a specific threshold, a specific commitment is permitted or refused. This section establishes that Regime execution is not a background condition quietly holding in the system but an active, continuous process of admission and exclusion running in parallel with Interpretive execution (23.1) and Temporal Coordination (23.3).
+
 ## 24.2 Failure Detection and Operational Response
 
-In an observer-bound architecture, a "shock" is a signal that violently contradicts the slope of the current expectation line.
-Expected Death (Old Age)   ---> [Flat Line / Small Delta] ---> High Systemic Stability
-Sudden Shock (Young Friend) ---> [Severe Slope Disruption] ---> Structural Recalibration
+-- Draft -- 
 
-The Expected Realisation: The death of an elderly person is within the "permissible variation" of the observer’s long-term anticipation. 
+A shock, at the operational level, is a signal that arrives with a magnitude sufficiently discrepant from the observer's standing expectation to force recalibration rather than routine update. An anticipated realisation — the death of a very elderly person, a routine contract renewal — falls within the observer's already-discounted expectation and produces only a small, easily absorbed delta; credibility remains stable. An unanticipated realisation — the sudden death of a young, apparently healthy person, an unforeseen default — falls far outside the discounted expectation and forces a severe, rapid recalibration of the expectation vector, straining or breaking the interpretive structure that had been resting on it. Failure detection, operationally, is therefore the detection of discrepancy magnitude, not the detection of a fixed rule violation — a distinction that determines how the system responds in 24.3.
 
-The signal aligns with systemic expectations, meaning the delta is small and credibility remains stable.The Structural Shock: The death of a young friend is outside the anticipated variation. It delivers a violent informational shock, forcing the observer to rapidly and drastically flatten or drop their expectation vector, straining the interpretive framework.
 
 ## 24.3 Credit as State Transition Trigger
 
-When an agent fakes their death, they do not just receive a negative rating; their formal signal profile is set to Nil.
+-- Draft -- 
 
-The Formal System Exclusion: Because formal coordination mechanics like mortgages, loans, and ID verification require forward commitments based on stabilised credibility structure. An agent with a Nil signal profile becomes a ghost to the architecture. The system cannot process a state transition because there is no historical substrate to generate a forward-facing Light Cone.
-
-he Descent to Coexistence / Grey Economy: However, the agent is not erased from reality. As long as they occupy the physical system, they remain in a state of Coexistence. They can still cross into the informal grey economy because that realm operates entirely on the immediate, self-reinforcing sequence of Raw Contribution -> Observable Outcomes. It requires no forward-looking credit extensions, only immediate, transactional value.
+Where a participant's signal profile collapses entirely — as in the case of deliberate identity severance, such as a faked death — the operational consequence is not merely a negative adjustment to an existing credibility score but a transition to a Nil state, in which the historical substrate required to support any forward-facing credit relationship ceases to be available to the formal system. Formal mechanisms that depend on stabilised credibility — lending, contractual delegation, institutional verification — cannot process such a participant, because there is no admissible signal history to evaluate. The participant does not, however, cease to exist within the underlying Coexistence layer (14.2): they remain capable of direct, immediate transaction wherever that transaction requires only raw contribution and observable outcome rather than a forward-looking credibility structure — the condition that permits continued participation in a grey or informal economy even after total exclusion from the formal credit architecture.
 
 # 25: Realisation Closure
 
 ## 25.1 Feedback Update — Realised Outcomes Re-enter the System
-## 25.2 Framework Self-Closure
-## 25.3 Handoff to Companion Work
- 
 
+-- draft-- 
+
+Every realised outcome — whether a successful forward commitment, a routine contribution, or a reversion to bare Coexistence following a Nil-state transition — re-enters the system as a new observable event, available for future observation and interpretation. Feedback, at this level, does not distinguish between "successful" and "failed" trajectories in terms of what qualifies for re-entry: a participant operating permanently within the grey economy after a Nil-state transition continues to generate real, observable signals, and these signals remain part of the system's total feedback environment even though they no longer feed the formal credit architecture specifically.
+
+## 25.2 Framework Self-Closure
+
+-- draft--
+
+The framework closes when every state a participant or system can occupy is accounted for within its six-stage structure, including the state of having reverted to its own lowest layer. Self-closure does not mean that the formal upper loops — Trust, Credibility, Credit — become the system's only operative circuit once established; closure explicitly includes the permanent availability of reversion to raw Coexistence and Contribution as a live, always-accessible condition, not an exception the framework merely tolerates. A framework that could not account for its own floor remaining permanently reachable would not, in fact, be closed.
+
+## 25.3 Handoff to Companion Work
+
+-- draft -- 
+
+[Placeholder paragraph — to develop: this section should state what remains explicitly out of scope for the Trust Framework itself and where it hands off — likely pointing to the applied/domain-specific companion papers (e.g. institutional design, Nosmo/ledger implementation, or the non-fiction companion volume) that build on this formal architecture without being part of it.]
+ 
+# Appendix: 
+
+## Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition
+
+Drafted as illustrative Realisation-layer material, anchoring the lens architecture established in Chapter 10.4 and the Regime-scale admissibility principle established in Chapter 17.
+
+### 1. The Historical Case
+
+For most of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The clearest instance is the historic motto of the London Stock Exchange, adopted in the 17th century and retained into the 20th: "My word is my bond" (Latin: Dictum meum pactum). A verbal commitment from a gentleman of recognised standing was treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
+
+This was not naivety. It was a coherent, functioning admissibility mechanism, for a specific structural reason: the trading community was small, socially closed, and repeatedly interacting. A merchant's identity — his family, his club membership, his standing among a bounded circle of known peers — carried the entire evidentiary weight that a modern credit check, audited balance sheet, or clearing-house guarantee carries today. Reneging on a verbal commitment did not merely cost a transaction; it triggered near-total, near-permanent exclusion from a closed community with no realistic outside option. The Identity lens worked because the admissibility mechanism's own "variety" — its capacity to discriminate trustworthy from untrustworthy parties — was genuinely adequate to the small, stable population it governed.
+
+### 2. Why the Mechanism Failed to Scale
+
+As financial markets industrialised — expanding participant numbers, extending trade across strangers with no shared social network, and increasing transaction volume and value beyond what personal reputation could bound — the Identity lens's discriminating capacity was outpaced by the complexity of the population it was being asked to govern. A gentleman's word remained exactly as informative about him as it always had been; it simply stopped being sufficient information about the vastly larger, less socially bounded pool of counterparties now entering the market. This is the historical instance of the Regime-layer principle established in Chapter 17.1: an admissibility mechanism can only constrain a system whose variety does not exceed its own. The Identity lens's variety was fixed by the size of a knowable social circle; the market's variety grew far beyond it.
+
+The transition that followed was not a moral shift (from an "honourable" past to a "distrustful" present) but a structural one: trust admissibility relocated from the Identity lens (who you are, whom you are known to) to the Structural and Capability lenses (10.4.3–10.4.4) — recognised procedures (contract law, clearing houses, regulatory licensing) and observable, recorded performance (audited accounts, credit ratings, settlement history) that could scale to strangers precisely because they did not depend on prior personal acquaintance.
+
+### 3. The General Pattern
+
+This case is a specific instance of a broader sociological regularity, independently identified across multiple traditions:
+
+Ralph Linton (1936) distinguished ascribed status (standing conferred by birth, class, or identity) from achieved status (standing earned through demonstrated performance) — the Identity lens corresponds to the former, the Capability lens to the latter.
+Ferdinand Tönnies' Gemeinschaft and Gesellschaft (1887) describes the same transition at the level of whole societies: small, densely-known communities (Gemeinschaft) sustain trust through identity and personal familiarity; large-scale, impersonal societies (Gesellschaft) require contractual, procedural, and verifiable substitutes because personal familiarity no longer scales.
+
+### 4. Why the Transition Is Not Complete, and Not Uniform
+
+The Identity lens has not disappeared; it persists wherever population scale remains small enough for its admissibility capacity to remain adequate — elite professional networks, family businesses, closed diaspora trading communities (the historic Maghribi traders' network and, in a different register, diamond-district handshake deals in modern New York are frequently cited real instances of Identity-lens trust surviving intact inside an otherwise Capability-dominated economy). This is consistent with 15.6 (Dominant Configurations and Overlay): multiple lenses may remain simultaneously active, with dominance shifting by context rather than one lens fully replacing another system-wide.
+
+### 5. Anchoring Statement
+
+This case illustrates, in concrete historical form, three claims already established elsewhere in the framework:
+
+- Trust admissibility is lens-relative, not fixed (Ch. 10.4).
+- An admissibility mechanism's validity is bounded by whether its discriminating capacity matches the variety of the population it governs (Ch. 17.1).
+- Lens dominance shifts with scale and context, without requiring the superseded lens to be formally invalidated — it simply ceases to be adequate at the scale in question (Ch. 15.6–15.7).
 
 
 
