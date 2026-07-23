@@ -2082,12 +2082,120 @@ A general principle governs every admissibility mechanism examined in this Part,
 The following sections establish the regime conditions attaching to each stage of the formal sequence: Coexistence (17.2), the Cooperative Boundary (17.3), Temporal Coordination (17.4), and the admissibility of Signals themselves (17.5).
 
 ## 17.1 Purpose of the Regime Layer
-## 17.2 Coexistence — Regime Conditions 
-## 17.3 Cooperative Boundary — Admissibility Conditions
-## 17.4 Temporal Coordination — Governing Rules
-## 17.5 Contribution, Signals, and Expectation — Signal Admissibility Conditions
 
-## 17.6 Trust, Credibility, and Credit — Admissibility Conditions
+The purpose of the Regime layer is to convert the formal and interpretative structures established in Chapters 14 through 16 into admissibility conditions.
+
+Where Formalisation defines the structural sequence, and Interpretative Architecture explains how that sequence acquires meaning, Regime determines whether the resulting structures and meanings may be admitted, relied upon, constrained, or excluded within a cooperative system.
+
+Regime therefore answers a different question from interpretation. Interpretation asks what a signal, expectation, credibility structure, or credit relationship means. Regime asks whether that meaning may be acted upon.
+
+This chapter establishes the regime conditions attaching to each stage of the cooperative sequence. It does not yet derive the principles or laws governing trust systems. Those are developed in the following chapters.
+
+## 17.2 Regime Formation
+
+A regime forms when a cooperative system stabilises conditions of admissibility around repeated interaction.
+
+At the formal layer, coexistence may obtain without recognition, coordination may occur without codified rules, and signals may circulate without a settled standard for their interpretation. At the regime layer, these conditions become governable only when the system distinguishes which participants, signals, expectations, and commitments may be admitted into coordinated action.
+
+Regime formation therefore begins when repeated interaction produces the need to distinguish admissible from inadmissible participation.
+
+This need may arise from conflict, uncertainty, scale, repetition, asymmetry, failure, or the increasing cost of continuous case-by-case interpretation. As cooperative interaction expands, participants can no longer rely solely on immediate judgement or local familiarity. The system must stabilise rules, thresholds, roles, procedures, or standards through which interaction can be admitted, constrained, and revised.
+
+A regime may form explicitly through law, contract, institutional rule, professional standard, certification, governance process, or formal procedure. It may also form implicitly through repeated practice, custom, shared expectation, social norm, reputational sanction, or inherited convention. In both cases, the structural function is the same: the regime converts repeated interpretative uncertainty into admissibility conditions.
+
+Regime formation does not eliminate interpretation. It limits the range within which interpretation may be acted upon.
+
+Nor does it eliminate uncertainty. It determines which uncertainties may be accepted, which must be constrained, and which render cooperation inadmissible.
+
+A regime becomes stable when its admissibility conditions are reproduced across repeated interactions. Participants come to know what counts, what does not count, who may participate, which signals are recognised, which expectations may be relied upon, and which commitments may be extended.
+
+Regime formation is therefore observer-bound. A regime forms from within a regime-bearing position: an individual, household, institution, profession, market, state, community, or other cooperative system that must distinguish what it can admit, rely upon, constrain, or exclude. Admissibility is not determined from outside all systems. It is asserted from within the regime that performs the distinction.
+
+Because regimes are observer-bound, the same relation may be admitted differently across positions. A state may admit taxation as lawful contribution, while a subject may experience the same relation as extraction. An institution may admit compliance as cooperation, while a participant may experience it as coercion. These differences do not necessarily mean that the underlying interaction differs; they indicate that admissibility is being asserted from different regime positions.
+
+The formation of regime therefore marks the transition from mere interaction to governed cooperation. It is the point at which the cooperative system no longer depends only on individual interpretation, but begins to maintain a rule-bound structure for admitting, filtering, and constraining coordination across time.
+
+Where no regime forms, cooperation may still occur locally or temporarily, but it remains dependent on immediate judgement, personal familiarity, or informal adjustment. Where regime forms, cooperation becomes more portable, repeatable, and scalable, because admissibility no longer has to be reconstructed from first principles at every interaction.
+
+## 17.3 Coexistence — Regime Conditions 
+
+Coexistence, as formalised in Chapter 14, obtains when two or more participants occupy a shared system such that the actions or states of each influence the continuation conditions of the others.
+
+At the Regime layer, the question is not whether coexistence exists, but whether a coexistence relation is recognised as relevant to the cooperative system's admissibility structure.
+
+A coexistence regime condition obtains when a regime distinguishes which participants, effects, dependencies, or external pressures are relevant to its governing concern.
+
+This distinction determines which coexistence relations may later become subject to boundary conditions, signal interpretation, expectation formation, trust deployment, credibility stabilisation, or credit extension.
+
+Regime therefore does not create coexistence. Coexistence may exist before, outside, or beneath any cooperative regime. Regime determines whether such coexistence becomes visible, relevant, and governable within the cooperative order.
+
+Where a coexistence relation remains outside the regime's admissibility structure, it may still affect the system's continuation conditions, but it is not processed as a governable relation within that regime.
+
+The coexistence regime condition therefore marks the first application of admissibility: the recognition that a relation within coexistence matters for the system's continuation and may be brought within the scope of governed cooperation.
+
+## 17.4 Cooperative Boundary — Admissibility Conditions
+
+The cooperative boundary, as formalised in Chapter 14, obtains when perceived interaction risk falls below the threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal.
+
+At the Regime layer, the cooperative boundary becomes an admissibility boundary. It determines when a coexistence relation recognised by the regime may cross into governed cooperation.
+
+A cooperative boundary admissibility condition obtains when the regime distinguishes admissible cooperation from inadmissible, premature, excessive, coercive, or ungovernable interaction.
+
+This condition does not depend merely on the willingness of participants to interact. Participants may exchange, coordinate, or influence one another without the relation being admitted as stable cooperation within the regime. For cooperation to become admissible, the regime must be capable of distinguishing when repeated engagement can be governed without exceeding the system's tolerance for risk, asymmetry, irreversibility, or uncertainty.
+
+The cooperative boundary therefore performs the Boundary function within the regime sequence. It separates coexistence relations that remain outside governed cooperation from those that may enter temporal coordination under admissible conditions.
+
+This boundary requires three regime capacities.
+
+First, the regime must be able to recognise the relation. The participants, effects, dependencies, or claims involved must be identifiable within the regime's scope of concern.
+
+Second, the regime must be able to interpret the interaction. The relation must produce signals, roles, expectations, or observable consequences that can be evaluated under the regime's admissibility structure.
+
+Third, the regime must be able to constrain the risk of repeated engagement. Where potential loss, dependency, asymmetry, or uncertainty exceeds the regime's capacity to bound it, the relation remains below the admissible cooperative boundary even if cooperation appears possible or desirable.
+
+Where these capacities hold, a coexistence relation may be admitted into governed cooperation. Where they fail, interaction may still occur, but it remains outside the regime as informal, external, unstable, coercive, or insufficiently governable.
+
+The boundary also distinguishes cooperation from non-cooperative forms of coordination. Coercion, domination, levy, extraction, forced compliance, or unilateral command may organise repeated behaviour, but repeated behaviour alone does not constitute admissible cooperation within the Trust Framework. Such relations may produce order, compliance, or resource transfer, but their continuation may depend on force, constraint, asymmetry, or survival rather than on interpreted signals, expectation formation, trust deployment, and credibility stabilisation.
+
+The cooperative boundary therefore need not be crossed symmetrically. A regime, observer, or dominant participant may interpret repeated compliance as cooperation, while another participant experiences the same relation as coercion, extraction, levy, domination, or forced coordination. In such cases, the relation may be admitted as cooperative within one interpretative or regime position while remaining below the cooperative boundary from another.
+
+The Trust Framework therefore does not treat repeated interaction or compliance as sufficient evidence of cooperation. It asks whether the relation is admissible as cooperation within the relevant regime, and from which observer position that admissibility is being asserted.
+
+The cooperative boundary is therefore admissible only where the regime can recognise the relation, interpret its coordination-relevant signals, and constrain its risks sufficiently for repeated engagement to proceed.
+
+## 17.5 Temporal Coordination — Governing Rules
+
+Temporal coordination, as formalised in Chapter 14, obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that contribution outcomes generate observations, observations become signals, signals are interpreted into expectations, and those expectations guide subsequent coordinated action.
+
+At the Regime layer, temporal coordination becomes governable only when the regime establishes rules for how repeated interaction may be ordered, recognised, updated, and revised across time.
+
+A temporal coordination governing condition obtains when a regime distinguishes which temporal patterns may organise coordination within the cooperative system.
+
+This condition concerns not only whether interaction repeats, but whether repetition becomes admissible as a basis for expectation. A repeated act may occur many times without becoming a valid ground for trust, credibility, or credit unless the regime recognises the sequence, timing, recurrence, or persistence of that act as coordination-relevant.
+
+The governing rules of temporal coordination determine how past contribution may count toward future expectation, how recent signals relate to older signals, how delays or failures are treated, and when prior expectations must be revised. They also determine whether a temporal pattern remains admissible under changing conditions or must be suspended, reset, or excluded.
+
+Temporal coordination therefore performs the Distinction function within the regime sequence. It distinguishes mere repetition from governable recurrence, accidental alignment from coordinated pattern, and temporary interaction from admissible continuation across intervals.
+
+A regime governing temporal coordination must possess at least four capacities.
+
+First, it must be able to recognise sequence. The regime must distinguish whether events occur in an order that can support coordination rather than appearing as isolated or unrelated occurrences.
+
+Second, it must be able to recognise recurrence. The regime must distinguish repeated alignment from single-instance coincidence, temporary compliance, or accidental regularity.
+
+Third, it must be able to recognise temporal weight. The regime must determine how strongly past signals, recent signals, delayed signals, and absent signals affect present expectation.
+
+Fourth, it must be able to recognise revision. The regime must determine when expectation should persist, weaken, reset, or be withdrawn in response to new signals or changed conditions.
+
+Where these capacities hold, temporal coordination becomes governable. The regime can admit repeated interaction as a basis for expectation formation and future coordination.
+
+Where they fail, repeated interaction may still occur, but the system cannot reliably distinguish stable coordination from coincidence, habit, compulsion, delay, or outdated expectation.
+
+Temporal coordination is therefore governable only where the regime can distinguish admissible temporal patterns and maintain rules for updating expectation across successive intervals.
+
+## 17.6 Contribution, Signals, and Expectation — Signal Admissibility Conditions
+
+## 17.7 Trust, Credibility, and Credit — Admissibility Conditions
 
 Trust, credibility, and credit each depend on an admissibility mechanism whose own discriminating capacity is sufficient for what it is required to distinguish. Where this capacity is insufficient, admissibility is not genuinely exercised — it is merely asserted.
 
