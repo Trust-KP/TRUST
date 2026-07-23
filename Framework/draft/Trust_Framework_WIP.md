@@ -1190,7 +1190,7 @@ Credit transforms indeterminate future outcomes into structured expectation. How
 
 Risk therefore reflects the persistence of uncertainty within structured coordination, and the limits of its redistribution across time.
 
-The risk structure of credit may be understood across three components:
+The risk structure of credit may be understood across four components:
 
 **Structural risk**  
 The risk that the forward commitment is not coherently defined or cannot be sustained in its given form. This arises when the structure linking present action to future contribution is unstable or indeterminate.
@@ -1201,8 +1201,8 @@ The risk that the credibility basis on which credit is extended does not corresp
 **Regime risk**  
 The risk that the conditions governing the forward commitment do not persist across time. The structure within which the commitment is embedded may change, degrade, or fail to maintain the conditions under which the commitment was formed. Regime risk arises from the instability of the coordinating framework itself.
 
-**Continuation risk**  
-The risk that the participant whose future contribution is expected will not continue in a manner consistent with that expectation. This includes cessation, transformation, or degradation of capacity such that the forward commitment can no longer be fulfilled. Continuation risk arises from the uncertainty of persistence across the temporal interval.
+**Realisation risk**  
+The risk that the expected future contribution will not materialise in a manner consistent with the expectation on which credit was extended. This includes non-performance, degraded performance, delayed performance, or transformation of capacity such that the forward commitment can no longer be fulfilled. Realisation risk arises from uncertainty over whether expected contribution can be realised across the temporal interval.
 
 These risks are not independent. They may interact, reinforce, or propagate through the structure of credit. A change in regime conditions may alter interpretation, which in turn affects the perceived continuation of the participant.
 
@@ -1735,7 +1735,7 @@ Operationally, however, continuation is not achieved once and retained. Each com
 
 The full cooperative sequence —
 
-**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Expectation → Trust → Credibility → Credit → Continuation**
+**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Observation → Expectation → Trust → Credibility → Credit → Continuation**
 
 This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented.
 
@@ -2051,7 +2051,7 @@ This separation allows the structural account of trust to remain stable while it
 
 Part III established the analytic layer of the Trust Framework.
 
-Chapter 14 stabilised the formal definitions of the framework's primary constructs — Coexistence, the Cooperative Boundary, Temporal Coordination, Contribution, Signals, Expectation, Trust, Credibility, Credit, and Continuation.
+Chapter 14 stabilised the formal definitions of the framework's primary constructs — Coexistence, the Cooperative Boundary, Temporal Coordination, Contribution, Signals, Observation, Expectation, Trust, Credibility, Credit, and Continuation.
 
 Chapter 15 established the Interpretative Architecture through which these formal structures acquire system-relative, context-relative, and temporally evolving meaning — separating structural persistence from interpretative evolution, and establishing that credibility is reconstructed rather than universally transferred.
 
