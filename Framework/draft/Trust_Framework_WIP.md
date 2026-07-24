@@ -2079,7 +2079,7 @@ This distinction is not incidental. A cooperative system may retain an unchanged
 
 A general principle governs every admissibility mechanism examined in this Part, independent of its domain or institutional form: a regulator can only constrain a system whose variety does not exceed its own. Where the space of admissible structures and interpretations is simpler than the space of structures and interpretations actually arising within the system, admissibility fails silently — not through the absence of rules, but through rules inadequate to what they attempt to govern. This principle, first stated formally in cybernetics as the Law of Requisite Variety, recurs wherever an admissibility mechanism is examined closely enough, and it governs the remainder of this Part.
 
-The following sections establish the regime conditions attaching to each stage of the formal sequence: Coexistence (17.2), the Cooperative Boundary (17.3), Temporal Coordination (17.4), and the admissibility of Signals themselves (17.5).
+The following sections unfold Regime across the cooperative sequence: Regime Formation, Coexistence, Cooperative Boundary, Temporal Coordination, Contribution, Observation, Signals, Expectation, Trust, Credibility, Credit, and Continuation.
 
 ## 17.1 Purpose of the Regime Layer
 
@@ -2195,25 +2195,89 @@ Temporal coordination is therefore governable only where the regime can distingu
 
 ## 17.6 Contribution, Signals, and Expectation — Signal Admissibility Conditions
 
+Contribution, Observation, Signals, and Expectation form the informational substrate through which trust, credibility, and credit may later emerge.
+
+At the Regime layer, contribution itself is not made admissible or inadmissible. Contribution occurs whenever an action or event affects the continuation capacity, stability, reliability, or welfare of another participant or of the cooperative system. Regime does not create contribution, nor does it decide whether contribution has occurred at the event layer.
+
+Regime governs whether and how contribution-derived observations and signals may enter interpretation.
+
+An observation admissibility condition obtains when a regime distinguishes which forms of access to contribution outcomes may be relied upon. Observation may be direct, recorded, reported, inferred, delayed, partial, or institutionally mediated. A regime must determine which observations are usable, which require verification, which are excluded, and which remain insufficient for expectation formation.
+
+A signal admissibility condition obtains when a regime distinguishes which observed contribution outcomes may become interpretable signals. An observed outcome does not automatically become an admissible signal. It must fall within the regime's recognised scope of relevance, attribution, timing, and reliability. Signals may be admitted, weighted, discounted, challenged, delayed, or excluded depending on the regime conditions governing their use.
+
+An expectation admissibility condition obtains when a regime distinguishes which interpretations of signals may support future-oriented judgement within the Trust Regime. A signal may produce many possible responses outside the Trust Regime, including affective, moral, defensive, or practical responses. Within the Trust Regime, however, the relevant question is whether the interpreted signal may support the formation, stabilisation, extension, withholding, weakening, or withdrawal of trust, credibility, or credit. Regime determines which expectations are admissible for trust-based coordination and which remain too unstable, unsupported, ambiguous, or inadmissible to be relied upon.
+
+This section therefore performs the Possibility function within the regime sequence. It determines which observations, signals, and expectations may enter the space from which trust, credibility, and credit may later arise, or from which their withholding, weakening, or withdrawal may follow.
+
+The admissibility of this informational substrate requires four regime capacities.
+
+First, the regime must be able to attribute contribution-derived effects. It must distinguish whether an observed outcome can be connected sufficiently to a participant, process, institution, or system to become signal-bearing.
+
+Second, the regime must be able to validate observation. It must distinguish reliable access from unreliable, distorted, delayed, fabricated, or insufficient access to contribution outcomes.
+
+Third, the regime must be able to filter signals. It must distinguish signals that may support interpretation from noise, manipulation, duplication, irrelevant information, or signals whose meaning cannot be stabilised within the regime.
+
+Fourth, the regime must be able to govern expectation formation. It must determine when interpreted signals may support reliance, caution, rejection, sanction, or further inquiry.
+
+Where these capacities hold, contribution outcomes may become admissible observations, observations may become admissible signals, and signals may support admissible expectations.
+
+Where these capacities fail, contribution may occur without recognition, observation may occur without reliability, signals may circulate without admissibility, and expectations may form without sufficient warrant.
+
+The regime condition of Contribution, Observation, Signals, and Expectation is therefore satisfied only where the system can admit, filter, and constrain the informational path from realised contribution to future-oriented judgement, without confusing the admissibility of signals with the occurrence of contribution itself.
+
 ## 17.7 Trust, Credibility, and Credit — Admissibility Conditions
 
-Trust, credibility, and credit each depend on an admissibility mechanism whose own discriminating capacity is sufficient for what it is required to distinguish. Where this capacity is insufficient, admissibility is not genuinely exercised — it is merely asserted.
+Trust, Credibility, and Credit each depend on an admissibility mechanism whose discriminating capacity is sufficient for what it is required to distinguish within the Trust Regime. Where this capacity is insufficient, admissibility is not genuinely exercised; it is merely asserted.
 
-Trust is admissible only where the system possesses a mechanism capable of distinguishing the interaction contexts in which expectation may reasonably be deployed from those in which it may not. A system lacking this discriminating capacity does not restrict trust deployment — it merely fails to notice where deployment has occurred outside any defensible context, producing the appearance of admissibility without its function.
+Trust is admissible only where the regime possesses a mechanism capable of distinguishing the interaction contexts in which expectation may reasonably be deployed from those in which it may not. A regime lacking this discriminating capacity does not restrict trust deployment; it merely fails to notice where deployment has occurred outside any defensible context, producing the appearance of admissibility without its function.
 
-Credibility is admissible only where the system's stabilisation mechanism can distinguish signals that genuinely warrant accumulated confidence from signals that resemble them without warranting it. Where the volume or complexity of incoming signals exceeds this discriminating capacity, credibility stabilises indiscriminately — accumulating confidence in proportion to signal volume rather than signal validity, a condition later developed as a failure mode in Chapter 21.
+Credibility is admissible only where the regime's stabilisation mechanism can distinguish signals that genuinely warrant accumulated confidence from signals that resemble them without warranting it. Where the volume or complexity of incoming signals exceeds this discriminating capacity, credibility stabilises indiscriminately, accumulating confidence in proportion to signal volume rather than signal validity. This condition is later developed as a failure mode in Chapter 21.
 
-Credit is admissible only where the system can bound its aggregate exposure to the forward commitments credit relationships create. A system capable of admitting individual credit relationships but incapable of tracking their aggregate correlated exposure has not established credit admissibility — it has established individual approval without systemic constraint, which is a materially weaker and more fragile condition.
+Credit is admissible only where the regime can bound the forward commitments created when stabilised credibility is extended into present action dependent on future contribution. A regime capable of admitting individual credit relationships but incapable of tracking their aggregate or correlated exposure has not established credit admissibility. It has established individual approval without systemic constraint, which is a materially weaker and more fragile condition.
 
 Admissibility, in each case, is not the presence of a rule. It is the presence of a rule whose discriminating capacity is adequate to what it is applied against.
 
-## 17.7 Continuation — Regime Conditions
+## 17.8 Continuation — Regime Conditions
 
-A cooperative system's Regime determines the conditions under which continuation itself remains admissible.
+Continuation, as formalised in Chapter 14, concerns the persistence of cooperative coordination across time.
 
-This does not concern whether continuation occurs, which is governed by the formal conditions established in Chapter 14. It concerns whether the system's own admissibility mechanism continues to function as a coherent gate — whether it retains the capacity to distinguish admissible from inadmissible structures, interpretations, and commitments as the system persists across time.
+At the Regime layer, the question is not whether continuation occurs, but whether the admissibility structure through which cooperation is governed remains capable of reproducing itself across successive cycles.
 
-Where a Regime's admissibility mechanism itself degrades — where it can no longer reliably distinguish what it is intended to exclude — continuation may proceed in form while the Regime layer ceases to perform its governing function. This condition is developed further in Chapter 21.
+A continuation regime condition obtains when a regime retains the capacity to distinguish admissible from inadmissible structures, interpretations, expectations, credibility formations, and forward commitments as the cooperative system persists across time.
+
+This condition concerns the continuation of admissibility itself. A regime may continue to exist in form while losing the discriminating capacity required to govern the system it admits. Rules may remain written, offices may remain occupied, procedures may continue to operate, and commitments may continue to circulate, while the regime no longer reliably distinguishes what should be admitted from what should be excluded.
+
+Where this occurs, continuation may proceed at the level of outward form while the Regime layer ceases to perform its governing function. The cooperative system may appear stable because its structures continue to operate, even as its admissibility conditions degrade beneath them.
+
+The continuation condition of Regime is therefore satisfied only where the regime can reproduce its admissibility function across time: recognising relevant relations, maintaining boundary conditions, governing temporal coordination, admitting reliable signals and expectations, constraining trust deployment, stabilising credibility, and bounding credit extension.
+
+Where a regime can no longer reproduce this function, it does not merely face operational failure. It faces regime degradation: the loss of the admissibility capacity required for governed cooperation to continue.
+
+## 17.9 Regime Foundation Summary
+
+This chapter established Regime as the admissibility layer of the Trust Framework.
+
+Formalisation defines the structural sequence through which cooperation becomes possible. Interpretative Architecture explains how that structure acquires meaning within observer-bound systems. Regime determines whether those structures and meanings may be admitted, relied upon, constrained, excluded, or extended into forward commitment.
+
+Regime therefore does not create coexistence, meaning, contribution, trust, credibility, or credit. It determines the conditions under which these structures may become governable within a cooperative system.
+
+The chapter unfolded Regime across the same sequence established in the formal layer:
+
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
+
+At the level of Coexistence, Regime determines which relations become visible, relevant, and governable.
+
+At the Cooperative Boundary, Regime distinguishes admissible cooperation from interaction that remains external, premature, excessive, coercive, or insufficiently governable.
+
+At the level of Temporal Coordination, Regime governs the temporal patterns through which repeated interaction may support expectation across time.
+
+At the level of Contribution, Observation, Signals, and Expectation, Regime governs which contribution-derived observations and signals may enter interpretation and which expectations may support trust-based coordination.
+
+At the level of Trust, Credibility, and Credit, Regime determines the admissibility of expectation deployment, credibility stabilisation, and forward commitment grounded in credibility.
+
+At the level of Continuation, Regime must reproduce its own admissibility function across successive cycles, or the cooperative system may continue in form while losing the capacity to govern what it admits.
+
+The following chapters derive the principles and laws that follow from these regime conditions.
 
 # 18. Principles 
 
