@@ -1933,6 +1933,12 @@ Accordingly:
 
 Same structure does not require same meaning across time.
 
+Where interpretative meaning must persist across generational time, semantic evolution introduces an additional continuation condition. A cooperative system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning.
+
+This may be stated as the Interpretive Transmission Condition: for continuation across generational time, a cooperative system must preserve the carriers through which admissible meanings can be transmitted, taught, reconstructed, or revised without complete interpretive rupture.
+
+Where such carriers fail, a system may retain artifacts, rules, institutions, or practices while losing the interpretive capacity required to understand what those structures mean. In such cases, structural persistence may remain while interpretative continuity fails.
+
 The interpretative architecture may evolve without requiring reconstruction of the structural framework, provided that the revised interpretation remains an interpretation of the underlying structural relationships rather than a replacement of them.
 
 This allows the framework to remain structurally stable while remaining capable of evolving with the systems in which it is applied.
