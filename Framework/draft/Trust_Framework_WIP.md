@@ -1953,6 +1953,8 @@ Credibility emerges through the interpretation, weighting, accumulation, and sta
 
 The same underlying contribution history may therefore generate different credibility structures across different systems without contradiction.
 
+Where reconstruction must occur across generational time, the system requires interpretive capital: the accumulated stock of transmissible meaning that allows future observers to recover, teach, and reconstruct the meaning of signals, records, practices, and institutions. Interpretive capital differs from credibility. Credibility stabilises expectation regarding a participant within a system; interpretive capital stabilises the meanings through which future observers can reconstruct credibility and other trust-relevant structures.
+
 This difference may arise because systems:
 
 * observe different signals;
@@ -2094,6 +2096,8 @@ The purpose of the Regime layer is to convert the formal and interpretative stru
 Where Formalisation defines the structural sequence, and Interpretative Architecture explains how that sequence acquires meaning, Regime determines whether the resulting structures and meanings may be admitted, relied upon, constrained, or excluded within a cooperative system.
 
 Regime therefore answers a different question from interpretation. Interpretation asks what a signal, expectation, credibility structure, or credit relationship means. Regime asks whether that meaning may be acted upon.
+
+Within the Trust Framework, this distinction also separates interpretive regime from operational regime. Interpretive regime governs which meanings, signals, expectations, and credibility structures may be admitted within a cooperative system. Operational regime governs which actions, procedures, commitments, and executions may proceed. The former concerns admissible meaning; the latter concerns admissible execution. Both belong to Regime, but they operate at different layers.
 
 This chapter establishes the regime conditions attaching to each stage of the cooperative sequence. It does not yet derive the principles or laws governing trust systems. Those are developed in the following chapters.
 
@@ -2450,5 +2454,357 @@ This case illustrates, in concrete historical form, three claims already establi
 - An admissibility mechanism's validity is bounded by whether its discriminating capacity matches the variety of the population it governs (Ch. 17.1).
 - Lens dominance shifts with scale and context, without requiring the superseded lens to be formally invalidated — it simply ceases to be adequate at the scale in question (Ch. 15.6–15.7).
 
+## Case Study 2 — Insurance as a Four-Temporal Coordination Instrument
 
+Insurance is often described as a financial product: a policyholder pays premium, and the insurer promises compensation if a covered loss occurs. Within the Trust Framework, however, insurance is not merely a financial arrangement. It is a structured mechanism of temporal coordination.
 
+Insurance converts uncertain future loss into a governed relationship across time. It does so by joining four obligations that must remain aligned: contractual interpretation, information recording, operational execution, and financial credit.
+
+### 1. Contractual Obligation — Interpretation
+
+The insurance contract defines what events mean within the regime of the policy.
+
+A storm, accident, illness, fire, delay, or liability claim does not automatically become an insurance event merely because it occurs. It becomes a claim only when interpreted through the wording, exclusions, definitions, duties, limits, and conditions of the policy.
+
+The contract therefore performs an interpretative function. It determines what counts as loss, what counts as covered loss, what must be notified, what evidence is required, and what obligations follow.
+
+Without this interpretative structure, the insurer and policyholder may experience the same event differently. The policyholder may interpret the event as misfortune requiring support; the insurer may interpret it as outside the admissible scope of cover. The contract provides the regime through which such meanings are stabilised.
+
+### 2. Recording Obligation — Information
+
+Insurance also depends on records.
+
+Underwriting files, proposal forms, risk declarations, policy schedules, premium records, claims notifications, adjustment notes, repair invoices, medical reports, reserve records, and payment histories all function as information anchors.
+
+These records preserve contribution-derived signals across time. They allow future observers — underwriters, claims handlers, actuaries, auditors, regulators, reinsurers, courts, or policyholders — to reconstruct what was promised, what was known, what changed, and what was performed.
+
+Where recording fails, insurance becomes fragile. A valid claim may become difficult to prove. A risk may be mispriced. A reserve may be understated. A policy condition may be misunderstood. The information temporal therefore supports both interpretation and future credit.
+
+### 3. Operational Obligation — Realisation
+
+Insurance must also execute.
+
+The insurer must receive notifications, assess claims, investigate facts, appoint adjusters, communicate decisions, organise repairs, pay valid claims, defend liabilities, recover from third parties, and manage ongoing obligations.
+
+This is the realisation layer of insurance. It is where the promise becomes action.
+
+An insurer may possess strong capital and clear policy wording, but if its claims operation cannot execute, the insurance relationship fails in practice. Delay, poor claims handling, inconsistent decisions, or operational incapacity weaken the credibility of the insurer even if the formal contract remains valid.
+
+Operational performance therefore generates new contribution signals. Each claim handled well strengthens expectation that the insurer can realise its promise. Each failed or delayed execution weakens that expectation.
+
+### 4. Financial Obligation — Credit
+
+The financial obligation is the forward commitment most visibly associated with insurance.
+
+The insurer accepts premium in the present and extends a promise of future payment or support if a covered event occurs. The policyholder relies on the insurer's credibility: its capital strength, regulatory standing, claims history, reputation, reinsurance support, and institutional continuity.
+
+This is credit in the broad sense of the Trust Framework. The policyholder acts in the present on the expectation that the insurer will continue to possess the capacity and willingness to meet future obligations.
+
+Insurance credit is therefore not merely the insurer's balance sheet. It is forward commitment grounded in stabilised credibility.
+
+### 5. Alignment Across the Four Obligations
+
+Modern insurance accounting reinforces this four-obligation structure by making the contractual dimension more explicit. Contemporary insurance accounting treats the insurance liability not merely as an amount expected to be paid, but as a contractual service obligation measured through coverage, fulfilment cash flows, risk adjustment, and the pattern of service over time. This does not reduce insurance to accounting. Accounting formalises part of the financial and contractual relationship, while recording and operational obligations remain broader institutional conditions required for the promise to be interpretable and realised.
+
+Insurance functions only when the four obligations remain aligned.
+
+If the contract is unclear, interpretation fails.  
+If records are incomplete, information fails.  
+If claims handling breaks down, realisation fails.  
+If capital is insufficient, credit fails.
+
+Any one failure can destabilise the others. Ambiguous wording may produce operational disputes. Poor records may distort financial reserving. Weak claims execution may damage credibility. Capital weakness may change how policyholders, brokers, regulators, and reinsurers interpret the insurer's promise.
+
+Insurance therefore illustrates why credit cannot be reduced to financial capacity alone. The financial promise depends on interpretative, informational, and operational structures that make the promise governable across time.
+
+### 6. Insurance and Temporal Coordination
+
+The insurance cycle can be represented as a temporal coordination process:
+
+Risk exposure is identified.  
+Information is collected and recorded.  
+Policy terms interpret the risk and define admissible claims.  
+Premium and capital support the forward commitment.  
+A loss occurs.  
+The claim is observed, recorded, interpreted, and executed.  
+The outcome updates credibility and affects future underwriting, pricing, regulation, and trust.
+
+Insurance therefore converts uncertainty into a repeatable temporal structure. It does not eliminate uncertainty. It governs uncertainty by binding interpretation, information, realisation, and credit into a coordinated system.
+
+Solvency II may be understood as a continuation regime for insurance. It does not merely ask whether an insurer has recorded liabilities or current assets. It asks whether the insurer possesses sufficient capital, governance, risk management, and supervisory discipline to continue meeting forward commitments under adverse conditions. In Trust Framework terms, Solvency II governs the admissibility of insurance credit at the level of system continuation.
+
+For this reason, insurance is not merely a market transaction. It is a trust-bearing institution of continuation. It allows individuals, firms, and societies to act despite future loss because a regime-bound promise has been made credible, recorded, interpreted, and operationally capable of realisation.
+
+## Case Study 3 — Airline Miles as Stored Credit and Conditional Trust
+
+Airline miles are often described as loyalty rewards. Within the Trust Framework, they can be understood more precisely as stored credit instruments issued within a private regime of conditional trust.
+
+A passenger contributes to the airline system by purchasing flights, using partner services, or participating in affiliated programmes. These contribution events are observed, recorded, and converted into mileage balances. The miles then become an artefact through which past contribution is represented as future claim.
+
+### 1. Contribution and Recording
+
+Miles originate from contribution events.
+
+A passenger flies, pays, spends through a partner, or performs another recognised action within the airline's loyalty regime. The airline records this contribution and translates it into a mileage balance according to programme rules.
+
+The mileage balance is therefore not the contribution itself. It is a recorded signal derived from contribution history.
+
+This recording function matters because the passenger may later act on the belief that prior contribution has been preserved in a form that can support future travel, upgrades, status, or other benefits.
+
+### 2. Regime and Admissibility
+
+Airline miles exist only within a regime.
+
+The airline determines which actions earn miles, how many miles are credited, when they expire, how they may be redeemed, which flights or seats are available, whether partners are included, and whether programme rules may be changed.
+
+The passenger does not hold an unconditional claim against the world. The passenger holds a conditional claim inside the airline's admissibility structure.
+
+This means miles are not equivalent to money. Their value depends on the rules of the regime that issues and recognises them.
+
+A mile may exist as a recorded balance, but it becomes usable only when the regime admits a redemption path.
+
+### 3. Credibility of the Issuer
+
+The value of airline miles depends on the credibility of the issuing system.
+
+Passengers rely on the expectation that the airline will continue operating, maintain the loyalty programme, honour recorded balances, provide redemption opportunities, and refrain from changing the rules in ways that destroy the practical value of the miles.
+
+This is a credibility structure. It is based on signals such as the airline's operational stability, financial condition, historical treatment of customers, transparency of rule changes, partner network, and redemption availability.
+
+Where the issuer remains credible, passengers treat miles as meaningful stored credit. Where credibility weakens, miles may still appear in the account but lose practical trust value.
+
+### 4. Stored Credit and Forward Commitment
+
+Airline miles are a form of stored credit.
+
+They convert past contribution into a future-oriented claim. The passenger accepts present or past participation in the airline system on the expectation that the recorded balance can later be extended into travel capacity, upgrade access, or other benefits.
+
+The credit is not absolute. It is conditional on regime rules, operational availability, and issuer continuation.
+
+A mileage balance therefore represents forward capacity only within the boundaries of the programme's regime.
+
+### 5. Operational Realisation
+
+Miles must be realised operationally.
+
+A passenger may possess enough miles for a flight, but redemption depends on available seats, booking systems, partner coordination, blackout dates, service capacity, taxes, fees, and operational execution.
+
+If the airline cannot make redemption available in practice, the miles remain recorded but unrealised.
+
+This shows the difference between recorded credit and realised credit. The account balance may persist, while the operational pathway required to convert it into travel may fail or narrow.
+
+### 6. Devaluation and Regime Change
+
+Airline miles are especially useful for understanding regime change.
+
+An airline may alter earning rates, redemption tables, expiry rules, partner access, or status benefits. These changes may preserve the formal record of miles while changing their practical meaning.
+
+The passenger's recorded balance remains numerically visible, but its interpretative value changes because the regime governing redemption has changed.
+
+This is not merely a financial adjustment. It is a regime alteration affecting the admissibility and realisation of stored credit.
+
+### 7. Airline Miles and the Trust Framework
+
+Airline miles illustrate the full cooperative sequence:
+
+Contribution occurs through travel or programme participation.  
+Observation and recording convert contribution into mileage balances.  
+Signals are interpreted by passengers as evidence of future redeemable value.  
+Expectation forms around the issuer's willingness and capacity to honour the programme.  
+Trust is deployed when passengers continue participating.  
+Credibility stabilises when the airline repeatedly honours redemptions.  
+Credit appears as stored mileage value.  
+Continuation depends on the airline, the programme regime, and the operational availability of redemption.
+
+Airline miles therefore show that credit can exist outside banking. A loyalty point is not money, but it is a regime-bound credit instrument: a recorded claim on future capacity, grounded in past contribution, issuer credibility, and admissible operational realisation.
+
+## Case Study 4 — Certification as Credit Extension in Hiring
+
+Certification is often treated as proof of competence. Within the Trust Framework, however, a certificate is better understood as a contribution-derived signal artefact that enables credit extension under conditions of limited knowledge.
+
+An employer rarely knows the full capability of a candidate before hiring them. The employer cannot directly observe all past contribution events: the candidate's training, examinations, practical performance, judgement, reliability, or future capacity. Instead, the employer relies on signals that compress this history into interpretable form.
+
+A certificate is one such signal.
+
+### 1. Contribution History and Certification
+
+A certificate originates from prior contribution.
+
+The candidate studies, trains, completes assessments, passes examinations, satisfies procedural requirements, or demonstrates competence within a recognised system. These events form a contribution history.
+
+The certificate does not contain the full history. It represents that history in compressed form.
+
+It says, in effect, that a recognised regime has observed enough evidence to admit the candidate into a category of standing.
+
+The certificate is therefore not capability itself. It is an artefact through which capability-related contribution history becomes visible to others.
+
+### 2. Certificate as Signal Artefact
+
+The employer interprets the certificate as a signal.
+
+Because the employer lacks direct access to the candidate's full capability, the certificate reduces uncertainty. It allows the employer to form an expectation that the candidate is more likely to perform at a required standard than an uncertified candidate.
+
+This expectation depends on the credibility of the certifying regime.
+
+A certificate issued by a rigorous, trusted institution carries stronger signal value than one issued by a weak, unfamiliar, or easily manipulated body. The employer is therefore not only evaluating the candidate. The employer is also evaluating the credibility of the certification system.
+
+### 3. Regime Recognition
+
+A certificate becomes powerful when it is recognised by a hiring regime.
+
+Some employers may treat certification as helpful evidence. Others may treat it as a minimum admissibility condition. In regulated professions, certification may determine whether the candidate is legally or institutionally permitted to perform the role at all.
+
+The same certificate may therefore carry different weight across systems.
+
+In one hiring regime, it may be decisive. In another, it may be secondary to experience, interview performance, portfolio evidence, references, or probationary testing.
+
+Certification is therefore system-relative. It does not transfer as universal credibility. It is reconstructed within the receiving regime.
+
+### 4. Credit Extension Without Direct Capability Knowledge
+
+Hiring is a form of credit extension.
+
+The employer commits salary, role access, training resources, authority, client exposure, team dependency, and organisational opportunity before the candidate's future contribution is fully realised.
+
+This extension occurs under uncertainty. The employer does not yet know whether the candidate will perform as expected.
+
+Certification helps bridge that uncertainty. It allows the employer to extend forward commitment on the basis of stabilised signals supplied by another regime.
+
+The employer, in effect, says:
+
+Because this candidate has been certified, I will admit them into the organisation and allow future contribution to be attempted.
+
+This is credit in the broad sense of the Trust Framework: present commitment based on expected future contribution.
+
+### 5. Limits of Certification
+
+Certification does not eliminate uncertainty.
+
+A certified candidate may still perform poorly. The certificate may measure examination ability but not practical judgement. It may reflect past competence but not current capacity. It may be outdated, inflated, overly narrow, or weakly connected to the actual role.
+
+Certification therefore supports expectation, but it does not guarantee realisation.
+
+Where the certification system is strong, current, relevant, and difficult to manipulate, it provides a credible signal. Where it is weak, generic, or disconnected from the required work, it may produce false credibility.
+
+### 6. Certification and the Trust Framework
+
+Certification illustrates the distinction between signal, credibility, and credit.
+
+The candidate's prior training and assessment are contribution events.  
+The certificate records and represents those events.  
+The employer interprets the certificate as a signal.  
+The certifying body supplies credibility to the signal.  
+The hiring regime determines whether the certificate is admissible.  
+The employer extends credit by offering role access and future responsibility.  
+The candidate's actual performance later confirms, weakens, or revises the credibility basis.
+
+A certificate is therefore not credit by itself. It is a contribution-derived signal artefact that may stabilise credibility and enable credit extension.
+
+Hiring on the basis of certification shows how cooperative systems act under incomplete knowledge. They do not wait for full capability to be directly observed. They rely on recognised signals, regime admissibility, and stabilised credibility in order to extend opportunity into the future.
+
+## Case Study 5 — Mortgage Lending and Credit Creation
+
+Mortgage lending is often described as the transfer of existing money from a bank to a borrower. In modern banking, this description is incomplete. When a bank issues a mortgage, it typically creates a new loan asset and a matching deposit liability. The borrower receives a deposit balance, while the bank records a claim on the borrower's future repayments.
+
+Within the Trust Framework, mortgage lending can be understood as credit creation through the admission of future contribution into present coordination.
+
+### 1. Borrower Contribution History
+
+A mortgage begins before the loan is issued.
+
+The borrower has a contribution history: income, employment, savings, repayment behaviour, assets, expenditure patterns, and prior financial conduct. These are not fully known to the bank. They are observed through documents, records, credit reports, bank statements, payslips, tax information, collateral valuation, and other signals.
+
+The bank does not directly know the borrower's future capacity. It interprets available signals to form an expectation about whether the borrower can continue generating income and meeting repayment obligations over time.
+
+### 2. Underwriting as Regime Admissibility
+
+The underwriting process is the bank's regime mechanism.
+
+It determines whether the borrower's signal profile is admissible for credit extension. Income must be recognisable, the property must be valued, the loan-to-value ratio must fall within tolerance, affordability must be demonstrated, credit history must meet policy conditions, and the proposed loan must fit the bank's risk appetite and regulatory constraints.
+
+The borrower may appear willing to repay, but willingness alone is not enough. The bank must decide whether the future repayment expectation is admissible within its credit regime.
+
+Underwriting therefore converts signal interpretation into a regime decision: whether the borrower may cross the boundary into a mortgage credit relationship.
+
+### 3. Credit Creation
+
+When the mortgage is approved and advanced, the bank creates credit.
+
+A loan asset appears on the bank's balance sheet: the borrower's obligation to repay over time.
+
+A deposit appears in the borrower's account, or is transferred to the seller through the payment system.
+
+New bank money is created through the act of lending.
+
+This does not mean the bank creates money without constraint. The credit relationship remains bounded by capital requirements, liquidity management, regulatory rules, risk appetite, funding conditions, collateral quality, and expected repayment capacity.
+
+Within the Trust Framework, the created deposit is the present realisation of a forward commitment. The bank admits the borrower's expected future contribution into the present as spendable purchasing power.
+
+### 4. Mortgage as Forward Commitment
+
+For the borrower, the mortgage is a liability: a commitment to deliver future cash flows.
+
+For the bank, it is an asset: a claim on those future cash flows.
+
+For the economy, the loan creates a deposit that can circulate as money.
+
+The same event therefore has multiple structural forms. It is a contract, a balance sheet entry, a payment instrument, a property claim, and a forward coordination structure.
+
+The mortgage exists because the bank treats future repayment as credible enough to support present credit extension.
+
+### 5. Repayment and Money Destruction
+
+As the borrower repays the mortgage, the promise is gradually fulfilled.
+
+Principal repayment reduces the outstanding loan asset and extinguishes the corresponding deposit money. Interest compensates the bank for time, risk, operating cost, funding cost, capital use, and profit.
+
+The outstanding mortgage balance therefore measures the remaining unfulfilled forward commitment.
+
+Credit creation and repayment form a temporal cycle: future contribution is admitted into the present, then gradually realised through income, repayment, and balance reduction.
+
+### 6. Collateral and Broken Promises
+
+The property is not merely a static asset. It is the recovery mechanism if the repayment promise fails.
+
+If the borrower cannot fulfil the forward commitment, the bank may enforce its security over the property. Collateral therefore constrains credit risk by providing an alternative path of recovery when expected future contribution does not materialise.
+
+This shows that mortgage credit depends on both borrower credibility and regime enforcement. The bank relies on income expectation, but also on legal rights, collateral valuation, foreclosure rules, capital buffers, and risk management.
+
+### 7. Mortgage Lending and the Trust Framework
+
+Mortgage lending illustrates the full credit sequence:
+
+Contribution history generates observable financial signals.  
+The bank interprets those signals through underwriting rules.  
+Expectation forms around future repayment capacity.  
+Trust is deployed in the decision to lend.  
+Credibility stabilises through the borrower's assessed risk profile.  
+Credit is extended through the mortgage.  
+New money is created as a deposit.  
+Repayment gradually fulfils the forward commitment and extinguishes the created money.
+
+A mortgage therefore shows credit creation in both accounting and structural terms. Accounting records the loan asset and deposit liability. The Trust Framework explains the underlying coordination: a regime-recognised expectation of future contribution is converted into present purchasing power.
+
+Modern bank money is therefore not merely a thing already waiting to be lent. In mortgage lending, it is created when a bank admits a borrower's future repayment capacity into its credit regime and records that forward commitment as both a loan and a deposit.
+
+## Case Study — Existing Trust Literature as Node-Specific Interpretations
+
+Existing trust literature often emphasises vulnerability, reliability, risk, reputation, signalling, social capital, or complexity reduction. The Trust Framework does not reject these interpretations. It locates them within a broader structural sequence.
+
+| Trust Framework node | Literature alignment |
+|---|---|
+| Coexistence | Interdependence, social embeddedness, systems context |
+| Cooperative Boundary | Risk threshold, vulnerability condition, willingness to engage |
+| Temporal Coordination | Repeated interaction, complexity reduction, coordination over time |
+| Contribution | Behaviour, performance, fulfilment, cooperative action |
+| Observation | Information asymmetry, monitoring, access to evidence |
+| Signals | Signalling theory, reputation markers, credentials, institutional indicators |
+| Expectation | Reliability expectation, positive expectation, perceived trustworthiness |
+| Trust | Willingness to rely, intention to accept vulnerability, deployment under uncertainty |
+| Credibility | Reputation, legitimacy, accumulated reliability, stabilised trustworthiness |
+| Credit | Delegation, control transfer, lending, authority, resource commitment |
+| Continuation | Social capital, institutional persistence, cooperation stability |
+
+Different theories enter the sequence at different points. Vulnerability-based theories focus mainly on the transition from expectation into trust deployment. Reliability theories focus on expectation. Signalling and reputation theories focus on the observation-signal-credibility pathway. Luhmann's complexity-reduction account focuses on temporal coordination. Coleman-type control and risk approaches focus on the transfer of control or resources, which corresponds to credit extension. Social-capital and institutional-trust theories focus on the continuation effects of stabilised trust and credibility across systems.
+
+The Trust Framework's contribution is therefore not to replace existing trust literature with a single competing definition, but to show how these interpretations occupy different positions within one cooperative sequence.
