@@ -108,6 +108,13 @@ The principles and laws developed in Part IV are structural derivations from the
 - [24 REGIME EXECUTION](#24-REGIME-EXECUTION)
 - [25 REALISATION CLOSURE](#25-REALISATION-CLOSURE)
 
+**APPENDIX**
+- [Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition](#Case-Study-1-From-His-Word-Is-His-Bond-TheIdentity-to-Capability-Lens-Transition)
+- [CASE STUDY 2 - Insurance as a Four-Temporal Coordination Instrument](#Case-Study-2-Insurance-as-a-Four-Temporal-Coordination-Instrument)
+- [Case Study 3 — Airline Miles as Stored Credit and Conditional Trust](#Case-Study-3-Airline-Miles-as-Stored-Credit-and-Conditional-Trust)
+- [ Case Study 4 — Certification as Credit Extension in Hiring](#Case-Study-4-Certification-as-Credit-Extension-in-Hiring)
+- [Case Study 5 — Mortgage Lending and Credit Creation](#Case-Study-5-Mortgage-Lending-and-Credit-Creation)
+
 ---
 
 **PART I - ONTOLOGY UNFOLDING**
