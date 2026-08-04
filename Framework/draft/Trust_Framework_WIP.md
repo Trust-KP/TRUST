@@ -11,7 +11,7 @@ This page intentionally left blank
 ### Status: Working Paper
 ### Official DOI for this release: [to be added]
 
-This document represents the canonical description of the Trust Framework for version 1.6 within the archived repository snapshot.
+This document represents the canonical description of the Trust Framework for version 1.7 within the archived repository snapshot.
 
 The Trust Framework describes how cooperation emerges and persists within coexistence systems through the interpretation of contribution signals across time.
 
@@ -75,7 +75,7 @@ The principles and laws developed in Part IV are structural derivations from the
 
 **PART I - ONTOLOGY UNFOLDING**
 - [1 FIRST PRINCIPLE](#1-first-principle)
-- [2 LAYERED STRUCTURE OF THE FRAMEOWKR](#2-layered-structure-of-the-framework)
+- [2 LAYERED STRUCTURE OF THE FRAMEWORK](#2-layered-structure-of-the-framework)
 - [3 THEORY OF CONTINUATION](#3-theory-of-continuation)
 - [4 THEORY OF COEXISTENCE SYSTEMS](#4-theory-of-coexistence-systems)
 - [5 THEORY OF COOPERATIVE BOUNDARY](#5-theory-of-cooperative-boundary)
@@ -92,7 +92,7 @@ The principles and laws developed in Part IV are structural derivations from the
 
 **PART III - FORMALISATION**
 - [14 FORMAL ONTOLOGY CONDITION](#14-FORMAL-ONTOLOGY-CONDITION)
-- [15 INTEPRETATIVE ARCHITECTURE](#15-INTEPRETATIVE-ARCHITECTURE)
+- [15 INTERPRETATIVE ARCHITECTURE](#15-INTERPRETATIVE-ARCHITECTURE)
 - [16 FORMALISATION SUMMARY](#16-FORMALISATION-SUMMARY)
 
 **PART IV - TRUST REGIME**
@@ -1476,14 +1476,6 @@ An event anchor may indicate occurrence, while a record anchor delays or distort
 
 Such cross-temporal misalignment may propagate through the coordination cycle, producing instability even when individual temporals remain locally functional.
 
-## 13.7 Coordination Friction
-
-Temporal coordination is not costless. Participants must discover relevant signals, interpret their meaning, negotiate expectations, monitor alignment, and enforce commitments where voluntary coordination fails. These costs may be understood as coordination friction. In economic terms, this corresponds to Coasean friction: the transaction costs that prevent theoretically beneficial cooperation from occurring or make it costly to sustain.
-
-Within the Trust Framework, coordination friction arises when signals are difficult to observe, interpretations are unstable, credibility is uncertain, regimes are unclear, or credit commitments require costly enforcement. Credibility entropy increases coordination friction because observers must spend additional effort distinguishing genuine credibility from apparent credibility.
-
-Coasean friction therefore describes the transaction-cost surface of trust, while credibility entropy describes the internal fragility of the credibility structure beneath that surface.
-
 ## 13.8 Entry and Perceived Sequence in Temporal Coordination
 
 The temporal coordination cycle describes an invariant structure through which cooperation is sustained:
@@ -1760,7 +1752,7 @@ Operationally, however, continuation is not achieved once and retained. Each com
 
 The full cooperative sequence —
 
-**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Observation → Expectation → Trust → Credibility → Credit → Continuation**
+**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
 
 This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented.
 
@@ -1804,7 +1796,7 @@ Interpretative change therefore does not, by itself, constitute structural chang
 
 The formal sequence established in the preceding chapters describes the structural path through which cooperative coordination becomes possible:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Signals → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Obbservation → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
 This sequence establishes structural relationships.
 
@@ -1880,8 +1872,8 @@ The full interpretative space is therefore larger than the four canonical positi
 
 The intersection of four observer-side lenses with four system-side aspects produces a sixteen-position interpretative space.
 
-|--| Structure | Interpretation| 	Regime|	Realisation|
-|--|--|--|--|--|
+| Lens / Aspect | Structure | Interpretation | Regime | Realisation |
+|---|---|---|---|---|
 |Structural |Canonical	|Cross-position	|Cross-position| Cross-position|
 |Coordination	|Cross-position|	Canonical|	Cross-position|	Cross-position|
 |Identity	|Cross-position|	Cross-position|	Canonical	| Cross-position|
@@ -2230,7 +2222,7 @@ Where they fail, repeated interaction may still occur, but the system cannot rel
 
 Temporal coordination is therefore governable only where the regime can distinguish admissible temporal patterns and maintain rules for updating expectation across successive intervals.
 
-## 17.6 Contribution, Signals, and Expectation — Signal Admissibility Conditions
+## 17.6 Contribution, Observation, Signals, and Expectation — Signal Admissibility Conditions
 
 Contribution, Observation, Signals, and Expectation form the informational substrate through which trust, credibility, and credit may later emerge.
 
@@ -2318,8 +2310,97 @@ The following chapters derive the principles and laws that follow from these reg
 
 # 18. Principles 
 
+
+
 ## 18.1 Basis of Principles
+
+18. Principles
+
+18.1 Basis of Principles
+
+The preceding chapter established Regime as the admissibility layer of the Trust Framework.
+
+Regime determines which structures, interpretations, expectations, credibility formations, and credit extensions may be admitted within a cooperative system. It does not prescribe what a system ought to value, nor does it impose a universal model of governance. It defines the conditions under which trust-based coordination can become governable.
+
+The principles developed in this chapter are derived from that admissibility structure.
+
+They are not ethical commandments, institutional recommendations, or optimisation rules. They are structural principles: recurring constraints that follow from the framework's ontology, interpretative architecture, and regime conditions.
+
+A principle states a necessary relation within the Trust Framework. It identifies what must hold if trust, credibility, credit, and continuation are to remain coherent under uncertainty.
+
+For this reason, the principles are system-relative in application but structurally general in form. Different cooperative systems may realise them through different rules, institutions, customs, technologies, or practices. The principle remains the same, while its realisation varies by domain.
+
+This chapter organises the principles across three movements:
+- principles governing trust formation;
+- principles governing credibility stabilisation; and
+- principles governing credit extension.
+
+Together, these principles provide the bridge between the regime conditions established in Chapter 17 and the laws developed in Chapter 19.
+
 ## 18.2 Principles of Trust Formation
+
+Trust formation begins when an observer interprets contribution-derived signals into expectations regarding the future behaviour of a participant.
+
+Trust does not arise from contribution alone. A contribution may occur without being observed, an observation may occur without becoming an admissible signal, and a signal may be interpreted differently across observers, systems, or regimes. Trust forms only when an expectation generated from interpreted signals is deployed under uncertainty within a coordination context.
+
+The following principles govern trust formation.
+
+### 18.2.1 Signal Dependence Principle
+
+Trust formation depends on signals derived from contribution history.
+
+Future behaviour cannot be directly observed. An observer must therefore rely on signals generated by past contribution outcomes when forming expectations about whether cooperation may continue.
+
+Where no signal is available, trust may still be presumed, inherited, or imposed by regime, but it lacks a direct evidential basis in observed contribution history. Such trust remains fragile unless later supported by contribution-derived signals.
+
+### 18.2.2 Observation Mediation Principle
+
+Contribution does not become trust-relevant merely by occurring.
+
+Contribution becomes trust-relevant only when its outcomes become accessible to an observer through direct experience, records, reports, institutional mediation, or other forms of observation.
+
+Observation may be incomplete, delayed, distorted, selective, or unevenly distributed across observers. For this reason, trust judgements may differ even when the underlying contribution history is the same.
+
+### 18.2.3 Interpretation Principle
+
+Signals do not determine trust by themselves.
+
+An observed trace becomes trust-relevant only when it is interpreted through an evaluation principle, lens, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
+
+Trust formation therefore depends not only on signal availability, but also on the interpretive structure through which signals are read.
+
+### 18.2.4 Expectation Deployment Principle
+
+Trust forms when an expectation is deployed under uncertainty.
+
+An observer may interpret signals and form an expectation without yet trusting. Trust begins when the observer allows that expectation to guide coordination before the future behaviour is known.
+
+This deployment exposes the observer to future alignment or misalignment between expectation and realised contribution. Vulnerability is therefore not the primitive definition of trust, but the condition created when expectation is deployed under uncertainty.
+
+### 18.2.5 Context-Bound Principle
+
+Trust is always formed within a context.
+
+A participant may be trusted for one kind of action, relation, role, or domain without being trusted in another. Trust does not transfer automatically across contexts because different systems activate different signals, lenses, expectations, and regime conditions.
+
+Trust is therefore context-bound rather than universally portable.
+
+### 18.2.6 Observer-Bound Principle
+
+Trust is assigned by observers rather than possessed intrinsically by participants.
+
+A participant may generate contribution outcomes, but trust arises only when an observer interprets those outcomes and deploys an expectation based on them. Different observers may therefore assign different trust judgements to the same participant without contradiction.
+
+This does not make trust arbitrary. It means trust is structurally relational: it belongs to the relation between observed contribution, available signals, interpretive structure, and observer deployment.
+
+### 18.2.7 Update Principle
+
+Trust remains open to revision.
+
+New observations, delayed signals, reinterpretation of existing signals, changed context, or altered regime conditions may strengthen, weaken, suspend, or withdraw trust.
+
+Trust formation is therefore not a single event but a continuing process of expectation formation, deployment, feedback, and revision across time.
+
 ## 18.3 Principles of Credibility Stabilisation
 ## 18.4 Principles of Credit Extension
 
