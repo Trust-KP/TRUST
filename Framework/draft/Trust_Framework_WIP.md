@@ -1345,6 +1345,16 @@ Temporal processes alone do not guarantee coordination stability across time. Fo
 
 The four temporals describe how coordination unfolds across time. However, coordination requires more than temporal process alone. For cooperation to persist across repeated interaction, participants must also stabilise expectations regarding when and how coordination is expected to occur. This stabilisation gives rise to temporal anchors.
 
+## 13.2.1 Coordination Friction and Credibility Entropy
+
+Temporal coordination is not costless. Participants must discover relevant signals, interpret their meaning, negotiate expectations, monitor alignment, and enforce commitments where voluntary coordination fails. These costs may be understood as coordination friction.
+
+In economic terms, coordination friction corresponds to Coasean friction: the transaction costs that prevent theoretically beneficial cooperation from occurring or make it costly to sustain. Within the Trust Framework, such friction arises when signals, expectations, rights, obligations, or enforcement conditions are not sufficiently clear, stable, or cheaply interpretable across temporal intervals.
+
+Coasean friction describes the transaction-cost surface of trust. Credibility entropy describes the internal fragility of the credibility structure beneath that surface. Credibility entropy amplifies coordination friction because observers must spend additional effort distinguishing genuinely independent credibility from apparent credibility supported by dependent or correlated signals.
+
+When the combined effect of coordination friction and credibility entropy exceeds the system's tolerance, the Credit Temporal may contract. Forward commitments become harder to justify, verification costs increase, and the cooperative boundary may narrow. In severe cases, coordination may revert toward more immediate exchange, rule-bound enforcement, coercive coordination, withdrawal, or bare coexistence.
+
 ## 13.3 — Temporal Anchors
 
 Temporal coordination requires not only the existence of production, information, trust, and credit processes, but also the stabilisation of expectation across time.
