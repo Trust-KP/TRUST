@@ -1466,7 +1466,15 @@ An event anchor may indicate occurrence, while a record anchor delays or distort
 
 Such cross-temporal misalignment may propagate through the coordination cycle, producing instability even when individual temporals remain locally functional.
 
-## 13.7 Entry and Perceived Sequence in Temporal Coordination
+## 13.7 Coordination Friction
+
+Temporal coordination is not costless. Participants must discover relevant signals, interpret their meaning, negotiate expectations, monitor alignment, and enforce commitments where voluntary coordination fails. These costs may be understood as coordination friction. In economic terms, this corresponds to Coasean friction: the transaction costs that prevent theoretically beneficial cooperation from occurring or make it costly to sustain.
+
+Within the Trust Framework, coordination friction arises when signals are difficult to observe, interpretations are unstable, credibility is uncertain, regimes are unclear, or credit commitments require costly enforcement. Credibility entropy increases coordination friction because observers must spend additional effort distinguishing genuine credibility from apparent credibility.
+
+Coasean friction therefore describes the transaction-cost surface of trust, while credibility entropy describes the internal fragility of the credibility structure beneath that surface.
+
+## 13.8 Entry and Perceived Sequence in Temporal Coordination
 
 The temporal coordination cycle describes an invariant structure through which cooperation is sustained:
 
@@ -1538,7 +1546,7 @@ For this reason, temporal coordination must be understood as a cyclic structure 
 
 This resolves the apparent variation in observed sequence without requiring any reordering of the underlying temporal structure.
 
-## 13.8 Direction and Reversibility
+## 13.9 Direction and Reversibility
 
 The temporal coordination cycle may be understood from two complementary perspectives.
 
@@ -1559,7 +1567,7 @@ The backward ordering describes interpretation.
 
 Together, they capture the bidirectional nature of temporal coordination: action generates signals, and signals inform future action.
 
-## 13.9 Imbalance and Failure
+## 13.10 Imbalance and Failure
 
 Failure arises when accumulated dependence described in the preceding section can no longer be sustained.
 
@@ -1580,7 +1588,7 @@ As a result, the cooperative boundary may no longer hold. Interaction risk incre
 
 Failure is therefore not a discrete event, but a breakdown in the sustained alignment of temporal processes.
 
-## 13.10 Scale and Aspect of Credit
+## 13.11 Scale and Aspect of Credit
 
 The four-temporal architecture describes the closure of coordination at a single level of abstraction. In practice, each temporal may generate distinct forms of credit depending on the scale of the system and the aspect of the agent to which it is attached.
 
@@ -1592,7 +1600,7 @@ The four-temporal structure therefore admits a range of credit forms differentia
 
 A full treatment of scale and aspect differentiation lies beyond the present scope and is developed in related work.
 
-## 13.11 Closure of the Framework
+## 13.12 Closure of the Framework
 
 The framework began with the problem of cooperation under uncertainty.
 
@@ -2185,6 +2193,8 @@ The cooperative boundary is therefore admissible only where the regime can recog
 Temporal coordination, as formalised in Chapter 14, obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that contribution outcomes generate observations, observations become signals, signals are interpreted into expectations, and those expectations guide subsequent coordinated action.
 
 At the Regime layer, temporal coordination becomes governable only when the regime establishes rules for how repeated interaction may be ordered, recognised, updated, and revised across time.
+
+A regime may reduce coordination friction by clarifying which signals count, how expectations are updated, and which commitments are enforceable. It may also increase friction where its rules are unclear, mismatched, excessive, or unable to distinguish admissible from inadmissible coordination.
 
 A temporal coordination governing condition obtains when a regime distinguishes which temporal patterns may organise coordination within the cooperative system.
 
