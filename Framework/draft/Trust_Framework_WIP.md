@@ -2637,7 +2637,66 @@ Together, these principles establish the operational grammar of the Trust Framew
 
 # 19. Laws
 
-## 19.1 Basis of Laws
+The preceding chapter established the principles governing trust, credibility, and credit. Principles describe the constraints under which the framework remains coherent. Laws describe the stronger regularities that follow from the framework's layered architecture.
+
+Although laws are structurally prior to principles, they are presented after the principles in this Part for expository reasons. Chapter 18 first established the operational grammar through which trust, credibility, and credit are formed, stabilised, extended, and closed. This chapter now steps back to state the deeper structural laws from which those principles derive.
+
+In structural order, the sequence is ontology, law, principle, rule, and practice. In exposition, this Part introduces regime and principles first so that the laws can be stated against an already developed operational vocabulary.
+
+A law within the Trust Framework is not a legal rule, ethical command, institutional policy, or empirical prediction. It is a necessary relation within a defined layer of the framework. Because the framework distinguishes Structure, Interpretation, Regime, and Realisation, its laws must also be distinguished by layer.
+
+Structural laws concern the ordered conditions through which trust, credibility, credit, and continuation become possible.
+
+Interpretative laws concern the observer-bound reconstruction of meaning from contribution-derived signals.
+
+Regime laws concern the admissibility rules through which a system governs which structures, interpretations, expectations, credibility formations, and credit extensions may operate within it.
+
+Realisation laws concern the domain-specific mechanisms through which the framework appears in actual systems, institutions, technologies, markets, professions, or practices.
+
+A structural law does not change merely because an observer interprets a signal differently. An interpretative law does not disappear because a regime changes its rules. A regime law may change while the underlying structure remains intact. A realisation law may vary across domains while still expressing the same structural relation.
+
+For this reason, Chapter 19 does not treat law as a single category. It distinguishes the layer at which a law operates and the kind of necessity it expresses.
+
+## 19.1 Structural Laws
+
+Structural laws describe necessary relations within the ontology of the Trust Framework. They concern the sequence through which coexistence becomes coordinated, contribution becomes observable, signals become expectation, expectation becomes trust, trust stabilises into credibility, credibility permits credit, and credit is tested through continuation.
+
+### 19.1.1 Law of Ordered Dependence
+
+Later stages in the trust sequence presuppose the structural conditions of earlier stages.
+
+Trust cannot be deployed without expectation. Expectation cannot form without interpreted signal. Signal cannot arise without observation. Observation cannot occur without contribution-derived trace or outcome. Credibility cannot stabilise without trust-relevant judgements. Credit cannot extend without credibility sufficient to support forward exposure. Continuation cannot persist without the recursive operation of the sequence across time.
+
+A system may compress, automate, obscure, inherit, or institutionalise these transitions, but it cannot remove their structural dependence without changing the nature of the relation.
+
+### 19.1.2 Law of Mediated Transition
+
+No stage in the trust sequence passes into the next without mediation.
+
+Contribution does not become trust directly. It must produce an outcome or trace, become observable, enter the observer's interpretative field as signal, support expectation, and only then become capable of trust deployment. Trust does not become credibility directly without stabilisation. Credibility does not become credit directly without admission into forward exposure.
+
+Mediation may be performed by perception, record, institution, model, ritual, contract, market, profession, or regime. The medium may vary, but the requirement of mediation remains.
+
+### 19.1.3 Law of Temporal Exposure
+
+Trust, credibility, and credit operate across unresolved temporal intervals.
+
+Trust deploys expectation before future contribution is known. Credibility stabilises expectation across repeated intervals. Credit extends present coordination on the basis of future realisation. Where no future uncertainty is involved, the relation may be knowledge, record, possession, command, or completed exchange, but it is not trust, credibility, or credit in the framework's strict sense.
+
+### 19.1.4 Law of Stabilisation and Extension
+
+Credibility and credit are structurally distinct extensions of trust.
+
+Credibility stabilises trust-relevant expectation across time, context, signal configuration, or observer reconstruction. Credit extends stabilised expectation into present exposure to future realisation.
+
+Credibility may exist without credit, but credit cannot coherently arise without some credibility structure being admitted as sufficient for forward commitment.
+
+### 19.1.5 Law of Recursive Continuation
+
+Continuation requires that forward intervals opened by expectation, trust, credibility, or credit be carried toward fulfilment, revision, repair, enforcement, default, transfer, forgiveness, or other resolution.
+
+The outcome of each cycle returns as contribution history. Continuation is therefore not a static end-state but the recursive reproduction, weakening, or transformation of the sequence across time.
+
 ## 19.2 Laws of Trust Formation
 ## 19.3 Laws of Credibility Stabilisation
 ## 19.4 Laws of Credit Extension
