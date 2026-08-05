@@ -2344,7 +2344,7 @@ A principle states a necessary relation within the Trust Framework. It identifie
 
 For this reason, the principles are system-relative in application but structurally general in form. Different cooperative systems may realise them through different rules, institutions, customs, technologies, or practices. The principle remains the same, while its realisation varies by domain.
 
-This chapter organises the principles across a general layer and three applied movements
+This chapter organises the principles across a general layer and three applied movements:
 - principles governing trust formation;
 - principles governing credibility stabilisation; and
 - principles governing credit extension.
@@ -2437,7 +2437,7 @@ Observation may be incomplete, delayed, distorted, selective, or unevenly distri
 
 Signals do not determine trust by themselves.
 
-An observed trace becomes trust-relevant only when it is interpreted through interpretative lens, evaluation rule, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
+An observed trace becomes trust-relevant only when it is interpreted through an interpretative lens, evaluation rule, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
 
 Trust formation therefore depends not only on signal availability, but also on the interpretive structure through which signals are read.
 
@@ -2677,13 +2677,21 @@ Contribution does not become trust directly. It must produce an outcome or trace
 
 Mediation may be performed by perception, record, institution, model, ritual, contract, market, profession, or regime. The medium may vary, but the requirement of mediation remains.
 
-### 19.1.3 Law of Temporal Exposure
+### 19.1.3 Law of Conditional Passage
+
+Each stage in the trust sequence passes into the next only where the required transition condition obtains.
+
+Contribution does not become observation unless its outcome or trace becomes accessible to an observer. Observation does not become signal unless it enters an interpretative field as meaning-bearing. Signal does not become expectation unless it can support anticipation of future contribution. Expectation does not become trust unless it is deployed under uncertainty. Trust does not become credibility unless it stabilises across time, context, or reconstruction. Credibility does not become credit unless it is admitted into forward exposure. Credit does not support continuation unless the forward interval is carried toward fulfilment, revision, repair, enforcement, default, transfer, forgiveness, or other resolution.
+
+Where a transition condition is absent, the prior stage may still exist, but the sequence does not advance through that path. A contribution may be real but unobserved; an observation may be accurate but non-signal-bearing; a signal may be meaningful but expectation-insufficient; a credibility structure may be genuine but credit-inadmissible. Structural non-transition is therefore not the same as interpretative error or regime exclusion, although it may later appear through either.
+
+### 19.1.4 Law of Temporal Exposure
 
 Trust, credibility, and credit operate across unresolved temporal intervals.
 
 Trust deploys expectation before future contribution is known. Credibility stabilises expectation across repeated intervals. Credit extends present coordination on the basis of future realisation. Where no future uncertainty is involved, the relation may be knowledge, record, possession, command, or completed exchange, but it is not trust, credibility, or credit in the framework's strict sense.
 
-### 19.1.4 Law of Stabilisation and Extension
+### 19.1.5 Law of Stabilisation and Extension
 
 Credibility and credit are structurally distinct extensions of trust.
 
@@ -2691,15 +2699,95 @@ Credibility stabilises trust-relevant expectation across time, context, signal c
 
 Credibility may exist without credit, but credit cannot coherently arise without some credibility structure being admitted as sufficient for forward commitment.
 
-### 19.1.5 Law of Recursive Continuation
+### 19.1.6 Law of Recursive Continuation
 
 Continuation requires that forward intervals opened by expectation, trust, credibility, or credit be carried toward fulfilment, revision, repair, enforcement, default, transfer, forgiveness, or other resolution.
 
 The outcome of each cycle returns as contribution history. Continuation is therefore not a static end-state but the recursive reproduction, weakening, or transformation of the sequence across time.
 
-## 19.2 Laws of Trust Formation
-## 19.3 Laws of Credibility Stabilisation
-## 19.4 Laws of Credit Extension
+## 19.2 Interpretative Laws
+
+Interpretative laws describe necessary relations that arise when structure is reconstructed by an observer. They do not alter the structural sequence itself. They govern how contribution-derived traces become meaningful within an observer-bound interpretative field.
+
+A structure may remain unchanged while its meaning changes across observers, contexts, systems, or periods of time. Interpretative laws therefore concern the conditions under which signals, expectations, trust judgements, credibility structures, and credit extensions are read, weighted, attributed, and reconstructed.
+
+### 19.2.1 Law of Observer-Bound Meaning
+
+Meaning does not arise from structure alone. It arises when structure is encountered, selected, and interpreted from an observer position.
+
+The same contribution history, trace, record, behaviour, or institutional form may support different meanings across observers without requiring the underlying structure to have changed. This does not make interpretation arbitrary. It means that meaning is formed through the relation between observed structure and the interpretative position from which it is read.
+
+### 19.2.2 Law of Signal Formation
+
+An outcome or trace is not a signal merely because it exists. It becomes a signal only when it enters an observer's interpretative field as meaning-bearing.
+
+A contribution may leave traces that are never observed. An observed trace may remain meaningless. A meaningful trace may still be inadmissible for trust, credibility, or credit. Signal formation therefore requires more than occurrence. It requires observable access, interpretative uptake, and relevance to expectation.
+
+### 19.2.3 Law of Lens Activation
+
+Interpretation occurs through activated lenses.
+
+An observer does not read all possible meanings equally. Identity, capability, state, role, context, regime, history, and expected future realisation may each activate different interpretative lenses. The lens through which a signal is read determines what kind of expectation it can support.
+
+Where the activated lens changes, the meaning of the same signal may change even though the underlying contribution history remains unchanged.
+
+### 19.2.4 Law of Attribution Dependence
+
+Interpretative judgement depends on attribution.
+
+A signal cannot support trust, credibility, or credit until its meaning is attached to some participant, process, institution, system, condition, or source. Where attribution is uncertain, contested, partial, or wrong, the resulting trust, credibility, or credit judgement inherits that attribution risk.
+
+Misattribution may therefore produce real coordination effects while resting on a false interpretative attachment.
+
+### 19.2.5 Law of Interpretative Warrant
+
+Interpretation requires warrant from the structure it claims to read.
+
+An observer may form a meaning, expectation, trust judgement, credibility structure, or credit judgement that exceeds what the available contribution history, observation, signal, attribution, or regime condition can support. Such interpretation may still produce real coordination effects, but it remains interpretatively unwarranted.
+
+Unwarranted interpretation may arise through error, wishful expectation, fear, ideology, institutional pressure, strategic framing, self-deception, or deception of others. In self-deception, an observer sustains a meaning that its own available evidence does not adequately support. In deception of others, one participant or system induces another observer to sustain such meaning.
+
+The Trust Framework therefore distinguishes between interpretation that is effective and interpretation that is warranted. A belief may organise behaviour, stabilise trust, or even support credit for a period of time while remaining unsupported by the structure it claims to interpret. Where such unwarranted interpretation persists, later correction may appear as sudden trust withdrawal, credibility collapse, credit failure, or regime rupture.
+
+Interpretative warrant is therefore a bridge concept for later development. At the interpretative layer, it distinguishes effective belief from warranted belief. At the credibility layer, it explains how apparent stability may exceed supporting signal depth. At the credit layer, it explains how forward exposure may be extended on insufficient basis. At the regime layer, it explains how admissibility may be mistaken for truth. At the failure layer, it provides the basis for analysing self-deception, deception, credibility inflation, regime capture, synthetic authority, and unwarranted continuation.
+
+### 19.2.6 Law of Warrant Recognition
+
+Warrant may exist without being recognised.
+
+A contribution may produce traces, observations, or signals sufficient to support expectation, trust, credibility, or credit, yet the observing system may fail to admit, weight, or act upon them. In such cases, the failure does not lie in the absence of contribution-derived support, but in the interpretative or regime condition through which that support is ignored, suppressed, discounted, or excluded.
+
+Warrant non-recognition may arise through limited access, defective lenses, misaligned incentives, agency cost, institutional blindness, discrimination, metric failure, category mismatch, political pressure, or regime exclusion. It may cause valid contribution to remain untrusted, genuine credibility to remain unstabilised, or appropriate credit to remain withheld.
+
+The Trust Framework therefore distinguishes unsupported judgement from unsupported non-judgement. A system may fail by believing more than the structure warrants, but it may also fail by refusing to recognise what the structure does warrant.
+
+### 19.2.7 Law of Reconstructive Transfer
+
+Meaning does not transfer unchanged between systems.
+
+When a participant, signal, credential, record, reputation, or credibility structure moves into a new observing system, it is reconstructed under that system's interpretative architecture. Prior meaning may influence the receiving system, but it does not bind it automatically.
+
+Transfer therefore requires reconstruction. What was trusted, credible, or creditworthy in one system may become differently interpreted, weakened, strengthened, transformed, or inadmissible in another.
+
+### 19.2.8 Law of Semantic Evolution
+
+Interpretative meaning changes across time.
+
+Signals, roles, records, institutions, practices, and credibility structures may retain formal continuity while their meaning shifts. A signal that once supported trust may later become irrelevant, suspicious, obsolete, negative, or newly valuable. A record that once appeared clear may require reinterpretation under later conditions.
+
+Semantic evolution does not by itself destroy structure. It changes how structure is read.
+
+### 19.2.9 Law of Interpretive Transmission
+
+Continuation across generational or institutional time requires that meaning remain transmissible.
+
+A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where those carriers fail, the structure may remain visible while its meaning becomes unrecoverable, unstable, or reconstructed without continuity.
+
+Interpretive transmission is therefore necessary where continuation depends not merely on preserving form, but on preserving the capacity to read that form.
+
+## 19.3 Regime Laws
+## 19.4 Realisation Laws
+## 19.5 Summary — Law Layer
 
 # 20: Continuation and Interpretive Governance
 
