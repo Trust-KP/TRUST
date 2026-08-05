@@ -100,8 +100,8 @@ Nor does the framework claim that every organised social relation is automatical
 
 **PART IV - TRUST REGIME**
 - [17 REGIME FOUNDATION](#17-REGIME-FOUNDATION)
-- [18 PRINCIPLES](#18-PRINCIPLES)
-- [19 LAWS](#19-LAWS)
+- [18 LAWS](#18-LAW)
+- [19 PRINCIPLES](#19-PRINCIPLES)
 - [20 CONTINUATION AND INTEPRETATIVE GOVERNANCE](#20-CONTINUATION-AND-INTEPRETATIVE-GOVERNANCE)
 - [21 BOUNDARY AND FAILURE CONDITIONS](#21-BOUNDARY-AND-FAILURE-CONDITIONS)
 
@@ -1787,7 +1787,7 @@ This chapter established the formal ontological conditions as structurally relat
 
 Trust deploys expectation under uncertainty.
 
-Credibility stabilises such expectations across time, observers, and contexts.
+Credibility stabilises trust-relevant judgement across time and interaction contexts.
 
 Credit extends stabilised expectations into future-oriented coordination commitments.
 
@@ -1821,7 +1821,7 @@ Interpretative change therefore does not, by itself, constitute structural chang
 
 The formal sequence established in the preceding chapters describes the structural path through which cooperative coordination becomes possible:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Obbservation → Signals → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
 
 This sequence establishes structural relationships.
 
@@ -2077,7 +2077,7 @@ A change in a later layer does not, by itself, imply a change in an earlier laye
 
 The following Part develops the Regime layer: the principles, conditions, and admissibility structures governing the operation of trust, credibility, and credit within cooperative systems.
 
-## 15.12.Interpretative Architecture Summary
+## 15.12. Interpretative Architecture Summary
 
 This chpater established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
 
@@ -2335,7 +2335,7 @@ The following chapters derive the laws and principles that follow from these reg
 
 # 18. Laws
 
-The preceding chapter established the principles governing trust, credibility, and credit. Principles describe the constraints under which the framework remains coherent. Laws describe the stronger regularities that follow from the framework's layered architecture.
+The preceding chapter established Regime as the admissibility layer of the Trust Framework. Laws describe the stronger regularities that follow from the framework's layered architecture. Principles, developed in the following chapter, translate those laws into operational constraints for trust, credibility, and credit.
 
 In structural order, the sequence is ontology, law, principle, rule, and practice. In exposition, this Part introduces regime and principles first so that the laws can be stated against an already developed operational vocabulary.
 
@@ -2351,7 +2351,7 @@ Realisation laws concern the domain-specific mechanisms through which the framew
 
 A structural law does not change merely because an observer interprets a signal differently. An interpretative law does not disappear because a regime changes its rules. A regime law may change while the underlying structure remains intact. A realisation law may vary across domains while still expressing the same structural relation.
 
-For this reason, Chapter 19 does not treat law as a single category. It distinguishes the layer at which a law operates and the kind of necessity it expresses.
+For this reason, this chapter does not treat law as a single category. It distinguishes the layer at which a law operates and the kind of necessity it expresses.
 
 ## 18.1 Structural Laws
 
@@ -2528,7 +2528,7 @@ Admission without constraint is not governance. Where a regime admits trust, cre
 
 Constraint may take the form of limits, standards, duties, procedures, capital buffers, audits, sanctions, review, appeal, withdrawal rights, repair mechanisms, or other stabilising instruments.
 
-18.3.6 Law of Requisite Variety
+### 18.3.6 Law of Requisite Variety
 
 A regime can govern only what its admissibility mechanism has sufficient variety to distinguish.
 
@@ -2656,7 +2656,7 @@ Together, these laws establish the layered necessity of the Trust Framework. Str
 
 ## 19.1 Basis of Principles
 
-The preceding chapter established the laws that follow from the framework’s layered architecture as the admissibility layer of the Trust Framework.
+The preceding chapter established the laws that follow from the framework's layered architecture. This chapter develops the principles through which those laws become operational for trust, credibility, credit, and continuation.
 
 Regime determines which structures, interpretations, expectations, credibility formations, and credit extensions may be admitted within a cooperative system. It does not prescribe what a system ought to value, nor does it impose a universal model of governance. It defines the conditions under which trust-based coordination can become governable.
 
@@ -2957,7 +2957,9 @@ The credibility principles explain how trust-relevant signals stabilise across t
 
 The credit principles explain how credibility becomes present exposure to future realisation. Credit extends coordination beyond immediate interaction by admitting expected future contribution into present action, access, authority, value, or obligation. Because credit opens a forward commitment, it remains incomplete until that commitment is fulfilled, revised, transferred, enforced, forgiven, defaulted, or otherwise resolved.
 
-Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. Chapter 19 develops the laws that follow from this structure: the stronger regularities that govern what trust, credibility, and credit can and cannot do across cooperative systems.
+Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. 
+
+Chapter 20 examines how these laws and principles are continued, transmitted, revised, and governed across time within a trust regime.
 
 # 20. Continuation and Interpretive Governance
 
@@ -2969,7 +2971,7 @@ A trust regime does not continue merely because the cooperative system retains r
 
 Continuation therefore requires interpretive governance. A regime must preserve not only the ability to enforce rules, but also the ability to maintain, transmit, revise, and contest the meanings through which trust, credibility, credit, and continuation remain governable.
 
-At this level, continuation depends on the coupling of four layers: Structure, Interpretation, Regime, and Realisation. Structure gives coordination a form. Interpretation gives that form meaning. Regime determines which meanings and structures are admissible. Realisation carries them into practice. A system may persist outwardly while weakening internally if one layer survives but loses its pathway into the others.
+At this level, continuation depends on the coupling of four internal layers of the trust regime: Structure, Interpretation, Regime, and Realisation. Structure gives trust-based coordination a form. Interpretation gives that form meaning. Regime determines which meanings, signals, expectations, credibility structures, and credit extensions are admissible. Realisation carries admitted commitments into practice. A trust regime may persist outwardly while weakening internally if one layer survives but loses its pathway into the others.
 
 ## 20.1 Continuation Conditions
 
@@ -3075,15 +3077,141 @@ The purpose of interpretive governance is therefore not to freeze meaning. It is
 
 Chapter 21 examines the boundary and failure conditions that arise when these conditions fail.
 
-# 21: Boundary and Failure Conditions
+# 21. Boundary, Failure Condition and Regime Summary 
 
-A failure condition arises where signal engineering exploits the observer's interpretative system, producing effective trust, credibility, or credit without sufficient warrant and shifting continuation cost onto the observer or wider system.
+Chapter 20 examined how a trust regime continues by preserving the coupling of Structure, Interpretation, Regime, and Realisation across time. This chapter examines what happens when that coupling weakens, breaks, or becomes contested.
+
+Failure does not occur only when a system collapses visibly. A cooperative system may retain rules, institutions, records, rituals, offices, contracts, or behavioural repetition while losing the capacity to govern trust, credibility, credit, or continuation coherently.
+
+Boundary and failure conditions therefore concern the points at which a trust regime can no longer distinguish what should be admitted, excluded, constrained, repaired, withdrawn, or resolved.
 
 ## 21.1 Boundary Conditions
+
+A boundary condition arises where the cooperative boundary becomes uncertain, contested, asymmetrical, overextended, or misclassified.
+
+The cooperative boundary does not merely separate interaction from non-interaction. It separates relations that may be admitted as cooperation from relations that remain external, unstable, coercive, premature, excessive, or insufficiently governable.
+
+A relation may cross the boundary from one observer position while remaining outside it from another. A state may treat tax collection, military service, or regulatory levy as cooperative public coordination, while a participant may experience the same relation as extraction, compulsion, or domination. An employer may treat compliance as organisational cooperation, while an employee may experience it as forced coordination. A platform may treat user participation as consent, while users may experience lock-in or dependency.
+
+The Trust Framework therefore does not treat repeated behaviour, compliance, enforceability, or coordination as sufficient evidence of cooperation. The relevant question is whether the relation is admissible as cooperation within the relevant regime, and from which observer position that admissibility is being asserted.
+
+Boundary failure may occur in several ways.
+
+**Premature admission** occurs where a relation is treated as cooperative before sufficient signal, expectation, trust, credibility, or regime constraint exists.
+
+**Coercive admission** occurs where a dominant participant or regime classifies compliance as cooperation despite the other participant remaining below the cooperative boundary.
+
+**Excessive admission** occurs where trust, credibility, or credit is extended beyond the regime's capacity to govern the exposure created.
+
+**Exclusion failure** occurs where the regime fails to recognise valid contribution, warranted interpretation, genuine credibility, or admissible credit.
+
+**Boundary contraction** occurs where the regime narrows admissibility so far that coordination reverts toward immediate exchange, command, withdrawal, or bare coexistence.
+
+A boundary condition does not always indicate collapse. It may indicate that the system has reached the limit of what its current admissibility mechanism can recognise, govern, or sustain.
+
 ## 21.2 Failure Conditions
+
+Failure conditions arise where the sequence through which contribution becomes trust, credibility, credit, and continuation no longer functions coherently.
+
+A failure may occur at any layer of the framework.
+
+### 21.2.1 Structural Failure
+
+Structural failure occurs where the ordered sequence itself cannot be sustained.
+
+Contribution may fail to leave observable traces. Observation may fail to become signal. Signal may fail to support expectation. Expectation may remain undeployed as trust. Trust may fail to stabilise into credibility. Credibility may fail to support credit. Credit may fail to resolve into continuation.
+
+Structural failure is not necessarily caused by error or deception. It may arise because the required transition condition is absent. A contribution may be real but unobserved. An observation may be accurate but non-signal-bearing. A credibility structure may be genuine but credit-inadmissible.
+
+Where structural failure occurs, the sequence does not advance through that path.
+
+### 21.2.2 Interpretative Failure
+
+Interpretative failure occurs where meaning no longer remains adequately connected to the structure it claims to interpret.
+
+This may occur through unwarranted interpretation, where belief exceeds what the available contribution history, observation, signal, attribution, or regime condition can support. It may also occur through warrant non-recognition, where valid contribution-derived support exists but is ignored, suppressed, discounted, or excluded.
+
+Self-deception and deception of others are interpretative failures where a meaning is sustained despite insufficient warrant. Signal engineering is a related failure where sensory, reputational, institutional, or computational signals are designed to produce trust-like response beyond the realised contribution those signals warrant.
+
+Interpretative failure may be effective for a time. It may organise behaviour, stabilise apparent credibility, support credit extension, or preserve regime coherence. But where meaning remains detached from warrant, later correction may appear as sudden trust withdrawal, credibility collapse, credit failure, or regime rupture.
+
+### 21.2.3 Attribution Failure
+
+Attribution failure occurs where outcomes, signals, trust judgements, credibility structures, or credit extensions attach to the wrong source.
+
+A participant may receive credibility for contribution produced by another participant, institution, hidden support structure, favourable environment, or temporary condition. A system may assign failure to an individual where the cause lies in structural constraint. A regime may attribute stability to its own rules where stability actually depends on unrecognised external support.
+
+Attribution failure is dangerous because it can propagate. Misattributed signals may support misplaced trust. Misplaced trust may stabilise into false credibility. False credibility may support credit extension to a source that cannot realise the expected future contribution.
+
+Where attribution later corrects, the collapse may appear sudden even though the underlying support was absent from the beginning.
+
+### 21.2.4 Credibility Failure
+
+Credibility failure occurs where stabilised trust-relevant judgement no longer corresponds to the depth, independence, relevance, or reliability of the signals supporting it.
+
+Credibility may become inflated where repeated signals appear independent but derive from the same underlying source, model, reputation loop, institutional assumption, or regime recognition. It may become suppressed where genuine contribution is not recognised. It may become fragile where stabilisation depends on delayed, weakly attributed, correlated, or outdated signals.
+
+Credibility entropy is the condition in which apparent credibility exceeds actual signal depth. It explains why confidence may collapse rapidly when hidden dependence becomes visible.
+
+Credibility failure may also be deliberately engineered. Malicious actors may fabricate negative signals, suppress positive signals, induce attribution error, amplify misleading dependencies, disrupt interpretive context, or manipulate admissibility conditions.
+
+### 21.2.5 Credit Failure
+
+Credit failure occurs where forward exposure exceeds the credibility, regime capacity, or expected fulfilment available to support it.
+
+Credit may fail because expected future contribution does not materialise, because the participant's capacity changes, because the regime cannot enforce or repair the obligation, because aggregate exposure becomes correlated, or because the temporal interval expands beyond what the credibility basis can sustain.
+
+Credit overextension may occur even where each individual extension appears admissible in isolation. If many credit relations depend on the same hidden assumption, signal source, collateral value, policy condition, or future state of the world, the system may appear diversified while remaining structurally concentrated.
+
+Credit failure does not always mean immediate collapse. The relation may be restructured, repriced, enforced, transferred, forgiven, written down, withdrawn, or absorbed by a wider regime. Failure becomes systemic where such resolution mechanisms are insufficient for the scale or correlation of exposure.
+
+### 21.2.6 Regime Failure
+
+Regime failure occurs where the admissibility mechanism can no longer distinguish what it is required to govern.
+
+This may arise from insufficient variety, obsolete categories, misaligned incentives, capture, excessive rigidity, excessive permissiveness, loss of contestability, or collapse of repair capacity. The regime may still possess rules, institutions, procedures, and authority while losing the discriminating capacity required to admit, exclude, constrain, revise, or resolve trust, credibility, and credit.
+
+Regime capture is a specific form of regime failure. It occurs where the regime's admissibility function is controlled or distorted by a participant, group, model, institution, ideology, or interest that benefits from recognising some interpretations and suppressing others.
+
+Regime failure may therefore appear as arbitrary exclusion, indiscriminate admission, false stability, overextended credit, uncorrectable interpretation, or inability to distinguish productive uncertainty from destructive volatility.
+
+### 21.2.7 Realisation Failure
+
+Realisation failure occurs where admitted structures cannot be carried into practice or resolved across time.
+
+A rule may be valid but unenforced. A credential may exist but no longer correspond to capability. A contract may define an obligation but lack a practical enforcement or repair pathway. A payment medium may circulate while its redemption basis weakens. A professional title may remain recognised while the discipline mechanism fails. A ritual may persist while its interpretive function is lost.
+
+Realisation failure includes implementation drift, where the realised medium continues in form while losing the trust, credibility, credit, or continuation function it was meant to support.
+
+### 21.2.8 Continuation Failure
+
+Continuation failure occurs where the system can no longer reproduce the conditions required for trust, credibility, credit, and resolution across successive cycles.
+
+This does not require immediate collapse. A system may continue formally while its trust structure becomes distorted, its credibility structure inflated or suppressed, its credit structure overextended, or its meanings detached from contribution.
+
+Continuation failure may take the form of suspension, substitution, or rupture.
+
+**Suspension** occurs where a mechanism temporarily stops but remains recognised and recoverable.
+
+**Substitution** occurs where an old mechanism is replaced by a successor capable of preserving the relevant function.
+
+**Rupture** occurs where an old mechanism is removed or fails and no successor mechanism carries its interpretive, structural, regime, or realisation function.
+
+Suspension does not necessarily destroy continuation. Substitution does not necessarily destroy continuation. Rupture threatens continuation because the pathway through which the system reproduces trust, credibility, credit, or meaning is no longer available.
+
 ## 21.3 Boundary and Failure Summary
 
-# 22 Regime Summary
+Boundary and failure conditions show that trust regimes do not fail only at the point of visible collapse.
+
+They may fail earlier, where boundaries are misclassified, where interpretation exceeds warrant, where valid warrant is suppressed, where attribution attaches to the wrong source, where credibility inflates beyond signal depth, where credit exceeds fulfilment capacity, where regime variety is insufficient, or where realised instruments drift from their function.
+
+These failures may remain hidden while the system continues in form. Rules may still be enforced, records may still be kept, credentials may still circulate, payments may still clear, offices may still function, and participants may still comply. Yet the regime may already have lost part of its capacity to govern trust, credibility, credit, or continuation coherently.
+
+The Trust Framework therefore treats failure not as a single terminal event, but as a set of boundary and transition conditions. Failure may occur wherever the relation between structure, interpretation, regime, and realisation becomes too weak, distorted, overextended, or ungovernable to sustain continuation.
+
+Part IV has established the regime layer of the Trust Framework. Regime determines what may be admitted, constrained, revised, repaired, withdrawn, or excluded within a cooperative system. It does not replace structure, interpretation, or realisation. It governs their admissibility.
+
+The following Part turns from regime conditions to realisation. It examines how trust, credibility, credit, and continuation operate when embodied in actual practices, institutions, instruments, and systems.
 
 ⸻
 
