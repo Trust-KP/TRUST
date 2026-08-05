@@ -2331,320 +2331,11 @@ At the level of Trust, Credibility, and Credit, Regime determines the admissibil
 
 At the level of Continuation, Regime must reproduce its own admissibility function across successive cycles, or the cooperative system may continue in form while losing the capacity to govern what it admits.
 
-The following chapters derive the principles and laws that follow from these regime conditions.
+The following chapters derive the laws and principles that follow from these regime conditions.
 
-# 18. Principles 
-
-## 18.1 Basis of Principles
-
-The preceding chapter established Regime as the admissibility layer of the Trust Framework.
-
-Regime determines which structures, interpretations, expectations, credibility formations, and credit extensions may be admitted within a cooperative system. It does not prescribe what a system ought to value, nor does it impose a universal model of governance. It defines the conditions under which trust-based coordination can become governable.
-
-The principles developed in this chapter are derived from that admissibility structure.
-
-They are not ethical commandments, institutional recommendations, or optimisation rules. They are structural principles: recurring constraints that follow from the framework's ontology, interpretative architecture, and regime conditions.
-
-A principle states a necessary relation within the Trust Framework. It identifies what must hold if trust, credibility, credit, and continuation are to remain coherent under uncertainty.
-
-For this reason, the principles are system-relative in application but structurally general in form. Different cooperative systems may realise them through different rules, institutions, customs, technologies, or practices. The principle remains the same, while its realisation varies by domain.
-
-This chapter organises the principles across a general layer and three applied movements:
-- principles governing trust formation;
-- principles governing credibility stabilisation; and
-- principles governing credit extension.
-
-Together, these principles provide the bridge between the regime conditions established in Chapter 17 and the laws developed in Chapter 19.
-
-### 18.1.1 Observer-Bound Principle
-
-Trust, credibility, and credit are observer-bound.
-
-They do not exist as intrinsic properties of a participant independently of an observing position. A participant may generate contribution outcomes, but those outcomes become trust-relevant only when observed, interpreted, attributed, and admitted within an observer's or regime's evaluative structure.
-
-The same underlying contribution history may therefore produce different trust judgements, credibility structures, and credit extensions across different observers or systems.
-
-This variation does not necessarily imply contradiction. It reflects differences in access to observations, interpretation of signals, attribution of outcomes, activation of lenses, admissibility rules, temporal horizons, and coordination purposes.
-
-Observer-bound does not mean arbitrary. It means that trust, credibility, and credit arise from a relation between contribution-derived evidence and the observer or regime position through which that evidence is interpreted and acted upon.
-
-### 18.1.2 Exposure-Condition Distinction Principle
-
-Trust, credibility, and credit require a distinction between the exposure admitted to the observer and the condition of the observer receiving it. The admitted exposure concerns what enters the observer's interpretative field as signal. The observer condition concerns the state through which that signal is received, weighted, and transformed into judgement.
-
-The observer may be an individual, institution, model, committee, market, court, regulator, or regime. Its condition may be cognitive, affective, procedural, institutional, computational, political, informational, operational, or environmental. These conditions may alter how the same contribution history or signal profile is interpreted, even where the observed participant has produced no new relevant contribution.
-
-A change in admitted exposure and a change in observer condition may therefore produce similar changes in trust, credibility, or credit, but they are not ontologically the same. A participant may produce a new relevant signal, altering the exposure. Alternatively, the observer may enter a different condition, altering the interpretation of the same signal structure. Trust may be withdrawn, intensified, suspended, redirected, or transformed because the observer's condition has changed rather than because the participant has changed.
-
-This distinction applies across the full sequence. In trust, it separates the signal that supports expectation from the observer condition under which expectation is deployed. In credibility, it separates the signal pattern being stabilised from the system condition under which stabilisation occurs. In credit, it separates the credibility structure being admitted for forward commitment from the regime condition under which exposure, risk, liquidity, mandate, or tolerance permits credit extension.
-
-Such shifts are real within the framework, but their attribution must be handled carefully. A change in trust, credibility, or credit caused by observer-condition variation should not automatically be treated as evidence of changed contribution, capacity, intention, reliability, or creditworthiness in the observed participant.
-
-### 18.1.3 Attribution Principle
-
-Trust, credibility, and credit attach to attributed sources rather than to contribution history directly.
-
-A contribution event may produce real effects within a system, but observers and regimes must assign those effects to some participant, process, institution, system, or condition before they can support trust, stabilise into credibility, or justify credit extension.
-
-Attribution is therefore a necessary mediation between observed outcome and coordination response.
-
-Because attribution is observer-side and inferential, it may be uncertain, contested, partial, or wrong. A signal may be correctly observed but attached to the wrong source. A trust judgement may stabilise around the wrong participant. A credit extension may rely on credibility attributed to the wrong underlying capacity.
-
-Attribution errors may propagate through the trust sequence. If an observed outcome is attributed to the wrong source, trust may form around that source. If the attribution remains uncorrected, repeated trust judgements may stabilise into misplaced credibility. If that credibility is then used to support forward commitment, credit may be extended to a participant, process, institution, or system that cannot realise the expected future contribution.
-
-Where attribution is accurate, trust, credibility, and credit attach to the source that actually supports future contribution. Where attribution is mistaken, confidence may accumulate around a source that cannot realise the expectation placed upon it.
-
-Misattribution therefore creates false stability within the trust sequence and may later appear as sudden credibility collapse, credit failure, or regime breakdown.
-
-### 18.1.4 Non-Transposition Principle
-
-Validity at one stage of the trust sequence does not automatically validate the next stage.
-
-A signal may be genuine without supporting the trust judgement drawn from it. A trust judgement may be valid within a specific context without supporting the credibility structure built from it. A credibility structure may be valid within one domain, scale, or temporal horizon without supporting the credit extension made on its basis.
-
-Each transition requires its own structural warrant.
-
-The movement from signal to trust requires an admissible interpretation. The movement from trust to credibility requires stabilisation across sufficient time, context, or observer alignment. The movement from credibility to credit requires that the forward commitment remain proportionate to the credibility basis supporting it.
-
-Where a system carries validity from one stage into the next without such warrant, transposition error occurs. This error may arise even when the signal is real, the trust judgement is reasonable, or the credibility structure is genuine. The failure lies not in the component itself, but in the unjustified movement from one layer to another.
-
-### 18.1.5 Temporal Position Principle
-
-Trust, credibility, and credit are formed from particular temporal positions. An observer interprets present signals through retained past contribution, current conditions, and anticipated future realisation. The same signal may therefore support different judgements depending on when it is observed, how much prior history is available, and what future interval is being projected.
-
-No trust judgement is temporally neutral. Trust depends on expectation across an interval; credibility depends on stabilisation across repeated intervals; credit depends on extending present coordination into a future interval. A judgement that is valid at one temporal position may become invalid when new signals appear, when the relevant future interval changes, or when prior contribution is reinterpreted.
-
-## 18.2 Principles of Trust Formation
-
-Trust formation begins when an observer interprets contribution-derived signals into expectations regarding the future behaviour of a participant.
-
-Trust does not arise from contribution alone. A contribution may occur without being observed, an observation may occur without becoming an admissible signal, and a signal may be interpreted differently across observers, systems, or regimes. Trust forms only when an expectation generated from interpreted signals is deployed under uncertainty within a coordination context.
-
-The following principles govern trust formation.
-
-### 18.2.1 Signal Grounding Principle
-
-Trust formation depends on signals derived from contribution history.
-
-Future behaviour cannot be directly observed. An observer must therefore rely on signals generated by past contribution outcomes when forming expectations about whether cooperation may continue.
-
-Where no signal is available, trust may still be presumed, inherited, or imposed by regime, but it lacks a direct evidential basis in observed contribution history. Such trust remains fragile unless later supported by contribution-derived signals.
-
-### 18.2.2 Observation Mediation Principle
-
-Contribution does not become trust-relevant merely by occurring.
-
-Contribution becomes trust-relevant only when its outcomes become accessible to an observer through direct experience, records, reports, institutional mediation, or other forms of observation.
-
-Observation may be incomplete, delayed, distorted, selective, or unevenly distributed across observers. For this reason, trust judgements may differ even when the underlying contribution history is the same.
-
-### 18.2.3 Interpretation Principle
-
-Signals do not determine trust by themselves.
-
-An observed trace becomes trust-relevant only when it is interpreted through an interpretative lens, evaluation rule, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
-
-Trust formation therefore depends not only on signal availability, but also on the interpretive structure through which signals are read.
-
-### 18.2.4 Expectation Deployment Principle
-
-Trust forms when an expectation is deployed under uncertainty.
-
-An observer may interpret signals and form an expectation without yet trusting. Trust begins when the observer allows that expectation to guide coordination before the future behaviour is known.
-
-This deployment exposes the observer to future alignment or misalignment between expectation and realised contribution. Vulnerability is therefore not the primitive definition of trust, but the condition created when expectation is deployed under uncertainty.
-
-### 18.2.5 Context-Bound Principle
-
-Trust is always formed within a context.
-
-A participant may be trusted for one kind of action, relation, role, or domain without being trusted in another. Trust does not transfer automatically across contexts because different systems activate different signals, lenses, expectations, and regime conditions.
-
-Trust is therefore context-bound rather than universally portable.
-
-### 18.2.6 Signal Admissibility Principle
- 
-Not every observed or interpreted signal may support trust. Within a regime, signals must be admissible before they can legitimately support expectation deployment.
-
-### 18.2.7 Update Principle
-
-Trust remains open to revision.
-
-New observations, delayed signals, reinterpretation of existing signals, changed context, or altered regime conditions may strengthen, weaken, suspend, or withdraw trust.
-
-Trust formation is therefore not a single event but a continuing process of expectation formation, deployment, feedback, and revision across time.
-
-## 18.3 Principles of Credibility Stabilisation
-
-Credibility stabilisation begins when trust judgements persist beyond a single interaction.
-
-Trust may be formed within a specific context, but credibility arises when interpreted signals and trust judgements become sufficiently stable across time, observers, or contexts to support repeated reliance without continuous reconstruction from first principles.
-
-Credibility is therefore not merely trust repeated. It is trust stabilised into a more durable evaluative structure.
-
-The following principles govern credibility stabilisation.
-
-### 18.3.1 Stabilisation Principle
-
-Credibility arises through the stabilisation of trust judgements across time, observers, or interaction contexts.
-
-A single trust judgement may support one act of coordination, but it does not by itself establish credibility. Credibility forms when trust-relevant signals are repeatedly interpreted in a sufficiently consistent manner to support belief in the continuation of behaviour.
-
-Stabilisation reduces the need for continuous reinterpretation. It allows observers or systems to rely on an accumulated judgement rather than reconstructing expectation from the beginning at every interaction.
-
-### 18.3.2 Aggregation Principle
-
-Credibility depends on the aggregation of trust-relevant signals and judgements.
-
-Signals may arise from direct interaction, institutional records, reputation, certification, performance outcomes, or communication among observers. These signals are not simply added together. They are selected, weighted, combined, and interpreted according to the evaluation principles and regime conditions of the observing system.
-
-Aggregation is therefore system-relative. Different observers or institutions may aggregate the same underlying signals differently and produce different credibility structures.
-
-### 18.3.3 Commitment-Consistency Principle
-
-Credibility stabilises when observed actions remain sufficiently consistent with stated commitments, recognised roles, or expected patterns of behaviour.
-
-A participant, institution, or regime may make claims about what it will do, but credibility depends on whether subsequent contribution outcomes confirm those claims across time. Where actions repeatedly align with stated commitments, credibility strengthens. Where actions diverge from commitments, credibility weakens even if the original signals were strong.
-
-This principle explains why credibility is central in policy, finance, professions, and institutions: observers do not evaluate statements alone, but the consistency between declared commitments and realised conduct.
-
-### 18.3.4 Configuration Principle
-
-Credibility is a structured configuration rather than a single scalar quantity.
-
-A participant may appear credible through coordination continuity, recognised identity, structural reliability, realised capability, or combinations of these dimensions. Different contexts activate different parts of the credibility structure.
-
-For this reason, credibility should not be treated as a universal measure that transfers unchanged across systems. It is a multi-dimensional configuration of interpreted signals.
-
-### 18.3.5 Signal Independence Principle
-
-The strength of credibility depends not only on the number of signals supporting it, but on the informational independence of those signals.
-
-Signals that appear diverse may in fact derive from the same underlying source, process, attribution, or prior interpretation. Where this occurs, additional signals may reinforce confidence without increasing informational depth.
-
-Credibility formed from independent signals is more robust than credibility formed from repeated confirmations of the same underlying evidence.
-
-### 18.3.6 System-Relative Reconstruction Principle
-
-Credibility is reconstructed within each observing system.
-
-When a participant enters a new system, prior signals may travel with the participant, but their meaning is reconstructed under the receiving system's evaluation principles, admissibility conditions, temporal horizons, and coordination purposes.
-
-The same participant may therefore be credible in one system and not credible in another without contradiction.
-
-Credibility does not transfer as a fixed possession. It is rebuilt through interpretation.
-
-### 18.3.7 Credibility Entropy Principle
-
-Credibility entropy arises when the apparent strength of a credibility structure exceeds the actual independence, depth, or reliability of the signals supporting it.
-
-A credibility structure may appear stable because many signals point in the same direction. However, if those signals are dependent, delayed, weakly attributed, or produced by the same underlying process, the structure may be more fragile than it appears.
-
-Credibility entropy explains why confidence may collapse suddenly when hidden dependence becomes visible or when the attribution structure supporting credibility is revised.
-
-### 18.3.8 Credibility Engineering Principle
-
-Credibility can be deliberately shaped, but not arbitrarily created.
-
-A participant, institution, or regime may strengthen credibility by improving the quality, independence, visibility, attribution, consistency, and admissibility of the signals through which it is evaluated. It may also weaken credibility by obscuring signals, producing inconsistent outcomes, relying on dependent confirmations, or allowing the gap between apparent credibility and realised contribution to widen.
-
-Credibility may also be deliberately attacked. Malicious actors may degrade credibility by fabricating negative signals, suppressing positive signals, inducing attribution error, amplifying misleading dependencies, disrupting interpretive context, or altering the regime conditions through which signals are admitted and reconstructed.
-
-Credibility engineering therefore does not mean manufacturing belief without contribution. It means altering the conditions under which contribution-derived signals can be observed, interpreted, stabilised, and relied upon.
-
-Where credibility engineering improves signal quality and realised alignment, it strengthens the credibility structure. Where it amplifies appearance without increasing contribution depth, or degrades credibility without corresponding deterioration in contribution, it increases credibility entropy and may produce false stabilisation or unjustified collapse.
-
-### 18.3.9 Reconfiguration Principle
-
-Credibility remains subject to reconfiguration as new signals, new interpretations, or new regime conditions emerge.
-
-A new signal may strengthen credibility, weaken it, or alter the meaning of previously stabilised signals. Information that once appeared independent may be reinterpreted as dependent. A signal that once supported credibility may later become irrelevant, negative, or inadmissible.
-
-Credibility stabilisation therefore does not mean permanence. It means that belief has become durable enough to support reliance, while remaining open to revision when the signal structure changes.
-
-## 18.4 Principles of Credit Extension
-
-Credit arises when credibility is admitted into present coordination as a forward commitment. It does not merely recognise that a participant has appeared trustworthy in the past. It permits present resources, authority, access, status, purchasing power, or other forms of value to be extended on the expectation that future contribution, repayment, performance, compliance, or continuation will occur.
-
-Credit therefore requires more than trust and more than credibility. Trust deploys expectation. Credibility stabilises expectation across signals and time. Credit converts stabilised expectation into present exposure.
-
-### 18.4.1 Forward Commitment Principle
-
-Credit is the present admission of expected future contribution as an observer-attributed obligation within coordination. A credit relationship forms where an observer, regime, or system permits present coordination to proceed on the basis that a future obligation, performance, repayment, or contribution will be realised.
-
-The future contribution need not be fully known at the time credit is extended. It is sufficient that the system treats the expected future contribution as credible enough to support present exposure. Credit therefore always crosses a temporal interval: something is allowed now because something is expected later.
-
-### 18.4.2 Exposure Principle
-
-Credit creates exposure. To extend credit is to permit some present value, access, authority, recognition, or coordination capacity to depend on future realisation.
-
-This exposure may be financial, operational, social, institutional, legal, political, informational, or symbolic. A loan exposes capital to repayment risk. A professional licence exposes the public to future conduct. A security clearance exposes an institution to future misuse. A reputation-based appointment exposes an organisation to future performance. A certificate exposes an employer to the possibility that the credential does not correspond to actual capacity.
-
-Credit is therefore not merely belief. It is belief made consequential through exposure.
-
-### 18.4.3 Proportionality Principle
-
-Credit extension must remain proportionate to the credibility structure that supports it. Where credit exceeds the quality, independence, relevance, or stability of the credibility on which it relies, the system enters overextension.
-
-Overextension may occur even where each individual credit decision appears reasonable in isolation. If the underlying credibility signals are weak, correlated, outdated, misattributed, regime-produced, or dependent on the same hidden condition, then the aggregate credit structure may become fragile. Credit must therefore be assessed not only against apparent credibility, but against the depth and resilience of the credibility structure beneath it.
-
-### 18.4.4 Interval Principle
-
-Credit depends on the interval across which future realisation is expected. A credibility structure sufficient for short-term reliance may be insufficient for long-term credit. A participant may be credible for immediate performance but not for extended obligation; credible under stable conditions but not across stress, transition, succession, or regime change.
-
-The longer, more uncertain, or more condition-dependent the interval, the greater the burden on the credit regime to constrain exposure, monitor change, and update judgement. Credit failure often arises where the temporal interval expands beyond the credibility structure that originally justified extension.
-
-### 18.4.5 Aggregate Constraint Principle
-
-Credit must be bounded not only at the individual level but also at the aggregate level. A system may correctly admit individual credit relationships while failing to recognise their combined exposure, correlation, concentration, or dependency.
-
-Where many credit extensions rely on the same hidden assumption, the same signal source, the same regime condition, or the same future state of the world, the system may appear diversified while remaining structurally concentrated. Aggregate constraint is therefore necessary to prevent individually admissible credit from becoming systemically inadmissible.
-
-### 18.4.6 Credit Admissibility Principle
-
-Credit is admissible only where the regime can recognise, bound, and govern the exposure created by forward commitment. The relevant question is not only whether the participant appears credible, but whether the system can admit that credibility into a credit relationship without exceeding its tolerance, mandate, liquidity, capital, authority, legitimacy, or continuation conditions.
-
-Where a system extends credit without the capacity to track exposure, enforce obligation, update signals, or absorb failure, credit has been asserted rather than governed.
-
-### 18.4.7 Realisation and Default Principle
-
-Credit remains incomplete until the expected future contribution is realised, revised, transferred, forgiven, enforced, or defaulted. Repayment, performance, compliance, service delivery, continued conduct, or other forms of fulfilment reduce the outstanding forward commitment. Default occurs where expected realisation fails sufficiently that the credit relationship can no longer continue on its original terms.
-
-Default does not always mean total collapse. A credit relation may be restructured, repriced, sanctioned, secured, transferred, written down, or absorbed by a wider regime. These are not outside credit. They are regime responses to failed, partial, delayed, or transformed realisation.
-
-### 18.4.8 Credit Withdrawal Principle
-
-Credit may be withheld, reduced, suspended, repriced, or withdrawn where the supporting credibility structure weakens, where observer condition changes, where regime tolerance contracts, or where exposure becomes disproportionate to expected future realisation.
-
-Withdrawal of credit should not automatically be treated as proof that the participant has become less credible. It may arise from changed signal exposure, changed observer condition, changed regime constraint, changed aggregate exposure, or changed temporal horizon. The framework therefore distinguishes deterioration in the participant from contraction in the credit regime.
-
-### 18.4.9 Credit Fulfilment Principle
-
-Credit remains open until the expected future contribution is realised, partially realised, revised, transferred, forgiven, enforced, defaulted, or otherwise resolved. Credit extension admits future contribution into present coordination; fulfilment returns that expected contribution as realised contribution.
-
-Where fulfilment occurs, the open credit relation is reduced or discharged in whole or in part. Where fulfilment fails, the relation may remain open, be restructured, be repriced, be enforced, be withdrawn, or collapse. These outcomes do not sit outside credit. They are the continuation conditions through which credit is tested across time.
-
-In monetary lending, this principle appears in accounting form. When a bank extends a loan, it creates a loan asset and a matching deposit liability. When the borrower repays principal, the loan balance is reduced and the corresponding deposit money is extinguished. More generally, however, fulfilment need not take the form of repayment. It may take the form of performance, delivery, compliance, restraint, maturation, repair, public service, professional conduct, or any other realised contribution that resolves the forward commitment on which credit was extended.
-
-## 18.5 Summary — Principle Layer
-
-The principles in this chapter define the governing constraints under which trust, credibility, and credit may form, stabilise, extend, weaken, or close. They do not replace the ontology of the framework. They express the structural rules by which the ontology becomes usable within observer-bound, temporally extended, and regime-conditioned systems.
-
-The general principles establish that trust, credibility, and credit are always observer-bound, exposure-conditioned, attribution-dependent, non-transposable, and temporally positioned. No judgement arises from signal alone. A signal must be admitted into an observer's interpretative field, received under some observer condition, attributed to some source, constrained by its proper level, and judged from a particular temporal position.
-
-The trust principles explain how interpreted signals support expectation and how expectation becomes deployed under uncertainty. Trust is not mere belief, feeling, or preference. It is the deployment of expectation across a temporal interval, within a context in which future contribution remains uncertain but sufficiently interpretable.
-
-The credibility principles explain how trust-relevant signals stabilise across time, repetition, configuration, and reconstruction. Credibility is not a single act of trust. It is the accumulated and structured condition through which a participant, system, institution, or signal source becomes treated as capable of supporting repeated expectation.
-
-The credit principles explain how credibility becomes present exposure to future realisation. Credit extends coordination beyond immediate interaction by admitting expected future contribution into present action, access, authority, value, or obligation. Because credit opens a forward commitment, it remains incomplete until that commitment is fulfilled, revised, transferred, enforced, forgiven, defaulted, or otherwise resolved.
-
-Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. Chapter 19 develops the laws that follow from this structure: the stronger regularities that govern what trust, credibility, and credit can and cannot do across cooperative systems.
-
-# 19. Laws
+# 18. Laws
 
 The preceding chapter established the principles governing trust, credibility, and credit. Principles describe the constraints under which the framework remains coherent. Laws describe the stronger regularities that follow from the framework's layered architecture.
-
-Although laws are structurally prior to principles, they are presented after the principles in this Part for expository reasons. Chapter 18 first established the operational grammar through which trust, credibility, and credit are formed, stabilised, extended, and closed. This chapter now steps back to state the deeper structural laws from which those principles derive.
 
 In structural order, the sequence is ontology, law, principle, rule, and practice. In exposition, this Part introduces regime and principles first so that the laws can be stated against an already developed operational vocabulary.
 
@@ -2662,11 +2353,11 @@ A structural law does not change merely because an observer interprets a signal 
 
 For this reason, Chapter 19 does not treat law as a single category. It distinguishes the layer at which a law operates and the kind of necessity it expresses.
 
-## 19.1 Structural Laws
+## 18.1 Structural Laws
 
 Structural laws describe necessary relations within the ontology of the Trust Framework. They concern the sequence through which coexistence becomes coordinated, contribution becomes observable, signals become expectation, expectation becomes trust, trust stabilises into credibility, credibility permits credit, and credit is tested through continuation.
 
-### 19.1.1 Law of Ordered Dependence
+### 18.1.1 Law of Ordered Dependence
 
 Later stages in the trust sequence presuppose the structural conditions of earlier stages.
 
@@ -2674,7 +2365,7 @@ Trust cannot be deployed without expectation. Expectation cannot form without in
 
 A system may compress, automate, obscure, inherit, or institutionalise these transitions, but it cannot remove their structural dependence without changing the nature of the relation.
 
-### 19.1.2 Law of Mediated Transition
+### 18.1.2 Law of Mediated Transition
 
 No stage in the trust sequence passes into the next without mediation.
 
@@ -2682,7 +2373,7 @@ Contribution does not become trust directly. It must produce an outcome or trace
 
 Mediation may be performed by perception, record, institution, model, ritual, contract, market, profession, or regime. The medium may vary, but the requirement of mediation remains.
 
-### 19.1.3 Law of Conditional Passage
+### 18.1.3 Law of Conditional Passage
 
 Each stage in the trust sequence passes into the next only where the required transition condition obtains.
 
@@ -2690,13 +2381,13 @@ Contribution does not become observation unless its outcome or trace becomes acc
 
 Where a transition condition is absent, the prior stage may still exist, but the sequence does not advance through that path. A contribution may be real but unobserved; an observation may be accurate but non-signal-bearing; a signal may be meaningful but expectation-insufficient; a credibility structure may be genuine but credit-inadmissible. Structural non-transition is therefore not the same as interpretative error or regime exclusion, although it may later appear through either.
 
-### 19.1.4 Law of Temporal Exposure
+### 18.1.4 Law of Temporal Exposure
 
 Trust, credibility, and credit operate across unresolved temporal intervals.
 
 Trust deploys expectation before future contribution is known. Credibility stabilises expectation across repeated intervals. Credit extends present coordination on the basis of future realisation. Where no future uncertainty is involved, the relation may be knowledge, record, possession, command, or completed exchange, but it is not trust, credibility, or credit in the framework's strict sense.
 
-### 19.1.5 Law of Stabilisation and Extension
+### 18.1.5 Law of Stabilisation and Extension
 
 Credibility and credit are structurally distinct extensions of trust.
 
@@ -2704,31 +2395,31 @@ Credibility stabilises trust-relevant expectation across time, context, signal c
 
 Credibility may exist without credit, but credit cannot coherently arise without some credibility structure being admitted as sufficient for forward commitment.
 
-### 19.1.6 Law of Recursive Continuation
+### 18.1.6 Law of Recursive Continuation
 
 Continuation requires that forward intervals opened by expectation, trust, credibility, or credit be carried toward fulfilment, revision, repair, enforcement, default, transfer, forgiveness, or other resolution.
 
 The outcome of each cycle returns as contribution history. Continuation is therefore not a static end-state but the recursive reproduction, weakening, or transformation of the sequence across time.
 
-## 19.2 Interpretative Laws
+## 18.2 Interpretative Laws
 
 Interpretative laws describe necessary relations that arise when structure is reconstructed by an observer. They do not alter the structural sequence itself. They govern how contribution-derived traces become meaningful within an observer-bound interpretative field.
 
 A structure may remain unchanged while its meaning changes across observers, contexts, systems, or periods of time. Interpretative laws therefore concern the conditions under which signals, expectations, trust judgements, credibility structures, and credit extensions are read, weighted, attributed, and reconstructed.
 
-### 19.2.1 Law of Observer-Bound Meaning
+### 18.2.1 Law of Observer-Bound Meaning
 
 Meaning does not arise from structure alone. It arises when structure is encountered, selected, and interpreted from an observer position.
 
 The same contribution history, trace, record, behaviour, or institutional form may support different meanings across observers without requiring the underlying structure to have changed. This does not make interpretation arbitrary. It means that meaning is formed through the relation between observed structure and the interpretative position from which it is read.
 
-### 19.2.2 Law of Signal Formation
+### 18.2.2 Law of Signal Formation
 
 An outcome or trace is not a signal merely because it exists. It becomes a signal only when it enters an observer's interpretative field as meaning-bearing.
 
 A contribution may leave traces that are never observed. An observed trace may remain meaningless. A meaningful trace may still be inadmissible for trust, credibility, or credit. Signal formation therefore requires more than occurrence. It requires observable access, interpretative uptake, and relevance to expectation.
 
-### 19.2.3 Law of Lens Activation
+### 18.2.3 Law of Lens Activation
 
 Interpretation occurs through activated lenses.
 
@@ -2736,7 +2427,7 @@ An observer does not read all possible meanings equally. Identity, capability, s
 
 Where the activated lens changes, the meaning of the same signal may change even though the underlying contribution history remains unchanged.
 
-### 19.2.4 Law of Attribution Dependence
+### 18.2.4 Law of Attribution Dependence
 
 Interpretative judgement depends on attribution.
 
@@ -2744,7 +2435,7 @@ A signal cannot support trust, credibility, or credit until its meaning is attac
 
 Misattribution may therefore produce real coordination effects while resting on a false interpretative attachment.
 
-### 19.2.5 Law of Interpretative Warrant
+### 18.2.5 Law of Interpretative Warrant
 
 Interpretation requires warrant from the structure it claims to read.
 
@@ -2756,7 +2447,7 @@ The Trust Framework therefore distinguishes between interpretation that is effec
 
 Interpretative warrant is therefore a bridge concept for later development. At the interpretative layer, it distinguishes effective belief from warranted belief. At the credibility layer, it explains how apparent stability may exceed supporting signal depth. At the credit layer, it explains how forward exposure may be extended on insufficient basis. At the regime layer, it explains how admissibility may be mistaken for truth. At the failure layer, it provides the basis for analysing self-deception, deception, credibility inflation, regime capture, synthetic authority, and unwarranted continuation.
 
-### 19.2.6 Law of Warrant Recognition
+### 18.2.6 Law of Warrant Recognition
 
 Warrant may exist without being recognised.
 
@@ -2766,7 +2457,7 @@ Warrant non-recognition may arise through limited access, defective lenses, misa
 
 The Trust Framework therefore distinguishes unsupported judgement from unsupported non-judgement. A system may fail by believing more than the structure warrants, but it may also fail by refusing to recognise what the structure does warrant.
 
-### 19.2.7 Law of Reconstructive Transfer
+### 18.2.7 Law of Reconstructive Transfer
 
 Meaning does not transfer unchanged between systems.
 
@@ -2774,7 +2465,7 @@ When a participant, signal, credential, record, reputation, or credibility struc
 
 Transfer therefore requires reconstruction. What was trusted, credible, or creditworthy in one system may become differently interpreted, weakened, strengthened, transformed, or inadmissible in another.
 
-### 19.2.8 Law of Semantic Evolution
+### 18.2.8 Law of Semantic Evolution
 
 Interpretative meaning changes across time.
 
@@ -2782,20 +2473,20 @@ Signals, roles, records, institutions, practices, and credibility structures may
 
 Semantic evolution does not by itself destroy structure. It changes how structure is read.
 
-### 19.2.9 Law of Interpretive Transmission
+### 18.2.9 Law of Interpretive Transmission
 
 Continuation across generational or institutional time requires that meaning remain transmissible.
 
 A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where those carriers fail, the structure may remain visible while its meaning becomes unrecoverable, unstable, or reconstructed without continuity.
 
 Interpretive transmission is therefore necessary where continuation depends not merely on preserving form, but on preserving the capacity to read that form.
-## 19.3 Regime Laws
+## 18.3 Regime Laws
 
 Regime laws describe necessary relations that arise when structure and interpretation are governed by admissibility conditions. They do not determine what is true in itself, nor do they create contribution, signal, trust, credibility, or credit from nothing. They determine what a cooperative system may recognise, admit, constrain, rely upon, or exclude within its own governed order.
 
 A regime may alter its rules, thresholds, recognised evidence, admissible signals, permitted expectations, credibility standards, or credit limits while the underlying structure remains intact. For this reason, regime law is changeable in a way structural law is not. Its necessity lies not in fixing one universal rule, but in the fact that any governed trust system must have some admissibility structure through which trust, credibility, and credit are permitted or denied.
 
-### 19.3.1 Law of Admissibility
+### 18.3.1 Law of Admissibility
 
 A governed trust system must distinguish what may enter coordination from what may not.
 
@@ -2803,7 +2494,7 @@ Contribution-derived observations, signals, expectations, trust deployments, cre
 
 Admissibility may be formal or informal, explicit or tacit, institutional or cultural, algorithmic or customary. The form may vary, but the function remains: the regime must decide what can be relied upon inside the cooperative order.
 
-### 19.3.2 Law of Boundary Governance
+### 18.3.2 Law of Boundary Governance
 
 A regime must maintain a boundary between admissible cooperation and interaction that remains external, unstable, coercive, excessive, premature, or insufficiently governable.
 
@@ -2811,7 +2502,7 @@ Repeated behaviour alone is not sufficient to constitute governed cooperation. A
 
 The boundary may also be asymmetrical. One participant, institution, or observer may treat a relation as cooperative while another experiences it as coercion, extraction, levy, domination, or forced coordination. Regime law therefore governs not only whether interaction occurs, but from which observer position it is admitted as cooperation.
 
-### 19.3.3 Law of Governed Recognition
+### 18.3.3 Law of Governed Recognition
 
 A regime can recognise only through the categories, instruments, records, procedures, and interpretative capacities available to it.
 
@@ -2819,7 +2510,7 @@ Where a regime lacks the capacity to recognise a form of contribution, signal, c
 
 This law explains why valid contribution may remain invisible to a system, why new forms of capability may be excluded by old categories, and why formal recognition may lag behind structural reality.
 
-### 19.3.4 Law of Threshold Variation
+### 18.3.4 Law of Threshold Variation
 
 Regime thresholds may change while the underlying structure remains the same.
 
@@ -2827,7 +2518,7 @@ A system may tighten or loosen the conditions under which signals are admitted, 
 
 Where thresholds change, the same participant or signal structure may move from admissible to inadmissible, or from inadmissible to admissible, without any corresponding change in the participant's underlying contribution history.
 
-### 19.3.5 Law of Constraint
+### 18.3.5 Law of Constraint
 
 A regime must constrain what it admits.
 
@@ -2835,7 +2526,7 @@ Admission without constraint is not governance. Where a regime admits trust, cre
 
 Constraint may take the form of limits, standards, duties, procedures, capital buffers, audits, sanctions, review, appeal, withdrawal rights, repair mechanisms, or other stabilising instruments.
 
-19.3.6 Law of Requisite Variety
+18.3.6 Law of Requisite Variety
 
 A regime can govern only what its admissibility mechanism has sufficient variety to distinguish.
 
@@ -2845,7 +2536,7 @@ Requisite variety therefore governs regime capacity. A simple rule may govern a 
 
 Regime failure therefore may arise not from the absence of governance, but from governance whose variety is insufficient for the system it attempts to govern.
 
-### 19.3.7 Law of Regime Reflexivity
+### 18.3.7 Law of Regime Reflexivity
 
 A regime must govern not only participants but also its own admissibility function.
 
@@ -2853,7 +2544,7 @@ If the regime loses the capacity to distinguish admissible from inadmissible str
 
 Regime failure therefore does not require the immediate collapse of institutions. A system may retain rules, offices, procedures, records, or authority while its admissibility function degrades. In such cases, continuation may persist formally while the regime layer becomes unable to govern trust, credibility, or credit coherently.
 
-### 19.3.8 Law of Regime Contestability
+### 18.3.8 Law of Regime Contestability
 
 Regime admission is always contestable from some observer position.
 
@@ -2861,7 +2552,7 @@ Because regimes are observer-bound and system-relative, what one regime admits a
 
 Contestability does not make regime law arbitrary. It means that regime validity is always tied to a governing position, and that the legitimacy, fairness, scope, and continuation of that position may itself become subject to interpretation, dispute, reform, resistance, or replacement.
 
-## 19.4 Realisation Laws
+## 18.4 Realisation Laws
 
 Realisation laws describe necessary relations that arise when the structural, interpretative, and regime layers appear within actual systems, institutions, technologies, markets, professions, or practices. They do not prescribe a single institutional form. They describe how the framework must be embodied if trust, credibility, credit, and continuation are to operate in realised conditions.
 
@@ -2869,7 +2560,7 @@ Because realisation is domain-specific, its laws are less universal in form than
 
 Realisation applies to trust, credibility, credit, and continuation, but not in the same form. Trust is realised when expectation is allowed to guide coordination under uncertainty. Credibility is realised when trust-relevant judgement stabilises into recognised standing, reputation, rating, record, status, licence, or other durable evaluative form. Credit is realised when that credibility is admitted into present exposure, access, authority, value, or obligation. Continuation is realised when these relations are carried, fulfilled, revised, repaired, enforced, defaulted, or reproduced across time.
 
-### 19.4.1 Law of Embodiment
+### 18.4.1 Law of Embodiment
 
 Trust, credibility, and credit must be embodied in some realised medium before they can operate in practice.
 
@@ -2877,7 +2568,7 @@ The medium may be speech, gesture, memory, habit, record, contract, ledger, cred
 
 Where no realised medium exists, trust may remain private expectation, credibility may remain unrecorded reputation, and credit may remain an unexecuted possibility.
 
-### 19.4.2 Law of Instrumental Translation
+### 18.4.2 Law of Instrumental Translation
 
 Each domain translates structural relations into its own instruments.
 
@@ -2885,7 +2576,7 @@ A bank may translate credibility into underwriting approval, loan documentation,
 
 The same structural relation may therefore appear through different realised instruments without ceasing to be the same relation at the framework level.
 
-### 19.4.3 Law of Transferable Credit
+### 18.4.3 Law of Transferable Credit
 
 Credit may be realised as a transferable or portable medium through which trust and credibility are carried beyond the original moment of extension.
 
@@ -2903,7 +2594,7 @@ Transferable credit therefore compresses trust, credibility, and regime recognit
 
 Where credit is embodied in a medium, the observer-attributed obligation becomes portable, persistent, redeemable, enforceable, transferable, or otherwise available for further coordination beyond the original moment of trust deployment.
 
-### 19.4.4 Law of Realisation Cost
+### 18.4.4 Law of Realisation Cost
 
 No realised trust system operates without coordination cost.
 
@@ -2911,7 +2602,7 @@ Discovery, interpretation, record-keeping, verification, negotiation, monitoring
 
 Where a participant, institution, platform, profession, or regime controls access, interpretation, enforcement, or continuation, coordination cost may also be shifted, priced, or converted into rent. Rent extraction is therefore not identical with coordination cost, but may arise from control over the realised conditions of coordination.
 
-### 19.4.5 Law of Discounted Extension
+### 18.4.5 Law of Discounted Extension
 
 Credit extension must be bounded against expected realisable fulfilment rather than ideal fulfilment.
 
@@ -2919,7 +2610,7 @@ Because future realisation remains uncertain and coordination carries costs of d
 
 Where credit extension consumes this margin, the relation becomes fragile even if the expected future contribution appears sufficient in nominal terms.
 
-### 19.4.6 Law of Operational Feedback
+### 18.4.6 Law of Operational Feedback
 
 Realisation produces feedback into the trust sequence.
 
@@ -2927,7 +2618,7 @@ Actions, repayments, defaults, repairs, sanctions, compliance, service delivery,
 
 A realised system therefore does not merely express the framework once. It continuously produces the material from which future cycles of trust, credibility, and credit are formed.
 
-### 19.4.7 Law of Implementation Drift
+### 18.4.7 Law of Implementation Drift
 
 Realised systems may drift from the structure they were meant to embody.
 
@@ -2935,7 +2626,7 @@ Rules may become rituals, records may become stale, credentials may detach from 
 
 Implementation drift occurs where the realised medium continues to operate in form but no longer carries the trust, credibility, credit, or continuation function it was meant to support.
 
-### 19.4.8 Law of Repair and Re-embodiment
+### 18.4.8 Law of Repair and Re-embodiment
 
 Realised systems require mechanisms for repair when trust, credibility, credit, or continuation fails.
 
@@ -2943,7 +2634,7 @@ Repair may take the form of apology, correction, compensation, restructuring, en
 
 Where repair is impossible, refused, or structurally inadequate, failure may persist even if the formal system continues.
 
-## 19.5 Summary — Law Layer
+## 18.5 Summary — Law Layer
 
 This chapter has distinguished laws according to the layer at which they operate.
 
@@ -2957,6 +2648,313 @@ Realisation laws describe how the framework becomes embodied in actual systems. 
 
 Together, these laws establish the layered necessity of the Trust Framework. Structural law defines the order of possibility. Interpretative law defines the conditions of meaning. Regime law defines the conditions of admissibility. Realisation law defines the conditions of embodiment. The framework therefore does not treat trust, credibility, or credit as isolated social attitudes. It treats them as layered coordination structures whose formation, stabilisation, extension, and continuation depend on the interaction of structure, interpretation, regime, and realisation.
 
+# 19. Principles 
+
+## 19.1 Basis of Principles
+
+The preceding chapter established the laws that follow from the framework’s layered architecture as the admissibility layer of the Trust Framework.
+
+Regime determines which structures, interpretations, expectations, credibility formations, and credit extensions may be admitted within a cooperative system. It does not prescribe what a system ought to value, nor does it impose a universal model of governance. It defines the conditions under which trust-based coordination can become governable.
+
+The principles developed in this chapter are derived from that admissibility structure.
+
+They are not ethical commandments, institutional recommendations, or optimisation rules. They are structural principles: recurring constraints that follow from the framework's ontology, interpretative architecture, and regime conditions.
+
+A principle states a necessary relation within the Trust Framework. It identifies what must hold if trust, credibility, credit, and continuation are to remain coherent under uncertainty.
+
+For this reason, the principles are system-relative in application but structurally general in form. Different cooperative systems may realise them through different rules, institutions, customs, technologies, or practices. The principle remains the same, while its realisation varies by domain.
+
+This chapter organises the principles across a general layer and three applied movements:
+- principles governing trust formation;
+- principles governing credibility stabilisation; and
+- principles governing credit extension.
+
+Together, these principles provide the bridge between the regime conditions established in Chapter 17 and the laws developed in Chapter 18.
+
+### 19.1.1 Observer-Bound Principle
+
+Trust, credibility, and credit are observer-bound.
+
+They do not exist as intrinsic properties of a participant independently of an observing position. A participant may generate contribution outcomes, but those outcomes become trust-relevant only when observed, interpreted, attributed, and admitted within an observer's or regime's evaluative structure.
+
+The same underlying contribution history may therefore produce different trust judgements, credibility structures, and credit extensions across different observers or systems.
+
+This variation does not necessarily imply contradiction. It reflects differences in access to observations, interpretation of signals, attribution of outcomes, activation of lenses, admissibility rules, temporal horizons, and coordination purposes.
+
+Observer-bound does not mean arbitrary. It means that trust, credibility, and credit arise from a relation between contribution-derived evidence and the observer or regime position through which that evidence is interpreted and acted upon.
+
+### 19.1.2 Exposure-Condition Distinction Principle
+
+Trust, credibility, and credit require a distinction between the exposure admitted to the observer and the condition of the observer receiving it. The admitted exposure concerns what enters the observer's interpretative field as signal. The observer condition concerns the state through which that signal is received, weighted, and transformed into judgement.
+
+The observer may be an individual, institution, model, committee, market, court, regulator, or regime. Its condition may be cognitive, affective, procedural, institutional, computational, political, informational, operational, or environmental. These conditions may alter how the same contribution history or signal profile is interpreted, even where the observed participant has produced no new relevant contribution.
+
+A change in admitted exposure and a change in observer condition may therefore produce similar changes in trust, credibility, or credit, but they are not ontologically the same. A participant may produce a new relevant signal, altering the exposure. Alternatively, the observer may enter a different condition, altering the interpretation of the same signal structure. Trust may be withdrawn, intensified, suspended, redirected, or transformed because the observer's condition has changed rather than because the participant has changed.
+
+This distinction applies across the full sequence. In trust, it separates the signal that supports expectation from the observer condition under which expectation is deployed. In credibility, it separates the signal pattern being stabilised from the system condition under which stabilisation occurs. In credit, it separates the credibility structure being admitted for forward commitment from the regime condition under which exposure, risk, liquidity, mandate, or tolerance permits credit extension.
+
+Such shifts are real within the framework, but their attribution must be handled carefully. A change in trust, credibility, or credit caused by observer-condition variation should not automatically be treated as evidence of changed contribution, capacity, intention, reliability, or creditworthiness in the observed participant.
+
+### 19.1.3 Attribution Principle
+
+Trust, credibility, and credit attach to attributed sources rather than to contribution history directly.
+
+A contribution event may produce real effects within a system, but observers and regimes must assign those effects to some participant, process, institution, system, or condition before they can support trust, stabilise into credibility, or justify credit extension.
+
+Attribution is therefore a necessary mediation between observed outcome and coordination response.
+
+Because attribution is observer-side and inferential, it may be uncertain, contested, partial, or wrong. A signal may be correctly observed but attached to the wrong source. A trust judgement may stabilise around the wrong participant. A credit extension may rely on credibility attributed to the wrong underlying capacity.
+
+Attribution errors may propagate through the trust sequence. If an observed outcome is attributed to the wrong source, trust may form around that source. If the attribution remains uncorrected, repeated trust judgements may stabilise into misplaced credibility. If that credibility is then used to support forward commitment, credit may be extended to a participant, process, institution, or system that cannot realise the expected future contribution.
+
+Where attribution is accurate, trust, credibility, and credit attach to the source that actually supports future contribution. Where attribution is mistaken, confidence may accumulate around a source that cannot realise the expectation placed upon it.
+
+Misattribution therefore creates false stability within the trust sequence and may later appear as sudden credibility collapse, credit failure, or regime breakdown.
+
+### 19.1.4 Non-Transposition Principle
+
+Validity at one stage of the trust sequence does not automatically validate the next stage.
+
+A signal may be genuine without supporting the trust judgement drawn from it. A trust judgement may be valid within a specific context without supporting the credibility structure built from it. A credibility structure may be valid within one domain, scale, or temporal horizon without supporting the credit extension made on its basis.
+
+Each transition requires its own structural warrant.
+
+The movement from signal to trust requires an admissible interpretation. The movement from trust to credibility requires stabilisation across sufficient time, context, or observer alignment. The movement from credibility to credit requires that the forward commitment remain proportionate to the credibility basis supporting it.
+
+Where a system carries validity from one stage into the next without such warrant, transposition error occurs. This error may arise even when the signal is real, the trust judgement is reasonable, or the credibility structure is genuine. The failure lies not in the component itself, but in the unjustified movement from one layer to another.
+
+### 19.1.5 Temporal Position Principle
+
+Trust, credibility, and credit are formed from particular temporal positions. An observer interprets present signals through retained past contribution, current conditions, and anticipated future realisation. The same signal may therefore support different judgements depending on when it is observed, how much prior history is available, and what future interval is being projected.
+
+No trust judgement is temporally neutral. Trust depends on expectation across an interval; credibility depends on stabilisation across repeated intervals; credit depends on extending present coordination into a future interval. A judgement that is valid at one temporal position may become invalid when new signals appear, when the relevant future interval changes, or when prior contribution is reinterpreted.
+
+## 19.2 Principles of Trust Formation
+
+Trust formation begins when an observer interprets contribution-derived signals into expectations regarding the future behaviour of a participant.
+
+Trust does not arise from contribution alone. A contribution may occur without being observed, an observation may occur without becoming an admissible signal, and a signal may be interpreted differently across observers, systems, or regimes. Trust forms only when an expectation generated from interpreted signals is deployed under uncertainty within a coordination context.
+
+The following principles govern trust formation.
+
+### 19.2.1 Signal Grounding Principle
+
+Trust formation depends on signals derived from contribution history.
+
+Future behaviour cannot be directly observed. An observer must therefore rely on signals generated by past contribution outcomes when forming expectations about whether cooperation may continue.
+
+Where no signal is available, trust may still be presumed, inherited, or imposed by regime, but it lacks a direct evidential basis in observed contribution history. Such trust remains fragile unless later supported by contribution-derived signals.
+
+### 19.2.2 Observation Mediation Principle
+
+Contribution does not become trust-relevant merely by occurring.
+
+Contribution becomes trust-relevant only when its outcomes become accessible to an observer through direct experience, records, reports, institutional mediation, or other forms of observation.
+
+Observation may be incomplete, delayed, distorted, selective, or unevenly distributed across observers. For this reason, trust judgements may differ even when the underlying contribution history is the same.
+
+### 19.2.3 Interpretation Principle
+
+Signals do not determine trust by themselves.
+
+An observed trace becomes trust-relevant only when it is interpreted through an interpretative lens, evaluation rule, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
+
+Trust formation therefore depends not only on signal availability, but also on the interpretive structure through which signals are read.
+
+### 19.2.4 Expectation Deployment Principle
+
+Trust forms when an expectation is deployed under uncertainty.
+
+An observer may interpret signals and form an expectation without yet trusting. Trust begins when the observer allows that expectation to guide coordination before the future behaviour is known.
+
+This deployment exposes the observer to future alignment or misalignment between expectation and realised contribution. Vulnerability is therefore not the primitive definition of trust, but the condition created when expectation is deployed under uncertainty.
+
+### 19.2.5 Context-Bound Principle
+
+Trust is always formed within a context.
+
+A participant may be trusted for one kind of action, relation, role, or domain without being trusted in another. Trust does not transfer automatically across contexts because different systems activate different signals, lenses, expectations, and regime conditions.
+
+Trust is therefore context-bound rather than universally portable.
+
+### 19.2.6 Signal Admissibility Principle
+ 
+Not every observed or interpreted signal may support trust. Within a regime, signals must be admissible before they can legitimately support expectation deployment.
+
+### 19.2.7 Update Principle
+
+Trust remains open to revision.
+
+New observations, delayed signals, reinterpretation of existing signals, changed context, or altered regime conditions may strengthen, weaken, suspend, or withdraw trust.
+
+Trust formation is therefore not a single event but a continuing process of expectation formation, deployment, feedback, and revision across time.
+
+## 19.3 Principles of Credibility Stabilisation
+
+Credibility stabilisation begins when trust judgements persist beyond a single interaction.
+
+Trust may be formed within a specific context, but credibility arises when interpreted signals and trust judgements become sufficiently stable across time, observers, or contexts to support repeated reliance without continuous reconstruction from first principles.
+
+Credibility is therefore not merely trust repeated. It is trust stabilised into a more durable evaluative structure.
+
+The following principles govern credibility stabilisation.
+
+### 19.3.1 Stabilisation Principle
+
+Credibility arises through the stabilisation of trust judgements across time, observers, or interaction contexts.
+
+A single trust judgement may support one act of coordination, but it does not by itself establish credibility. Credibility forms when trust-relevant signals are repeatedly interpreted in a sufficiently consistent manner to support belief in the continuation of behaviour.
+
+Stabilisation reduces the need for continuous reinterpretation. It allows observers or systems to rely on an accumulated judgement rather than reconstructing expectation from the beginning at every interaction.
+
+### 19.3.2 Aggregation Principle
+
+Credibility depends on the aggregation of trust-relevant signals and judgements.
+
+Signals may arise from direct interaction, institutional records, reputation, certification, performance outcomes, or communication among observers. These signals are not simply added together. They are selected, weighted, combined, and interpreted according to the evaluation principles and regime conditions of the observing system.
+
+Aggregation is therefore system-relative. Different observers or institutions may aggregate the same underlying signals differently and produce different credibility structures.
+
+### 19.3.3 Commitment-Consistency Principle
+
+Credibility stabilises when observed actions remain sufficiently consistent with stated commitments, recognised roles, or expected patterns of behaviour.
+
+A participant, institution, or regime may make claims about what it will do, but credibility depends on whether subsequent contribution outcomes confirm those claims across time. Where actions repeatedly align with stated commitments, credibility strengthens. Where actions diverge from commitments, credibility weakens even if the original signals were strong.
+
+This principle explains why credibility is central in policy, finance, professions, and institutions: observers do not evaluate statements alone, but the consistency between declared commitments and realised conduct.
+
+### 19.3.4 Configuration Principle
+
+Credibility is a structured configuration rather than a single scalar quantity.
+
+A participant may appear credible through coordination continuity, recognised identity, structural reliability, realised capability, or combinations of these dimensions. Different contexts activate different parts of the credibility structure.
+
+For this reason, credibility should not be treated as a universal measure that transfers unchanged across systems. It is a multi-dimensional configuration of interpreted signals.
+
+### 19.3.5 Signal Independence Principle
+
+The strength of credibility depends not only on the number of signals supporting it, but on the informational independence of those signals.
+
+Signals that appear diverse may in fact derive from the same underlying source, process, attribution, or prior interpretation. Where this occurs, additional signals may reinforce confidence without increasing informational depth.
+
+Credibility formed from independent signals is more robust than credibility formed from repeated confirmations of the same underlying evidence.
+
+### 19.3.6 System-Relative Reconstruction Principle
+
+Credibility is reconstructed within each observing system.
+
+When a participant enters a new system, prior signals may travel with the participant, but their meaning is reconstructed under the receiving system's evaluation principles, admissibility conditions, temporal horizons, and coordination purposes.
+
+The same participant may therefore be credible in one system and not credible in another without contradiction.
+
+Credibility does not transfer as a fixed possession. It is rebuilt through interpretation.
+
+### 19.3.7 Credibility Entropy Principle
+
+Credibility entropy arises when the apparent strength of a credibility structure exceeds the actual independence, depth, or reliability of the signals supporting it.
+
+A credibility structure may appear stable because many signals point in the same direction. However, if those signals are dependent, delayed, weakly attributed, or produced by the same underlying process, the structure may be more fragile than it appears.
+
+Credibility entropy explains why confidence may collapse suddenly when hidden dependence becomes visible or when the attribution structure supporting credibility is revised.
+
+### 19.3.8 Credibility Engineering Principle
+
+Credibility can be deliberately shaped, but not arbitrarily created.
+
+A participant, institution, or regime may strengthen credibility by improving the quality, independence, visibility, attribution, consistency, and admissibility of the signals through which it is evaluated. It may also weaken credibility by obscuring signals, producing inconsistent outcomes, relying on dependent confirmations, or allowing the gap between apparent credibility and realised contribution to widen.
+
+Credibility may also be deliberately attacked. Malicious actors may degrade credibility by fabricating negative signals, suppressing positive signals, inducing attribution error, amplifying misleading dependencies, disrupting interpretive context, or altering the regime conditions through which signals are admitted and reconstructed.
+
+Credibility engineering therefore does not mean manufacturing belief without contribution. It means altering the conditions under which contribution-derived signals can be observed, interpreted, stabilised, and relied upon.
+
+Where credibility engineering improves signal quality and realised alignment, it strengthens the credibility structure. Where it amplifies appearance without increasing contribution depth, or degrades credibility without corresponding deterioration in contribution, it increases credibility entropy and may produce false stabilisation or unjustified collapse.
+
+### 19.3.9 Reconfiguration Principle
+
+Credibility remains subject to reconfiguration as new signals, new interpretations, or new regime conditions emerge.
+
+A new signal may strengthen credibility, weaken it, or alter the meaning of previously stabilised signals. Information that once appeared independent may be reinterpreted as dependent. A signal that once supported credibility may later become irrelevant, negative, or inadmissible.
+
+Credibility stabilisation therefore does not mean permanence. It means that belief has become durable enough to support reliance, while remaining open to revision when the signal structure changes.
+
+## 19.4 Principles of Credit Extension
+
+Credit arises when credibility is admitted into present coordination as a forward commitment. It does not merely recognise that a participant has appeared trustworthy in the past. It permits present resources, authority, access, status, purchasing power, or other forms of value to be extended on the expectation that future contribution, repayment, performance, compliance, or continuation will occur.
+
+Credit therefore requires more than trust and more than credibility. Trust deploys expectation. Credibility stabilises expectation across signals and time. Credit converts stabilised expectation into present exposure.
+
+### 19.4.1 Forward Commitment Principle
+
+Credit is the present admission of expected future contribution as an observer-attributed obligation within coordination. A credit relationship forms where an observer, regime, or system permits present coordination to proceed on the basis that a future obligation, performance, repayment, or contribution will be realised.
+
+The future contribution need not be fully known at the time credit is extended. It is sufficient that the system treats the expected future contribution as credible enough to support present exposure. Credit therefore always crosses a temporal interval: something is allowed now because something is expected later.
+
+### 19.4.2 Exposure Principle
+
+Credit creates exposure. To extend credit is to permit some present value, access, authority, recognition, or coordination capacity to depend on future realisation.
+
+This exposure may be financial, operational, social, institutional, legal, political, informational, or symbolic. A loan exposes capital to repayment risk. A professional licence exposes the public to future conduct. A security clearance exposes an institution to future misuse. A reputation-based appointment exposes an organisation to future performance. A certificate exposes an employer to the possibility that the credential does not correspond to actual capacity.
+
+Credit is therefore not merely belief. It is belief made consequential through exposure.
+
+### 19.4.3 Proportionality Principle
+
+Credit extension must remain proportionate to the credibility structure that supports it. Where credit exceeds the quality, independence, relevance, or stability of the credibility on which it relies, the system enters overextension.
+
+Overextension may occur even where each individual credit decision appears reasonable in isolation. If the underlying credibility signals are weak, correlated, outdated, misattributed, regime-produced, or dependent on the same hidden condition, then the aggregate credit structure may become fragile. Credit must therefore be assessed not only against apparent credibility, but against the depth and resilience of the credibility structure beneath it.
+
+### 19.4.4 Interval Principle
+
+Credit depends on the interval across which future realisation is expected. A credibility structure sufficient for short-term reliance may be insufficient for long-term credit. A participant may be credible for immediate performance but not for extended obligation; credible under stable conditions but not across stress, transition, succession, or regime change.
+
+The longer, more uncertain, or more condition-dependent the interval, the greater the burden on the credit regime to constrain exposure, monitor change, and update judgement. Credit failure often arises where the temporal interval expands beyond the credibility structure that originally justified extension.
+
+### 19.4.5 Aggregate Constraint Principle
+
+Credit must be bounded not only at the individual level but also at the aggregate level. A system may correctly admit individual credit relationships while failing to recognise their combined exposure, correlation, concentration, or dependency.
+
+Where many credit extensions rely on the same hidden assumption, the same signal source, the same regime condition, or the same future state of the world, the system may appear diversified while remaining structurally concentrated. Aggregate constraint is therefore necessary to prevent individually admissible credit from becoming systemically inadmissible.
+
+### 19.4.6 Credit Admissibility Principle
+
+Credit is admissible only where the regime can recognise, bound, and govern the exposure created by forward commitment. The relevant question is not only whether the participant appears credible, but whether the system can admit that credibility into a credit relationship without exceeding its tolerance, mandate, liquidity, capital, authority, legitimacy, or continuation conditions.
+
+Where a system extends credit without the capacity to track exposure, enforce obligation, update signals, or absorb failure, credit has been asserted rather than governed.
+
+### 19.4.7 Realisation and Default Principle
+
+Credit remains incomplete until the expected future contribution is realised, revised, transferred, forgiven, enforced, or defaulted. Repayment, performance, compliance, service delivery, continued conduct, or other forms of fulfilment reduce the outstanding forward commitment. Default occurs where expected realisation fails sufficiently that the credit relationship can no longer continue on its original terms.
+
+Default does not always mean total collapse. A credit relation may be restructured, repriced, sanctioned, secured, transferred, written down, or absorbed by a wider regime. These are not outside credit. They are regime responses to failed, partial, delayed, or transformed realisation.
+
+### 19.4.8 Credit Withdrawal Principle
+
+Credit may be withheld, reduced, suspended, repriced, or withdrawn where the supporting credibility structure weakens, where observer condition changes, where regime tolerance contracts, or where exposure becomes disproportionate to expected future realisation.
+
+Withdrawal of credit should not automatically be treated as proof that the participant has become less credible. It may arise from changed signal exposure, changed observer condition, changed regime constraint, changed aggregate exposure, or changed temporal horizon. The framework therefore distinguishes deterioration in the participant from contraction in the credit regime.
+
+### 19.4.9 Credit Fulfilment Principle
+
+Credit remains open until the expected future contribution is realised, partially realised, revised, transferred, forgiven, enforced, defaulted, or otherwise resolved. Credit extension admits future contribution into present coordination; fulfilment returns that expected contribution as realised contribution.
+
+Where fulfilment occurs, the open credit relation is reduced or discharged in whole or in part. Where fulfilment fails, the relation may remain open, be restructured, be repriced, be enforced, be withdrawn, or collapse. These outcomes do not sit outside credit. They are the continuation conditions through which credit is tested across time.
+
+In monetary lending, this principle appears in accounting form. When a bank extends a loan, it creates a loan asset and a matching deposit liability. When the borrower repays principal, the loan balance is reduced and the corresponding deposit money is extinguished. More generally, however, fulfilment need not take the form of repayment. It may take the form of performance, delivery, compliance, restraint, maturation, repair, public service, professional conduct, or any other realised contribution that resolves the forward commitment on which credit was extended.
+
+## 19.5 Summary — Principle Layer
+
+The principles in this chapter define the governing constraints under which trust, credibility, and credit may form, stabilise, extend, weaken, or close. They do not replace the ontology of the framework. They express the structural rules by which the ontology becomes usable within observer-bound, temporally extended, and regime-conditioned systems.
+
+The general principles establish that trust, credibility, and credit are always observer-bound, exposure-conditioned, attribution-dependent, non-transposable, and temporally positioned. No judgement arises from signal alone. A signal must be admitted into an observer's interpretative field, received under some observer condition, attributed to some source, constrained by its proper level, and judged from a particular temporal position.
+
+The trust principles explain how interpreted signals support expectation and how expectation becomes deployed under uncertainty. Trust is not mere belief, feeling, or preference. It is the deployment of expectation across a temporal interval, within a context in which future contribution remains uncertain but sufficiently interpretable.
+
+The credibility principles explain how trust-relevant signals stabilise across time, repetition, configuration, and reconstruction. Credibility is not a single act of trust. It is the accumulated and structured condition through which a participant, system, institution, or signal source becomes treated as capable of supporting repeated expectation.
+
+The credit principles explain how credibility becomes present exposure to future realisation. Credit extends coordination beyond immediate interaction by admitting expected future contribution into present action, access, authority, value, or obligation. Because credit opens a forward commitment, it remains incomplete until that commitment is fulfilled, revised, transferred, enforced, forgiven, defaulted, or otherwise resolved.
+
+Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. Chapter 19 develops the laws that follow from this structure: the stronger regularities that govern what trust, credibility, and credit can and cannot do across cooperative systems.
+
 # 20: Continuation and Interpretive Governance
 
 ## 20.1 Continuation Conditions
@@ -2967,7 +2965,9 @@ Together, these laws establish the layered necessity of the Trust Framework. Str
 
 ## 21.1 Boundary Conditions
 ## 21.2 Failure Conditions
-## 21.3 Regime Summary
+## 21.3 Boundary and Failure Summary
+
+# 22 Regime Summary
 
 ⸻
 
