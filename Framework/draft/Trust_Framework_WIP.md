@@ -2407,6 +2407,8 @@ Interpretative laws describe necessary relations that arise when structure is re
 
 A structure may remain unchanged while its meaning changes across observers, contexts, systems, or periods of time. Interpretative laws therefore concern the conditions under which signals, expectations, trust judgements, credibility structures, and credit extensions are read, weighted, attributed, and reconstructed.
 
+Engineered sensory, reputational, institutional, or computational signals may produce trust-like response where interpreted meaning exceeds the realised contribution those signals warrant.
+
 ### 18.2.1 Law of Observer-Bound Meaning
 
 Meaning does not arise from structure alone. It arises when structure is encountered, selected, and interpreted from an observer position.
@@ -2559,6 +2561,8 @@ Realisation laws describe necessary relations that arise when the structural, in
 Because realisation is domain-specific, its laws are less universal in form than structural laws. A mortgage, a professional licence, a public levy, a certification system, a family obligation, an insurance contract, and an AI governance process realise trust and credit through different instruments. Yet each must still materialise the sequence through some combination of records, roles, procedures, resources, obligations, monitoring, enforcement, repair, and fulfilment.
 
 Realisation applies to trust, credibility, credit, and continuation, but not in the same form. Trust is realised when expectation is allowed to guide coordination under uncertainty. Credibility is realised when trust-relevant judgement stabilises into recognised standing, reputation, rating, record, status, licence, or other durable evaluative form. Credit is realised when that credibility is admitted into present exposure, access, authority, value, or obligation. Continuation is realised when these relations are carried, fulfilled, revised, repaired, enforced, defaulted, or reproduced across time.
+
+In realised systems, signal engineering may be embodied in products, interfaces, credentials, ratings, records, or media that make unwarranted interpretation operationally effective.
 
 ### 18.4.1 Law of Embodiment
 
@@ -3072,6 +3076,8 @@ The purpose of interpretive governance is therefore not to freeze meaning. It is
 Chapter 21 examines the boundary and failure conditions that arise when these conditions fail.
 
 # 21: Boundary and Failure Conditions
+
+A failure condition arises where signal engineering exploits the observer's interpretative system, producing effective trust, credibility, or credit without sufficient warrant and shifting continuation cost onto the observer or wider system.
 
 ## 21.1 Boundary Conditions
 ## 21.2 Failure Conditions
