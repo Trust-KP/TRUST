@@ -2819,6 +2819,8 @@ Signals may arise from direct interaction, institutional records, reputation, ce
 
 Aggregation is therefore system-relative. Different observers or institutions may aggregate the same underlying signals differently and produce different credibility structures.
 
+Aggregation must not be confused with accumulation. More signals, records, experience, credentials, seniority, or information access do not automatically strengthen credibility. They strengthen credibility only where they improve the independence, calibration, revisability, and interpretative quality of trust-relevant judgement. Where accumulation increases confidence without improving discrimination, it may increase credibility entropy rather than credibility.
+
 ### 19.3.3 Commitment-Consistency Principle
 
 Credibility stabilises when observed actions remain sufficiently consistent with stated commitments, recognised roles, or expected patterns of behaviour.
@@ -2860,6 +2862,8 @@ Credibility entropy arises when the apparent strength of a credibility structure
 A credibility structure may appear stable because many signals point in the same direction. However, if those signals are dependent, delayed, weakly attributed, or produced by the same underlying process, the structure may be more fragile than it appears.
 
 Credibility entropy explains why confidence may collapse suddenly when hidden dependence becomes visible or when the attribution structure supporting credibility is revised.
+
+The operational distinction between credibility strengthening and credibility entropy has both prospective and retrospective signatures. Prospectively, credibility entropy is indicated where apparently diverse signals trace back to the same upstream source, model, incentive, authority, data set, regime condition, or interpretative assumption. In such cases, the credibility structure may appear supported by many confirmations while possessing little independent depth. Retrospectively, entropy is indicated where confidence rises, reliance expands, or confidence intervals narrow without corresponding improvement in realised accuracy, calibration, signal independence, or revisability.
 
 ### 19.3.8 Credibility Engineering Principle
 
