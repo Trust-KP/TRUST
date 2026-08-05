@@ -3692,14 +3692,14 @@ This shows that mortgage credit depends on both borrower credibility and regime 
 
 Mortgage lending illustrates the full credit sequence:
 
-Contribution history generates observable financial signals.  
-The bank interprets those signals through underwriting rules.  
-Expectation forms around future repayment capacity.  
-Trust is deployed in the decision to lend.  
-Credibility stabilises through the borrower's assessed risk profile.  
-Credit is extended through the mortgage.  
-New money is created as a deposit.  
-Repayment gradually fulfils the forward commitment and extinguishes the created money.
+- Contribution history generates observable financial signals.  
+- The bank interprets those signals through underwriting rules.  
+- Expectation forms around future repayment capacity.
+- Trust is deployed in the decision to lend.
+- Credibility stabilises through the borrower's assessed risk profile.
+- Credit is extended through the mortgage.
+- New money is created as a deposit.
+- Repayment gradually fulfils the forward commitment and extinguishes the created money.
 
 A mortgage therefore shows credit creation in both accounting and structural terms. Accounting records the loan asset and deposit liability. The Trust Framework explains the underlying coordination: a regime-recognised expectation of future contribution is converted into present purchasing power.
 
