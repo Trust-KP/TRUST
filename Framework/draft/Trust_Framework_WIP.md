@@ -2935,6 +2935,18 @@ Where repair is impossible, refused, or structurally inadequate, failure may per
 
 ## 19.5 Summary — Law Layer
 
+This chapter has distinguished laws according to the layer at which they operate.
+
+Structural laws describe the necessary order of the Trust Framework. They govern the sequence through which coexistence becomes bounded, coordination becomes temporal, contribution becomes observable, observation becomes signal, signal becomes expectation, expectation becomes trust, trust stabilises into credibility, credibility permits credit, and credit is tested through continuation. These laws do not depend on any particular observer, institution, or domain, although their application may be reconstructed through interpretation and realised differently across systems.
+
+Interpretative laws describe the conditions under which structure becomes meaningful to an observer. They govern how traces become signals, how lenses shape meaning, how attribution attaches judgement to sources, how warrant may exceed or fail to recognise support, how meaning transfers between systems, and how semantic continuity is preserved or lost across time. These laws explain why the same structure may remain intact while its meaning changes.
+
+Regime laws describe the admissibility conditions through which a cooperative system governs trust, credibility, and credit. They concern recognition, boundary governance, threshold variation, constraint, reflexivity, and contestability. A regime may alter its rules, thresholds, recognised signals, or admissible credit structures while the underlying structural sequence remains unchanged.
+
+Realisation laws describe how the framework becomes embodied in actual systems. They concern the media, instruments, costs, feedback loops, drift, repair mechanisms, and transferable credit forms through which trust, credibility, credit, and continuation appear in practice. Realisation laws explain why the same structural relation may appear differently in banking, insurance, professions, public authority, education, family systems, platforms, or AI governance.
+
+Together, these laws establish the layered necessity of the Trust Framework. Structural law defines the order of possibility. Interpretative law defines the conditions of meaning. Regime law defines the conditions of admissibility. Realisation law defines the conditions of embodiment. The framework therefore does not treat trust, credibility, or credit as isolated social attitudes. It treats them as layered coordination structures whose formation, stabilisation, extension, and continuation depend on the interaction of structure, interpretation, regime, and realisation.
+
 # 20: Continuation and Interpretive Governance
 
 ## 20.1 Continuation Conditions
