@@ -65,11 +65,14 @@ The framework applies to interactions among individuals, institutions, and organ
 where cooperation must persist across time despite incomplete knowledge of future actions.
 
 ## Non-Scope
-This framework does not attempt to provide a quantitative model of trust, prescribe governance  arrangements, or offer normative guidance on institutional design.
 
-The framework is descriptive rather than prescriptive. It aims to clarify the structural mechanisms through which cooperation emerges and persists, rather than to optimise or evaluate specific social systems. 
+This framework does not attempt to provide a quantitative model of trust, prescribe particular governance arrangements, or offer normative recommendations for institutional design.
 
-The principles and laws developed in Part IV are structural derivations from the framework's analytic architecture, not prescriptions for institutional design or governance.
+The framework is descriptive and structural rather than prescriptive. It aims to clarify the mechanisms through which cooperation emerges, stabilises, extends, and persists under uncertainty, rather than to optimise or evaluate specific social systems according to a preferred value standard.
+
+Although Part IV develops principles, laws, and regime conditions, these are structural derivations from the framework's analytic architecture. They describe what must be distinguished if trust, credibility, credit, and continuation are to remain coherent within a system. They do not prescribe which institutions, policies, laws, or governance arrangements should be adopted.
+
+Nor does the framework claim that every organised social relation is automatically a cooperative trust relation. Command, coercion, levy, extraction, forced compliance, habit, affection, knowledge, possession, completed exchange, legal obligation, and mere prediction may occur within coexistence systems and may be organised by regimes. They may also interact with trust, credibility, credit, or continuation. However, repeated behaviour, enforceability, or regime validity alone does not make them admissible as cooperation from every observer position. The framework applies where contribution-derived signals are interpreted into expectation, where expectation is deployed under uncertainty, where such deployment stabilises into credibility, or where credibility is extended into forward exposure.
 
 ## Table of Contents
 
@@ -1056,7 +1059,7 @@ The four dimensions of credit introduced in the following sections, and the four
 
 ## 12.1 What Credit Is
 
-The term credit is used here in its forward-operational sense, referring to the deployment of expectation into present action dependent on future contribution, distinct from its use as retrospective attribution of past contribution.
+The term credit is used here in its forward-operational sense, referring to the admission of an observer-attributed future obligation, contribution, or capacity into present action, access, exposure, or coordination. This is distinct from the retrospective use of credit as attribution for past contribution.
 
 Credibility is a stabilised belief. Credit is the deployment of that belief.
 
@@ -1732,11 +1735,11 @@ Contribution, observation, signals, and expectation do not by themselves guarant
 
 The following definitions express trust, credibility, and credit as structurally related positions within cooperative continuation systems.
 
-**Trust** is the coordination mechanism through which expectations of continuation are deployed under uncertainty.
+**Trust** is the deployment of expectation under uncertainty within coordination.
 
-**Credibility** is the stabilisation of trust across observers, time, and interaction contexts, enabling scalable coordination.
+**Credibility** is the stabilisation of trust-relevant judgement across time and interaction contexts.
 
-**Credit** is the forward extension of coordination commitments beyond immediate capacity and across time.
+**Credit** is the forward extension of coordination commitments beyond immediate capacity, on the basis of stabilised credibility and expected future fulfilment across time.
 
 Each stage depends upon but is irreducible to the preceding stage.
 
@@ -1773,6 +1776,8 @@ Continuation therefore has a recursive structure. Each completed or failed cycle
 The full cooperative sequence —
 
 **Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
+
+The sequence is ordered but not automatic. Each stage provides the condition from which the next may arise, but no stage guarantees passage into the next. Contribution may remain unobserved, observation may fail to become signal, signal may fail to support expectation, expectation may remain undeployed, trust may fail to stabilise as credibility, credibility may fail to support credit, and credit may fail to resolve into continuation.
 
 This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented, and the operational return through which their outcomes become available for future cycles.
 
@@ -2565,7 +2570,7 @@ Credit therefore requires more than trust and more than credibility. Trust deplo
 
 ### 18.4.1 Forward Commitment Principle
 
-Credit is the present admission of expected future contribution. A credit relationship forms where an observer, regime, or system permits present coordination to proceed on the basis that a future obligation, performance, repayment, or contribution will be realised.
+Credit is the present admission of expected future contribution as an observer-attributed obligation within coordination. A credit relationship forms where an observer, regime, or system permits present coordination to proceed on the basis that a future obligation, performance, repayment, or contribution will be realised.
 
 The future contribution need not be fully known at the time credit is extended. It is sufficient that the system treats the expected future contribution as credible enough to support present exposure. Credit therefore always crosses a temporal interval: something is allowed now because something is expected later.
 
@@ -2784,9 +2789,150 @@ Continuation across generational or institutional time requires that meaning rem
 A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where those carriers fail, the structure may remain visible while its meaning becomes unrecoverable, unstable, or reconstructed without continuity.
 
 Interpretive transmission is therefore necessary where continuation depends not merely on preserving form, but on preserving the capacity to read that form.
-
 ## 19.3 Regime Laws
+
+Regime laws describe necessary relations that arise when structure and interpretation are governed by admissibility conditions. They do not determine what is true in itself, nor do they create contribution, signal, trust, credibility, or credit from nothing. They determine what a cooperative system may recognise, admit, constrain, rely upon, or exclude within its own governed order.
+
+A regime may alter its rules, thresholds, recognised evidence, admissible signals, permitted expectations, credibility standards, or credit limits while the underlying structure remains intact. For this reason, regime law is changeable in a way structural law is not. Its necessity lies not in fixing one universal rule, but in the fact that any governed trust system must have some admissibility structure through which trust, credibility, and credit are permitted or denied.
+
+### 19.3.1 Law of Admissibility
+
+A governed trust system must distinguish what may enter coordination from what may not.
+
+Contribution-derived observations, signals, expectations, trust deployments, credibility structures, and credit extensions do not become regime-valid merely by existing or being interpreted. They must be admitted within the governing conditions of the system.
+
+Admissibility may be formal or informal, explicit or tacit, institutional or cultural, algorithmic or customary. The form may vary, but the function remains: the regime must decide what can be relied upon inside the cooperative order.
+
+### 19.3.2 Law of Boundary Governance
+
+A regime must maintain a boundary between admissible cooperation and interaction that remains external, unstable, coercive, excessive, premature, or insufficiently governable.
+
+Repeated behaviour alone is not sufficient to constitute governed cooperation. A relation may be observable, predictable, or enforceable while still remaining outside the cooperative boundary from one or more observer positions.
+
+The boundary may also be asymmetrical. One participant, institution, or observer may treat a relation as cooperative while another experiences it as coercion, extraction, levy, domination, or forced coordination. Regime law therefore governs not only whether interaction occurs, but from which observer position it is admitted as cooperation.
+
+### 19.3.3 Law of Governed Recognition
+
+A regime can recognise only through the categories, instruments, records, procedures, and interpretative capacities available to it.
+
+Where a regime lacks the capacity to recognise a form of contribution, signal, credibility, or exposure, that structure may remain real while remaining ungoverned, under-governed, or misgoverned. Regime recognition is therefore not identical with existence.
+
+This law explains why valid contribution may remain invisible to a system, why new forms of capability may be excluded by old categories, and why formal recognition may lag behind structural reality.
+
+### 19.3.4 Law of Threshold Variation
+
+Regime thresholds may change while the underlying structure remains the same.
+
+A system may tighten or loosen the conditions under which signals are admitted, expectations are relied upon, credibility is recognised, or credit is extended. Such changes may arise from stress, scarcity, policy, politics, institutional learning, technological change, legal reform, or altered risk tolerance.
+
+Where thresholds change, the same participant or signal structure may move from admissible to inadmissible, or from inadmissible to admissible, without any corresponding change in the participant's underlying contribution history.
+
+### 19.3.5 Law of Constraint
+
+A regime must constrain what it admits.
+
+Admission without constraint is not governance. Where a regime admits trust, credibility, or credit without bounding exposure, monitoring change, preserving interpretative discipline, or maintaining the capacity to respond to failure, it has not governed the relation; it has merely permitted it.
+
+Constraint may take the form of limits, standards, duties, procedures, capital buffers, audits, sanctions, review, appeal, withdrawal rights, repair mechanisms, or other stabilising instruments.
+
+### 19.3.6 Law of Regime Reflexivity
+
+A regime must govern not only participants but also its own admissibility function.
+
+If the regime loses the capacity to distinguish admissible from inadmissible structures, interpretations, expectations, credibility formations, or credit extensions, it may continue in form while ceasing to perform its governing function.
+
+Regime failure therefore does not require the immediate collapse of institutions. A system may retain rules, offices, procedures, records, or authority while its admissibility function degrades. In such cases, continuation may persist formally while the regime layer becomes unable to govern trust, credibility, or credit coherently.
+
+### 19.3.7 Law of Regime Contestability
+
+Regime admission is always contestable from some observer position.
+
+Because regimes are observer-bound and system-relative, what one regime admits as valid cooperation, credible evidence, lawful authority, or acceptable credit may be rejected by another observer, participant, regime, or later historical position.
+
+Contestability does not make regime law arbitrary. It means that regime validity is always tied to a governing position, and that the legitimacy, fairness, scope, and continuation of that position may itself become subject to interpretation, dispute, reform, resistance, or replacement.
+
 ## 19.4 Realisation Laws
+
+Realisation laws describe necessary relations that arise when the structural, interpretative, and regime layers appear within actual systems, institutions, technologies, markets, professions, or practices. They do not prescribe a single institutional form. They describe how the framework must be embodied if trust, credibility, credit, and continuation are to operate in realised conditions.
+
+Because realisation is domain-specific, its laws are less universal in form than structural laws. A mortgage, a professional licence, a public levy, a certification system, a family obligation, an insurance contract, and an AI governance process realise trust and credit through different instruments. Yet each must still materialise the sequence through some combination of records, roles, procedures, resources, obligations, monitoring, enforcement, repair, and fulfilment.
+
+Realisation applies to trust, credibility, credit, and continuation, but not in the same form. Trust is realised when expectation is allowed to guide coordination under uncertainty. Credibility is realised when trust-relevant judgement stabilises into recognised standing, reputation, rating, record, status, licence, or other durable evaluative form. Credit is realised when that credibility is admitted into present exposure, access, authority, value, or obligation. Continuation is realised when these relations are carried, fulfilled, revised, repaired, enforced, defaulted, or reproduced across time.
+
+### 19.4.1 Law of Embodiment
+
+Trust, credibility, and credit must be embodied in some realised medium before they can operate in practice.
+
+The medium may be speech, gesture, memory, habit, record, contract, ledger, credential, licence, office, institution, platform, model output, payment system, law, ritual, or technological infrastructure. The form varies by domain, but the function remains: the abstract relation must become available through a realised carrier.
+
+Where no realised medium exists, trust may remain private expectation, credibility may remain unrecorded reputation, and credit may remain an unexecuted possibility.
+
+### 19.4.2 Law of Instrumental Translation
+
+Each domain translates structural relations into its own instruments.
+
+A bank may translate credibility into underwriting approval, loan documentation, collateral, deposit creation, repayment schedules, and capital treatment. A profession may translate credibility into certification, licensing, standards, discipline, and exclusion. A state may translate trust and credit into taxation, public service, legal authority, enforcement, and legitimacy. A family may translate credit into care, patience, protection, inheritance, obligation, and later reciprocity.
+
+The same structural relation may therefore appear through different realised instruments without ceasing to be the same relation at the framework level.
+
+### 19.4.3 Law of Transferable Credit
+
+Credit may be realised as a transferable or portable medium through which trust and credibility are carried beyond the original moment of extension.
+
+In its simplest form, credit remains tied to a specific relation between creditor and debtor, grantor and recipient, institution and participant, or observer and observed. In more developed systems, credit may be embodied in instruments that can circulate or persist: money, deposits, notes, bonds, certificates, credentials, licences, ratings, vouchers, balances, tokens, miles, or other recognised carriers of forward value, status, access, or entitlement.
+
+Such media do not transfer trust as a private feeling. They transfer a regime-recognised claim, entitlement, standing, or expectation that others may rely upon without reconstructing the original contribution history from the beginning.
+
+The medium also anchors both sides of the relation. On the issuer or observed side, it records or represents an obligation, claim, standing, or future performance expectation attached to the issuer's credibility and regime capacity. On the holder or observer side, it provides a recognised basis for reliance, access, transfer, redemption, or further coordination. By giving both sides a shared object of evaluation, the medium stabilises the relation and fixes the question of what obligation is attributed, to whom it is attributed, under which regime it is recognised, and under what conditions it may be fulfilled or fail.
+
+Money is a central example. Bank lending creates deposit money by admitting expected future repayment into present purchasing power. Once created, the deposit may circulate beyond the original borrower-bank relation, allowing others to accept it as payment without personally trusting the borrower. The medium carries regime-stabilised credit through the payment system.
+
+Airline miles show a more conditional form. The airline issues miles as stored credit within a programme regime. The user holds them as a future entitlement to redemption, while the airline remains bound by programme rules, service capacity, and its own credibility. The miles anchor continued coordination between issuer and holder, but their transferability and value remain conditional on the programme regime.
+
+Transferable credit therefore compresses trust, credibility, and regime recognition into a portable or persistent form. This increases coordination capacity, but also creates risk: if the credibility, obligation, redemption capacity, or regime support behind the medium weakens, the trust carried by the medium may contract, fragment, or collapse.
+
+Where credit is embodied in a medium, the observer-attributed obligation becomes portable, persistent, redeemable, enforceable, transferable, or otherwise available for further coordination beyond the original moment of trust deployment.
+
+### 19.4.4 Law of Realisation Cost
+
+No realised trust system operates without coordination cost.
+
+Discovery, interpretation, record-keeping, verification, negotiation, monitoring, enforcement, repair, administration, and continuation all consume resources. Trust and credibility may reduce some of these costs by lowering the need for continuous verification, but they do not abolish the cost surface of coordination.
+
+Where a participant, institution, platform, profession, or regime controls access, interpretation, enforcement, or continuation, coordination cost may also be shifted, priced, or converted into rent. Rent extraction is therefore not identical with coordination cost, but may arise from control over the realised conditions of coordination.
+
+### 19.4.5 Law of Discounted Extension
+
+Credit extension must be bounded against expected realisable fulfilment rather than ideal fulfilment.
+
+Because future realisation remains uncertain and coordination carries costs of discovery, interpretation, monitoring, enforcement, repair, and continuation, the value extended in credit cannot coherently consume the full imagined value of future contribution. A margin is required for friction, delay, risk, default, enforcement, regime cost, and uncertainty.
+
+Where credit extension consumes this margin, the relation becomes fragile even if the expected future contribution appears sufficient in nominal terms.
+
+### 19.4.6 Law of Operational Feedback
+
+Realisation produces feedback into the trust sequence.
+
+Actions, repayments, defaults, repairs, sanctions, compliance, service delivery, performance, conduct, records, and failures create new traces. These traces may later become observations, signals, expectations, trust judgements, credibility structures, or credit conditions.
+
+A realised system therefore does not merely express the framework once. It continuously produces the material from which future cycles of trust, credibility, and credit are formed.
+
+### 19.4.7 Law of Implementation Drift
+
+Realised systems may drift from the structure they were meant to embody.
+
+Rules may become rituals, records may become stale, credentials may detach from capability, metrics may replace judgement, enforcement may become selective, and procedures may preserve formal continuity while losing structural function.
+
+Implementation drift occurs where the realised medium continues to operate in form but no longer carries the trust, credibility, credit, or continuation function it was meant to support.
+
+### 19.4.8 Law of Repair and Re-embodiment
+
+Realised systems require mechanisms for repair when trust, credibility, credit, or continuation fails.
+
+Repair may take the form of apology, correction, compensation, restructuring, enforcement, discipline, appeal, audit, reform, replacement, forgiveness, or reclassification. Repair is not merely moral restoration. It is the process through which damaged coordination structures are re-embodied in a form that can again support expectation, credibility, credit, or continuation.
+
+Where repair is impossible, refused, or structurally inadequate, failure may persist even if the formal system continues.
+
 ## 19.5 Summary — Law Layer
 
 # 20: Continuation and Interpretive Governance
@@ -2819,9 +2965,9 @@ The following definitions extend the ontological structures above into operation
 
 **Trust** is a context-bound interpretive judgement through which an observer deploys an expectation of continuation, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
 
-**Credibility** is the stabilisation of trust judgements across observers, time, and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating an agent’s expected continuation of behaviour.
+**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
 
-**Credit** is the extension of present commitments or resources, drawing upon stabilised credibility, to enable coordination beyond immediate capacity and across time.
+**Credit** is the extension of present coordination, access, value, authority, resources, or exposure, drawing upon stabilised credibility, on the basis of an observer-attributed future obligation, contribution, capacity, or fulfilment whose realisation depends on the expected continuation of the participant, relation, regime, or system across the relevant interval.
 
 The operational coherence of these definitions depends on the presence of minimal formal conditions within the receiving system.
 
