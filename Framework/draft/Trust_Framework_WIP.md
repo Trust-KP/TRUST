@@ -2835,7 +2835,17 @@ Admission without constraint is not governance. Where a regime admits trust, cre
 
 Constraint may take the form of limits, standards, duties, procedures, capital buffers, audits, sanctions, review, appeal, withdrawal rights, repair mechanisms, or other stabilising instruments.
 
-### 19.3.6 Law of Regime Reflexivity
+19.3.6 Law of Requisite Variety
+
+A regime can govern only what its admissibility mechanism has sufficient variety to distinguish.
+
+Where the range of structures, interpretations, signals, expectations, credibility formations, or credit extensions arising within a system exceeds the discriminating capacity of the regime, admissibility fails silently. The system may still possess rules, thresholds, procedures, or institutions, but those instruments no longer distinguish adequately between what should be admitted, constrained, excluded, revised, or escalated.
+
+Requisite variety therefore governs regime capacity. A simple rule may govern a simple system, but a complex coordination environment requires an admissibility mechanism capable of recognising its relevant differences. Where this capacity is absent, the regime may misclassify productive uncertainty as failure, destructive volatility as innovation, dependent signals as independent credibility, or overextended credit as admissible exposure.
+
+Regime failure therefore may arise not from the absence of governance, but from governance whose variety is insufficient for the system it attempts to govern.
+
+### 19.3.7 Law of Regime Reflexivity
 
 A regime must govern not only participants but also its own admissibility function.
 
@@ -2843,7 +2853,7 @@ If the regime loses the capacity to distinguish admissible from inadmissible str
 
 Regime failure therefore does not require the immediate collapse of institutions. A system may retain rules, offices, procedures, records, or authority while its admissibility function degrades. In such cases, continuation may persist formally while the regime layer becomes unable to govern trust, credibility, or credit coherently.
 
-### 19.3.7 Law of Regime Contestability
+### 19.3.8 Law of Regime Contestability
 
 Regime admission is always contestable from some observer position.
 
@@ -3532,6 +3542,13 @@ Existing trust literature often emphasises vulnerability, reliability, risk, rep
 | Credit | Delegation, control transfer, lending, authority, resource commitment |
 | Continuation | Social capital, institutional persistence, cooperation stability |
 
+Representative references include Mayer, Davis, and Schoorman on vulnerability and trust; Rousseau et al. on positive expectation and accepted vulnerability; Luhmann on trust and complexity reduction; Spence and Akerlof on signalling and information asymmetry; Hovland and Weiss on source credibility; Coleman on trust, risk, and control; Coase and Williamson on transaction costs; North on institutions as rules and constraints; Ashby on requisite variety; and the Bank of England on modern money creation through bank lending.
+
 Different theories enter the sequence at different points. Vulnerability-based theories focus mainly on the transition from expectation into trust deployment. Reliability theories focus on expectation. Signalling and reputation theories focus on the observation-signal-credibility pathway. Luhmann's complexity-reduction account focuses on temporal coordination. Coleman-type control and risk approaches focus on the transfer of control or resources, which corresponds to credit extension. Social-capital and institutional-trust theories focus on the continuation effects of stabilised trust and credibility across systems.
 
 The Trust Framework's contribution is therefore not to replace existing trust literature with a single competing definition, but to show how these interpretations occupy different positions within one cooperative sequence.
+
+This node-specific alignment also explains why different literatures appear to define trust differently. They are often not describing the same node. Some theories emphasise the vulnerability created when expectation is deployed; others emphasise reliability expectations, signal interpretation, reputation, institutional legitimacy, social capital, or control transfer. Within the Trust Framework, these are not mutually exclusive definitions of one flat object. They are interpretations of different positions within the cooperative sequence.
+
+The law layer developed in Chapter 19 extends this alignment by distinguishing the structural, interpretative, regime, and realisation conditions beneath these literatures. Signalling and information-asymmetry theories primarily concern interpretation. Institutional and governance theories primarily concern regime. Transaction-cost economics primarily concerns realisation cost. Monetary and credit theory primarily concerns realised credit extension. Trust theories centred on vulnerability and positive expectation primarily concern the transition from expectation into trust deployment.
+
