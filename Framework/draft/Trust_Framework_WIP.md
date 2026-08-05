@@ -1762,15 +1762,19 @@ Continuation obtains when a cooperative system retains sufficient coordination c
 
 Continuation requires the sustained operation of the temporal coordination cycle, the stability of credibility structures sufficient to support repeated trust deployment, and the availability of credit mechanisms enabling coordination beyond immediate interaction. Where any of these conditions fails, the system's capacity for continuation is diminished.
 
-Continuation is the terminal ontological state of the cooperative sequence: the condition toward which coexistence, the cooperative boundary, temporal coordination, contribution, signal, expectation, trust, and credibility are all oriented, and beyond which no further stage in the sequence is defined.
+Continuation is the terminal ontological state of the cooperative sequence: the condition toward which coexistence, the cooperative boundary, temporal coordination, contribution, observation, signals, expectation, trust, credibility, and credit are all oriented. No further ontological stage is defined beyond continuation within this sequence.
 
-Operationally, however, continuation is not achieved once and retained. Each completed cycle re-enters the sequence as a new instance of contribution, recursively reproducing the same terminal condition across successive cycles — as a day is ontologically terminal at midnight, while operationally recurring as the next day’s cycle.
+Operationally, however, continuation is not achieved once and retained. The forward interval opened by expectation, trust, credibility, or credit must be carried toward realisation, revision, repair, enforcement, default, forgiveness, transfer, or other resolution. Fulfilment converts expected future contribution into realised contribution. Where fulfilment occurs, the open commitment is reduced or closed. Where fulfilment fails, continuation may proceed only through restructuring, enforcement, withdrawal, replacement, or collapse.
+
+The closure of one forward commitment may itself become part of the participant's contribution history. Repayment, performance, compliance, delivery, maturation, restraint, repair, or other forms of realised contribution produce new traces that may later be observed, interpreted as signals, and incorporated into future trust, credibility, or credit judgements.
+
+Continuation therefore has a recursive structure. Each completed or failed cycle re-enters the sequence as a new instance of contribution, recursively reproducing or weakening the same terminal condition across successive cycles — as a day is ontologically terminal at midnight, while operationally recurring as the next day's cycle.
 
 The full cooperative sequence —
 
 **Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
 
-This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented.
+This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented, and the operational return through which their outcomes become available for future cycles.
 
 ## 14.8 Formalisation Summary
 
@@ -2359,7 +2363,19 @@ This variation does not necessarily imply contradiction. It reflects differences
 
 Observer-bound does not mean arbitrary. It means that trust, credibility, and credit arise from a relation between contribution-derived evidence and the observer or regime position through which that evidence is interpreted and acted upon.
 
-### 18.1.2 Attribution Principle
+### 18.1.2 Exposure-Condition Distinction Principle
+
+Trust, credibility, and credit require a distinction between the exposure admitted to the observer and the condition of the observer receiving it. The admitted exposure concerns what enters the observer's interpretative field as signal. The observer condition concerns the state through which that signal is received, weighted, and transformed into judgement.
+
+The observer may be an individual, institution, model, committee, market, court, regulator, or regime. Its condition may be cognitive, affective, procedural, institutional, computational, political, informational, operational, or environmental. These conditions may alter how the same contribution history or signal profile is interpreted, even where the observed participant has produced no new relevant contribution.
+
+A change in admitted exposure and a change in observer condition may therefore produce similar changes in trust, credibility, or credit, but they are not ontologically the same. A participant may produce a new relevant signal, altering the exposure. Alternatively, the observer may enter a different condition, altering the interpretation of the same signal structure. Trust may be withdrawn, intensified, suspended, redirected, or transformed because the observer's condition has changed rather than because the participant has changed.
+
+This distinction applies across the full sequence. In trust, it separates the signal that supports expectation from the observer condition under which expectation is deployed. In credibility, it separates the signal pattern being stabilised from the system condition under which stabilisation occurs. In credit, it separates the credibility structure being admitted for forward commitment from the regime condition under which exposure, risk, liquidity, mandate, or tolerance permits credit extension.
+
+Such shifts are real within the framework, but their attribution must be handled carefully. A change in trust, credibility, or credit caused by observer-condition variation should not automatically be treated as evidence of changed contribution, capacity, intention, reliability, or creditworthiness in the observed participant.
+
+### 18.1.3 Attribution Principle
 
 Trust, credibility, and credit attach to attributed sources rather than to contribution history directly.
 
@@ -2375,7 +2391,7 @@ Where attribution is accurate, trust, credibility, and credit attach to the sour
 
 Misattribution therefore creates false stability within the trust sequence and may later appear as sudden credibility collapse, credit failure, or regime breakdown.
 
-### 18.1.3 Non-Transposition Principle
+### 18.1.4 Non-Transposition Principle
 
 Validity at one stage of the trust sequence does not automatically validate the next stage.
 
@@ -2386,6 +2402,12 @@ Each transition requires its own structural warrant.
 The movement from signal to trust requires an admissible interpretation. The movement from trust to credibility requires stabilisation across sufficient time, context, or observer alignment. The movement from credibility to credit requires that the forward commitment remain proportionate to the credibility basis supporting it.
 
 Where a system carries validity from one stage into the next without such warrant, transposition error occurs. This error may arise even when the signal is real, the trust judgement is reasonable, or the credibility structure is genuine. The failure lies not in the component itself, but in the unjustified movement from one layer to another.
+
+### 18.1.5 Temporal Position Principle
+
+Trust, credibility, and credit are formed from particular temporal positions. An observer interprets present signals through retained past contribution, current conditions, and anticipated future realisation. The same signal may therefore support different judgements depending on when it is observed, how much prior history is available, and what future interval is being projected.
+
+No trust judgement is temporally neutral. Trust depends on expectation across an interval; credibility depends on stabilisation across repeated intervals; credit depends on extending present coordination into a future interval. A judgement that is valid at one temporal position may become invalid when new signals appear, when the relevant future interval changes, or when prior contribution is reinterpreted.
 
 ## 18.2 Principles of Trust Formation
 
@@ -2515,15 +2537,17 @@ A credibility structure may appear stable because many signals point in the same
 
 Credibility entropy explains why confidence may collapse suddenly when hidden dependence becomes visible or when the attribution structure supporting credibility is revised.
 
-### 18.3.8  Credibility Engineering Principle
+### 18.3.8 Credibility Engineering Principle
 
 Credibility can be deliberately shaped, but not arbitrarily created.
 
 A participant, institution, or regime may strengthen credibility by improving the quality, independence, visibility, attribution, consistency, and admissibility of the signals through which it is evaluated. It may also weaken credibility by obscuring signals, producing inconsistent outcomes, relying on dependent confirmations, or allowing the gap between apparent credibility and realised contribution to widen.
 
+Credibility may also be deliberately attacked. Malicious actors may degrade credibility by fabricating negative signals, suppressing positive signals, inducing attribution error, amplifying misleading dependencies, disrupting interpretive context, or altering the regime conditions through which signals are admitted and reconstructed.
+
 Credibility engineering therefore does not mean manufacturing belief without contribution. It means altering the conditions under which contribution-derived signals can be observed, interpreted, stabilised, and relied upon.
 
-Where credibility engineering improves signal quality and realised alignment, it strengthens the credibility structure. Where it merely amplifies appearance without increasing contribution depth, it increases credibility entropy.
+Where credibility engineering improves signal quality and realised alignment, it strengthens the credibility structure. Where it amplifies appearance without increasing contribution depth, or degrades credibility without corresponding deterioration in contribution, it increases credibility entropy and may produce false stabilisation or unjustified collapse.
 
 ### 18.3.9 Reconfiguration Principle
 
@@ -2533,11 +2557,84 @@ A new signal may strengthen credibility, weaken it, or alter the meaning of prev
 
 Credibility stabilisation therefore does not mean permanence. It means that belief has become durable enough to support reliance, while remaining open to revision when the signal structure changes.
 
-
-
-
+## 18.4 Principles of Credit Extension
 
 ## 18.4 Principles of Credit Extension
+
+Credit arises when credibility is admitted into present coordination as a forward commitment. It does not merely recognise that a participant has appeared trustworthy in the past. It permits present resources, authority, access, status, purchasing power, or other forms of value to be extended on the expectation that future contribution, repayment, performance, compliance, or continuation will occur.
+
+Credit therefore requires more than trust and more than credibility. Trust deploys expectation. Credibility stabilises expectation across signals and time. Credit converts stabilised expectation into present exposure.
+
+### 18.4.1 Forward Commitment Principle
+
+Credit is the present admission of expected future contribution. A credit relationship forms where an observer, regime, or system permits present coordination to proceed on the basis that a future obligation, performance, repayment, or contribution will be realised.
+
+The future contribution need not be fully known at the time credit is extended. It is sufficient that the system treats the expected future contribution as credible enough to support present exposure. Credit therefore always crosses a temporal interval: something is allowed now because something is expected later.
+
+### 18.4.2 Exposure Principle
+
+Credit creates exposure. To extend credit is to permit some present value, access, authority, recognition, or coordination capacity to depend on future realisation.
+
+This exposure may be financial, operational, social, institutional, legal, political, informational, or symbolic. A loan exposes capital to repayment risk. A professional licence exposes the public to future conduct. A security clearance exposes an institution to future misuse. A reputation-based appointment exposes an organisation to future performance. A certificate exposes an employer to the possibility that the credential does not correspond to actual capacity.
+
+Credit is therefore not merely belief. It is belief made consequential through exposure.
+
+### 18.4.3 Proportionality Principle
+
+Credit extension must remain proportionate to the credibility structure that supports it. Where credit exceeds the quality, independence, relevance, or stability of the credibility on which it relies, the system enters overextension.
+
+Overextension may occur even where each individual credit decision appears reasonable in isolation. If the underlying credibility signals are weak, correlated, outdated, misattributed, regime-produced, or dependent on the same hidden condition, then the aggregate credit structure may become fragile. Credit must therefore be assessed not only against apparent credibility, but against the depth and resilience of the credibility structure beneath it.
+
+### 18.4.4 Interval Principle
+
+Credit depends on the interval across which future realisation is expected. A credibility structure sufficient for short-term reliance may be insufficient for long-term credit. A participant may be credible for immediate performance but not for extended obligation; credible under stable conditions but not across stress, transition, succession, or regime change.
+
+The longer, more uncertain, or more condition-dependent the interval, the greater the burden on the credit regime to constrain exposure, monitor change, and update judgement. Credit failure often arises where the temporal interval expands beyond the credibility structure that originally justified extension.
+
+### 18.4.5 Aggregate Constraint Principle
+
+Credit must be bounded not only at the individual level but also at the aggregate level. A system may correctly admit individual credit relationships while failing to recognise their combined exposure, correlation, concentration, or dependency.
+
+Where many credit extensions rely on the same hidden assumption, the same signal source, the same regime condition, or the same future state of the world, the system may appear diversified while remaining structurally concentrated. Aggregate constraint is therefore necessary to prevent individually admissible credit from becoming systemically inadmissible.
+
+### 18.4.6 Credit Admissibility Principle
+
+Credit is admissible only where the regime can recognise, bound, and govern the exposure created by forward commitment. The relevant question is not only whether the participant appears credible, but whether the system can admit that credibility into a credit relationship without exceeding its tolerance, mandate, liquidity, capital, authority, legitimacy, or continuation conditions.
+
+Where a system extends credit without the capacity to track exposure, enforce obligation, update signals, or absorb failure, credit has been asserted rather than governed.
+
+### 18.4.7 Realisation and Default Principle
+
+Credit remains incomplete until the expected future contribution is realised, revised, transferred, forgiven, enforced, or defaulted. Repayment, performance, compliance, service delivery, continued conduct, or other forms of fulfilment reduce the outstanding forward commitment. Default occurs where expected realisation fails sufficiently that the credit relationship can no longer continue on its original terms.
+
+Default does not always mean total collapse. A credit relation may be restructured, repriced, sanctioned, secured, transferred, written down, or absorbed by a wider regime. These are not outside credit. They are regime responses to failed, partial, delayed, or transformed realisation.
+
+### 18.4.8 Credit Withdrawal Principle
+
+Credit may be withheld, reduced, suspended, repriced, or withdrawn where the supporting credibility structure weakens, where observer condition changes, where regime tolerance contracts, or where exposure becomes disproportionate to expected future realisation.
+
+Withdrawal of credit should not automatically be treated as proof that the participant has become less credible. It may arise from changed signal exposure, changed observer condition, changed regime constraint, changed aggregate exposure, or changed temporal horizon. The framework therefore distinguishes deterioration in the participant from contraction in the credit regime.
+
+### 18.4.9 Credit Fulfilment Principle
+
+Credit remains open until the expected future contribution is realised, partially realised, revised, transferred, forgiven, enforced, defaulted, or otherwise resolved. Credit extension admits future contribution into present coordination; fulfilment returns that expected contribution as realised contribution.
+
+Where fulfilment occurs, the open credit relation is reduced or discharged in whole or in part. Where fulfilment fails, the relation may remain open, be restructured, be repriced, be enforced, be withdrawn, or collapse. These outcomes do not sit outside credit. They are the continuation conditions through which credit is tested across time.
+
+In monetary lending, this principle appears in accounting form. When a bank extends a loan, it creates a loan asset and a matching deposit liability. When the borrower repays principal, the loan balance is reduced and the corresponding deposit money is extinguished. More generally, however, fulfilment need not take the form of repayment. It may take the form of performance, delivery, compliance, restraint, maturation, repair, public service, professional conduct, or any other realised contribution that resolves the forward commitment on which credit was extended.
+## 18.5 Summary — Principle Layer
+
+The principles in this chapter define the governing constraints under which trust, credibility, and credit may form, stabilise, extend, weaken, or close. They do not replace the ontology of the framework. They express the structural rules by which the ontology becomes usable within observer-bound, temporally extended, and regime-conditioned systems.
+
+The general principles establish that trust, credibility, and credit are always observer-bound, exposure-conditioned, attribution-dependent, non-transposable, and temporally positioned. No judgement arises from signal alone. A signal must be admitted into an observer's interpretative field, received under some observer condition, attributed to some source, constrained by its proper level, and judged from a particular temporal position.
+
+The trust principles explain how interpreted signals support expectation and how expectation becomes deployed under uncertainty. Trust is not mere belief, feeling, or preference. It is the deployment of expectation across a temporal interval, within a context in which future contribution remains uncertain but sufficiently interpretable.
+
+The credibility principles explain how trust-relevant signals stabilise across time, repetition, configuration, and reconstruction. Credibility is not a single act of trust. It is the accumulated and structured condition through which a participant, system, institution, or signal source becomes treated as capable of supporting repeated expectation.
+
+The credit principles explain how credibility becomes present exposure to future realisation. Credit extends coordination beyond immediate interaction by admitting expected future contribution into present action, access, authority, value, or obligation. Because credit opens a forward commitment, it remains incomplete until that commitment is fulfilled, revised, transferred, enforced, forgiven, defaulted, or otherwise resolved.
+
+Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. Chapter 19 develops the laws that follow from this structure: the stronger regularities that govern what trust, credibility, and credit can and cannot do across cooperative systems.
 
 # 19: Laws
 
