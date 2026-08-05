@@ -3087,35 +3087,51 @@ Boundary and failure conditions therefore concern the points at which a trust re
 
 ## 21.1 Boundary Conditions
 
-A boundary condition arises where the cooperative boundary becomes uncertain, contested, asymmetrical, overextended, or misclassified.
+Boundary conditions concern the point at which coexistence becomes admissible as cooperation.
+
+Boundary conditions in this chapter concern admissibility, not representability. The Interpretative Architecture asks whether a meaning can be positioned and reconstructed within the framework's interpretative space. Regime boundary conditions ask whether a relation, signal, expectation, credibility structure, or credit extension may be admitted, governed, constrained, or relied upon within a trust regime. A relation may be interpretable while remaining inadmissible, contested, coercive, excessive, or insufficiently governable.
 
 The cooperative boundary does not merely separate interaction from non-interaction. It separates relations that may be admitted as cooperation from relations that remain external, unstable, coercive, premature, excessive, or insufficiently governable.
 
-A relation may cross the boundary from one observer position while remaining outside it from another. A state may treat tax collection, military service, or regulatory levy as cooperative public coordination, while a participant may experience the same relation as extraction, compulsion, or domination. An employer may treat compliance as organisational cooperation, while an employee may experience it as forced coordination. A platform may treat user participation as consent, while users may experience lock-in or dependency.
+A relation may cross the boundary from one observer position while remaining outside it from another. A state may treat tax collection, military service, or regulatory levy as cooperative public coordination, while a participant may experience the same relation as extraction, compulsion, or domination. An employer may treat compliance as organisational cooperation, while an employee may experience it as forced coordination. A platform may treat user participation as consent, while users may experience dependency or lock-in.
 
 The Trust Framework therefore does not treat repeated behaviour, compliance, enforceability, or coordination as sufficient evidence of cooperation. The relevant question is whether the relation is admissible as cooperation within the relevant regime, and from which observer position that admissibility is being asserted.
 
-Boundary failure may occur in several ways.
+Boundary conditions are therefore not only entry conditions. They also govern exclusion, contraction, expansion, asymmetry, and reclassification. A trust regime must be able to determine when interaction may enter cooperation, when cooperation must be constrained, when credit must contract, when coercive coordination must remain outside the cooperative boundary, and when a relation must be reclassified because its governing conditions have changed.
 
-**Premature admission** occurs where a relation is treated as cooperative before sufficient signal, expectation, trust, credibility, or regime constraint exists.
+## 21.2 Sequence Failure Conditions
 
-**Coercive admission** occurs where a dominant participant or regime classifies compliance as cooperation despite the other participant remaining below the cooperative boundary.
+Failure may occur at any point in the cooperative sequence. A failure condition arises where a stage cannot obtain, cannot pass into the next stage, or passes into the next stage in distorted form.
 
-**Excessive admission** occurs where trust, credibility, or credit is extended beyond the regime's capacity to govern the exposure created.
+**Coexistence failure** occurs where participants no longer share a sufficient environment of mutual effect for coordination to remain possible. Interaction may cease, fragment, or become so destructive that no cooperative boundary can be formed.
 
-**Exclusion failure** occurs where the regime fails to recognise valid contribution, warranted interpretation, genuine credibility, or admissible credit.
+**Cooperative boundary failure** occurs where the system cannot distinguish admissible cooperation from external, premature, excessive, coercive, or insufficiently governable interaction. The boundary may be crossed asymmetrically, misclassified, overextended, or contracted.
 
-**Boundary contraction** occurs where the regime narrows admissibility so far that coordination reverts toward immediate exchange, command, withdrawal, or bare coexistence.
+**Temporal coordination failure** occurs where repeated interaction does not generate stable temporal expectation. Participants may interact, but the timing, sequence, rhythm, memory, duration, or recurrence of coordination remains too unstable to support reliable expectation. Temporal failure may also occur where the interval opened by trust or credit exceeds the system's capacity to carry it toward fulfilment or resolution.
 
-A boundary condition does not always indicate collapse. It may indicate that the system has reached the limit of what its current admissibility mechanism can recognise, govern, or sustain.
+**Contribution failure** occurs where expected contribution does not occur, is insufficient for continuation, or produces effects that weaken rather than support the cooperative system.
 
-## 21.2 Failure Conditions
+**Observation failure** occurs where contribution occurs but does not become accessible to the relevant observer, regime, or system. The contribution may be real, but its effects remain hidden, delayed, distorted, inaccessible, or unevenly distributed.
+
+**Signal failure** occurs where observation does not become meaning-bearing, or where signals are too noisy, ambiguous, dependent, manipulated, delayed, or misclassified to support expectation.
+
+**Expectation failure** occurs where interpreted signals fail to support a coherent projection of future contribution. Expectation may be absent, unstable, contradictory, excessive, or insufficiently grounded.
+
+**Trust failure** occurs where expectation is not deployed, is deployed outside its proper context, is withdrawn, or is contradicted by later realised contribution.
+
+**Credibility failure** occurs where trust-relevant judgement fails to stabilise, stabilises falsely, or becomes detached from the depth, independence, relevance, or reliability of its supporting signals.
+
+**Credit failure** occurs where forward exposure exceeds the credibility, regime capacity, temporal interval, or expected fulfilment available to support it.
+
+**Continuation failure** occurs where the system cannot reproduce the conditions required for trust, credibility, credit, fulfilment, repair, or resolution across successive cycles.
+
+## 21.3 Cross-Layer Failure Conditions
 
 Failure conditions arise where the sequence through which contribution becomes trust, credibility, credit, and continuation no longer functions coherently.
 
 A failure may occur at any layer of the framework.
 
-### 21.2.1 Structural Failure
+### 21.3.1 Structural Failure
 
 Structural failure occurs where the ordered sequence itself cannot be sustained.
 
@@ -3125,7 +3141,7 @@ Structural failure is not necessarily caused by error or deception. It may arise
 
 Where structural failure occurs, the sequence does not advance through that path.
 
-### 21.2.2 Interpretative Failure
+### 21.3.2 Interpretative Failure
 
 Interpretative failure occurs where meaning no longer remains adequately connected to the structure it claims to interpret.
 
@@ -3135,7 +3151,7 @@ Self-deception and deception of others are interpretative failures where a meani
 
 Interpretative failure may be effective for a time. It may organise behaviour, stabilise apparent credibility, support credit extension, or preserve regime coherence. But where meaning remains detached from warrant, later correction may appear as sudden trust withdrawal, credibility collapse, credit failure, or regime rupture.
 
-### 21.2.3 Attribution Failure
+### 21.3.3 Attribution Failure
 
 Attribution failure occurs where outcomes, signals, trust judgements, credibility structures, or credit extensions attach to the wrong source.
 
@@ -3145,7 +3161,7 @@ Attribution failure is dangerous because it can propagate. Misattributed signals
 
 Where attribution later corrects, the collapse may appear sudden even though the underlying support was absent from the beginning.
 
-### 21.2.4 Credibility Failure
+### 21.3.4 Credibility Failure
 
 Credibility failure occurs where stabilised trust-relevant judgement no longer corresponds to the depth, independence, relevance, or reliability of the signals supporting it.
 
@@ -3155,7 +3171,7 @@ Credibility entropy is the condition in which apparent credibility exceeds actua
 
 Credibility failure may also be deliberately engineered. Malicious actors may fabricate negative signals, suppress positive signals, induce attribution error, amplify misleading dependencies, disrupt interpretive context, or manipulate admissibility conditions.
 
-### 21.2.5 Credit Failure
+### 21.3.5 Credit Failure
 
 Credit failure occurs where forward exposure exceeds the credibility, regime capacity, or expected fulfilment available to support it.
 
@@ -3165,7 +3181,7 @@ Credit overextension may occur even where each individual extension appears admi
 
 Credit failure does not always mean immediate collapse. The relation may be restructured, repriced, enforced, transferred, forgiven, written down, withdrawn, or absorbed by a wider regime. Failure becomes systemic where such resolution mechanisms are insufficient for the scale or correlation of exposure.
 
-### 21.2.6 Regime Failure
+### 21.3.6 Regime Failure
 
 Regime failure occurs where the admissibility mechanism can no longer distinguish what it is required to govern.
 
@@ -3175,7 +3191,7 @@ Regime capture is a specific form of regime failure. It occurs where the regime'
 
 Regime failure may therefore appear as arbitrary exclusion, indiscriminate admission, false stability, overextended credit, uncorrectable interpretation, or inability to distinguish productive uncertainty from destructive volatility.
 
-### 21.2.7 Realisation Failure
+### 21.3.7 Realisation Failure
 
 Realisation failure occurs where admitted structures cannot be carried into practice or resolved across time.
 
@@ -3183,7 +3199,7 @@ A rule may be valid but unenforced. A credential may exist but no longer corresp
 
 Realisation failure includes implementation drift, where the realised medium continues in form while losing the trust, credibility, credit, or continuation function it was meant to support.
 
-### 21.2.8 Continuation Failure
+### 21.3.8 Continuation Failure
 
 Continuation failure occurs where the system can no longer reproduce the conditions required for trust, credibility, credit, and resolution across successive cycles.
 
