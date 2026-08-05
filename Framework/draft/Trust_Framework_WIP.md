@@ -2955,11 +2955,121 @@ The credit principles explain how credibility becomes present exposure to future
 
 Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. Chapter 19 develops the laws that follow from this structure: the stronger regularities that govern what trust, credibility, and credit can and cannot do across cooperative systems.
 
-# 20: Continuation and Interpretive Governance
+# 20. Continuation and Interpretive Governance
+
+Chapter 17 established Regime as the admissibility layer of the Trust Framework. Chapter 18 developed the structural, interpretative, regime, and realisation laws that follow from the framework's layered architecture. Chapter 19 developed the principles through which those laws become operational for trust, credibility, and credit.
+
+This chapter examines how a regime continues.
+
+A trust regime does not continue merely because the cooperative system retains rules, institutions, records, offices, or formal authority. It continues only where its admissibility function remains capable of governing the formation, stabilisation, extension, revision, and resolution of trust, credibility, and credit across successive cycles of coordination.
+
+Continuation therefore requires interpretive governance. A regime must preserve not only the ability to enforce rules, but also the ability to maintain, transmit, revise, and contest the meanings through which trust, credibility, credit, and continuation remain governable.
+
+At this level, continuation depends on the coupling of four layers: Structure, Interpretation, Regime, and Realisation. Structure gives coordination a form. Interpretation gives that form meaning. Regime determines which meanings and structures are admissible. Realisation carries them into practice. A system may persist outwardly while weakening internally if one layer survives but loses its pathway into the others.
 
 ## 20.1 Continuation Conditions
+
+Regime continuation obtains when a cooperative system preserves the conditions required for trust, credibility, credit, and continuation to remain coherent across time.
+
+This requires more than repeated behaviour or institutional persistence. A system may continue to operate while its governing function degrades. It may preserve offices, rules, procedures, records, and symbols while losing the capacity to distinguish valid from invalid signals, warranted from unwarranted interpretations, genuine from apparent credibility, or admissible from overextended credit.
+
+A regime continues coherently only where four conditions remain sufficiently coupled.
+
+**Structural continuity** requires that the sequence through which contribution, observation, signal, expectation, trust, credibility, credit, and continuation remain distinguishable. Where these stages collapse into one another, the regime can no longer identify where coordination has failed.
+
+**Interpretive continuity** requires that signals, records, roles, practices, obligations, and commitments remain meaningfully readable by current and future observers. Where meaning becomes unrecoverable, the system may retain form while losing its capacity for coherent interpretation.
+
+**Regime continuity** requires that the system retain the capacity to decide which signals, expectations, credibility structures, and credit extensions may operate within it. Where this function degrades, the regime may admit what it cannot govern or exclude what it should recognise.
+
+**Realisation continuity** requires that admitted commitments remain capable of being carried into practice and resolved through fulfilment, repair, enforcement, withdrawal, default, forgiveness, transfer, substitution, or other resolution. Where commitments cannot be realised or resolved, continuation persists only in form while forward obligations accumulate unresolved.
+
+Regime continuation therefore depends not on the immobility of these layers, but on their reproducible coupling. Interpretation, structure, regime, and realisation may each change across time. Continuation persists where their relations remain sufficiently traceable, transmissible, revisable, and governable.
+
 ## 20.2 Interpretive Governance
+
+Interpretive governance is the regime function through which meaning is preserved, transmitted, constrained, revised, and made contestable across time.
+
+Signals do not interpret themselves. Records, credentials, laws, rituals, contracts, metrics, models, precedents, standards, and institutional memories require interpretive structures through which observers can recover what they mean and how they may be used.
+
+A regime therefore governs not only behaviour, but meaning. It determines which interpretations are admissible, which are excluded, which require review, which may support trust, which may stabilise credibility, and which may justify credit extension.
+
+Interpretive governance may operate through texts, courts, professional bodies, standards, education, canon, precedent, audit, ritual, certification, model validation, public reasoning, institutional memory, or other carriers of meaning. These carriers do not merely store information. They preserve the conditions under which information can continue to be read.
+
+The framework does not decide whether a later interpretation is morally justified merely because it supports continuation. It records the operation by which meaning is rewritten, re-registered, integrated, transmitted, contested, or lost, and then examines the structural consequences of that operation.
+
+Where interpretive governance is strong, a regime can adapt meaning without losing continuity. Where it is weak, the regime may become rigid, arbitrary, incoherent, or vulnerable to semantic rupture.
+
 ## 20.3 Conditions Governing Interpretation Across the Regime
+
+A regime must govern interpretation without eliminating interpretive variation entirely.
+
+If interpretation is unconstrained, trust and credibility become unstable because signals may be read in any direction. If interpretation is over-constrained, the regime becomes unable to recognise new contribution, changed conditions, productive uncertainty, or legitimate contestation.
+
+Interpretive governance therefore requires a balance between stability and revisability.
+
+A regime must preserve enough stability for participants to understand what signals, roles, obligations, and commitments mean. It must also preserve enough revisability for meanings to adapt when new evidence, new participants, new technologies, new risks, or new failures appear.
+
+This balance depends on several conditions.
+
+**Carrier condition:** the regime must preserve carriers through which meaning can be transmitted, including records, practices, institutions, standards, education, and memory.
+
+**Traceability condition:** the regime must preserve enough traceability for future observers to reconstruct how meanings, obligations, credentials, rules, credibility structures, or credit claims were formed, transferred, revised, or re-registered.
+
+**Contestability condition:** the regime must allow interpretations to be challenged where attribution, warrant, admissibility, or realisation is disputed.
+
+**Revision condition:** the regime must possess procedures through which meanings can be corrected, updated, narrowed, expanded, reweighted, or retired without collapsing the whole interpretive order.
+
+**Transmission condition:** the regime must enable future observers to recover the meaning of signals, records, roles, and obligations without requiring direct access to the original contribution history.
+
+**Constraint condition:** the regime must prevent interpretations from being admitted merely because they are useful, powerful, repeated, or institutionally convenient where they exceed available warrant.
+
+A regime that cannot govern interpretation cannot govern trust. It may still command behaviour, enforce rules, or preserve institutions, but it cannot reliably sustain the interpretive conditions through which trust, credibility, and credit remain coherent.
+
+## 20.4 Interpretive Transmission and Regime Memory
+
+Continuation across generational or institutional time requires interpretive transmission.
+
+A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where carriers fail, form may remain while meaning becomes unstable, fragmented, or unrecoverable.
+
+Regime memory is not merely the accumulation of records. It is the organised capacity to preserve why records matter, how signals should be read, what obligations they imply, and under what conditions their meaning may change.
+
+Interpretive continuation becomes stronger when meaning is no longer carried only by particular persons, memories, lineages, schools, or informal practices, but is coupled to repeatable institutional pathways through which interpretation can re-enter structure across generations.
+
+A ledger without interpretive memory may preserve entries that no longer guide judgement. A law without interpretive continuity may preserve words whose application becomes arbitrary. A credential without institutional memory may preserve status without capability. A ritual without transmission may preserve form without meaning.
+
+Interpretive transmission therefore supports continuation by allowing meaning to survive beyond the immediate observer. It enables trust, credibility, and credit to be reconstructed by future participants without restarting the entire cooperative sequence from the beginning.
+
+## 20.5 Regime Adaptation and Semantic Drift
+
+No regime preserves meaning without change.
+
+As participants, technologies, risks, environments, and coordination purposes change, the meanings attached to signals, roles, obligations, credentials, and commitments may drift. Semantic drift is not automatically failure. It becomes failure only where meaning changes without the regime recognising, governing, or revising the change.
+
+A regime must therefore distinguish adaptive reinterpretation from interpretive breakdown.
+
+Adaptive reinterpretation occurs where meaning changes in response to new conditions while maintaining a traceable relation to the structure it interprets. Interpretive breakdown occurs where meaning changes in a way that severs the relation between signal, warrant, attribution, admissibility, and realisation.
+
+A regime may preserve structure, constraint, and practice while re-registering the interpretation through which those elements are explained. Such re-registration may support continuation by allowing inherited structures to become meaningful within a new regime. It may also obscure origin, alter attribution, weaken traceability, or stabilise a meaning that later becomes difficult to contest.
+
+The same formal object may therefore remain while its regime meaning changes. A licence, currency, professional title, legal duty, public office, family obligation, ritual, or credit instrument may persist in name while the expectations attached to it shift.
+
+Regime adaptation is coherent only where such shifts remain governable.
+
+## 20.6 Continuation Through Governance
+
+A regime continues by reproducing its admissibility function across successive cycles.
+
+Each cycle of trust, credibility, and credit produces new contribution history. That history generates new observations, signals, expectations, fulfilments, failures, repairs, and disputes. The regime must incorporate these outcomes without losing the ability to distinguish what they mean.
+
+Continuation through governance therefore requires recursive discipline. The regime must use outcomes to update interpretation without allowing every outcome to dissolve the structure of interpretation itself.
+
+Where governance succeeds, trust, credibility, and credit remain revisable but coherent. Where governance fails, the system may continue to operate while its trust structure becomes distorted, its credibility structure becomes inflated or suppressed, its credit structure becomes overextended, or its meanings become detached from the contributions they claim to interpret.
+
+Continuation does not require interpretation, structure, regime, and realisation to remain unchanged. It requires their coupling to remain reproducible across time.
+
+The purpose of interpretive governance is therefore not to freeze meaning. It is to preserve the conditions under which meaning can remain transmissible, contestable, revisable, traceable, and sufficiently stable to support continuation.
+
+Chapter 21 examines the boundary and failure conditions that arise when these conditions fail.
 
 # 21: Boundary and Failure Conditions
 
