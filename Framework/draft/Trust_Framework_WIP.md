@@ -2344,7 +2344,7 @@ A principle states a necessary relation within the Trust Framework. It identifie
 
 For this reason, the principles are system-relative in application but structurally general in form. Different cooperative systems may realise them through different rules, institutions, customs, technologies, or practices. The principle remains the same, while its realisation varies by domain.
 
-This chapter organises the principles across three movements:
+This chapter organises the principles across a general layer and three applied movements
 - principles governing trust formation;
 - principles governing credibility stabilisation; and
 - principles governing credit extension.
@@ -2437,7 +2437,7 @@ Observation may be incomplete, delayed, distorted, selective, or unevenly distri
 
 Signals do not determine trust by themselves.
 
-An observed trace becomes trust-relevant only when it is interpreted through an evaluation principle, lens, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
+An observed trace becomes trust-relevant only when it is interpreted through interpretative lens, evaluation rule, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
 
 Trust formation therefore depends not only on signal availability, but also on the interpretive structure through which signals are read.
 
@@ -2559,8 +2559,6 @@ Credibility stabilisation therefore does not mean permanence. It means that beli
 
 ## 18.4 Principles of Credit Extension
 
-## 18.4 Principles of Credit Extension
-
 Credit arises when credibility is admitted into present coordination as a forward commitment. It does not merely recognise that a participant has appeared trustworthy in the past. It permits present resources, authority, access, status, purchasing power, or other forms of value to be extended on the expectation that future contribution, repayment, performance, compliance, or continuation will occur.
 
 Credit therefore requires more than trust and more than credibility. Trust deploys expectation. Credibility stabilises expectation across signals and time. Credit converts stabilised expectation into present exposure.
@@ -2622,6 +2620,7 @@ Credit remains open until the expected future contribution is realised, partiall
 Where fulfilment occurs, the open credit relation is reduced or discharged in whole or in part. Where fulfilment fails, the relation may remain open, be restructured, be repriced, be enforced, be withdrawn, or collapse. These outcomes do not sit outside credit. They are the continuation conditions through which credit is tested across time.
 
 In monetary lending, this principle appears in accounting form. When a bank extends a loan, it creates a loan asset and a matching deposit liability. When the borrower repays principal, the loan balance is reduced and the corresponding deposit money is extinguished. More generally, however, fulfilment need not take the form of repayment. It may take the form of performance, delivery, compliance, restraint, maturation, repair, public service, professional conduct, or any other realised contribution that resolves the forward commitment on which credit was extended.
+
 ## 18.5 Summary — Principle Layer
 
 The principles in this chapter define the governing constraints under which trust, credibility, and credit may form, stabilise, extend, weaken, or close. They do not replace the ontology of the framework. They express the structural rules by which the ontology becomes usable within observer-bound, temporally extended, and regime-conditioned systems.
@@ -2636,7 +2635,7 @@ The credit principles explain how credibility becomes present exposure to future
 
 Together, these principles establish the operational grammar of the Trust Framework. They show how contribution becomes observable, how observation becomes signal, how signal supports expectation, how expectation becomes trust, how trust stabilises as credibility, how credibility permits credit, and how credit is tested through continuation. Chapter 19 develops the laws that follow from this structure: the stronger regularities that govern what trust, credibility, and credit can and cannot do across cooperative systems.
 
-# 19: Laws
+# 19. Laws
 
 ## 19.1 Basis of Laws
 ## 19.2 Laws of Trust Formation
