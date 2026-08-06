@@ -2337,7 +2337,7 @@ The following chapters derive the laws and principles that follow from these reg
 
 The preceding chapter established Regime as the admissibility layer of the Trust Framework. Laws describe the stronger regularities that follow from the framework's layered architecture. Principles, developed in the following chapter, translate those laws into operational constraints for trust, credibility, and credit.
 
-In structural order, the sequence is ontology, law, principle, rule, and practice. In exposition, this Part introduces regime and principles first so that the laws can be stated against an already developed operational vocabulary.
+In structural order, the sequence is ontology, law, principle, rule, and practice. In exposition, this Part introduces regime first so that the laws and principles can be stated against an already developed admissibility vocabulary.
 
 A law within the Trust Framework is not a legal rule, ethical command, institutional policy, or empirical prediction. It is a necessary relation within a defined layer of the framework. Because the framework distinguishes Structure, Interpretation, Regime, and Realisation, its laws must also be distinguished by layer.
 
@@ -3081,7 +3081,7 @@ The purpose of interpretive governance is therefore not to freeze meaning. It is
 
 Chapter 21 examines the boundary and failure conditions that arise when these conditions fail.
 
-# 21. Boundary, Failure Condition and Regime Summary 
+# 21. Boundary and Failure Conditions
 
 Chapter 20 examined how a trust regime continues by preserving the coupling of Structure, Interpretation, Regime, and Realisation across time. This chapter examines what happens when that coupling weakens, breaks, or becomes contested.
 
@@ -3135,7 +3135,7 @@ Failure conditions arise where the sequence through which contribution becomes t
 
 A failure may occur at any layer of the framework.
 
-### 21.3.1 Structural Failure
+### 21.3.1 Layer-Coupling Failure
 
 Structural failure occurs where the ordered sequence itself cannot be sustained.
 
@@ -3219,7 +3219,7 @@ Continuation failure may take the form of suspension, substitution, or rupture.
 
 Suspension does not necessarily destroy continuation. Substitution does not necessarily destroy continuation. Rupture threatens continuation because the pathway through which the system reproduces trust, credibility, credit, or meaning is no longer available.
 
-## 21.3 Boundary and Failure Summary
+## 21.4 Boundary and Failure Summary
 
 Boundary and failure conditions show that trust regimes do not fail only at the point of visible collapse.
 
