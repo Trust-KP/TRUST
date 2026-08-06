@@ -3259,6 +3259,142 @@ The realisation regime concerns the rules, institutions, procedures, thresholds,
 
 Realised practice concerns the actual cases in which these structures are embodied: mortgages, insurance, certification, airline miles, professional guilds, family duties, platform systems, institutional authority, and other concrete coordination forms.
 
+The formal sequence remains:
+
+**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
+
+At the realisation layer, the question is not what the sequence is, or what a regime may admit, but how the sequence becomes executable in actual systems.
+
+## 22.1 Purpose of the Realisation Layer
+
+The purpose of the realisation layer is to describe the operational conditions under which trust, credibility, credit, and continuation coherently form within actual systems.
+
+A realised trust system may be interpersonal, institutional, technological, legal, financial, familial, professional, civic, or computational. The realised form may vary, but the operational requirement remains: there must be some pathway through which contribution can become observable, observation can become signal, signal can support expectation, expectation can be deployed as trust, trust-relevant judgement can stabilise as credibility, credibility can support credit, and credit can be tested through continuation.
+
+Realisation therefore concerns execution. It asks whether the receiving system possesses the practical carriers, records, interfaces, roles, procedures, instruments, media, or behaviours through which the framework's structures can operate.
+
+## 22.2 Indeterminacy — Conditions Before Operational Form
+
+Realisation begins from operational indeterminacy.
+
+Participants may share an environment, affect one another, produce conduct, generate traces, carry obligations, hold memories, occupy roles, or possess records before any trust-relevant operational form has settled.
+
+At this stage, the system may contain potential coordination, potential exposure, potential reliance, potential signal formation, and potential conflict, but these remain operationally unsettled. It may not yet be clear who is participating, what relation exists, what conduct matters, which traces are relevant, what obligations are active, or whether trust, credibility, or credit can coherently form.
+
+Operational indeterminacy does not mean nothing is happening. It means that realised conditions have not yet been organised into a stable coordination pathway.
+
+## 22.3 Boundary — Entry into Operational Relation
+
+Boundary formation occurs where realised conditions enter an operational relation.
+
+Coexistence becomes operational where participants share an environment in which their actions can affect one another's continuation conditions. This may occur through physical proximity, communication, household membership, market participation, platform participation, shared infrastructure, jurisdiction, ecological interdependence, or institutional contact.
+
+The cooperative boundary becomes operational where coexistence is sufficiently structured for cooperation to proceed. This may occur through consent, recognition, invitation, role assignment, repeated interaction, contract, membership, shared task, institutional admission, mutual dependency, or regime recognition.
+
+Boundary crossing is not always symmetrical. One observer or regime may treat a relation as cooperative while another participant experiences it as coercive, unstable, premature, extractive, or insufficiently governable. The boundary is therefore operationally valid only relative to the observer and regime position from which admissibility is asserted.
+
+The boundary becomes consequential where it changes what participants may do next: rely, coordinate, exchange, delegate, monitor, enforce, repair, withdraw, or extend credit.
+
+## 22.4 Distinction — Participants, Actions, Traces, and Instruments
+
+Operational distinction separates the components through which realised coordination can proceed.
+
+The system must distinguish participants, roles, actions, outcomes, traces, observations, signals, obligations, instruments, records, time intervals, exposures, and closure conditions.
+
+Contribution does not appear as an abstract category. It appears as work performed, payment made, care provided, duty fulfilled, promise broken, service delivered, record created, obligation accepted, rule followed, repair attempted, or failure produced.
+
+Observation does not appear as pure awareness. It appears through memory, report, audit, perception, ledger, sensor, testimony, document, platform record, institutional review, or model output.
+
+Signals do not exist merely because something has happened. A realised outcome becomes a signal only where it enters an interpretative structure as meaning-bearing. The same outcome may become different signals for different observers, or may fail to become a signal where the system lacks access, category, attention, or interpretative capacity.
+
+Distinction also applies to instruments. Money, contracts, certificates, scores, permissions, credentials, licences, policies, claims, ratings, titles, records, and tokens may all carry operational meaning, but only where the system distinguishes what each instrument represents, who it binds, what obligation it carries, and how fulfilment or failure will be recognised.
+
+## 22.5 Possibility — Operational Pathways
+
+Possibility opens where realised distinctions create available pathways for coordination.
+
+Once participants, actions, traces, obligations, instruments, and intervals are distinguished, the system may support different operational paths: reliance, refusal, monitoring, inquiry, repair, sanction, delegation, access, exchange, credit extension, withdrawal, fulfilment, default, forgiveness, or continuation.
+
+These pathways are not all equivalent, and they are not all available in every realised system. A family, bank, insurer, profession, court, platform, market, or computational system may each admit different operational possibilities.
+
+Trust becomes possible where expectation can be deployed under uncertainty within coordination.
+
+Credibility becomes possible where trust-relevant judgement can stabilise across time and interaction contexts.
+
+Credit becomes possible where stabilised credibility can support present extension across a future interval.
+
+Continuation becomes possible where the forward interval can be carried toward fulfilment, failure, repair, withdrawal, transfer, substitution, or recursive renewal.
+
+## 22.6 Existence — Trust, Credibility, and Credit in Operation
+
+Trust, credibility, and credit exist operationally where the framework's structures alter realised coordination.
+
+Trust exists operationally where expectation is deployed under uncertainty in a coordination relation.
+
+Credibility exists operationally where trust-relevant judgement stabilises sufficiently to support repeated or wider coordination.
+
+Credit exists operationally where stabilised credibility supports present extension across a future interval.
+
+The operational coherence of these states depends on the presence of minimal formal conditions within the receiving system.
+
+Signals must be recognisable within the interpretative structure of the system.
+
+Interpretation must occur under sufficiently consistent evaluation principles.
+
+Stabilisation must persist across sufficient time or observer alignment to reduce continual reinterpretation.
+
+Forward deployment must occur across a non-zero temporal interval.
+
+Fulfilment, failure, withdrawal, repair, enforcement, or closure must be capable of returning to the system as contribution history.
+
+These conditions do not prescribe how systems should operate. They describe the minimal formal conditions under which trust, credibility, and credit may coherently form within realised cooperative systems.
+
+Trust does not require an externalised or institutional regime, but it does require a governing condition. In coordinate or relational settings, that condition may be carried by role, memory, affection, duty, reciprocity, proximity, identity, or repeated interaction. In institutional settings, it may be carried by procedure, contract, law, record, standard, enforcement, or system design.
+
+Regime becomes explicit where the governing condition is externalised, formalised, made transferable, scaled across observers, or extended into credit.
+
+## 22.7 Continuation — Fulfilment, Failure, and Recursive Closure
+
+Continuation becomes operational where the forward intervals opened by trust, credibility, or credit are carried toward fulfilment, repair, enforcement, withdrawal, default, forgiveness, transfer, substitution, or other resolution.
+
+Realised outcomes do not merely end a cycle. They return to the system as contribution history. Repayment, delivery, compliance, performance, care, misconduct, default, repair, apology, sanction, reform, or failure may all become new observable traces.
+
+These traces may later become observations, signals, expectations, trust judgements, credibility structures, or credit conditions. In this way, the realised outcome of one cycle becomes the evidential substrate of the next.
+
+Operational closure therefore has two functions. It resolves the open interval created by trust, credibility, or credit, and it generates the material from which future coordination will be interpreted.
+
+## 22.8 Realisation Regime
+
+The realisation regime concerns the governing mechanisms through which realised systems admit, constrain, interpret, extend, monitor, withdraw, repair, or enforce trust, credibility, and credit.
+
+In a mortgage system, the realisation regime includes underwriting standards, affordability tests, valuation methods, security rights, repayment schedules, accounting treatment, capital rules, foreclosure procedures, and regulatory oversight.
+
+In a professional system, it may include training standards, certification, disciplinary procedures, institutional reputation, peer recognition, licensing, and continuing obligation.
+
+In a family system, it may include relational roles, remembered conduct, duty, affection, reciprocity, sanction, repair, forgiveness, and recurring household practice.
+
+In a platform or computational system, it may include ratings, access rules, identity verification, moderation, automated scoring, data provenance, appeal mechanisms, and account restrictions.
+
+The realisation regime is not identical with the regime layer developed in Part IV. Part IV defines regime as admissibility architecture. Part V examines how that admissibility architecture is embodied in operational instruments, procedures, roles, records, thresholds, and enforcement mechanisms.
+
+## 22.9 Chapter Summary
+
+Chapter 22 establishes the realisation layer as the operational embodiment of the Trust Framework.
+
+It does not introduce a new sequence. It shows how the existing sequence becomes executable through realised ontology, realised formal conditions, realisation regime, and realised practice.
+
+The realised ontology identifies the operational entities and traces through which trust-based coordination becomes present.
+
+The realised formal conditions identify the minimum coherence required for signals, expectations, trust, credibility, credit, and continuation to operate.
+
+The realisation regime identifies the rules, procedures, thresholds, instruments, records, and enforcement mechanisms through which realised systems govern admissibility and exposure.
+
+Realised practice identifies the concrete cases in which these structures are embodied.
+
+The Trust Framework is realised as a recursive operational cycle: contribution produces observable outcomes; observation produces signals; signals support expectation; expectation guides trust; trust stabilises into credibility; credibility permits credit; credit opens a forward interval; continuation carries that interval toward resolution; and the outcome returns as contribution history.
+
+The following chapter examines how interpretation executes within this realised operational structure.
+
 # 23. Interpretive Execution
 
 Chapter 22 established the operational conditions under which the Trust Framework becomes realised in practice. Chapter 23 examines how interpretation executes within those realised conditions.
@@ -3347,33 +3483,27 @@ This distinction matters because a change in trust, credibility, or credit does 
 
 Interpretive possibility is therefore wider than trust formation alone. It includes the paths through which trust may be deployed, withheld, revised, stabilised into credibility, extended into credit, or converted into withdrawal, repair, refusal, or sanction.
 
-## 23.6 Existence — Trust, Credibility, and Credit in Operation
+## 23.6 Existence — Operational Judgement
 
-Trust, credibility, and credit exist operationally where the framework's structures alter realised coordination.
+Interpretation exists operationally when one or more interpretive possibilities become active as judgement.
 
-Trust exists operationally where expectation is deployed under uncertainty in a coordination relation.
+At this level, the established operational definitions apply.
 
-Credibility exists operationally where trust-relevant judgement stabilises sufficiently to support repeated or wider coordination.
+**Trust** is a context-bound interpretive judgement through which an observer deploys an expectation toward an attributed source of future contribution, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
 
-Credit exists operationally where stabilised credibility supports present extension across a future interval.
+**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, state, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
 
-The operational coherence of these states depends on the presence of minimal formal conditions within the receiving system.
+**Credit** is the extension of present coordination, access, value, authority, resources, or exposure, drawing upon stabilised credibility, on the basis of an observer-attributed future obligation, contribution, capacity, or fulfilment whose realisation depends on the expected continuation of the participant, relation, regime, or system across the relevant interval.
 
-Signals must be recognisable within the interpretative structure of the system.
+These judgements become operationally existent when they alter coordination, exposure, evaluation, conduct, access, monitoring, enforcement, repair, or withdrawal.
 
-Interpretation must occur under sufficiently consistent evaluation principles.
+Not every expectation under uncertainty becomes trust. Interpretive warrant requires that the expectation be connected to an attributed source of future contribution within a coordination relation. Without such warrant, the framework should classify the case as prediction, belief, hope, fear, coercive calculation, affect, or another neighbouring phenomenon rather than trust.
 
-Stabilisation must persist across sufficient time or observer alignment to reduce continual reinterpretation.
+Credibility becomes operationally interpretable where trust-relevant judgements are stabilised across time and interaction contexts. It is not merely the accumulation of favourable signals. It is the interpretation of signal patterns as sufficiently stable, relevant, and transferable to support future evaluation.
 
-Forward deployment must occur across a non-zero temporal interval.
+Credit becomes operationally interpretable where stabilised credibility is treated as sufficient to support present extension across a future interval. It asks what future obligation, contribution, capacity, or fulfilment the observer attributes to the participant or system, and whether that attributed future remains sufficiently credible across the relevant interval.
 
-Fulfilment, failure, withdrawal, repair, enforcement, or closure must be capable of returning to the system as contribution history.
-
-These conditions do not prescribe how systems should operate. They describe the minimal formal conditions under which trust, credibility, and credit may coherently form within realised cooperative systems.
-
-Trust does not require an externalised or institutional regime, but it does require a governing condition. In coordinate or relational settings, that condition may be carried by role, memory, affection, duty, reciprocity, proximity, identity, or repeated interaction. In institutional settings, it may be carried by procedure, contract, law, record, standard, enforcement, or system design.
-
-Regime becomes explicit where the governing condition is externalised, formalised, made transferable, scaled across observers, or extended into credit.
+Refusal, caution, sanction, withdrawal, and repair may also become operationally real where interpretation changes what the observer or system does next. They are not separate terminal nodes of the core ontology, but operational consequences that may arise from the same interpretive execution pathway.
 
 ## 23.7 Continuation — Updating, Testing, Feedback, and Temporal Infrastructure
 
