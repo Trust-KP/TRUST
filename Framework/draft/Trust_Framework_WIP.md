@@ -3243,7 +3243,13 @@ Part V turns from regime to realisation.
 
 The preceding Parts establish the Trust Framework as ontology, formal structure, interpretative architecture, and regime. Part V does not introduce a further stage after regime, nor does it restart the framework from the beginning. It examines how the established framework becomes operative in actual systems.
 
-Realisation has its own internal architecture. Within realised systems, the framework appears as realised ontology, realised formal conditions, realisation regime, and realised practice.
+Realisation follows the same ontological movement as the wider framework:
+
+**Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation**
+
+In the realisation layer, indeterminacy concerns realised conditions before they take operational form. Boundary concerns entry into operational relation. Distinction concerns the separation of participants, actions, traces, records, instruments, obligations, and roles. Possibility concerns the operational pathways through which trust, credibility, credit, refusal, repair, sanction, withdrawal, or continuation may proceed. Existence concerns realised trust, credibility, credit, and other operational judgements. Continuation concerns fulfilment, failure, repair, feedback, and recursive closure.
+
+Realisation also has its own internal architecture. Within realised systems, the framework appears as realised ontology, realised formal conditions, realisation regime, and realised practice.
 
 The realised ontology concerns what exists operationally: participants, actions, traces, observations, signals, expectations, obligations, instruments, records, fulfilment, failure, repair, and continuation.
 
@@ -3252,154 +3258,6 @@ The realised formal conditions concern what must minimally hold for trust, credi
 The realisation regime concerns the rules, institutions, procedures, thresholds, media, and admissibility mechanisms through which realised systems govern trust, credibility, credit, exposure, fulfilment, withdrawal, and failure.
 
 Realised practice concerns the actual cases in which these structures are embodied: mortgages, insurance, certification, airline miles, professional guilds, family duties, platform systems, institutional authority, and other concrete coordination forms.
-
-Part V therefore studies not a different framework, but the Trust Framework under conditions of embodiment. It asks how the sequence becomes operational, how forward commitments are carried into practice, how fulfilment or failure closes the loop, and how realised outcomes return as contribution history for future interpretation.
-
-The formal sequence remains:
-
-**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
-
-At the realisation layer, the question is not what the sequence is, or what a regime may admit, but how the sequence executes.
-
-## 22.1 Purpose of the Realisation Layer
-
-The purpose of the realisation layer is to describe the operational conditions under which trust, credibility, credit, and continuation coherently form within actual systems.
-
-A realised trust system may be interpersonal, institutional, technological, legal, financial, familial, professional, civic, or computational. The realised form may vary, but the operational requirement remains: the system requires some pathway through which contribution can become observabl, observation can become signal, signal can support expectation, expectation can be deployed as trust, trust-relevant judgement can stabilise as credibility, credibility can support credit, and credit can be tested through continuation.
-
-Realisation therefore concerns execution. It asks whether the receiving system possesses the practical carriers, records, interfaces, roles, procedures, instruments, media, or behaviours required for the framework's structures to operate.
-
-## 22.2 Realised Ontology
-
-Realised ontology concerns the entities, events, traces, and relations through which the Trust Framework becomes operationally present.
-
-At this level, contribution does not appear as an abstract category. It appears as work performed, payment made, care provided, duty fulfilled, promise broken, service delivered, record created, obligation accepted, rule followed, repair attempted, or failure produced.
-
-Observation does not appear as pure awareness. It appears through memory, report, audit, perception, ledger, sensor, testimony, document, platform record, institutional review, or model output.
-
-Signals do not exist merely because something has happened. A realised outcome becomes a signal only where it enters an interpretative structure as meaning-bearing. The same outcome may become different signals for different observers, or may fail to become a signal where the system lacks access, category, attention, or interpretative capacity.
-
-Expectation, trust, credibility, credit, and continuation therefore become operational only where realised entities and traces can be carried through the sequence.
-
-## 22.3 Realised Formal Conditions
-
-The operational coherence of trust, credibility, credit, and continuation depends on minimal formal conditions within the receiving system.
-
-Signals must be recognisable within the interpretative structure of the system.
-
-Interpretation must occur under sufficiently consistent evaluation principles.
-
-Stabilisation must persist across sufficient time or observer alignment to reduce continual reinterpretation.
-
-Forward deployment must occur across a non-zero temporal interval.
-
-Fulfilment, failure, withdrawal, repair, enforcement, or closure must be capable of returning to the system as contribution history.
-
-These conditions do not prescribe how systems should operate. They describe the minimal formal conditions under which trust, credibility, and credit may coherently form within realised cooperative systems.
-
-Trust does not require an externalised or institutional regime, but it does require a governing condition. In coordinate or relational settings, that condition may be carried by role, memory, affection, duty, reciprocity, proximity, identity, or repeated interaction. In institutional settings, it may be carried by procedure, contract, law, record, standard, enforcement, or system design.
-
-Regime becomes explicit where the governing condition is externalised, formalised, made transferable, scaled across observers, or extended into credit.
-
-Where these conditions are absent, interaction may still occur, but the realised system lacks the operational coherence required for trust-based coordination to stabilise.
-
-## 22.4 Realisation Regime
-
-The realisation regime concerns the governing mechanisms through which realised systems admit, constrain, interpret, extend, monitor, withdraw, repair, or enforce trust, credibility, and credit.
-
-In a mortgage system, the realisation regime includes underwriting standards, affordability tests, valuation methods, security rights, repayment schedules, accounting treatment, capital rules, foreclosure procedures, and regulatory oversight.
-
-In a professional system, it may include training standards, certification, disciplinary procedures, institutional reputation, peer recognition, licensing, and continuing obligation.
-
-In a family system, it may include informal duties, remembered conduct, role expectations, affection, sanction, repair, forgiveness, and recurring household practice.
-
-In a platform or computational system, it may include ratings, access rules, identity verification, moderation, automated scoring, data provenance, appeal mechanisms, and account restrictions.
-
-The realisation regime is not identical with the regime layer developed in Part IV. Part IV defines regime as admissibility architecture. Part V examines how that admissibility architecture is embodied in operational instruments, procedures, roles, records, thresholds, and enforcement mechanisms.
-
-## 22.5 Coexistence and Cooperative Boundary in Operation
-
-Coexistence becomes operational where participants share an environment in which their actions can affect one another's continuation conditions.
-
-This may occur through physical proximity, communication, household membership, market participation, platform participation, shared infrastructure, jurisdiction, ecological interdependence, or institutional contact.
-
-At this stage, interaction may remain below cooperation. Participants may affect one another without yet relying, coordinating, committing, or entering an admissible cooperative relation.
-
-The cooperative boundary becomes operational where coexistence is sufficiently structured for cooperation to proceed. This may occur through consent, recognition, invitation, role assignment, repeated interaction, contract, membership, shared task, institutional admission, mutual dependency, or regime recognition.
-
-Boundary crossing is not always symmetrical. One observer or regime may treat a relation as cooperative while another participant experiences it as coercive, unstable, premature, extractive, or insufficiently governable. The boundary is therefore operationally valid only relative to the observer and regime position from which admissibility is asserted.
-
-The boundary becomes consequential where it changes what participants may do next: rely, coordinate, exchange, delegate, monitor, enforce, repair, withdraw, or extend credit.
-
-## 22.6 Temporal Coordination in Operation
-
-Temporal coordination becomes operational where interaction is organised across intervals.
-
-This may appear through recurrence, sequence, rhythm, deadline, memory, schedule, reporting cycle, repayment period, review process, service period, training period, institutional term, legal duration, or repeated encounter.
-
-Temporal coordination allows past contribution to become relevant to future conduct. Without such coordination, interaction may occur, but the system cannot stabilise expectation across time.
-
-Operationally, temporal coordination creates the interval within which trust, credibility, credit, fulfilment, and failure can occur. It carries uncertainty forward until the relevant contribution is realised, revised, repaired, defaulted, forgiven, transferred, substituted, or otherwise resolved.
-
-## 22.7 Contribution, Observation, Signals, and Expectation in Operation
-
-Operational path generation begins with contribution.
-
-Contribution occurs where action, performance, restraint, delivery, payment, care, compliance, repair, refusal, failure, or other conduct affects the continuation capacity of another participant or the cooperative system.
-
-Observation occurs where contribution-derived outcomes become accessible through direct perception, memory, record, report, measurement, testimony, audit, ledger, sensor, platform data, model output, or institutional process.
-
-A signal arises where an observed outcome enters an interpretative structure as meaning-bearing. The same observed outcome may become different signals across systems, or may fail to become a signal where the system lacks access, category, attention, or interpretative capacity.
-
-Expectation arises where interpreted signals support anticipation of future contribution. Operational expectation may appear as readiness to rely, caution, refusal, monitoring, recommendation, risk rating, underwriting judgement, reputation adjustment, or preparedness to coordinate.
-
-At this stage, the path has generated the conditions for trust, but trust has not yet occurred unless expectation is deployed within coordination under uncertainty.
-
-## 22.8 Trust, Credibility, and Credit in Operation
-
-The following definitions extend the ontological structures above into operational coordination contexts.
-
-**Trust** is a context-bound interpretive judgement through which an observer deploys an expectation toward an attributed source of future contribution, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
-
-**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, state, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
-
-**Credit** is the extension of present coordination, access, value, authority, resources, or exposure, drawing upon stabilised credibility, on the basis of an observer-attributed future obligation, contribution, capacity, or fulfilment whose realisation depends on the expected continuation of the participant, relation, regime, or system across the relevant interval.
-
-Trust becomes operational where expectation is actually deployed. The observer does not merely believe, predict, hope, or calculate. The observer permits some coordination exposure to proceed under uncertainty.
-
-Credibility becomes operational where trust-relevant judgement stabilises sufficiently to support repeated or scalable coordination. It may stabilise through records, reputation, repeated fulfilment, certification, institutional recognition, observed conduct, peer judgement, or accumulated signal patterns.
-
-Credit becomes operational where stabilised credibility is carried forward into present extension. This may involve money, lending, authority, access, permission, professional standing, deferred payment, stored value, resource allocation, delegated responsibility, or institutional confidence.
-
-Credit does not complete the sequence by being extended. It opens a forward interval whose meaning depends on later fulfilment, failure, repair, enforcement, withdrawal, transfer, or continuation.
-
-## 22.9 Fulfilment, Failure, and Operational Closure
-
-Continuation becomes operational where the forward intervals opened by trust, credibility, or credit are carried toward fulfilment, repair, enforcement, withdrawal, default, forgiveness, transfer, substitution, or other resolution.
-
-Realised outcomes do not merely end a cycle. They return to the system as contribution history. Repayment, delivery, compliance, performance, care, misconduct, default, repair, apology, sanction, reform, or failure may all become new observable traces.
-
-These traces may later become observations, signals, expectations, trust judgements, credibility structures, or credit conditions. In this way, the realised outcome of one cycle becomes the evidential substrate of the next.
-
-Operational closure therefore has two functions. It resolves the open interval created by trust, credibility, or credit, and it generates the material from which future coordination will be interpreted.
-
-## 22.10 Chapter Summary
-
-Chapter 22 establishes the realisation layer as the operational embodiment of the Trust Framework.
-
-It does not introduce a new sequence. It shows how the existing sequence becomes executable through realised ontology, realised formal conditions, realisation regime, and realised practice.
-
-The realised ontology identifies the operational entities and traces through which trust-based coordination becomes present.
-
-The realised formal conditions identify the minimum coherence required for signals, expectations, trust, credibility, credit, and continuation to operate.
-
-The realisation regime identifies the rules, procedures, thresholds, instruments, records, and enforcement mechanisms through which realised systems govern admissibility and exposure.
-
-Realised practice identifies the concrete cases in which these structures are embodied.
-
-The Trust Framework is realised as a recursive operational cycle: contribution produces observable outcomes; observation produces signals; signals support expectation; expectation guides trust; trust stabilises into credibility; credibility permits credit; credit opens a forward interval; continuation carries that interval toward resolution; and the outcome returns as contribution history.
-
-The following chapters examine how this operational structure appears across specific realised domains and case studies.
 
 # 23. Interpretive Execution
 
@@ -3489,27 +3347,33 @@ This distinction matters because a change in trust, credibility, or credit does 
 
 Interpretive possibility is therefore wider than trust formation alone. It includes the paths through which trust may be deployed, withheld, revised, stabilised into credibility, extended into credit, or converted into withdrawal, repair, refusal, or sanction.
 
-## 23.6 Existence — Operational Judgement
+## 22.6 Existence — Trust, Credibility, and Credit in Operation
 
-Interpretation exists operationally when one or more interpretive possibilities become active as judgement.
+Trust, credibility, and credit exist operationally where the framework's structures alter realised coordination.
 
-At this level, the established operational definitions apply.
+Trust exists operationally where expectation is deployed under uncertainty in a coordination relation.
 
-**Trust** is a context-bound interpretive judgement through which an observer deploys an expectation toward an attributed source of future contribution, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
+Credibility exists operationally where trust-relevant judgement stabilises sufficiently to support repeated or wider coordination.
 
-**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, state, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
+Credit exists operationally where stabilised credibility supports present extension across a future interval.
 
-**Credit** is the extension of present coordination, access, value, authority, resources, or exposure, drawing upon stabilised credibility, on the basis of an observer-attributed future obligation, contribution, capacity, or fulfilment whose realisation depends on the expected continuation of the participant, relation, regime, or system across the relevant interval.
+The operational coherence of these states depends on the presence of minimal formal conditions within the receiving system.
 
-These judgements become operationally existent when they alter coordination, exposure, evaluation, conduct, access, monitoring, enforcement, repair, or withdrawal.
+Signals must be recognisable within the interpretative structure of the system.
 
-Not every expectation under uncertainty becomes trust. Interpretive warrant requires that the expectation be connected to an attributed source of future contribution within a coordination relation. Without such warrant, the framework should classify the case as prediction, belief, hope, fear, coercive calculation, affect, or another neighbouring phenomenon rather than trust.
+Interpretation must occur under sufficiently consistent evaluation principles.
 
-Credibility becomes operationally interpretable where trust-relevant judgements are stabilised across time and interaction contexts. It is not merely the accumulation of favourable signals. It is the interpretation of signal patterns as sufficiently stable, relevant, and transferable to support future evaluation.
+Stabilisation must persist across sufficient time or observer alignment to reduce continual reinterpretation.
 
-Credit becomes operationally interpretable where stabilised credibility is treated as sufficient to support present extension across a future interval. It asks what future obligation, contribution, capacity, or fulfilment the observer attributes to the participant or system, and whether that attributed future remains sufficiently credible across the relevant interval.
+Forward deployment must occur across a non-zero temporal interval.
 
-Refusal, caution, sanction, withdrawal, and repair may also become operationally real where interpretation changes what the observer or system does next. They are not separate terminal nodes of the core ontology, but operational consequences that may arise from the same interpretive execution pathway.
+Fulfilment, failure, withdrawal, repair, enforcement, or closure must be capable of returning to the system as contribution history.
+
+These conditions do not prescribe how systems should operate. They describe the minimal formal conditions under which trust, credibility, and credit may coherently form within realised cooperative systems.
+
+Trust does not require an externalised or institutional regime, but it does require a governing condition. In coordinate or relational settings, that condition may be carried by role, memory, affection, duty, reciprocity, proximity, identity, or repeated interaction. In institutional settings, it may be carried by procedure, contract, law, record, standard, enforcement, or system design.
+
+Regime becomes explicit where the governing condition is externalised, formalised, made transferable, scaled across observers, or extended into credit.
 
 ## 23.7 Continuation — Updating, Testing, Feedback, and Temporal Infrastructure
 
@@ -3557,46 +3421,209 @@ Interpretive execution is observer-bound, lens-mediated, visibility-limited, con
 
 The next chapter examines how regime execution governs these interpreted meanings in practice: which signals, expectations, credibility structures, credit extensions, failures, repairs, or sanctions may be admitted, constrained, enforced, or withdrawn within realised systems.
 
-# 24: Regime Execution
+# 24. Regime Execution
 
-## 24.1 How Regime Constraints Execute in Practice
+Chapter 23 examined how interpretation executes within realised operation. Chapter 24 examines how regime executes within that same operational field.
 
--- Draft -- 
+Regime execution concerns the process through which admissibility conditions become concrete decisions. A regime does not operate only as a background structure. In realised systems, it executes through active gates: a signal is admitted or excluded, a participant is recognised or refused, a threshold is crossed or not crossed, a commitment is permitted or denied, a breach is absorbed or escalated, and an exposure is extended, reduced, withdrawn, or repaired.
 
-Regime, as formalised in Chapter 17, states admissibility conditions in the abstract. In operation, those conditions execute as concrete, moment-by-moment gating decisions — a specific signal is admitted or excluded, a specific participant's standing is checked against a specific threshold, a specific commitment is permitted or refused. This section establishes that Regime execution is not a background condition quietly holding in the system but an active, continuous process of admission and exclusion running in parallel with Interpretive execution (23.1) and Temporal Coordination (23.3).
+Regime execution follows the same ontological movement as the wider framework:
 
-## 24.2 Failure Detection and Operational Response
+**Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation**
 
--- Draft -- 
+Before regime execution, interpreted meanings may remain operationally unsettled. They may be visible, plausible, or meaningful, but not yet admitted as sufficient for action.
 
-A shock, at the operational level, is a signal that arrives with a magnitude sufficiently discrepant from the observer's standing expectation to force recalibration rather than routine update. An anticipated realisation — the death of a very elderly person, a routine contract renewal — falls within the observer's already-discounted expectation and produces only a small, easily absorbed delta; credibility remains stable. An unanticipated realisation — the sudden death of a young, apparently healthy person, an unforeseen default — falls far outside the discounted expectation and forces a severe, rapid recalibration of the expectation vector, straining or breaking the interpretive structure that had been resting on it. Failure detection, operationally, is therefore the detection of discrepancy magnitude, not the detection of a fixed rule violation — a distinction that determines how the system responds in 24.3.
+Boundary arises where regime thresholds determine whether a signal, expectation, credibility structure, credit relation, failure, repair, or sanction may enter governed operation.
 
+Distinction separates admissible from inadmissible, routine variation from shock, breach from tolerable deviation, participant failure from system failure, and repairable instability from state transition.
 
-## 24.3 Credit as State Transition Trigger
+Possibility opens where the regime identifies available responses: admit, refuse, monitor, reprice, constrain, sanction, repair, forgive, withdraw, transfer, or terminate.
 
--- Draft -- 
+Existence occurs when a regime decision becomes operationally binding.
 
-Where a participant's signal profile collapses entirely — as in the case of deliberate identity severance, such as a faked death — the operational consequence is not merely a negative adjustment to an existing credibility score but a transition to a Nil state, in which the historical substrate required to support any forward-facing credit relationship ceases to be available to the formal system. Formal mechanisms that depend on stabilised credibility — lending, contractual delegation, institutional verification — cannot process such a participant, because there is no admissible signal history to evaluate. The participant does not, however, cease to exist within the underlying Coexistence layer (14.2): they remain capable of direct, immediate transaction wherever that transaction requires only raw contribution and observable outcome rather than a forward-looking credibility structure — the condition that permits continued participation in a grey or informal economy even after total exclusion from the formal credit architecture.
+Continuation occurs where the regime decision feeds back into future admissibility, credibility, credit, monitoring, and system memory.
 
-# 25: Realisation Closure
+## 24.1 Purpose of Regime Execution
+
+The purpose of regime execution is to explain how the admissibility architecture developed in Part IV becomes operational in realised systems.
+
+Chapter 17 described regime as the layer that determines what may be admitted, governed, constrained, or relied upon. Chapter 24 examines how that determination happens in practice.
+
+In operation, regime execution occurs through underwriting decisions, professional admission, credential recognition, family boundary setting, platform moderation, regulatory intervention, contractual enforcement, credit approval, withdrawal of access, sanctions, repair processes, monitoring systems, and institutional review.
+
+Regime execution therefore runs in parallel with interpretive execution and temporal coordination. Interpretation determines what an outcome means. Regime determines whether that meaning is admissible for governed action.
+
+## 24.2 Indeterminacy — Meaning Before Admission
+
+A realised meaning may exist interpretively before it is admitted by a regime.
+
+An observer may interpret a signal as relevant, but the regime may not yet know whether that signal is sufficient for action. A warning sign may be visible but not yet breach-level. A late payment may be meaningful but still within tolerance. A credential may be recognisable but not accepted by the relevant institution. A family concern may be noticed but not yet acted upon. A platform trace may be suspicious but not yet sanctionable.
+
+At this stage, the meaning is regime-indeterminate. It is not meaningless, but its admissibility has not yet been settled.
+
+Regime indeterminacy therefore concerns the space between interpretation and governed consequence.
+
+## 24.3 Boundary — Admission, Threshold, and Gate
+
+Regime boundary formation occurs when an interpreted signal, expectation, credibility structure, credit relation, failure, or repair reaches an admissibility gate.
+
+A gate may be formal or relational, explicit or implicit. It may appear as an underwriting rule, professional standard, family tolerance, contractual clause, risk limit, model threshold, regulatory requirement, platform policy, social norm, or institutional mandate.
+
+The regime gate determines whether the interpreted meaning can be relied upon for operational action. A signal may be meaningful but inadmissible. A participant may be known but not approved. A repair may be sincere but insufficient. A credibility structure may be strong in one regime and unusable in another.
+
+Regime execution is therefore not merely interpretation plus action. It is interpretation tested against admissibility.
+
+## 24.4 Distinction — Variation, Breach, Shock, and State
+
+Once an interpreted meaning reaches the regime boundary, the regime must distinguish what kind of condition it is handling.
+
+The regime must distinguish routine variation from material deviation, tolerable uncertainty from breach, breach from shock, participant failure from system failure, temporary instability from structural deterioration, and repairable condition from state transition.
+
+A shock, at the operational level, is not merely any negative event. It is a signal whose magnitude is sufficiently discrepant from the observer's standing expectation that it forces recalibration rather than routine update.
+
+An anticipated realisation may produce only a small adjustment. The death of a very elderly person, a routine delay, or an expected contract renewal may fall within already-discounted expectation and leave credibility broadly stable.
+
+An unanticipated realisation may force severe recalibration. The sudden death of a young and apparently healthy person, an unforeseen default, a major fraud, or a sudden collapse of capacity may fall far outside discounted expectation and strain or break the interpretive and regime structures that had been relying on prior credibility.
+
+Failure detection is therefore not only the detection of a fixed rule violation. It is also the detection of discrepancy magnitude against standing expectation, tolerance, exposure, and continuation requirement.
+
+## 24.5 Possibility — Available Regime Responses
+
+Once the regime distinguishes the condition, response possibilities open.
+
+The regime may admit, refuse, monitor, investigate, reprice, constrain, suspend, withdraw, sanction, repair, forgive, escalate, transfer, terminate, or renew. It may also do nothing where the signal remains below threshold or where tolerance is sufficient.
+
+Different regimes make different responses possible. A family regime may respond through conversation, care, sanction, forgiveness, or altered expectation. A bank may respond through repricing, covenant enforcement, credit withdrawal, restructuring, or default classification. A profession may respond through review, discipline, retraining, suspension, or expulsion. A platform may respond through ranking changes, access restriction, moderation, appeal, or account termination.
+
+Regime possibility is therefore narrower than interpretive possibility. Interpretation may generate many meanings, but the regime determines which responses are available, admissible, and executable.
+
+## 24.6 Existence — Binding Regime Decision
+
+Regime execution exists operationally when an admissibility decision becomes binding in practice.
+
+Approval, refusal, sanction, withdrawal, repair, credit extension, credit reduction, monitoring, exclusion, recognition, or forgiveness becomes real when it changes what the participant, observer, or system may do next.
+
+At this point, regime execution alters the operational state of the relation. The participant may become admitted, restricted, watched, trusted, distrusted, credited, sanctioned, repaired, or excluded. The relation may become open, constrained, suspended, terminated, or renewed.
+
+Credit is especially important because it often functions as a state transition trigger. Where credibility is admitted, present access, value, authority, resources, or exposure may be extended across a future interval. Where credibility is no longer admitted, credit may be reduced, repriced, suspended, withdrawn, or refused.
+
+Where a participant's signal profile collapses entirely, the operational consequence may be more than a negative adjustment. The participant may move into a Nil credit state: a condition in which the admissible historical substrate required to support forward-facing credit relationships is no longer available to the relevant regime.
+
+In such a state, formal mechanisms that depend on stabilised credibility, such as lending, contractual delegation, institutional verification, or regulated admission, cannot process the participant as credit-eligible because there is no admissible signal history on which to rely.
+
+This does not mean the participant ceases to exist at the level of coexistence. The participant may still engage in direct, immediate exchange where the transaction depends only on present contribution and observable outcome rather than forward-facing credibility. What collapses is not existence, but admissibility for credit within that regime.
+
+## 24.7 Continuation — Monitoring, Recalibration, and Regime Memory
+
+Regime continuation occurs where binding decisions feed back into future admissibility.
+
+A regime decision does not merely resolve the present case. It becomes part of the system's memory: a record, precedent, reputation effect, risk marker, changed threshold, altered tolerance, adjusted exposure, revised policy, or modified practice.
+
+Monitoring carries regime execution across time. Recalibration adjusts expectation, credibility, tolerance, and exposure in light of realised outcomes. Repair determines whether a failed or weakened relation can re-enter admissible coordination. Withdrawal determines when continued exposure is no longer permitted.
+
+Continuation therefore depends on whether the regime can update without becoming arbitrary, and constrain without becoming rigid. A regime that cannot update fails to respond to realised change. A regime that updates without discipline loses coherence.
+
+Regime execution sustains continuation where it can admit, refuse, repair, sanction, withdraw, and recalibrate in ways that preserve the system's capacity for future coordination.
+
+## 24.8 Regime Failure in Operation
+
+Regime failure occurs where admissibility no longer performs its governing function.
+
+Failure may occur at any stage of regime execution.
+
+At indeterminacy, interpreted meanings may remain unresolved for too long, preventing action where action is required.
+
+At boundary, the regime may admit what should be excluded, exclude what should be admitted, or fail to define a usable gate.
+
+At distinction, the regime may confuse routine variation with breach, breach with shock, participant failure with system failure, or temporary condition with structural collapse.
+
+At possibility, the regime may lack appropriate response options, leaving only excessive sanction, passive tolerance, or uncontrolled withdrawal.
+
+At existence, regime decisions may become binding without warrant, consistency, authority, or sufficient relation to realised conditions.
+
+At continuation, the regime may fail to monitor, recalibrate, repair, remember, or withdraw, allowing trust, credibility, or credit to persist after its admissibility basis has failed.
+
+Regime failure may therefore produce over-trust, under-trust, wrongful exclusion, excessive sanction, unrecognised deterioration, delayed withdrawal, credibility inflation, credit misextension, or systemic fragility.
+
+## 24.9 Chapter Summary
+
+Chapter 24 establishes regime execution as the operational process through which admissibility becomes action.
+
+It shows that regime is not merely a background condition. In realised systems, regime executes continuously through gates, thresholds, distinctions, decisions, responses, monitoring, repair, withdrawal, and memory.
+
+Regime execution is narrower than interpretive execution. Interpretation determines what a realised outcome may mean. Regime determines whether that meaning is admissible for governed action.
+
+The chapter also distinguishes ordinary variation from shock. Failure detection is not only rule violation; it is also discrepancy magnitude against standing expectation, exposure, tolerance, and continuation requirement.
+
+Credit is treated as a state transition trigger because credit extension, reduction, withdrawal, or collapse changes the participant's operational position within a regime.
+
+The next chapter examines realisation closure: how operational outcomes return to the framework, close or reopen coordination cycles, and prepare the transition from framework exposition to case-based application.
+
+# 25. Realisation Closure
+
+Chapter 25 closes the realisation layer of the Trust Framework.
+
+Chapter 22 established the operational conditions under which the framework becomes executable in actual systems. Chapter 23 showed how realised outcomes become interpretively meaningful. Chapter 24 showed how regimes admit, constrain, refuse, repair, sanction, withdraw, or extend those interpreted meanings.
+
+Chapter 25 examines how realised outcomes close the operational cycle and return to the system as future contribution history.
+
+Realisation closure does not mean that cooperation ends. It means that an open interval of trust, credibility, or credit has reached some realised condition: fulfilment, failure, repair, withdrawal, sanction, forgiveness, transfer, substitution, Nil-state transition, or recursive continuation.
 
 ## 25.1 Feedback Update — Realised Outcomes Re-enter the System
 
--- draft-- 
+Every realised outcome re-enters the system as possible contribution history, whether it arises from successful fulfilment, routine contribution, failed commitment, repair, sanction, withdrawal, or reversion to bare coexistence following a Nil-state transition.
 
-Every realised outcome — whether a successful forward commitment, a routine contribution, or a reversion to bare Coexistence following a Nil-state transition — re-enters the system as a new observable event, available for future observation and interpretation. Feedback, at this level, does not distinguish between "successful" and "failed" trajectories in terms of what qualifies for re-entry: a participant operating permanently within the grey economy after a Nil-state transition continues to generate real, observable signals, and these signals remain part of the system's total feedback environment even though they no longer feed the formal credit architecture specifically.
+Feedback at this level does not distinguish between successful and failed trajectories in determining what may re-enter the wider observational environment. A participant operating outside the formal credit architecture after a Nil-state transition may continue to generate real, observable outcomes. These outcomes may remain part of the system's total feedback environment even where they no longer feed the formal credit regime specifically.
 
-## 25.2 Framework Self-Closure
+Formal exclusion therefore does not erase realised conduct. It changes which regime can admit that conduct, which observers can interpret it, and whether it can support future trust, credibility, or credit within a given architecture.
 
--- draft--
+## 25.2 Fulfilment, Failure, and Nil-State Continuation
 
-The framework closes when every state a participant or system can occupy is accounted for within its six-stage structure, including the state of having reverted to its own lowest layer. Self-closure does not mean that the formal upper loops — Trust, Credibility, Credit — become the system's only operative circuit once established; closure explicitly includes the permanent availability of reversion to raw Coexistence and Contribution as a live, always-accessible condition, not an exception the framework merely tolerates. A framework that could not account for its own floor remaining permanently reachable would not, in fact, be closed.
+Fulfilment occurs where the forward interval opened by trust, credibility, or credit is carried into realised contribution sufficient to close or renew the expectation that supported it.
 
-## 25.3 Handoff to Companion Work
+In a mortgage, repayment fulfils part of the forward commitment and reduces the outstanding credit relation. In a family duty, completion of a chore may fulfil a relational expectation and feed future trust. In a professional system, competent performance may fulfil the obligation implied by certification, role, or appointment.
 
--- draft -- 
+Failure occurs where realised contribution does not satisfy the expectation, obligation, capacity, or fulfilment attributed at the time of trust deployment, credibility stabilisation, or credit extension.
 
-[Placeholder paragraph — to develop: this section should state what remains explicitly out of scope for the Trust Framework itself and where it hands off — likely pointing to the applied/domain-specific companion papers (e.g. institutional design, Nosmo/ledger implementation, or the non-fiction companion volume) that build on this formal architecture without being part of it.]
+Failure may lead to repair, sanction, withdrawal, restructuring, forgiveness, exclusion, or state transition. It does not automatically destroy all trust or credibility. The realised system must interpret the failure, attribute it, locate its cause, and determine whether it is tolerable, repairable, systemic, deliberate, accidental, temporary, or terminal.
+
+A Nil-state transition occurs where the admissible substrate required for a particular regime to support forward-facing credit has collapsed. This is not the same as non-existence. The participant may remain in coexistence and may still participate in direct, immediate exchange based on raw contribution and observable outcome. What is lost is admissibility for credit within the relevant regime.
+
+## 25.3 Realisation Memory and Recursive Coordination
+
+Realised outcomes become memory.
+
+They may persist as personal memory, family expectation, institutional record, platform score, legal precedent, audit trail, accounting entry, professional reputation, credit history, regulatory marker, model update, or cultural narrative.
+
+Memory allows realised outcomes to become future traces. These traces may later be observed, interpreted as signals, attributed to sources, stabilised into credibility, admitted into regimes, or extended into credit.
+
+Recursive coordination depends on this return path. A system that cannot carry realised outcomes back into memory cannot learn from fulfilment or failure. A system that remembers without interpretation accumulates records without meaning. A system that interprets without regime may generate judgement without governance. A system that governs without feedback may preserve form while losing contact with realised conduct.
+
+Realisation closure therefore completes one cycle while preparing the next.
+
+## 25.4 Closure of Part V
+
+Part V has shown how the Trust Framework becomes operational.
+
+Chapter 22 established the conditions under which the sequence becomes executable in realised systems.
+
+Chapter 23 explained how realised outcomes become interpretively meaningful.
+
+Chapter 24 explained how regimes convert interpreted meanings into admissibility decisions, constraints, extensions, withdrawals, sanctions, repairs, and state transitions.
+
+Chapter 25 closes the realised cycle by showing how outcomes return as contribution history.
+
+Together, these chapters show that realisation is not merely the application of an abstract framework to examples. Realisation is the layer through which trust, credibility, credit, fulfilment, failure, repair, and continuation become embodied in practices, instruments, institutions, relations, and records.
+
+## 25.5 Handoff to Case-Based Application
+
+The framework exposition is now complete enough to be placed against concrete domains.
+
+The case studies that follow do not introduce new ontology. They test placement. They show how the same sequence appears in different realised systems: identity-to-capability transitions, insurance, airline miles, professional guilds, mortgage lending, systemic credit failure, and existing trust literature.
+
+Their purpose is not to prove the framework by breadth alone. Cross-domain application is useful only where it preserves distinctions, excludes non-cases, and clarifies which node, layer, regime, or failure condition is being observed.
+
+The appendix therefore serves as a case-based stress test of the framework's placement discipline.
  
 # Appendix: 
 
