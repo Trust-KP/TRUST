@@ -3347,7 +3347,7 @@ This distinction matters because a change in trust, credibility, or credit does 
 
 Interpretive possibility is therefore wider than trust formation alone. It includes the paths through which trust may be deployed, withheld, revised, stabilised into credibility, extended into credit, or converted into withdrawal, repair, refusal, or sanction.
 
-## 22.6 Existence — Trust, Credibility, and Credit in Operation
+## 23.6 Existence — Trust, Credibility, and Credit in Operation
 
 Trust, credibility, and credit exist operationally where the framework's structures alter realised coordination.
 
