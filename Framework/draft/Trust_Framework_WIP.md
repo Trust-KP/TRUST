@@ -3265,7 +3265,7 @@ At the realisation layer, the question is not what the sequence is, or what a re
 
 The purpose of the realisation layer is to describe the operational conditions under which trust, credibility, credit, and continuation coherently form within actual systems.
 
-A realised trust system may be interpersonal, institutional, technological, legal, financial, familial, professional, civic, or computational. The realised form may vary, but the operational requirement remains: the system must provide some pathway through which contribution can become observable, observation can become signal, signal can support expectation, expectation can be deployed as trust, trust-relevant judgement can stabilise as credibility, credibility can support credit, and credit can be tested through continuation.
+A realised trust system may be interpersonal, institutional, technological, legal, financial, familial, professional, civic, or computational. The realised form may vary, but the operational requirement remains: the system requires some pathway through which contribution can become observabl, observation can become signal, signal can support expectation, expectation can be deployed as trust, trust-relevant judgement can stabilise as credibility, credibility can support credit, and credit can be tested through continuation.
 
 Realisation therefore concerns execution. It asks whether the receiving system possesses the practical carriers, records, interfaces, roles, procedures, instruments, media, or behaviours required for the framework's structures to operate.
 
@@ -3296,6 +3296,10 @@ Forward deployment must occur across a non-zero temporal interval.
 Fulfilment, failure, withdrawal, repair, enforcement, or closure must be capable of returning to the system as contribution history.
 
 These conditions do not prescribe how systems should operate. They describe the minimal formal conditions under which trust, credibility, and credit may coherently form within realised cooperative systems.
+
+Trust does not require an externalised or institutional regime, but it does require a governing condition. In coordinate or relational settings, that condition may be carried by role, memory, affection, duty, reciprocity, proximity, identity, or repeated interaction. In institutional settings, it may be carried by procedure, contract, law, record, standard, enforcement, or system design.
+
+Regime becomes explicit where the governing condition is externalised, formalised, made transferable, scaled across observers, or extended into credit.
 
 Where these conditions are absent, interaction may still occur, but the realised system lacks the operational coherence required for trust-based coordination to stabilise.
 
