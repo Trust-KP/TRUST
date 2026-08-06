@@ -3405,11 +3405,23 @@ The following chapters examine how this operational structure appears across spe
 
 Chapter 22 established the operational conditions under which the Trust Framework becomes realised in practice. Chapter 23 examines how interpretation executes within those realised conditions.
 
-Interpretive execution concerns the process through which realised outcomes, traces, records, behaviours, events, or instruments become meaning-bearing for an observer or observing system. A realised event does not automatically become a trust-relevant signal. It becomes trust-relevant only where it is observed, positioned, attributed, evaluated, and connected to possible future contribution.
+Interpretive execution concerns the process through which realised outcomes, traces, records, behaviours, events, or instruments become meaning-bearing for an observer or observing system. A realised event does not automatically become a trust-relevant signal. It becomes trust-relevant only where it is observed, positioned, distinguished, attributed, evaluated, and connected to possible future contribution.
 
-This chapter therefore examines the operational realisation of interpretative architecture. It asks how observers convert traces into signals, how lenses are activated, how partial visibility affects judgement, how evaluation principles apply under execution, how attribution succeeds or fails, how warrant distinguishes trust from belief, prediction, hope, fear, coercive calculation, or mere affect, and how interpretation changes across time.
+Interpretive execution follows the same ontological movement as the wider framework:
 
-Interpretive execution is observer-bound. The observer may be an individual, family, institution, market, platform, court, regulator, model, profession, community, or regime. Different observers may interpret the same realised outcome differently because they occupy different positions, apply different lenses, operate under different evaluation conditions, or admit different forms of warrant.
+**Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation**
+
+Before interpretation executes, realised outcomes remain meaning-indeterminate for the observer. They may exist as events, traces, records, behaviours, or changes in condition, but their trust-relevant meaning is not yet settled.
+
+Interpretive execution begins when such outcomes cross into an observer's interpretive field. A boundary is formed between what remains outside the observer's evaluative reach and what becomes available for interpretation.
+
+Distinction then separates outcome from trace, trace from observation, observation from signal, signal from source, source from lens, and lens from evaluation condition.
+
+Possibility opens when multiple interpretive paths become available. The same signal may support trust, distrust, caution, refusal, inquiry, credibility revision, credit extension, withdrawal, repair, sanction, or no action.
+
+Existence occurs when one or more interpretations become operationally active as judgement. Trust, credibility, credit, refusal, sanction, withdrawal, or repair become real in the system when they alter coordination, exposure, evaluation, or conduct.
+
+Continuation occurs where the judgement persists across time, is revised by later signals, is tested by realised fulfilment or failure, and returns to the system as contribution history for future interpretation.
 
 ## 23.1 Purpose of Interpretive Execution
 
@@ -3419,139 +3431,129 @@ A contribution may occur, and an outcome may be produced, without that outcome b
 
 Interpretive execution therefore sits between realised operation and regime execution. Chapter 22 identifies the operational pathway through which outcomes, observations, signals, expectations, trust, credibility, credit, and continuation can occur. Chapter 23 explains how meaning is assigned within that pathway. Chapter 24 then examines how regime constraints govern what may be admitted, relied upon, extended, repaired, withdrawn, or sanctioned.
 
-## 23.2 From Realised Outcome to Operational Signal
+## 23.2 Indeterminacy — Realised Outcome Before Settled Meaning
 
-A realised outcome becomes an operational signal only where it enters an interpretative structure as meaning-bearing.
+A realised outcome is not yet a trust-relevant signal merely because it has occurred.
 
-A payment, delay, apology, refusal, credential, delivery, default, silence, rating, inspection result, professional title, family action, platform score, or institutional record is not automatically a signal in itself. It becomes a signal where an observer treats it as relevant to future contribution, expected continuation, reliability, capacity, role fulfilment, obligation, or risk.
+A payment, delay, apology, refusal, credential, delivery, default, silence, rating, inspection result, professional title, family action, platform score, institutional record, or model output may exist before its meaning is settled. It may be noticed or unnoticed, relevant or irrelevant, trustworthy or suspicious, intentional or accidental, participant-caused or system-caused.
 
-The same realised outcome may generate different operational signals for different observers. A late payment may signal temporary liquidity stress to one lender, unreliability to another, hardship to a family member, procedural breach to a regulator, or no material concern to a system with sufficient tolerance.
+At this stage, the outcome is meaning-indeterminate for the observer. It may later become evidence of reliability, capacity, failure, role fulfilment, deterioration, fraud, repair, or ordinary variation. But before interpretation executes, those meanings remain unsettled.
 
-Interpretive execution therefore converts realised traces into operational meaning. It does not merely receive information. It positions information within a framework of relevance.
+Indeterminacy does not mean nothing exists. It means the realised outcome has not yet been fixed within a trust-relevant interpretive pathway.
 
-## 23.3 Asymmetric Lens Visibility
+## 23.3 Boundary — Entry into the Interpretive Field
 
-An observer does not, in practice, receive all interpretative lenses with equal clarity.
+Interpretive boundary formation occurs when a realised outcome enters the observer's evaluative field.
 
-In many cooperative interactions, one or more lenses remain partial, noisy, unavailable, or dark. An observer may have little access to a participant's identity standing, no visibility into structural commitments, weak evidence of current state, or only indirect evidence of capability. Trust may nonetheless execute where the visible lenses supply sufficient baseline clarity to support expectation under uncertainty.
+The boundary separates what remains outside the observer's interpretive reach from what becomes available for judgement. A contribution may be real, but if no trace, record, report, memory, proxy, observation, or signal reaches the observer, it cannot yet affect that observer's trust, credibility, or credit judgement.
+
+Entry into the interpretive field may occur through direct perception, memory, testimony, audit, ledger, sensor, platform data, institutional review, model output, certification, reputation, or relational knowledge.
+
+The Signal Horizon is the operational point within this boundary process at which an observed trace becomes evaluatively active. Before this point, an outcome may exist as event, trace, record, observation, or available information. At the Signal Horizon, it reaches the observer's evaluation principle and becomes capable of altering expectation, trust, credibility, credit, refusal, caution, repair, sanction, or withdrawal.
+
+The boundary is observer-bound. The same realised outcome may enter one observer's interpretive field while remaining unavailable to another. A bank may observe a repayment record that a family member never sees. A family may observe care or neglect that a formal institution never records. A platform may register behavioural traces invisible to ordinary participants.
+
+Interpretive execution begins only where realised outcome becomes reachable by an observing position.
+
+## 23.4 Distinction — Trace, Signal, Source, Lens, and Condition
+
+Once an outcome enters the interpretive field, the observer must distinguish what kind of thing has entered.
+
+The observer must distinguish outcome from trace, trace from observation, observation from signal, signal from source, source from lens, and lens from evaluation condition.
+
+An outcome is what occurred. A trace is what remains accessible from that occurrence. An observation is the observer's access to the trace. A signal is the observed trace once treated as meaning-bearing. A source is the participant, system, role, event, institution, model, accident, or condition to which the signal is attributed. A lens is the interpretive dimension through which the signal is made relevant.
+
+An observer does not, in practice, receive all interpretative lenses with equal clarity. One or more lenses may remain partial, noisy, unavailable, or dark. An observer may have little access to identity standing, no visibility into structural commitments, weak evidence of current state, or only indirect evidence of capability. Trust may nonetheless execute where the visible lenses supply sufficient baseline clarity to support expectation under uncertainty.
 
 Asymmetric lens visibility does not invalidate interpretation, but it conditions it. A trust judgement formed through one visible lens is structurally different from a trust judgement supported across several independent lenses. A credibility structure built from repeated coordination signals differs from one supported by coordination, identity, structural, state, and capability signals together.
 
-Where lens visibility is partial, the observer should not treat absence of visibility as confirmation of absence. A dark lens may indicate that no relevant evidence exists, but it may also indicate that the observer lacks access, category, attention, or interpretative capacity.
-
-Interpretive execution therefore requires a distinction between what is visible, what is invisible, and what is being inferred from invisibility.
-
-## 23.4 The Signal Horizon
-
-The Signal Horizon is the operational boundary at which an observed signal reaches the observer's evaluation principle and becomes capable of altering expectation.
-
-Before this point, an outcome may exist as event, trace, record, observation, or available information. At the Signal Horizon, it becomes evaluatively active. It is received by the observer's interpretative structure, weighted through the relevant lenses, and connected to expectation, trust, credibility, credit, refusal, caution, repair, or withdrawal.
-
-The Signal Horizon is not necessarily a physical moment. It may occur when a person notices behaviour, when a bank receives a credit report, when an employer reads a certificate, when a regulator observes a breach, when a platform updates a rating, when a family member remembers a pattern, or when a model incorporates new data.
-
-Execution therefore occurs through discrete resolution events. Interpretation may appear continuous, but operationally it changes when a signal crosses the horizon and causes expectation to bend, step upward, weaken, suspend, reverse, or drop.
-
-The Signal Horizon marks the point at which realised operation becomes interpretive consequence.
-
-## 23.5 Evaluation Under Execution Conditions
-
-Evaluation under execution conditions differs from idealised evaluation.
-
-In formal description, signals may appear as though they are cleanly observed, categorised, weighted, and interpreted. In realised operation, evaluation occurs under partial visibility, time pressure, affective condition, institutional procedure, computational constraint, political pressure, incomplete records, changing thresholds, and competing obligations.
-
-The observer's evaluation principle determines how incoming signals are weighted, compared, ignored, escalated, discounted, or admitted. However, the evaluation principle itself may operate differently under stress, fatigue, urgency, scarcity, crisis, legal duty, organisational mandate, model limitation, or regime pressure.
-
-A change in evaluation may therefore arise from two different sources. The admitted exposure may have changed because the participant produced a new relevant signal. Or the observer's condition may have changed, causing the same signal structure to be evaluated differently.
-
-Interpretive execution must preserve this distinction. Without it, systems may misattribute changed judgement to changed participant conduct when the change actually arises from observer condition, evaluation threshold, regime pressure, or operational context.
-
-Trust may update directly or comparatively.
-
-A direct update occurs where a new realised outcome, memory, record, proxy, or signal attributed to the participant crosses the Signal Horizon and becomes evaluatively active.
-
-A comparative update occurs where the participant's own signal profile remains materially unchanged, but the observer's comparison set, available alternatives, evaluation threshold, regime tolerance, coordination need, or risk appetite changes. In such cases, the participant may become more or less trusted relative to others without having produced a new relevant contribution.
-
-This distinction matters because a fall in trust does not always imply deterioration in the participant. It may reflect a changed interpretive field rather than a changed contribution history.
-
-## 23.6 The Temporal Coordination Cycle as Operational Infrastructure
-
-The temporal coordination cycle does not run as an abstract sequence in realised systems. It operates as infrastructure.
-
-Contribution, observation, signal generation, expectation revision, trust deployment, credibility stabilisation, credit extension, and fulfilment occur through ongoing practical mechanisms: memory, reporting, repayment, review, delivery, audit, rating, certification, family routine, professional practice, platform update, legal process, institutional monitoring, or repeated encounter.
-
-This infrastructure makes the Signal Horizon possible. Without a functioning temporal coordination cycle, realised outcomes may occur, but they do not reliably travel into observation, signal formation, evaluation, expectation, or feedback.
-
-Temporal coordination therefore provides the operational carrier for interpretive execution. It keeps the relation open long enough for signals to arrive, be interpreted, be tested, and be revised through later realised outcomes.
-
-## 23.7 Attribution and Misattribution in Operation
-
-Interpretive execution requires attribution.
-
-An observer must attribute the realised outcome or signal to some source: a participant, role, system, office, institution, model, market condition, accident, external shock, or regime failure.
+Distinction also requires attribution. An observer must attribute the realised outcome or signal to some source: a participant, role, system, office, institution, model, market condition, accident, external shock, or regime failure.
 
 Misattribution occurs where the signal is real, but the source, meaning, level, or future relevance attributed to it is wrong. A correct observation may therefore produce an incorrect trust judgement. A correct trust judgement may stabilise into an incorrect credibility structure. A correct credibility structure may still be extended into credit under the wrong future obligation, exposure, or regime condition.
 
-Attribution error can therefore propagate across the sequence. What begins as a small interpretive displacement may later become misplaced trust, inflated credibility, mispriced credit, wrongful sanction, or failure to withdraw exposure.
+Interpretive execution therefore depends on disciplined distinction before judgement.
 
-## 23.8 Interpretive Warrant and Near-Neighbour Exclusion
+## 23.5 Possibility — Available Interpretive Paths
 
-Not every expectation under uncertainty is trust.
+Possibility opens when the observed signal can support more than one interpretive path.
 
-Interpretive execution must distinguish trust from belief, prediction, hope, fear, preference, coercive calculation, and mere affect. A weather forecast may support prediction. Trust arises only where the observer relies on an attributed source of future contribution under uncertainty. The weather itself is not trusted in the strict sense; the forecasting institution, model, or professional system may be trusted where its competence, honesty, continuity, or reliability is at issue.
+A signal may support trust, distrust, caution, refusal, further inquiry, credibility revision, credit extension, credit withdrawal, repair, sanction, or no action. These possibilities are not all equivalent, and they are not all admissible within every regime, but they become available as interpretive possibilities once the signal is meaning-bearing.
 
-Similarly, a coerced participant may predict the conduct of a dominant party without trusting that party. Calculation under threat is not the same as trust deployment. Repeated compliance is not sufficient evidence of cooperative trust.
+The same signal may generate different possibilities for different observers. A missed deadline may support forgiveness in a family relation, warning in a workplace, default classification in a loan, sanction in a regulated system, or no material response where tolerance remains high.
 
-Interpretive warrant therefore requires that the expectation be connected to an attributed source of future contribution within a coordination relation. Without such warrant, the framework should classify the case as prediction, belief, fear, coercion, affect, or another neighbouring phenomenon rather than trust.
+Evaluation under execution conditions determines how these possibilities are weighted, compared, ignored, escalated, discounted, or admitted. In realised operation, evaluation occurs under partial visibility, time pressure, affective condition, institutional procedure, computational constraint, political pressure, incomplete records, changing thresholds, and competing obligations.
 
-## 23.9 Credibility Interpretation in Operation
+Trust, credibility, and credit may update directly or comparatively. A direct update occurs where a new realised outcome, memory, record, proxy, or signal attributed to the participant crosses the Signal Horizon and becomes evaluatively active. A comparative update occurs where the participant's own signal profile remains materially unchanged, but the observer's comparison set, available alternatives, evaluation threshold, regime tolerance, coordination need, or risk appetite changes.
 
-Credibility becomes operationally interpretable where trust-relevant judgements are stabilised across time and interaction contexts.
+This distinction matters because a change in trust, credibility, or credit does not always imply a change in the participant. It may reflect a changed interpretive field, changed observer condition, changed regime tolerance, or changed comparative environment.
 
-At the interpretive execution layer, credibility is not merely the accumulation of favourable signals. It is the interpretation of signal patterns as sufficiently stable, relevant, and transferable to support future evaluation. Repeated fulfilment, consistent conduct, recognised identity, structural position, current state, capability evidence, certification, reputation, institutional recognition, or peer judgement may all contribute to credibility, but only where the observer treats them as warranting stabilised expectation.
+Interpretive possibility is therefore wider than trust formation alone. It includes the paths through which trust may be deployed, withheld, revised, stabilised into credibility, extended into credit, or converted into withdrawal, repair, refusal, or sanction.
 
-Credibility interpretation therefore depends on pattern recognition. The observer interprets whether multiple signals are independent or correlated, whether they support the same future expectation, whether they remain valid across contexts, and whether they indicate genuine stabilisation or merely accumulated appearance.
+## 23.6 Existence — Operational Judgement
 
-A credibility judgement may change even where trust in a single interaction remains intact. The observer may still trust a participant in one context while revising the participant's broader credibility across other contexts, time horizons, roles, or exposures.
+Interpretation exists operationally when one or more interpretive possibilities become active as judgement.
 
-## 23.10 Credit Interpretation in Operation
+At this level, the established operational definitions apply.
 
-Credit becomes operationally interpretable where stabilised credibility is treated as sufficient to support present extension across a future interval.
+**Trust** is a context-bound interpretive judgement through which an observer deploys an expectation toward an attributed source of future contribution, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
 
-At the interpretive execution layer, credit is not yet the legal, financial, institutional, or procedural act of extension itself. It is the interpretation that a participant, relation, instrument, or system carries enough credibility to justify present exposure, access, authority, value, resources, or deferred fulfilment.
+**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, state, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
 
-Credit interpretation therefore asks what future obligation, contribution, capacity, or fulfilment the observer attributes to the participant or system, and whether that attributed future remains sufficiently credible across the relevant interval.
+**Credit** is the extension of present coordination, access, value, authority, resources, or exposure, drawing upon stabilised credibility, on the basis of an observer-attributed future obligation, contribution, capacity, or fulfilment whose realisation depends on the expected continuation of the participant, relation, regime, or system across the relevant interval.
 
-A credit judgement may change because the participant's credibility changes. It may also change because the observer's exposure tolerance, available alternatives, liquidity condition, mandate, regime threshold, or comparative field changes. In such cases, credit may be withdrawn, reduced, repriced, suspended, transferred, or refused even where the underlying participant has not produced a new adverse signal.
+These judgements become operationally existent when they alter coordination, exposure, evaluation, conduct, access, monitoring, enforcement, repair, or withdrawal.
 
-Credit interpretation therefore links credibility to forward exposure. It determines whether stabilised trust-relevant judgement is interpreted as extendable into present commitment.
+Not every expectation under uncertainty becomes trust. Interpretive warrant requires that the expectation be connected to an attributed source of future contribution within a coordination relation. Without such warrant, the framework should classify the case as prediction, belief, hope, fear, coercive calculation, affect, or another neighbouring phenomenon rather than trust.
 
-## 23.11 Interpretive Updating, Drift, and Reinterpretation
+Credibility becomes operationally interpretable where trust-relevant judgements are stabilised across time and interaction contexts. It is not merely the accumulation of favourable signals. It is the interpretation of signal patterns as sufficiently stable, relevant, and transferable to support future evaluation.
 
-Interpretation changes across time.
+Credit becomes operationally interpretable where stabilised credibility is treated as sufficient to support present extension across a future interval. It asks what future obligation, contribution, capacity, or fulfilment the observer attributes to the participant or system, and whether that attributed future remains sufficiently credible across the relevant interval.
 
-New realised outcomes may confirm, weaken, reverse, or reframe prior signals. The same conduct may be reinterpreted after later events disclose a different pattern, source, intention, capacity, or regime condition.
+Refusal, caution, sanction, withdrawal, and repair may also become operationally real where interpretation changes what the observer or system does next. They are not separate terminal nodes of the core ontology, but operational consequences that may arise from the same interpretive execution pathway.
 
-Interpretive updating is necessary for continuation because trust-relevant judgement must remain responsive to realised outcomes. However, updating may also become unstable where evaluation conditions shift excessively, where meanings drift without warrant, or where observers reinterpret past signals to preserve an existing judgement.
+## 23.7 Continuation — Updating, Testing, Feedback, and Temporal Infrastructure
 
-Interpretive execution must therefore preserve both revisability and discipline. A system that cannot update becomes rigid. A system that updates without warrant becomes unstable.
+Interpretive continuation occurs where operational judgement persists, updates, is tested, or feeds back across time.
 
-## 23.12 Interpretive Failure in Operation
+A trust judgement may be confirmed, weakened, suspended, redirected, or withdrawn. A credibility structure may accumulate, stabilise, fragment, or decay. A credit relation may be extended, renewed, reduced, repriced, transferred, fulfilled, defaulted, repaired, or closed.
+
+The temporal coordination cycle provides the infrastructure through which this occurs. Contribution, observation, signal generation, expectation revision, trust deployment, credibility stabilisation, credit extension, fulfilment, failure, repair, and withdrawal occur through ongoing practical mechanisms: memory, reporting, repayment, review, delivery, audit, rating, certification, family routine, professional practice, platform update, legal process, institutional monitoring, or repeated encounter.
+
+This infrastructure makes the Signal Horizon possible. Without a functioning temporal coordination cycle, realised outcomes may occur, but they do not reliably travel into observation, signal formation, evaluation, expectation, trust, credibility, credit, or feedback.
+
+Realised outcomes do not merely resolve prior expectations. They return as contribution history and may become future traces, observations, signals, expectations, trust judgements, credibility structures, or credit conditions.
+
+Continuation therefore closes and reopens the interpretive cycle. The judgement formed in one cycle becomes part of the evidence environment for the next.
+
+## 23.8 Interpretive Failure Across the Sequence
 
 Interpretive failure occurs where realised outcomes are not converted into meaning in a coherent, warranted, or appropriately attributed way.
 
-Failure may occur because the outcome is unobserved, the trace is inaccessible, the signal is misread, the wrong lens is activated, observer condition distorts evaluation, attribution is misplaced, warrant is absent, or interpretation drifts beyond what the realised outcome can support.
+Failure may occur at any stage of the interpretive execution sequence.
 
-Interpretive failure may produce misplaced trust, unjustified distrust, inflated credibility, credibility entropy, misextended credit, wrongful refusal, excessive sanction, or missed repair.
+At indeterminacy, the outcome may remain meaning-unsettled or never become relevant to the observer.
+
+At boundary, the outcome may fail to enter the observer's interpretive field.
+
+At distinction, the observer may confuse outcome, trace, observation, signal, source, lens, or evaluation condition.
+
+At possibility, the observer may fail to recognise available interpretive paths, or may admit possibilities unsupported by the signal.
+
+At existence, the observer may convert an unwarranted interpretation into trust, credibility, credit, sanction, refusal, withdrawal, or repair.
+
+At continuation, the judgement may fail to update, may drift without warrant, may persist after its basis has failed, or may fail to return realised outcomes into future contribution history.
+
+Interpretive failure may produce misplaced trust, unjustified distrust, inflated credibility, credibility entropy, misextended credit, wrongful refusal, excessive sanction, missed repair, or continued exposure after warrant has failed.
 
 This does not mean the realised event did not occur. It means the event failed to enter the trust sequence in a structurally coherent way.
 
-## 23.13 Chapter Summary
+## 23.9 Chapter Summary
 
 Chapter 23 establishes interpretive execution as the operational process through which realised outcomes become trust-relevant meaning.
 
-It shows that realised events do not become signals automatically. They must be observed, positioned, attributed, evaluated, and warranted within an observing system.
+It shows that realised events do not become signals automatically. They pass through an ontological movement from indeterminate outcome, to interpretive boundary, to distinction, to possibility, to operational judgement, to continuation through updating, testing, and feedback.
 
-Interpretive execution is observer-bound, lens-mediated, visibility-limited, condition-sensitive, and temporally revisable. It can support trust, credibility, credit, refusal, repair, withdrawal, or sanction only where the interpreted signal is sufficiently connected to future contribution within a coordination relation.
+Interpretive execution is observer-bound, lens-mediated, visibility-limited, condition-sensitive, attribution-dependent, warrant-constrained, and temporally revisable. It can support trust, credibility, credit, refusal, repair, withdrawal, or sanction only where the interpreted signal is sufficiently connected to future contribution within a coordination relation.
 
 The next chapter examines how regime execution governs these interpreted meanings in practice: which signals, expectations, credibility structures, credit extensions, failures, repairs, or sanctions may be admitted, constrained, enforced, or withdrawn within realised systems.
 
