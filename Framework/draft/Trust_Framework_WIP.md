@@ -3503,7 +3503,29 @@ Similarly, a coerced participant may predict the conduct of a dominant party wit
 
 Interpretive warrant therefore requires that the expectation be connected to an attributed source of future contribution within a coordination relation. Without such warrant, the framework should classify the case as prediction, belief, fear, coercion, affect, or another neighbouring phenomenon rather than trust.
 
-## 23.9 Interpretive Updating, Drift, and Reinterpretation
+## 23.9 Credibility Interpretation in Operation
+
+Credibility becomes operationally interpretable where trust-relevant judgements are stabilised across time and interaction contexts.
+
+At the interpretive execution layer, credibility is not merely the accumulation of favourable signals. It is the interpretation of signal patterns as sufficiently stable, relevant, and transferable to support future evaluation. Repeated fulfilment, consistent conduct, recognised identity, structural position, current state, capability evidence, certification, reputation, institutional recognition, or peer judgement may all contribute to credibility, but only where the observer treats them as warranting stabilised expectation.
+
+Credibility interpretation therefore depends on pattern recognition. The observer interprets whether multiple signals are independent or correlated, whether they support the same future expectation, whether they remain valid across contexts, and whether they indicate genuine stabilisation or merely accumulated appearance.
+
+A credibility judgement may change even where trust in a single interaction remains intact. The observer may still trust a participant in one context while revising the participant's broader credibility across other contexts, time horizons, roles, or exposures.
+
+## 23.10 Credit Interpretation in Operation
+
+Credit becomes operationally interpretable where stabilised credibility is treated as sufficient to support present extension across a future interval.
+
+At the interpretive execution layer, credit is not yet the legal, financial, institutional, or procedural act of extension itself. It is the interpretation that a participant, relation, instrument, or system carries enough credibility to justify present exposure, access, authority, value, resources, or deferred fulfilment.
+
+Credit interpretation therefore asks what future obligation, contribution, capacity, or fulfilment the observer attributes to the participant or system, and whether that attributed future remains sufficiently credible across the relevant interval.
+
+A credit judgement may change because the participant's credibility changes. It may also change because the observer's exposure tolerance, available alternatives, liquidity condition, mandate, regime threshold, or comparative field changes. In such cases, credit may be withdrawn, reduced, repriced, suspended, transferred, or refused even where the underlying participant has not produced a new adverse signal.
+
+Credit interpretation therefore links credibility to forward exposure. It determines whether stabilised trust-relevant judgement is interpreted as extendable into present commitment.
+
+## 23.11 Interpretive Updating, Drift, and Reinterpretation
 
 Interpretation changes across time.
 
@@ -3513,7 +3535,7 @@ Interpretive updating is necessary for continuation because trust-relevant judge
 
 Interpretive execution must therefore preserve both revisability and discipline. A system that cannot update becomes rigid. A system that updates without warrant becomes unstable.
 
-## 23.10 Interpretive Failure in Operation
+## 23.12 Interpretive Failure in Operation
 
 Interpretive failure occurs where realised outcomes are not converted into meaning in a coherent, warranted, or appropriately attributed way.
 
@@ -3523,7 +3545,7 @@ Interpretive failure may produce misplaced trust, unjustified distrust, inflated
 
 This does not mean the realised event did not occur. It means the event failed to enter the trust sequence in a structurally coherent way.
 
-## 23.11 Chapter Summary
+## 23.13 Chapter Summary
 
 Chapter 23 establishes interpretive execution as the operational process through which realised outcomes become trust-relevant meaning.
 
