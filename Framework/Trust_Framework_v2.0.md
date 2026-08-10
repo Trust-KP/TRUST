@@ -6,12 +6,12 @@ This page intentionally left blank
 ## Contribution, Signals, and the Continuation of Cooperation
 
 ### Author: Kok Pian Gew  
-### Version: 1.7
+### Version: 2.0
 ### Year: 2026  
 ### Status: Working Paper
 ### Official DOI for this release: [to be added]
 
-This document represents the canonical description of the Trust Framework for version 1.7 within the archived repository snapshot.
+This document represents the canonical description of the Trust Framework for version 2.0 within the archived repository snapshot.
 
 The Trust Framework describes how cooperation emerges and persists within coexistence systems through the interpretation of contribution signals across time.
 
@@ -36,7 +36,7 @@ Citation:
 
 Gew, Kok Pian. 2026.
 The Trust Framework: Contribution, Signals, and the Continuation of Cooperation.
-Working Paper / Private Publication. 
+Independent Working Paper. 
 
 # Abstract
 
@@ -1023,11 +1023,11 @@ A participant may be considered credible, but this credibility becomes consequen
 
 At this point, the role of credibility changes.
 
-What has been stabilised as belief is now used as a basis for commitment, delegation, or reliance that depends on future continuation — the three forms of credit deployment examined in Chapter 12. The observer acts as if the expected behaviour will persist, even though this continuation remains uncertain.
+What has been stabilised as belief is now used as a basis for commitment, delegation, or reliance that depends on future continuation — the four forms of credit deployment examined in Chapter 12. The observer acts as if the expected behaviour will persist, even though this continuation remains uncertain.
 
 This extension from belief to action introduces a new condition within the framework.
 
-Credibility enables expectation. Expectation alone is not sufficient to sustain coordination across time. For cooperation to extend beyond immediate interaction, expectation must be deployed in a form that allows present action to depend on future outcomes.
+Credibility stabilises expectation sufficiently to support forward commitment. Expectation alone is not sufficient to sustain coordination across time. For cooperation to extend beyond immediate interaction, expectation must be deployed in a form that allows present action to depend on future outcomes.
 
 This condition defines the transition to credit.
 
@@ -1051,7 +1051,7 @@ Regime must persist for the conditions admitting the commitment to remain valid.
 
 Realisation must persist for the future contribution to materialise.
 
-The four dimensions of credit introduced in the following sections, and the four corresponding risk types in Chapter 12.4, follow directly from this requirement.
+The four dimensions of credit introduced in the following sections, and the four corresponding risk types in Chapter 12.6, follow directly from this requirement.
 
 ---
 
@@ -1153,7 +1153,7 @@ Credit, as defined in this chapter, refers to the forward deployment of expectat
 
 The term “credit,” however, also appears in other temporal directions. These include attribution of past contribution (present to past), interpretive judgement of behavioural patterns (present to pattern), and the persistence of past contribution into future expectation (past to future).
 
-Among these, only the forward extension constitutes credit as an act. The others represent interpretive or structural conditions that support the operation of credit across time.
+Among four, only the forward extension constitutes credit as an act. The others represent interpretive or structural conditions that support the operation of credit across time.
 
 Within this forward-directed structure, credit may be expressed through different dimensions of the framework. These expressions correspond to distinct modes through which contribution is coordinated across time.
 
@@ -1313,7 +1313,7 @@ Continuation requires that such extension can be sustained and repeated. Within 
 
 A single deployment of credit may enable isolated coordination. Continuation arises only when the conditions that support such deployment persist across successive intervals. This persistence depends not on credit alone, but on the temporals through which contribution is produced, information is captured, expectation is formed, and commitment is extended.
 
-Credit therefore marks the transition from stabilised belief to temporal coordination. It enables coordination across time, but does not by itself ensure that coordination continues.
+Credit therefore marks the transition from stabilised belief to extend and re-enter the temporal coordination cycle. It enables coordination across time, but does not by itself ensure that coordination continues.
 
 Temporal coordination addresses this requirement. It describes the processes through which cooperation is sustained beyond individual acts of extension.
 
@@ -3459,7 +3459,7 @@ An outcome is what occurred. A trace is what remains accessible from that occurr
 
 An observer does not, in practice, receive all interpretative lenses with equal clarity. One or more lenses may remain partial, noisy, unavailable, or dark. An observer may have little access to identity standing, no visibility into structural commitments, weak evidence of current state, or only indirect evidence of capability. Trust may nonetheless execute where the visible lenses supply sufficient baseline clarity to support expectation under uncertainty.
 
-Asymmetric lens visibility does not invalidate interpretation, but it conditions it. A trust judgement formed through one visible lens is structurally different from a trust judgement supported across several independent lenses. A credibility structure built from repeated coordination signals differs from one supported by coordination, identity, structural, state, and capability signals together.
+Asymmetric lens visibility does not invalidate interpretation, but it conditions it. A trust judgement formed through one visible lens is structurally different from a trust judgement supported across several independent lenses. A credibility structure built from repeated coordination signals differs from one supported by coordination, identity, structural, and capability signals together.
 
 Distinction also requires attribution. An observer must attribute the realised outcome or signal to some source: a participant, role, system, office, institution, model, market condition, accident, external shock, or regime failure.
 
@@ -3758,8 +3758,6 @@ The appendix therefore serves as a case-based stress test of the framework's pla
 # Appendix: 
 
 ## Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition
-
-Drafted as illustrative Realisation-layer material, anchoring the lens architecture established in Chapter 10.4 and the Regime-scale admissibility principle established in Chapter 17.
 
 ### 1. The Historical Case
 
@@ -4234,5 +4232,5 @@ The Trust Framework's contribution is therefore not to replace existing trust li
 
 This node-specific alignment also explains why different literatures appear to define trust differently. They are often not describing the same node. Some theories emphasise the vulnerability created when expectation is deployed; others emphasise reliability expectations, signal interpretation, reputation, institutional legitimacy, social capital, or control transfer. Within the Trust Framework, these are not mutually exclusive definitions of one flat object. They are interpretations of different positions within the cooperative sequence.
 
-The law layer developed in Chapter 19 extends this alignment by distinguishing the structural, interpretative, regime, and realisation conditions beneath these literatures. Signalling and information-asymmetry theories primarily concern interpretation. Institutional and governance theories primarily concern regime. Transaction-cost economics primarily concerns realisation cost. Monetary and credit theory primarily concerns realised credit extension. Trust theories centred on vulnerability and positive expectation primarily concern the transition from expectation into trust deployment.
+The law layer developed in Chapter 18 extends this alignment by distinguishing the structural, interpretative, regime, and realisation conditions beneath these literatures. Signalling and information-asymmetry theories primarily concern interpretation. Institutional and governance theories primarily concern regime. Transaction-cost economics primarily concerns realisation cost. Monetary and credit theory primarily concerns realised credit extension. Trust theories centred on vulnerability and positive expectation primarily concern the transition from expectation into trust deployment.
 
