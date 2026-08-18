@@ -44,7 +44,7 @@ Human cooperation requires participants to act despite uncertainty about the fut
 
 This paper proposes the Trust Framework, a conceptual model describing how cooperative systems persist under such uncertainty. The framework begins from the observation that all cooperative systems first exist within environments of coexistence, where multiple participants or organised systems influence one another’s continuation conditions without necessarily coordinating their actions. Cooperation emerges only when interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal. This threshold is described as the cooperative boundary.
 
-Once this boundary is crossed, temporal coordination becomes possible. Participants begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate observable signals, signals are interpreted under uncertainty to form expectations, which are then evaluated through trust judgements, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
+Once this boundary is crossed, temporal coordination becomes possible. Participants begin relying on past interactions to form expectations about future behaviour. Within this process, contribution events generate outcomes/traces which become signals when observed and interpreted under uncertainty to form expectations, which are then evaluated through trust judgements, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
 
 The Trust Framework therefore describes the structural sequence through which cooperation persists across time:
 
@@ -100,9 +100,9 @@ Nor does the framework claim that every organised social relation is automatical
 
 **PART IV - TRUST REGIME**
 - [17 REGIME FOUNDATION](#17-REGIME-FOUNDATION)
-- [18 LAWS](#18-LAW)
+- [18 LAWS](#18-LAWS)
 - [19 PRINCIPLES](#19-PRINCIPLES)
-- [20 CONTINUATION AND INTEPRETATIVE GOVERNANCE](#20-CONTINUATION-AND-INTEPRETATIVE-GOVERNANCE)
+- [20 CONTINUATION AND INTERPRETATIVE GOVERNANCE](#20-CONTINUATION-AND-INTERPRETATIVE-GOVERNANCE)
 - [21 BOUNDARY AND FAILURE CONDITIONS](#21-BOUNDARY-AND-FAILURE-CONDITIONS)
 
 **PART V — REALISATION**
@@ -115,8 +115,9 @@ Nor does the framework claim that every organised social relation is automatical
 - [Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition](#Case-Study-1-From-His-Word-Is-His-Bond-TheIdentity-to-Capability-Lens-Transition)
 - [Case Study 2 - Insurance as a Four-Temporal Coordination Instrument](#Case-Study-2-Insurance-as-a-Four-Temporal-Coordination-Instrument)
 - [Case Study 3 — Airline Miles as Stored Credit and Conditional Trust](#Case-Study-3-Airline-Miles-as-Stored-Credit-and-Conditional-Trust)
-- [ Case Study 4 — Certification as Credit Extension in Hiring](#Case-Study-4-Certification-as-Credit-Extension-in-Hiring)
+- [Case Study 4 — Certification as Credit Extension in Hiring](#Case-Study-4-Certification-as-Credit-Extension-in-Hiring)
 - [Case Study 5 — Mortgage Lending and Credit Creation](#Case-Study-5-Mortgage-Lending-and-Credit-Creation)
+- [Case Study 6 — The Global Financial Crisis as Credibility Systemic Risk](#The-Global-Financial-Crisis-as-Credibility-Systemic-Risk)
 
 ---
 
@@ -170,7 +171,7 @@ Signals may include fulfilled obligations, failures, delays, reliability pattern
 
 Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
 
-Signals originate from contribution outcomes and exist independently of any specific observer, although access to and interpretation of signals may vary across observers.
+Contribution outcomes or traces exists independently of any specific observer, although access to and interpretation of outcomes and traces may vary across observers but formed or externalised signals may persist/circulate.
 
 ## Trust Interpretation
 
@@ -217,9 +218,9 @@ For this reason, sustainable systems operate through a balance between stability
 
 Within such environments, cooperative systems must allocate resources and authority among participants who differ in their ability to generate future contributions. Across repeated interactions, participants demonstrate varying levels of reliability in transforming uncertain opportunities into dependable outcomes. Over time, these histories of contribution accumulate into expectations about the future contribution capacity of each agent.
 
-This accumulated expectation can be understood as temporal trust capital — the anticipated capacity of a participant to generate reliable contributions across future time. Participants who consistently convert uncertainty into stable contributions accumulate greater temporal trust capital and therefore attract greater coordination, resources, and opportunities from the wider system.
+This accumulated expectation can be understood as a derived interpretation of credibility — the anticipated capacity of a participant to generate reliable contributions across future time. Participants who consistently convert uncertainty into stable contributions accumulate greater temporal trust capital and therefore attract greater coordination, resources, and opportunities from the wider system.
 
-Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a currency of cooperative allocation, representing accumulated credibility regarding a participant’s future contribution capacity.
+Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a medium of exchange of cooperative allocation, representing accumulated credibility regarding a participant’s future contribution capacity.
 
 For such a system to remain coherent across multiple communities and institutions, the interpretation of contribution signals must remain consistent. Local communities may adopt different operational calibrations depending on their circumstances, but the evaluation of contribution must remain comparable across the broader system. This requires the presence of a neutral interpretive lens capable of maintaining consistency in how contributions are recognized and how status is assigned.
 
@@ -1309,7 +1310,7 @@ The following chapter examines these temporal processes in a unified manner, des
 
 Credit extends expectation across time. It enables present action to depend on future contribution. However, forward extension alone does not constitute continuation.
 
-Continuation requires that such extension can be sustained and repeated. Within this chapter, continuation refers operationally to the persistence of coordinated behaviour across temporal intervals rather than to the ontological primitive of referability developed earlier in the framework.
+Continuation requires that such extension can be sustained and repeated. Within this chapter, continuation refers operationally to the persistence of coordinated behaviour across temporal intervals rather than to the ontological primitive of ontological condition of continuation developed earlier in the framework.
 
 A single deployment of credit may enable isolated coordination. Continuation arises only when the conditions that support such deployment persist across successive intervals. This persistence depends not on credit alone, but on the temporals through which contribution is produced, information is captured, expectation is formed, and commitment is extended.
 
@@ -1777,7 +1778,7 @@ The full cooperative sequence —
 
 **Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
 
-The sequence is ordered but not automatic. Each stage provides the condition from which the next may arise, but no stage guarantees passage into the next. Contribution may remain unobserved, observation may fail to become signal, signal may fail to support expectation, expectation may remain undeployed, trust may fail to stabilise as credibility, credibility may fail to support credit, and credit may fail to resolve into continuation.
+The sequence is ordered but not automatic. Each stage provides the condition from which the next may arise, but no stage guarantees passage into the next. Contribution may not generate any outcome or traces, outcomes or traces may remain unobserved, observation may fail to generate signal, signal may fail to support expectation, expectation may remain undeployed, trust may fail to stabilise as credibility, credibility may fail to support credit, and credit may fail to resolve into continuation.
 
 This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented, and the operational return through which their outcomes become available for future cycles.
 
@@ -3491,7 +3492,7 @@ At this level, the established operational definitions apply.
 
 **Trust** is a context-bound interpretive judgement through which an observer deploys an expectation toward an attributed source of future contribution, inferred from signals derived from observed contribution outcomes, to enable coordination under uncertainty.
 
-**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, state, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
+**Credibility** is the stabilisation of trust-relevant judgements within an observing position or system across time and interaction contexts, organised as a multi-dimensional configuration of signals interpreted through coordination, identity, structural, and capability lenses, producing a durable basis for evaluating expected continuation of behaviour.
 
 **Credit** is the extension of present coordination, access, value, authority, resources, or exposure, drawing upon stabilised credibility, on the basis of an observer-attributed future obligation, contribution, capacity, or fulfilment whose realisation depends on the expected continuation of the participant, relation, regime, or system across the relevant interval.
 
@@ -3761,7 +3762,7 @@ The appendix therefore serves as a case-based stress test of the framework's pla
 
 ### 1. The Historical Case
 
-For most of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The clearest instance is the historic motto of the London Stock Exchange, adopted in the 17th century and retained into the 20th: "My word is my bond" (Latin: Dictum meum pactum). A verbal commitment from a gentleman of recognised standing was treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
+For most of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The clearest instance is the historic motto of the London Stock Exchange, adopted in the 1923: "My word is my bond" (Latin: Dictum meum pactum). A verbal commitment from a gentleman of recognised standing was treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
 
 This was not naivety. It was a coherent, functioning admissibility mechanism, for a specific structural reason: the trading community was small, socially closed, and repeatedly interacting. A merchant's identity — his family, his club membership, his standing among a bounded circle of known peers — carried the entire evidentiary weight that a modern credit check, audited balance sheet, or clearing-house guarantee carries today. Reneging on a verbal commitment did not merely cost a transaction; it triggered near-total, near-permanent exclusion from a closed community with no realistic outside option. The Identity lens worked because the admissibility mechanism's own "variety" — its capacity to discriminate trustworthy from untrustworthy parties — was genuinely adequate to the small, stable population it governed.
 
@@ -3780,7 +3781,9 @@ Ferdinand Tönnies' Gemeinschaft and Gesellschaft (1887) describes the same tran
 
 ### 4. Why the Transition Is Not Complete, and Not Uniform
 
-The Identity lens has not disappeared; it persists wherever population scale remains small enough for its admissibility capacity to remain adequate — elite professional networks, family businesses, closed diaspora trading communities (the historic Maghribi traders' network and, in a different register, diamond-district handshake deals in modern New York are frequently cited real instances of Identity-lens trust surviving intact inside an otherwise Capability-dominated economy). This is consistent with 15.6 (Dominant Configurations and Overlay): multiple lenses may remain simultaneously active, with dominance shifting by context rather than one lens fully replacing another system-wide.
+The Identity lens has not disappeared; it persists wherever population scale remains small enough for its admissibility capacity to remain adequate — elite professional networks, family businesses, closed diaspora trading communities (the historic Maghribi traders' network and, in a different register, diamond-district handshake deals in modern New York are frequently cited real instances of Identity-lens trust surviving intact inside an otherwise Capability-dominated economy). 
+
+This is consistent with 15.6 (Dominant Configurations and Overlay): multiple lenses may remain simultaneously active, with dominance shifting by context rather than one lens fully replacing another system-wide.
 
 ### 5. Anchoring Statement
 
@@ -3840,7 +3843,11 @@ Insurance credit is therefore not merely the insurer's balance sheet. It is forw
 
 ### 5. Alignment Across the Four Obligations
 
-Modern insurance accounting reinforces this four-obligation structure by making the contractual dimension more explicit. Contemporary insurance accounting treats the insurance liability not merely as an amount expected to be paid, but as a contractual service obligation measured through coverage, fulfilment cash flows, risk adjustment, and the pattern of service over time. This does not reduce insurance to accounting. Accounting formalises part of the financial and contractual relationship, while recording and operational obligations remain broader institutional conditions required for the promise to be interpretable and realised.
+Modern insurance accounting reinforces this four-obligation structure by making the contractual dimension more explicit. 
+
+Contemporary insurance accounting treats the insurance liability not merely as an amount expected to be paid, but as a contractual service obligation measured through coverage, fulfilment cash flows, risk adjustment, and the pattern of service over time. 
+
+This does not reduce insurance to accounting. Accounting formalises part of the financial and contractual relationship, while recording and operational obligations remain broader institutional conditions required for the promise to be interpretable and realised.
 
 Insurance functions only when the four obligations remain aligned.
 
@@ -3857,13 +3864,13 @@ Insurance therefore illustrates why credit cannot be reduced to financial capaci
 
 The insurance cycle can be represented as a temporal coordination process:
 
-Risk exposure is identified.  
-Information is collected and recorded.  
-Policy terms interpret the risk and define admissible claims.  
-Premium and capital support the forward commitment.  
-A loss occurs.  
-The claim is observed, recorded, interpreted, and executed.  
-The outcome updates credibility and affects future underwriting, pricing, regulation, and trust.
+- Risk exposure is identified.  
+- Information is collected and recorded.  
+- Policy terms interpret the risk and define admissible claims.  
+- Premium and capital support the forward commitment.  
+- A loss occurs.  
+- The claim is observed, recorded, interpreted, and executed.  
+- The outcome updates credibility and affects future underwriting, pricing, regulation, and trust.
 
 Insurance therefore converts uncertainty into a repeatable temporal structure. It does not eliminate uncertainty. It governs uncertainty by binding interpretation, information, realisation, and credit into a coordinated system.
 
@@ -3883,7 +3890,7 @@ Miles originate from contribution events.
 
 A passenger flies, pays, spends through a partner, or performs another recognised action within the airline's loyalty regime. The airline records this contribution and translates it into a mileage balance according to programme rules.
 
-The mileage balance is therefore not the contribution itself. It is a recorded signal derived from contribution history.
+The mileage balance is therefore not the contribution itself. It is a recorded outcome and translated as signal which derived from contribution history.
 
 This recording function matters because the passenger may later act on the belief that prior contribution has been preserved in a form that can support future travel, upgrades, status, or other benefits.
 
@@ -3943,14 +3950,14 @@ This is not merely a financial adjustment. It is a regime alteration affecting t
 
 Airline miles illustrate the full cooperative sequence:
 
-Contribution occurs through travel or programme participation.  
-Observation and recording convert contribution into mileage balances.  
-Signals are interpreted by passengers as evidence of future redeemable value.  
-Expectation forms around the issuer's willingness and capacity to honour the programme.  
-Trust is deployed when passengers continue participating.  
-Credibility stabilises when the airline repeatedly honours redemptions.  
-Credit appears as stored mileage value.  
-Continuation depends on the airline, the programme regime, and the operational availability of redemption.
+- Contribution occurs through travel or programme participation.  
+- Observation and recording convert contribution into mileage balances.  
+- Signals are interpreted by passengers as evidence of future redeemable value.  
+- Expectation forms around the issuer's willingness and capacity to honour the programme.  
+- Trust is deployed when passengers continue participating by collecting more mileage.  
+- Credibility stabilises when the airline repeatedly honours redemptions.  
+- Credit appears as stored mileage value.  
+- Continuation depends on the airline, the programme regime, and the operational availability of redemption.
 
 Airline miles therefore show that credit can exist outside banking. A loyalty point is not money, but it is a regime-bound credit instrument: a recorded claim on future capacity, grounded in past contribution, issuer credibility, and admissible operational realisation.
 
@@ -3960,7 +3967,7 @@ A profession is not merely a collection of skilled individuals. It is a regime-b
 
 Clients, employers, courts, regulators, and the wider public often cannot directly evaluate the full competence of a professional before relying on them. A patient cannot fully assess a surgeon's training. A client cannot directly inspect every judgement of a lawyer. A building owner cannot personally verify every engineering calculation. In such cases, society relies on professional regimes to convert hidden capability into admissible credibility.
 
-1. Contribution and Training
+### 1. Contribution and Training
 
 Professional trust begins with contribution history.
 
@@ -3968,7 +3975,7 @@ A professional candidate studies, trains, apprentices, practises, passes examina
 
 However, this history is not fully visible to future clients or employers. It must be compressed into signals that others can interpret.
 
-2. Guild or Professional Regime
+### 2. Guild or Professional Regime
 
 A guild or profession establishes the regime through which capability becomes admissible.
 
@@ -3980,7 +3987,7 @@ The profession therefore functions as an admissibility structure.
 
 It tells outsiders: this person has passed through a recognised pathway and may be relied upon within a defined scope of practice.
 
-3. Certification as Signal Artifact
+### 3. Certification as Signal Artifact
 
 Certification is one signal produced by the professional regime.
 
@@ -3990,7 +3997,7 @@ The signal works only because the regime behind it is trusted. If the certifying
 
 Certification is therefore not capability itself. It is a contribution-derived signal artifact backed by regime credibility.
 
-4. Profession-Level Credibility
+### 4. Profession-Level Credibility
 
 Trust in professionals often depends on profession-level credibility rather than direct personal knowledge.
 
@@ -3998,11 +4005,12 @@ A client may trust an individual engineer partly because they trust the engineer
 
 Credibility therefore attaches at two levels:
 
-Individual credibility: the professional's own record, conduct, and performance.Regime credibility: the profession's ability to train, certify, monitor, discipline, and exclude.
+Individual credibility: the professional's own record, conduct, and performance. 
+Regime credibility: the profession's ability to train, certify, monitor, discipline, and exclude.
 
 When both levels align, trust can extend across social distance.
 
-5. Credit Extension Through Professional Standing
+### 5. Credit Extension Through Professional Standing
 
 Professional standing enables credit extension.
 
@@ -4012,7 +4020,7 @@ These are credit extensions in the broad sense of the Trust Framework. Present a
 
 The professional receives more than recognition. They receive access to action that others are not permitted to perform.
 
-6. Interpretive Transmission
+### 6. Interpretive Transmission
 
 Professional regimes also transmit interpretation.
 
@@ -4024,7 +4032,7 @@ A profession continues only if new entrants can inherit the interpretive standar
 
 Where this transmission fails, certification may persist while professional judgement weakens.
 
-7. Failure Modes
+### 7. Failure Modes
 
 Professional trust can fail in several ways.
 
@@ -4032,7 +4040,7 @@ If entry standards weaken, the signal becomes less reliable.If disciplinary syst
 
 In such cases, the profession may continue in form while losing the capacity to generate credible trust.
 
-8. The Structural Lesson
+### 8. The Structural Lesson
 
 Professional guilds show that trust can be institutionalised without becoming purely procedural.
 
