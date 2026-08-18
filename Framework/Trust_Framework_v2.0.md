@@ -1517,48 +1517,54 @@ As a result, the experienced order of coordination may differ depending on the e
 This may be illustrated through a single activity: a farmer repeatedly selling apples within a cooperative system.
 
 **Operation-entry (Production-first)**  
-A participant observing from execution encounters the cycle beginning with realised contribution:
+A participant entering from execution encounters the cycle at the point where contribution is realised:
 
 Production → Information → Trust → Credit → Production
 
-Apples are produced and delivered.  
-Outcomes are observed and recorded.  
-Expectations are formed based on observed quality.  
-Commitment is extended through repeat purchase or deferred payment.  
-Production continues.
-
-**Interpretation-entry (Trust-first)**  
-A participant beginning from judgement encounters the cycle through trust:
-
-Trust → Information → Production → Credit → Production
-
-A prior trust judgement is held.  
-Supporting information is recalled or accessed.  
-Production is anticipated and evaluated.  
-Commitment is extended.  
-Production is realised.
+Apples are grown, harvested, and delivered.  
+The realised contribution produces outcomes or traces: quantity, quality, timing, condition, and delivery conduct.  
+These outcomes or traces are observed and recorded.  
+Observers interpret them as signals of reliability.  
+Trust and credibility may stabilise, supporting repeat purchase, deferred payment, or supply commitment.  
+The credit extension then enables further production.
 
 **Structure-entry (Information-first)**  
-A participant beginning from records or systems encounters the cycle through information:
+A participant entering from records, reports, or systems encounters the cycle at the point where contribution has already been captured:
 
 Information → Trust → Credit → Production → Information
 
-Recorded outcomes or reputational signals are accessed.  
-Expectations are formed through interpretation.  
-Commitment is established.  
-Production is executed.  
-New information is generated.
+A buyer, platform, market, or cooperative accesses records of past deliveries, quality ratings, invoices, complaints, or reputation.  
+These records are not the original contribution itself, but traces through which contribution becomes visible.  
+The observer interprets the records as signals and forms expectation.  
+If expectation is sufficient, trust is deployed and credit may be extended through repeat order, advance payment, preferred supplier status, or contract access.  
+The resulting production creates new outcomes or traces that return into the information system.
+
+**Interpretation-entry (Trust-first)**  
+A participant entering from an existing judgement encounters the cycle at the point where expectation is already active:
+
+Trust → Credit → Production → Information → Trust
+
+A buyer already trusts the farmer because of prior experience, reputation, or relational knowledge.  
+That trust supports present commitment before the next crop is observed: the buyer places an order, waits for delivery, accepts deferred settlement, or allocates shelf space.  
+The commitment enables or motivates production.  
+Production then generates outcomes or traces: delivered apples, timing, quality, complaints, payment records, or repeat performance.  
+These traces are observed and interpreted, updating the original trust judgement.
+
+Where the observer moves from trust backward to supporting records or past production, that movement is not forward temporal traversal. It is interpretive reconstruction:
+
+Trust → Information → Production
 
 **Regime-entry (Credit-first)**  
-A participant beginning from rules or contractual structures encounters the cycle through commitment:
+A participant entering from rules, contract, or institutional commitment encounters the cycle at the point where forward extension has already been formalised:
 
 Credit → Production → Information → Trust → Credit
 
-A contractual or institutional structure enables forward commitment.  
-Production is undertaken under that commitment.  
-Outcomes are recorded.  
-Trust is updated through observed alignment.  
-Commitment is sustained or revised.
+A contract, procurement framework, cooperative membership, credit facility, or marketplace rule grants the farmer access to future-facing commitment.  
+Production occurs under that regime.  
+The realised contribution generates outcomes or traces that are recorded, inspected, rated, invoiced, paid, or disputed.  
+Observers interpret those traces as signals and update trust and credibility.  
+The regime then sustains, revises, expands, prices, suspends, or withdraws future credit.
+
 
 These variations do not represent different temporal sequences.
 
@@ -4224,7 +4230,13 @@ It is a case in which trust did not fail only at the level of individual borrowe
 
 Existing trust literature often emphasises vulnerability, reliability, risk, reputation, signalling, social capital, or complexity reduction. The Trust Framework does not reject these interpretations. It locates them within a broader structural sequence.
 
-| Trust Framework node | Literature alignment |
+## Existing Trust Literature as Node-Specific Interpretations
+
+## Existing Trust Literature as Node-Specific Interpretations
+
+The table below uses broad descriptive labels rather than assigning each node to a single school or theory.
+
+| Trust Framework node | Common emphasis in existing discussions |
 |---|---|
 | Coexistence | Interdependence, social embeddedness, systems context |
 | Cooperative Boundary | Risk threshold, vulnerability condition, willingness to engage |
@@ -4238,14 +4250,30 @@ Existing trust literature often emphasises vulnerability, reliability, risk, rep
 | Credit | Delegation, control transfer, lending, authority, resource commitment |
 | Continuation | Social capital, institutional persistence, cooperation stability |
 
-Representative references include Mayer, Davis, and Schoorman on vulnerability and trust; Rousseau et al. on positive expectation and accepted vulnerability; Luhmann on trust and complexity reduction; Spence and Akerlof on signalling and information asymmetry; Hovland and Weiss on source credibility; Coleman on trust, risk, and control; Coase and Williamson on transaction costs; North on institutions as rules and constraints; Ashby on requisite variety; and the Bank of England on modern money creation through bank lending.
+The table uses broad descriptive terms. Some of these terms also have specialised meanings in particular literatures, but the table does not assign ownership of a node to any single theory.
 
-Different theories enter the sequence at different points. Vulnerability-based theories focus mainly on the transition from expectation into trust deployment. Reliability theories focus on expectation. Signalling and reputation theories focus on the observation-signal-credibility pathway. Luhmann's complexity-reduction account focuses on temporal coordination. Coleman-type control and risk approaches focus on the transfer of control or resources, which corresponds to credit extension. Social-capital and institutional-trust theories focus on the continuation effects of stabilised trust and credibility across systems.
+Different theories enter the sequence at different points. Vulnerability-based accounts focus mainly on the transition from expectation into trust deployment. Reliability accounts focus on expectation. Signalling and reputation accounts focus on the observation-signal-credibility pathway. Complexity-reduction accounts focus on temporal coordination. Institutional and transaction-cost accounts focus on regime, coordination cost, and realised organisation. Monetary and credit theories focus on realised credit extension.
 
-The Trust Framework's contribution is therefore not to replace existing trust literature with a single competing definition, but to show how these interpretations occupy different positions within one cooperative sequence.
-
-This node-specific alignment also explains why different literatures appear to define trust differently. They are often not describing the same node. Some theories emphasise the vulnerability created when expectation is deployed; others emphasise reliability expectations, signal interpretation, reputation, institutional legitimacy, social capital, or control transfer. Within the Trust Framework, these are not mutually exclusive definitions of one flat object. They are interpretations of different positions within the cooperative sequence.
-
-The law layer developed in Chapter 18 extends this alignment by distinguishing the structural, interpretative, regime, and realisation conditions beneath these literatures. Signalling and information-asymmetry theories primarily concern interpretation. Institutional and governance theories primarily concern regime. Transaction-cost economics primarily concerns realisation cost. Monetary and credit theory primarily concerns realised credit extension. Trust theories centred on vulnerability and positive expectation primarily concern the transition from expectation into trust deployment.
+The Trust Framework's contribution is therefore not to replace existing trust literature with a single competing definition, but to show how these interpretations may occupy different positions within one cooperative sequence. The references below are included as representative anchors for these literatures rather than as exhaustive sources from which the framework is derived.
 
 # Reference
+
+The following references are included as representative anchors for the literatures discussed above. They are not treated as sources from which the Trust Framework is derived, but as established points of comparison for trust, signalling, credibility, institutional constraint, transaction cost, cybernetic variety, and modern credit creation.
+
+# References
+
+| Reference | Area Anchored |
+|---|---|
+| Akerlof, G. A. (1970). The market for “lemons”: Quality uncertainty and the market mechanism. *The Quarterly Journal of Economics, 84*(3), 488–500. https://doi.org/10.2307/1879431 | Information asymmetry; quality uncertainty |
+| Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall. | Requisite variety; system regulation |
+| Coase, R. H. (1937). The nature of the firm. *Economica, 4*(16), 386–405. https://doi.org/10.1111/j.1468-0335.1937.tb00002.x | Transaction costs; firm boundaries |
+| Coleman, J. S. (1990). *Foundations of social theory*. Harvard University Press. | Trust, control, social action |
+| Hovland, C. I., & Weiss, W. (1951). The influence of source credibility on communication effectiveness. *Public Opinion Quarterly, 15*(4), 635–650. https://doi.org/10.1086/266350 | Source credibility |
+| Luhmann, N. (1979). *Trust and power*. John Wiley & Sons. | Complexity reduction; system trust |
+| Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. *Academy of Management Review, 20*(3), 709–734. https://doi.org/10.5465/amr.1995.9508080335 | Organisational trust; vulnerability; trustworthiness |
+| McLeay, M., Radia, A., & Thomas, R. (2014). Money creation in the modern economy. *Bank of England Quarterly Bulletin, 2014 Q1*. https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy | Bank lending; money creation |
+| North, D. C. (1990). *Institutions, institutional change and economic performance*. Cambridge University Press. | Institutions; rules; constraints |
+| Rousseau, D. M., Sitkin, S. B., Burt, R. S., & Camerer, C. (1998). Not so different after all: A cross-discipline view of trust. *Academy of Management Review, 23*(3), 393–404. https://doi.org/10.5465/amr.1998.926617 | Cross-disciplinary trust; positive expectation; vulnerability |
+| Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics, 87*(3), 355–374. https://doi.org/10.2307/1882010 | Signalling; observable markers |
+| Williamson, O. E. (1985). *The economic institutions of capitalism: Firms, markets, relational contracting*. Free Press. | Transaction-cost economics; governance; contracting |
+
