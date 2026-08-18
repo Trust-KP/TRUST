@@ -171,7 +171,8 @@ Signals may include fulfilled obligations, failures, delays, reliability pattern
 
 Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
 
-Contribution outcomes or traces exists independently of any specific observer, although access to and interpretation of outcomes and traces may vary across observers but formed or externalised signals may persist/circulate.
+Contribution outcomes or traces may exist independently of any specific observer. Access to and interpretation of those outcomes or traces may vary across observers. Once formed or externalised, signals may persist and circulate.
+
 
 ## Trust Interpretation
 
@@ -1081,6 +1082,7 @@ Credit is therefore not defined by the form of what is extended, but by the temp
 Because credit is defined by its temporal structure rather than its form, the same mechanism appears across domains that are otherwise unrelated.
 
 Credit (in this framework) refers to the domain-independent mechanism of forward capacity extension, of which the following are specific instantiations across domains:
+
 - financial credit (capital extension),
 - political authority (governing power),
 - educational qualification (access to institutional pathways),
@@ -1310,11 +1312,11 @@ The following chapter examines these temporal processes in a unified manner, des
 
 Credit extends expectation across time. It enables present action to depend on future contribution. However, forward extension alone does not constitute continuation.
 
-Continuation requires that such extension can be sustained and repeated. Within this chapter, continuation refers operationally to the persistence of coordinated behaviour across temporal intervals rather than to the ontological primitive of ontological condition of continuation developed earlier in the framework.
+Continuation requires that such extension can be sustained and repeated. Within this chapter, continuation refers operationally to the persistence of coordinated behaviour across temporal intervals rather than to the ontological condition of continuation developed earlier in the framework.
 
 A single deployment of credit may enable isolated coordination. Continuation arises only when the conditions that support such deployment persist across successive intervals. This persistence depends not on credit alone, but on the temporals through which contribution is produced, information is captured, expectation is formed, and commitment is extended.
 
-Credit therefore marks the transition from stabilised belief to extend and re-enter the temporal coordination cycle. It enables coordination across time, but does not by itself ensure that coordination continues.
+Credit therefore marks the transition from stabilised belief into forward commitment within the temporal coordination cycle. It enables coordination across time, but does not by itself ensure that coordination continues.
 
 Temporal coordination addresses this requirement. It describes the processes through which cooperation is sustained beyond individual acts of extension.
 
@@ -1724,9 +1726,9 @@ A **signal** obtains when an observed contribution outcome becomes available for
 
 An **expectation** obtains when an observer applies evaluation principles to interpreted signals and forms a projection regarding the continuation of a participant’s behaviour.
 
-Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, no observation is possible, no signals exist, and no expectations can form.
+Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, there is no traces or outcome, no observation is possible, no signals exist, and no expectations can form.
 
-Signals exist independently of any specific observer’s access to them, although access, resolution, and timing may vary across observers. Expectation, by contrast, is held by the observer; it is not a property of the participant, the contribution event, or the signal itself.
+Outcomes and traces exist independently of any specific observer’s access to them, although access, resolution, and timing may vary across observers. Signal and Expectation, by contrast, is held by the observer; it is not a property of the participant, the contribution event, or the trace or outcome itself.
 
 Each structure depends upon but is irreducible to the one preceding it: observation cannot occur without contribution, signals cannot be interpreted without observation, and expectation cannot form without signals.
 
@@ -3762,7 +3764,7 @@ The appendix therefore serves as a case-based stress test of the framework's pla
 
 ### 1. The Historical Case
 
-For most of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The clearest instance is the historic motto of the London Stock Exchange, adopted in the 1923: "My word is my bond" (Latin: Dictum meum pactum). A verbal commitment from a gentleman of recognised standing was treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
+For most of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The London Stock Exchange received its coat of arms and motto in 1923: "My word is my bond" (Latin: Dictum meum pactum). A verbal commitment from a gentleman of recognised standing was treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
 
 This was not naivety. It was a coherent, functioning admissibility mechanism, for a specific structural reason: the trading community was small, socially closed, and repeatedly interacting. A merchant's identity — his family, his club membership, his standing among a bounded circle of known peers — carried the entire evidentiary weight that a modern credit check, audited balance sheet, or clearing-house guarantee carries today. Reneging on a verbal commitment did not merely cost a transaction; it triggered near-total, near-permanent exclusion from a closed community with no realistic outside option. The Identity lens worked because the admissibility mechanism's own "variety" — its capacity to discriminate trustworthy from untrustworthy parties — was genuinely adequate to the small, stable population it governed.
 
@@ -4242,3 +4244,4 @@ This node-specific alignment also explains why different literatures appear to d
 
 The law layer developed in Chapter 18 extends this alignment by distinguishing the structural, interpretative, regime, and realisation conditions beneath these literatures. Signalling and information-asymmetry theories primarily concern interpretation. Institutional and governance theories primarily concern regime. Transaction-cost economics primarily concerns realisation cost. Monetary and credit theory primarily concerns realised credit extension. Trust theories centred on vulnerability and positive expectation primarily concern the transition from expectation into trust deployment.
 
+# Reference
