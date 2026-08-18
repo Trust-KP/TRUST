@@ -4072,9 +4072,9 @@ Within the Trust Framework, mortgage lending can be understood as credit creatio
 
 A mortgage begins before the loan is issued.
 
-The borrower has a contribution history: income, employment, savings, repayment behaviour, assets, expenditure patterns, and prior financial conduct. These are not fully known to the bank. They are observed through documents, records, credit reports, bank statements, payslips, tax information, collateral valuation, and other signals.
+The borrower has a contribution history: income, employment, savings, repayment behaviour, assets, expenditure patterns, and prior financial conduct. These are not fully known to the bank. They are observed through documents, records, credit reports, bank statements, payslips, tax information, collateral valuation, and other outcome and traces and interpret as signals.
 
-The bank does not directly know the borrower's future capacity. It interprets available signals to form an expectation about whether the borrower can continue generating income and meeting repayment obligations over time.
+The bank does not directly know the borrower's future capacity. It interprets the available signals to form an expectation about whether the borrower can continue generating income and meeting repayment obligations over time.
 
 ### 2. Underwriting as Regime Admissibility
 
@@ -4230,9 +4230,7 @@ It is a case in which trust did not fail only at the level of individual borrowe
 
 Existing trust literature often emphasises vulnerability, reliability, risk, reputation, signalling, social capital, or complexity reduction. The Trust Framework does not reject these interpretations. It locates them within a broader structural sequence.
 
-## Existing Trust Literature as Node-Specific Interpretations
-
-## Existing Trust Literature as Node-Specific Interpretations
+The following references are included as representative anchors for adjacent literatures. The Trust Framework is not derived from these works, and the list is not intended as an exhaustive literature review. Some references anchor specific concepts used in the framework, such as signalling, information asymmetry, requisite variety, transaction cost, institutional constraint, source credibility, and modern money creation. Others provide established comparison points for trust, vulnerability, reliability, reputation, social capital, and system trust.
 
 The table below uses broad descriptive labels rather than assigning each node to a single school or theory.
 
@@ -4271,7 +4269,7 @@ The following references are included as representative anchors for the literatu
 | Hovland, C. I., & Weiss, W. (1951). The influence of source credibility on communication effectiveness. *Public Opinion Quarterly, 15*(4), 635–650. https://doi.org/10.1086/266350 | Source credibility |
 | Luhmann, N. (1979). *Trust and power*. John Wiley & Sons. | Complexity reduction; system trust |
 | Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. *Academy of Management Review, 20*(3), 709–734. https://doi.org/10.5465/amr.1995.9508080335 | Organisational trust; vulnerability; trustworthiness |
-| McLeay, M., Radia, A., & Thomas, R. (2014). Money creation in the modern economy. *Bank of England Quarterly Bulletin, 2014 Q1*. https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy | Bank lending; money creation |
+| McLeay, M., Radia, A., & Thomas, R. (2014). Money creation in the modern economy. *Bank of England Quarterly Bulletin, 2014 Q1*. https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy | Commercial bank money creation; lending as deposit creation; repayment as money destruction |
 | North, D. C. (1990). *Institutions, institutional change and economic performance*. Cambridge University Press. | Institutions; rules; constraints |
 | Rousseau, D. M., Sitkin, S. B., Burt, R. S., & Camerer, C. (1998). Not so different after all: A cross-discipline view of trust. *Academy of Management Review, 23*(3), 393–404. https://doi.org/10.5465/amr.1998.926617 | Cross-disciplinary trust; positive expectation; vulnerability |
 | Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics, 87*(3), 355–374. https://doi.org/10.2307/1882010 | Signalling; observable markers |
