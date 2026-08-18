@@ -296,13 +296,13 @@ Systems that cross the cooperative boundary and begin coordinating behaviour fac
 
 The sequence that follows describes continuation at the level of temporal coordination between participants, which operates within, and contributes to, the continuation of the broader coexistence system.
 
-Actions performed by participants generate realised contributions, which produce observable outcomes that other participants can interpret as signals.
+Actions performed by participants generate realised contributions, which produce outcomes or traces that may become signals when observed and interpreted as meaning-bearing by other participants.
 
 Temporal coordination arises when participants interpret observations of past behaviour to form expectations regarding future behaviour, which may then be evaluated and deployed through trust within subsequent interaction. Actions performed by participants generate outcomes or traces that may become signals when observed and interpreted as meaning-bearing by other participants. These interpreted signals provide the informational basis from which observers assess whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
 
 Because coordination occurs across time, cooperation remains inherently provisional. Each interaction produces new information that may reinforce or weaken existing expectations. When observed outcomes confirm prior expectations, the perceived reliability of cooperation increases and coordination becomes more stable. When outcomes contradict expectations, confidence deteriorates and coordination may weaken or collapse.
 
-Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences produce signals that other participants interpret when forming expectations about future behaviour. Based on these expectations, participants deploy expectation into further coordinated action, extending cooperation across time. The resulting interactions generate new outcomes and signals, restarting the cycle.
+Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences leave outcomes or traces that may become signals when observed and interpreted as meaning-bearing by other participants. Based on the expectations formed from these interpreted signals, participants deploy expectation into further coordinated action, extending cooperation across time. The resulting interactions generate new outcomes or traces, restarting the cycle.
 
 Through repeated alignment between expectation and realised outcomes, the coordination process becomes recursively self-reinforcing across time. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
 
@@ -1081,25 +1081,27 @@ Credit is therefore not defined by the form of what is extended, but by the temp
 
 Because credit is defined by its temporal structure rather than its form, the same mechanism appears across domains that are otherwise unrelated.
 
-Credit (in this framework) refers to the domain-independent mechanism of forward capacity extension, of which the following are specific instantiations across domains:
+Credit (in this framework) refers to the domain-independent mechanism of forward capacity extension. Across domains, different structures may provide the credibility, capability, informational, or regime substrate through which credit extension becomes possible. These substrates are not all credit in themselves; they become credit-relevant when they support present access, delegation, exposure, commitment, or coordination on the basis of expected future contribution.
 
-- financial credit (capital extension),
-- political authority (governing power),
-- educational qualification (access to institutional pathways),
-- legal rights (enforceable claims),
-- organisational authority (delegated decision power),
-- biological fitness (reproductive capacity),
-- mathematical theorems (reusable logical capacity),
-- scientific knowledge (predictive and technological capacity),
-- social reputation (cooperative access and influence),
-- linguistic meaning (shared coordination capacity),
-- market price (resource allocation capacity),
-- personal skill (reliable execution capacity),
-- validated data (decision-making capacity).
+Examples include:
 
-The framework does not claim that these domains are ontologically identical, but that they instantiate structurally analogous forms of forward coordination under uncertainty. These are not identical in form, but they share the same structural function: each represents a forward extension of capacity grounded in stabilised interpretation of prior contribution. 
+- financial credit: capital extended now on expectation of future repayment or fulfilment;
+- political authority: governing power delegated on expectation of future public or institutional contribution;
+- educational qualification: a credibility signal that may support admission, appointment, licensing, or access;
+- legal rights: regime-recognised claims that may support enforceable future reliance or access;
+- organisational authority: decision power delegated on expectation of future role performance;
+- biological fitness: realised capability or adaptive capacity that may support future reproductive or cooperative selection;
+- mathematical theorems: validated contributions that may support further reasoning, proof, design, or technical commitment;
+- scientific knowledge: stabilised explanatory or predictive credibility that may support future action, investment, or intervention;
+- social reputation: credibility structure that may support access, delegation, cooperation, or responsibility;
+- linguistic meaning: shared interpretive substrate that may support coordination, promise, instruction, or obligation;
+- market price: informational signal that may support resource allocation, exposure, exchange, or investment;
+- personal skill: realised capability that may support delegation, employment, reliance, or responsibility;
+- validated data: verified informational substrate that may support decision, exposure, intervention, or coordination.
 
-Some instantiations may be less immediately intuitive. A proved mathematical theorem, for example, represents stabilised credibility established through validated proof; its accepted status allows subsequent work to proceed without re-derivation, thereby extending mathematical capacity forward. Similarly, validated data represents contribution whose credibility has been established through verification, enabling decisions without re-collection.
+The framework does not claim that these domains are ontologically identical, nor that every substrate listed above is itself credit. The common structure is that each may support forward coordination where an observer or regime admits it as a sufficient basis for present action under uncertainty. Credit arises at the point of extension: when access, authority, resources, exposure, responsibility, or commitment is granted now on the expectation of future contribution or fulfilment.
+
+A proved mathematical theorem, for example, is not credit merely because it can be reused. It is a validated contribution that may support credit-like forward reliance when later reasoning, design, investment, or institutional action proceeds on the basis of its accepted validity. Similarly, validated data is not credit by itself; it becomes credit-relevant when decisions or exposures are undertaken on the basis of its recognised reliability.
 
 The extension concerns coordination capacity dependent on expected future contribution, rather than realised capability alone.
 
@@ -1728,9 +1730,9 @@ An **expectation** obtains when an observer applies evaluation principles to int
 
 Contribution outcomes and traces belong to the brute-fact side of the framework: an action occurred, an utterance was made, a record was created, a delivery was completed, or a failure happened. Signals, expectations, trust, credibility, and credit belong to the interpretive and institutional side. They arise only when an outcome or trace is observed, interpreted as meaning-bearing, attributed to a source, and admitted as relevant within an observer’s evaluative or regime structure. A participant may intend an act, speech, artefact, performance, or record to function as a signal, but intended signalling does not guarantee signal formation. The same outcome or trace may produce aligned interpretation, divergent interpretation, or no trust-relevant signal at all.
 
-Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, there is no traces or outcome, no observation is possible, no signals exist, and no expectations can form.
+Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, there are no outcomes or traces, no observation is possible, no signals exist, and no expectations can form.
 
-Outcomes and traces exist independently of any specific observer’s access to them, although access, resolution, and timing may vary across observers. Signal and Expectation, by contrast, is held by the observer; it is not a property of the participant, the contribution event, or the trace or outcome itself.
+Outcomes and traces exist independently of any specific observer’s access to them, although access, resolution, and timing may vary across observers. Signal and Expectation, by contrast, are held by the observer; it is not a property of the participant, the contribution event, or the trace or outcome itself.
 
 Each structure depends upon but is irreducible to the one preceding it: observation cannot occur without contribution, signals cannot be interpreted without observation, and expectation cannot form without signals.
 
