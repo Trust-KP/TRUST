@@ -171,7 +171,7 @@ Signals may include fulfilled obligations, failures, delays, reliability pattern
 
 Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
 
-Contribution outcomes or traces may exist independently of any specific observer. Access to and interpretation of those outcomes or traces may vary across observers. Once formed or externalised, signals may persist and circulate.
+Contribution outcomes or traces may exist independently of any specific observer. Access to and interpretation of those outcomes or traces may vary across observers. Once formed or externalised via interpretation, signals may persist and circulate.
 
 
 ## Trust Interpretation
@@ -223,7 +223,7 @@ This accumulated expectation can be understood as a derived interpretation of cr
 
 Status can therefore emerge as a practical mechanism for representing this accumulated trust. Within cooperative systems, status reflects the recognition of proven contribution and functions as a signal guiding the allocation of opportunity and responsibility. In this sense, status operates as a medium of exchange of cooperative allocation, representing accumulated credibility regarding a participant’s future contribution capacity.
 
-For such a system to remain coherent across multiple communities and institutions, the interpretation of contribution signals must remain consistent. Local communities may adopt different operational calibrations depending on their circumstances, but the evaluation of contribution must remain comparable across the broader system. This requires the presence of a neutral interpretive lens capable of maintaining consistency in how contributions are recognized and how status is assigned.
+For such a system to remain coherent across multiple communities and institutions, contribution outcomes and traces need not be interpreted through a neutral universal lens. A participant may intend an action, speech, artefact, performance, record, or gesture to function as a signal, but it becomes a signal for an observer only when interpreted as meaning-bearing within that observer’s system. Local communities may therefore interpret the same outcome or trace differently. Broader comparability depends not on neutrality, but on shared translation rules, comparison protocols, or explicit comparison regimes that make differences in recognition, weighting, and status assignment visible across systems.
 
 Through this separation between local calibration and shared interpretation, cooperative systems are able to support diversity of experimentation while preserving civilizational coherence. Different communities may explore different balances between stability and uncertainty, while the broader system maintains a consistent framework for recognizing contribution and coordinating cooperation.
 
@@ -298,7 +298,7 @@ The sequence that follows describes continuation at the level of temporal coordi
 
 Actions performed by participants generate realised contributions, which produce observable outcomes that other participants can interpret as signals.
 
-Temporal coordination arises when participants interpret observations of past behaviour to form expectations regarding future behaviour, which may then be evaluated and deployed through trust within subsequent interaction. Actions performed by participants generate observable signals that other participants can interpret. These outcomes provide informational signals that indicate whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
+Temporal coordination arises when participants interpret observations of past behaviour to form expectations regarding future behaviour, which may then be evaluated and deployed through trust within subsequent interaction. Actions performed by participants generate outcomes or traces that may become signals when observed and interpreted as meaning-bearing by other participants. These interpreted signals provide the informational basis from which observers assess whether cooperative behaviour is likely to continue. Through repeated interaction, participants gradually develop expectations that allow coordination to extend beyond isolated transactions.
 
 Because coordination occurs across time, cooperation remains inherently provisional. Each interaction produces new information that may reinforce or weaken existing expectations. When observed outcomes confirm prior expectations, the perceived reliability of cooperation increases and coordination becomes more stable. When outcomes contradict expectations, confidence deteriorates and coordination may weaken or collapse.
 
@@ -1725,6 +1725,8 @@ Temporal coordination does not guarantee continuation. It provides the mechanism
 A **signal** obtains when an observed contribution outcome becomes available for interpretation; signals possess no intrinsic meaning, their significance being determined entirely through interpretation.
 
 An **expectation** obtains when an observer applies evaluation principles to interpreted signals and forms a projection regarding the continuation of a participant’s behaviour.
+
+Contribution outcomes and traces belong to the brute-fact side of the framework: an action occurred, an utterance was made, a record was created, a delivery was completed, or a failure happened. Signals, expectations, trust, credibility, and credit belong to the interpretive and institutional side. They arise only when an outcome or trace is observed, interpreted as meaning-bearing, attributed to a source, and admitted as relevant within an observer’s evaluative or regime structure. A participant may intend an act, speech, artefact, performance, or record to function as a signal, but intended signalling does not guarantee signal formation. The same outcome or trace may produce aligned interpretation, divergent interpretation, or no trust-relevant signal at all.
 
 Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, there is no traces or outcome, no observation is possible, no signals exist, and no expectations can form.
 
