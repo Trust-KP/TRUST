@@ -109,7 +109,7 @@ Nor does the framework claim that every organised social relation is automatical
 
 **PART V — REALISATION**
 - [22 OPERATION CONDITIONS](#22-operation-conditions)
-- [23 INTERPRETATIVE EXECUTION](#23-INTERPRETATIVE-EXECUTION)
+- [23 INTERPRETIVE EXECUTION](#23-INTERPRETATIVE-EXECUTION)
 - [24 REGIME EXECUTION](#24-REGIME-EXECUTION)
 - [25 REALISATION CLOSURE](#25-REALISATION-CLOSURE)
 
@@ -1673,9 +1673,9 @@ The framework therefore does not describe a final equilibrium state, but the rec
 
 # **PART III - FORMALISATION**
 
-The purpose of Part III is to stabilise the interpretive structure of trust, credibility, and credit within cooperative systems.
+The purpose of Part III is to stabilise the interpretative structure of trust, credibility, and credit within cooperative systems.
 
-Where the preceding chapters described the emergence of cooperative coordination, Part III formalises the interpretive architecture through which these structures may be represented, reconstructed, and compared across systems.
+Where the preceding chapters described the emergence of cooperative coordination, Part III formalises the interpretative architecture through which these structures may be represented, reconstructed, and compared across systems.
 
 Terminological note: This framework uses “interpretative” for interpretation as structured condition: the architecture, layer, laws, warrant, governance, or formal space within which meaning is organised and made reproducible. It uses “interpretive” for interpretation in act: the observer-bound process, execution, transmission, judgement, reconstruction, or drift through which meaning is formed, applied, revised, or carried in practice. Repeated interpretive acts may stabilise into interpretative structures.
 
@@ -1825,7 +1825,7 @@ Credit extends stabilised expectations into future-oriented coordination commitm
 
 Together, these structures form a continuous coordination sequence through which cooperative systems maintain persistence across time.
 
-The following chapter develops the structural representation through which these interpretive structures may be positioned, compared, and reconstructed across systems.
+The following chapter develops the structural representation through which these interpretative structures may be positioned, compared, and reconstructed across systems.
 
 ⸻
 
@@ -3007,7 +3007,7 @@ This chapter examines how a regime continues.
 
 A trust regime does not continue merely because the cooperative system retains rules, institutions, records, offices, or formal authority. It continues only where its admissibility function remains capable of governing the formation, stabilisation, extension, revision, and resolution of trust, credibility, and credit across successive cycles of coordination.
 
-Continuation therefore requires interpretive governance. A regime must preserve not only the ability to enforce rules, but also the ability to maintain, transmit, revise, and contest the meanings through which trust, credibility, credit, and continuation remain governable.
+Continuation therefore requires interpretative governance. A regime must preserve not only the ability to enforce rules, but also the ability to maintain, transmit, revise, and contest the meanings through which trust, credibility, credit, and continuation remain governable.
 
 At this level, continuation depends on the coupling of four internal layers of the trust regime: Structure, Interpretation, Regime, and Realisation. Structure gives trust-based coordination a form. Interpretation gives that form meaning. Regime determines which meanings, signals, expectations, credibility structures, and credit extensions are admissible. Realisation carries admitted commitments into practice. A trust regime may persist outwardly while weakening internally if one layer survives but loses its pathway into the others.
 
@@ -3067,7 +3067,7 @@ This balance depends on several conditions.
 
 **Constraint condition:** the regime must prevent interpretations from being admitted merely because they are useful, powerful, repeated, or institutionally convenient where they exceed available warrant.
 
-A regime that cannot govern interpretation cannot govern trust. It may still command behaviour, enforce rules, or preserve institutions, but it cannot reliably sustain the interpretive conditions through which trust, credibility, and credit remain coherent.
+A regime that cannot govern interpretation cannot govern trust. It may still command behaviour, enforce rules, or preserve institutions, but it cannot reliably sustain the interpretative conditions through which trust, credibility, and credit remain coherent.
 
 ## 20.4 Interpretative Transmission and Regime Memory
 
@@ -3111,7 +3111,7 @@ Where governance succeeds, trust, credibility, and credit remain revisable but c
 
 Continuation does not require interpretation, structure, regime, and realisation to remain unchanged. It requires their coupling to remain reproducible across time.
 
-The purpose of interpretive governance is therefore not to freeze meaning. It is to preserve the conditions under which meaning can remain transmissible, contestable, revisable, traceable, and sufficiently stable to support continuation.
+The purpose of interpretative governance is therefore not to freeze meaning. It is to preserve the conditions under which meaning can remain transmissible, contestable, revisable, traceable, and sufficiently stable to support continuation.
 
 Chapter 21 examines the boundary and failure conditions that arise when these conditions fail.
 
