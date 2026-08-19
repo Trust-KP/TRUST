@@ -4230,7 +4230,7 @@ It is a case in which trust did not fail only at the level of individual borrowe
 
 Existing trust literature often emphasises vulnerability, reliability, risk, reputation, signalling, social capital, or complexity reduction. The Trust Framework does not reject these interpretations. It locates them within a broader structural sequence.
 
-The following references are included as representative anchors for adjacent literatures. The Trust Framework is not derived from these works, and the list is not intended as an exhaustive literature review. Some references anchor specific concepts used in the framework, such as signalling, information asymmetry, requisite variety, transaction cost, institutional constraint, source credibility, and modern money creation. Others provide established comparison points for trust, vulnerability, reliability, reputation, social capital, and system trust.
+The following references are included as representative anchors for adjacent literatures.
 
 The table below uses broad descriptive labels rather than assigning each node to a single school or theory.
 
@@ -4256,7 +4256,9 @@ The Trust Framework's contribution is therefore not to replace existing trust li
 
 # Reference
 
-The following references are included as representative anchors for the literatures discussed above. They are not treated as sources from which the Trust Framework is derived, but as established points of comparison for trust, signalling, credibility, institutional constraint, transaction cost, cybernetic variety, and modern credit creation.
+The following references are included as representative anchors for the literatures discussed above. 
+
+The Trust Framework is not derived from these works, and the list is not intended as an exhaustive literature review. Some references anchor specific concepts used in the framework, such as signalling, information asymmetry, requisite variety, transaction cost, institutional constraint, source credibility, and modern money creation. Others provide established comparison points for trust, vulnerability, reliability, reputation, social capital, and system trust.
 
 | Reference | Area Anchored |
 |---|---|
