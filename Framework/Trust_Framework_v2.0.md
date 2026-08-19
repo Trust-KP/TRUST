@@ -17,18 +17,18 @@ The Trust Framework describes how cooperation emerges and persists within coexis
 
 The framework operates within the broader theoretical structure of the **Continuation Framework**, which studies how cooperative systems maintain persistence across time under conditions of uncertainty.
 
-## Reference
-Gew, K. P. (2026).  
-*Continuation Framework v0.1*.  
-Zenodo.  
-https://doi.org/10.5281/zenodo.18974211
 ---
  
-© 2026 Kok Pian Gew
+© 2026 Kok Pian Gew.
 
-All rights reserved.
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Licence (CC BY-NC 4.0).
 
-No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without prior permission of the author, except for brief quotations used in scholarly review or research.
+You may share and adapt this work for non-commercial purposes, provided appropriate credit is given, a link to the licence is provided, and any changes are indicated.
+
+Commercial use requires prior permission from the author.
+
+Licence: CC BY-NC 4.0
+https://creativecommons.org/licenses/by-nc/4.0/
 
 First edition, 2026.
 
@@ -88,7 +88,7 @@ Nor does the framework claim that every organised social relation is automatical
 
 **PART II - DESCRIPTIVE FRAMEWORK**
 - [7 EMERGENCE OF TRUST SYSTEMS](#7-emergence-of-trust-systems)
-- [8 SIGNAL FOUNDATION OF SIGNAL GENERATION](#8-signal-foundations-of-signal-generation)
+- [8 FOUNDATIONS OF SIGNAL GENERATION](#8-foundations-of-signal-generation)
 - [9 SIGNAL EVALUATION PRINCIPLES](#9-signal-evaluation-principles)
 - [10 ORIGIN OF TRUST](#10-Origin-of-trust)
 - [11 CREDIBILITY](#11-Credibility)
@@ -108,19 +108,20 @@ Nor does the framework claim that every organised social relation is automatical
 - [21 BOUNDARY AND FAILURE CONDITIONS](#21-BOUNDARY-AND-FAILURE-CONDITIONS)
 
 **PART V — REALISATION**
-- [22 OPERATIONAL CONDITION](#22-OPERATIONAL-CONDITION)
+- [22 OPERATION CONDITIONS](#22-operation-conditions)
 - [23 INTERPRETATIVE EXECUTION](#23-INTERPRETATIVE-EXECUTION)
 - [24 REGIME EXECUTION](#24-REGIME-EXECUTION)
 - [25 REALISATION CLOSURE](#25-REALISATION-CLOSURE)
 
 **APPENDIX**
-- [Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition](#Case-Study-1-From-His-Word-Is-His-Bond-TheIdentity-to-Capability-Lens-Transition)
-- [Case Study 2 - Insurance as a Four-Temporal Coordination Instrument](#Case-Study-2-Insurance-as-a-Four-Temporal-Coordination-Instrument)
-- [Case Study 3 — Airline Miles as Stored Credit and Conditional Trust](#Case-Study-3-Airline-Miles-as-Stored-Credit-and-Conditional-Trust)
-- [Case Study 4 — Certification as Credit Extension in Hiring](#Case-Study-4-Certification-as-Credit-Extension-in-Hiring)
-- [Case Study 5 — Mortgage Lending and Credit Creation](#Case-Study-5-Mortgage-Lending-and-Credit-Creation)
-- [Case Study 6 — The Global Financial Crisis as Credibility Systemic Risk](#The-Global-Financial-Crisis-as-Credibility-Systemic-Risk)
-
+- [Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition](#case-study-1--from-his-word-is-his-bond-the-identity-to-capability-lens-transition)
+- [Case Study 2 — Insurance as a Four-Temporal Coordination Instrument](#case-study-2--insurance-as-a-four-temporal-coordination-instrument)
+- [Case Study 3 — Airline Miles as Stored Credit and Conditional Trust](#case-study-3--airline-miles-as-stored-credit-and-conditional-trust)
+- [Case Study 4 — Professional Guilds as Regime-Bound Trust Systems](#case-study-4--professional-guilds-as-regime-bound-trust-systems)
+- [Case Study 5 — Mortgage Lending and Credit Creation](#case-study-5--mortgage-lending-and-credit-creation)
+- [Case Study 6 — The Global Financial Crisis as Credibility Systemic Risk](#case-study-6--the-global-financial-crisis-as-credibility-systemic-risk)
+- [Existing Trust Literature as Node-Specific Interpretations](#case-study--existing-trust-literature-as-node-specific-interpretations)
+- [References](#references)
 ---
 
 **PART I - ONTOLOGY UNFOLDING**
@@ -1169,7 +1170,7 @@ Within this forward-directed structure, credit may be expressed through differen
 **Coordination mode (Coordination-Interpretation)**  
 Credit may be expressed through the extension of cooperation on the basis of shared expectation. In this mode, participants act on the belief that reciprocal contribution will continue, even when the full structure of that contribution is not specified in advance. The credibility basis arises from accumulated interaction, and the forward commitment is sustained through continued participation.
 
-**Obligation mode (Structure-Structure)**  
+**Obligation mode (Structural-Structure)**  
 Credit may be expressed through explicitly defined commitments that specify the form of future contribution. In this mode, present action is linked to a structured obligation that determines how future contribution is to be delivered. The credibility basis supports the formation of this structure, and the forward commitment is defined in advance.
 
 **Admissibility mode (Identity-Regime)**  
@@ -1504,6 +1505,18 @@ An event anchor may indicate occurrence, while a record anchor delays or distort
 
 Such cross-temporal misalignment may propagate through the coordination cycle, producing instability even when individual temporals remain locally functional.
 
+## 13.7 Accumulated Dependence and Cross-Temporal Misalignment
+
+As temporal coordination extends, the system becomes increasingly dependent on the continued alignment of its temporal anchors. Production anchors, information anchors, trust anchors, and credit anchors may each remain locally functional while becoming misaligned with one another.
+
+An event anchor may indicate that contribution occurred, while the corresponding record anchor delays, distorts, or fails to transmit that contribution. A trust anchor may persist after the information supporting it has weakened. A commitment anchor may extend beyond the production capacity required to fulfil it.
+
+Such misalignment exposes accumulated dependence within the temporal coordination cycle. The system may appear stable because prior cycles have reinforced expectation, but that stability depends on the continued correspondence between realised contribution, recorded information, interpreted trust, and extended credit.
+
+Where cross-temporal alignment is maintained, accumulation supports extension. Where alignment weakens, accumulation becomes fragility. Instability may therefore arise not only from failure within a single temporal, but from divergence between temporals that had previously appeared coordinated.
+
+This accumulated dependence provides the background against which imbalance and failure become visible.
+
 ## 13.8 Entry and Perceived Sequence in Temporal Coordination
 
 The temporal coordination cycle describes an invariant structure through which cooperation is sustained:
@@ -1663,6 +1676,8 @@ The framework therefore does not describe a final equilibrium state, but the rec
 The purpose of Part III is to stabilise the interpretive structure of trust, credibility, and credit within cooperative systems.
 
 Where the preceding chapters described the emergence of cooperative coordination, Part III formalises the interpretive architecture through which these structures may be represented, reconstructed, and compared across systems.
+
+Terminological note: This framework uses “interpretative” for interpretation as structured condition: the architecture, layer, laws, warrant, governance, or formal space within which meaning is organised and made reproducible. It uses “interpretive” for interpretation in act: the observer-bound process, execution, transmission, judgement, reconstruction, or drift through which meaning is formed, applied, revised, or carried in practice. Repeated interpretive acts may stabilise into interpretative structures.
 
 ---
 
@@ -2144,7 +2159,9 @@ Regime does not determine meaning. That is the province of Interpretative Archit
 
 This distinction is not incidental. A cooperative system may retain an unchanged interpretation while its admissibility conditions change; equally, a system's admissibility conditions may remain stable while the mechanisms through which they are realised evolve. Each layer may vary independently of the others, a property already established in Section 15.11.
 
-A general principle governs every admissibility mechanism examined in this Part, independent of its domain or institutional form: a regulator can only constrain a system whose variety does not exceed its own. Where the space of admissible structures and interpretations is simpler than the space of structures and interpretations actually arising within the system, admissibility fails silently — not through the absence of rules, but through rules inadequate to what they attempt to govern. This principle, first stated formally in cybernetics as the Law of Requisite Variety, recurs wherever an admissibility mechanism is examined closely enough, and it governs the remainder of this Part.
+A general principle governs every admissibility mechanism examined in this Part, independent of its domain or institutional form: a regulator can only constrain a system whose variety does not exceed its own. Where the space of admissible structures and interpretations is simpler than the space of structures and interpretations actually arising within the system, admissibility fails silently — not through the absence of rules, but through rules inadequate to what they attempt to govern. 
+
+This principle, first stated formally in cybernetics as the Law of Requisite Variety (Ashby, 1956), recurs wherever an admissibility mechanism is examined closely enough, and it governs the remainder of this Part.
 
 The following sections unfold Regime across the cooperative sequence: Regime Formation, Coexistence, Cooperative Boundary, Temporal Coordination, Contribution, Observation, Signals, Expectation, Trust, Credibility, Credit, and Continuation.
 
@@ -2982,7 +2999,7 @@ Together, these principles establish the operational grammar of the Trust Framew
 
 Chapter 20 examines how these laws and principles are continued, transmitted, revised, and governed across time within a trust regime.
 
-# 20. Continuation and Interpretive Governance
+# 20. Continuation and Interpretative Governance
 
 Chapter 17 established Regime as the admissibility layer of the Trust Framework. Chapter 18 developed the structural, interpretative, regime, and realisation laws that follow from the framework's layered architecture. Chapter 19 developed the principles through which those laws become operational for trust, credibility, and credit.
 
@@ -3002,9 +3019,9 @@ This requires more than repeated behaviour or institutional persistence. A syste
 
 A regime continues coherently only where four conditions remain sufficiently coupled.
 
-**Structural continuity** requires that the sequence through which contribution, observation, signal, expectation, trust, credibility, credit, and continuation remain distinguishable. Where these stages collapse into one another, the regime can no longer identify where coordination has failed.
+**Structure continuity** requires that the sequence through which contribution, observation, signal, expectation, trust, credibility, credit, and continuation remain distinguishable. Where these stages collapse into one another, the regime can no longer identify where coordination has failed.
 
-**Interpretive continuity** requires that signals, records, roles, practices, obligations, and commitments remain meaningfully readable by current and future observers. Where meaning becomes unrecoverable, the system may retain form while losing its capacity for coherent interpretation.
+**Interpretative continuity** requires that signals, records, roles, practices, obligations, and commitments remain meaningfully readable by current and future observers. Where meaning becomes unrecoverable, the system may retain form while losing its capacity for coherent interpretation.
 
 **Regime continuity** requires that the system retain the capacity to decide which signals, expectations, credibility structures, and credit extensions may operate within it. Where this function degrades, the regime may admit what it cannot govern or exclude what it should recognise.
 
@@ -3012,27 +3029,27 @@ A regime continues coherently only where four conditions remain sufficiently cou
 
 Regime continuation therefore depends not on the immobility of these layers, but on their reproducible coupling. Interpretation, structure, regime, and realisation may each change across time. Continuation persists where their relations remain sufficiently traceable, transmissible, revisable, and governable.
 
-## 20.2 Interpretive Governance
+## 20.2 Interpretative Governance
 
-Interpretive governance is the regime function through which meaning is preserved, transmitted, constrained, revised, and made contestable across time.
+Interpretative governance is the regime function through which meaning is preserved, transmitted, constrained, revised, and made contestable across time.
 
-Signals do not interpret themselves. Records, credentials, laws, rituals, contracts, metrics, models, precedents, standards, and institutional memories require interpretive structures through which observers can recover what they mean and how they may be used.
+Signals do not interpret themselves. Records, credentials, laws, rituals, contracts, metrics, models, precedents, standards, and institutional memories require Interpretative structures through which observers can recover what they mean and how they may be used.
 
 A regime therefore governs not only behaviour, but meaning. It determines which interpretations are admissible, which are excluded, which require review, which may support trust, which may stabilise credibility, and which may justify credit extension.
 
-Interpretive governance may operate through texts, courts, professional bodies, standards, education, canon, precedent, audit, ritual, certification, model validation, public reasoning, institutional memory, or other carriers of meaning. These carriers do not merely store information. They preserve the conditions under which information can continue to be read.
+Interpretative governance may operate through texts, courts, professional bodies, standards, education, canon, precedent, audit, ritual, certification, model validation, public reasoning, institutional memory, or other carriers of meaning. These carriers do not merely store information. They preserve the conditions under which information can continue to be read.
 
 The framework does not decide whether a later interpretation is morally justified merely because it supports continuation. It records the operation by which meaning is rewritten, re-registered, integrated, transmitted, contested, or lost, and then examines the structural consequences of that operation.
 
-Where interpretive governance is strong, a regime can adapt meaning without losing continuity. Where it is weak, the regime may become rigid, arbitrary, incoherent, or vulnerable to semantic rupture.
+Where Interpretative governance is strong, a regime can adapt meaning without losing continuity. Where it is weak, the regime may become rigid, arbitrary, incoherent, or vulnerable to semantic rupture.
 
 ## 20.3 Conditions Governing Interpretation Across the Regime
 
-A regime must govern interpretation without eliminating interpretive variation entirely.
+A regime must govern interpretation without eliminating Interpretative variation entirely.
 
 If interpretation is unconstrained, trust and credibility become unstable because signals may be read in any direction. If interpretation is over-constrained, the regime becomes unable to recognise new contribution, changed conditions, productive uncertainty, or legitimate contestation.
 
-Interpretive governance therefore requires a balance between stability and revisability.
+Interpretative governance therefore requires a balance between stability and revisability.
 
 A regime must preserve enough stability for participants to understand what signals, roles, obligations, and commitments mean. It must also preserve enough revisability for meanings to adapt when new evidence, new participants, new technologies, new risks, or new failures appear.
 
@@ -3052,19 +3069,19 @@ This balance depends on several conditions.
 
 A regime that cannot govern interpretation cannot govern trust. It may still command behaviour, enforce rules, or preserve institutions, but it cannot reliably sustain the interpretive conditions through which trust, credibility, and credit remain coherent.
 
-## 20.4 Interpretive Transmission and Regime Memory
+## 20.4 Interpretative Transmission and Regime Memory
 
-Continuation across generational or institutional time requires interpretive transmission.
+Continuation across generational or institutional time requires Interpretative transmission.
 
 A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where carriers fail, form may remain while meaning becomes unstable, fragmented, or unrecoverable.
 
 Regime memory is not merely the accumulation of records. It is the organised capacity to preserve why records matter, how signals should be read, what obligations they imply, and under what conditions their meaning may change.
 
-Interpretive continuation becomes stronger when meaning is no longer carried only by particular persons, memories, lineages, schools, or informal practices, but is coupled to repeatable institutional pathways through which interpretation can re-enter structure across generations.
+Interpretative continuation becomes stronger when meaning is no longer carried only by particular persons, memories, lineages, schools, or informal practices, but is coupled to repeatable institutional pathways through which interpretation can re-enter structure across generations.
 
-A ledger without interpretive memory may preserve entries that no longer guide judgement. A law without interpretive continuity may preserve words whose application becomes arbitrary. A credential without institutional memory may preserve status without capability. A ritual without transmission may preserve form without meaning.
+A ledger without Interpretative memory may preserve entries that no longer guide judgement. A law without Interpretative continuity may preserve words whose application becomes arbitrary. A credential without institutional memory may preserve status without capability. A ritual without transmission may preserve form without meaning.
 
-Interpretive transmission therefore supports continuation by allowing meaning to survive beyond the immediate observer. It enables trust, credibility, and credit to be reconstructed by future participants without restarting the entire cooperative sequence from the beginning.
+Interpretative transmission therefore supports continuation by allowing meaning to survive beyond the immediate observer. It enables trust, credibility, and credit to be reconstructed by future participants without restarting the entire cooperative sequence from the beginning.
 
 ## 20.5 Regime Adaptation and Semantic Drift
 
@@ -3072,9 +3089,9 @@ No regime preserves meaning without change.
 
 As participants, technologies, risks, environments, and coordination purposes change, the meanings attached to signals, roles, obligations, credentials, and commitments may drift. Semantic drift is not automatically failure. It becomes failure only where meaning changes without the regime recognising, governing, or revising the change.
 
-A regime must therefore distinguish adaptive reinterpretation from interpretive breakdown.
+A regime must therefore distinguish adaptive reinterpretation from Interpretative breakdown.
 
-Adaptive reinterpretation occurs where meaning changes in response to new conditions while maintaining a traceable relation to the structure it interprets. Interpretive breakdown occurs where meaning changes in a way that severs the relation between signal, warrant, attribution, admissibility, and realisation.
+Adaptive reinterpretation occurs where meaning changes in response to new conditions while maintaining a traceable relation to the structure it interprets. Interpretative breakdown occurs where meaning changes in a way that severs the relation between signal, warrant, attribution, admissibility, and realisation.
 
 A regime may preserve structure, constraint, and practice while re-registering the interpretation through which those elements are explained. Such re-registration may support continuation by allowing inherited structures to become meaningful within a new regime. It may also obscure origin, alter attribution, weaken traceability, or stabilise a meaning that later becomes difficult to contest.
 
@@ -4100,6 +4117,8 @@ A deposit appears in the borrower's account, or is transferred to the seller thr
 
 New bank money is created through the act of lending.
 
+This description is consistent with the Bank of England’s account of modern money creation, in which commercial bank lending creates deposits and principal repayment reduces the corresponding bank money (McLeay, Radia, & Thomas, 2014).
+
 This does not mean the bank creates money without constraint. The credit relationship remains bounded by capital requirements, liquidity management, regulatory rules, risk appetite, funding conditions, collateral quality, and expected repayment capacity.
 
 Within the Trust Framework, the created deposit is the present realisation of a forward commitment. The bank admits the borrower's expected future contribution into the present as spendable purchasing power.
@@ -4232,8 +4251,6 @@ It is a case in which trust did not fail only at the level of individual borrowe
 
 ## Case Study — Existing Trust Literature as Node-Specific Interpretations
 
-Existing trust literature often emphasises vulnerability, reliability, risk, reputation, signalling, social capital, or complexity reduction. The Trust Framework does not reject these interpretations. It locates them within a broader structural sequence.
-
 The following references are included as representative anchors for adjacent literatures.
 
 The table below uses broad descriptive labels rather than assigning each node to a single school or theory.
@@ -4260,14 +4277,16 @@ The Trust Framework's contribution is therefore not to replace existing trust li
 
 # References
 
-The following references are included as representative anchors for the literatures discussed above. 
+The following references are included as representative anchors for adjacent literatures. The Trust Framework is not derived from these works, and the list is not intended as an exhaustive literature review.
 
-The Trust Framework is not derived from these works, and the list is not intended as an exhaustive literature review. Some references anchor specific concepts used in the framework, such as signalling, information asymmetry, requisite variety, transaction cost, institutional constraint, source credibility, and modern money creation. Others provide established comparison points for trust, vulnerability, reliability, reputation, social capital, and system trust.
+Some references anchor specific concepts used in the framework, such as signalling, information asymmetry, requisite variety, transaction cost, institutional constraint, source credibility, and modern money creation. Others provide established comparison points for trust, vulnerability, reliability, reputation, social capital, and system trust.
 
 | Reference | Area Anchored |
 |---|---|
 | Akerlof, G. A. (1970). The market for “lemons”: Quality uncertainty and the market mechanism. *The Quarterly Journal of Economics, 84*(3), 488–500. https://doi.org/10.2307/1879431 | Information asymmetry; quality uncertainty |
 | Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall. | Requisite variety; system regulation |
+| Linton, R. (1936). *The study of man: An introduction*. Appleton-Century. | Ascribed and achieved status; Identity/Capability lens contrast |
+| Tönnies, F. (1887). *Gemeinschaft und Gesellschaft*. Fues's Verlag. | Community/society distinction; personal familiarity and impersonal social coordination |
 | Coase, R. H. (1937). The nature of the firm. *Economica, 4*(16), 386–405. https://doi.org/10.1111/j.1468-0335.1937.tb00002.x | Transaction costs; firm boundaries |
 | Coleman, J. S. (1990). *Foundations of social theory*. Harvard University Press. | Trust, control, social action |
 | Hovland, C. I., & Weiss, W. (1951). The influence of source credibility on communication effectiveness. *Public Opinion Quarterly, 15*(4), 635–650. https://doi.org/10.1086/266350 | Source credibility |
