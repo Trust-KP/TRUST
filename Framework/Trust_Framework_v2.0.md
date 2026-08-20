@@ -15,7 +15,7 @@ This document represents the canonical description of the Trust Framework for ve
 
 The Trust Framework describes how cooperation emerges and persists within coexistence systems through the interpretation of contribution signals across time.
 
-The framework operates within the broader theoretical structure of the **Continuation Framework**, which studies how cooperative systems maintain persistence across time under conditions of uncertainty.
+The Trust Framework is presented here as a self-contained framework for analysing how cooperative systems maintain persistence across time under conditions of uncertainty.
 
 ---
  
@@ -90,28 +90,28 @@ Nor does the framework claim that every organised social relation is automatical
 - [7 EMERGENCE OF TRUST SYSTEMS](#7-emergence-of-trust-systems)
 - [8 FOUNDATIONS OF SIGNAL GENERATION](#8-foundations-of-signal-generation)
 - [9 SIGNAL EVALUATION PRINCIPLES](#9-signal-evaluation-principles)
-- [10 ORIGIN OF TRUST](#10-Origin-of-trust)
-- [11 CREDIBILITY](#11-Credibility)
-- [12 CREDIT](#12-Credit)
-- [13 TEMPORAL COORDINATION](#13-TEMPORAL-COORDINATION)
+- [10 ORIGIN OF TRUST](#10-origin-of-trust)
+- [11 CREDIBILITY](#11-credibility)
+- [12 CREDIT](#12-credit)
+- [13 TEMPORAL COORDINATION](#13-temporal-coordination)
 
 **PART III - FORMALISATION**
-- [14 FORMAL ONTOLOGY CONDITION](#14-FORMAL-ONTOLOGY-CONDITION)
-- [15 INTERPRETATIVE ARCHITECTURE](#15-INTERPRETATIVE-ARCHITECTURE)
-- [16 FORMALISATION SUMMARY](#16-FORMALISATION-SUMMARY)
+- [14 FORMAL ONTOLOGY CONDITION](#14-formal-ontology-condition)
+- [15 INTERPRETATIVE ARCHITECTURE](#15-interpretative-architecture)
+- [16 FORMALISATION SUMMARY](#16-formalisation-summary)
 
 **PART IV - TRUST REGIME**
 - [17 REGIME FOUNDATION](#17-REGIME-FOUNDATION)
 - [18 LAWS](#18-LAWS)
 - [19 PRINCIPLES](#19-PRINCIPLES)
-- [20 CONTINUATION AND INTERPRETATIVE GOVERNANCE](#20-CONTINUATION-AND-INTERPRETATIVE-GOVERNANCE)
-- [21 BOUNDARY AND FAILURE CONDITIONS](#21-BOUNDARY-AND-FAILURE-CONDITIONS)
-
+- [20 CONTINUATION AND INTERPRETATIVE GOVERNANCE](#20-continuation-and-interpretative-governance)
+- [21 BOUNDARY AND FAILURE CONDITIONS](#21-boundary-and-failure-conditions)
+- 
 **PART V — REALISATION**
 - [22 OPERATION CONDITIONS](#22-operation-conditions)
 - [23 INTERPRETIVE EXECUTION](#23-interpretive-execution)
-- [24 REGIME EXECUTION](#24-REGIME-EXECUTION)
-- [25 REALISATION CLOSURE](#25-REALISATION-CLOSURE)
+- [24 REGIME EXECUTION](#24-regime-execution)
+- [25 REALISATION CLOSURE](#25-realisation-closure)
 
 **APPENDIX**
 - [Case Study 1 — From "His Word Is His Bond": The Identity-to-Capability Lens Transition](#case-study-1--from-his-word-is-his-bond-the-identity-to-capability-lens-transition)
@@ -195,7 +195,7 @@ Credit is formally developed in Chapter 12.
  
 # 3.	THEORY OF CONTINUATION (Ontology Elaboration)
 
-All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organized system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Within cooperative systems, continuation represents the condition under which a system retains sufficient structure, capability, and coordination to persist across transformation and withstand pressures acting upon it through time.
+All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilizations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organised system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Within cooperative systems, continuation represents the condition under which a system retains sufficient structure, capability, and coordination to persist across transformation and withstand pressures acting upon it through time.
 
 Continuation is constantly challenged by uncertainty and entropy. Environmental shocks, resource depletion, coordination failure, and internal decay gradually erode a system’s stability. Without continuous corrective action, most systems tend toward deterioration rather than persistence. This natural pressure toward disorder means that continuation is never automatic; it must be actively sustained through actions that restore stability and maintain the system’s capacity to absorb shocks.
 
@@ -211,7 +211,7 @@ Credit then emerges as the operational deployment of credibility, enabling parti
 
 The Theory of Continuation therefore provides the foundational logic for cooperative systems. Cooperation becomes necessary when participants must coordinate actions across time in order to maintain continuation under uncertainty. 
 
-Institutions such as law, governance, banking, insurance, and social norms do not emerge ex nihilo, but develop as structured coordination mechanisms through which societies stabilise continuation under increasing complexity and uncertainty. These institutions organize resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
+Institutions such as law, governance, banking, insurance, and social norms do not emerge ex nihilo, but develop as structured coordination mechanisms through which societies stabilise continuation under increasing complexity and uncertainty. These institutions organise resources, distribute risk, and coordinate expectations so that systems can withstand shocks that would otherwise threaten their survival.
 
 Continuation also defines the boundary between persistence and collapse. When a system’s continuation capacity remains greater than the pressures acting upon it, the system endures and adapts. When these pressures exceed the system’s capacity to respond, coordination breaks down and collapse occurs. Collapse therefore represents not merely the failure of individual components, but the point at which the system can no longer sustain the conditions required for its own continuation.
 
@@ -252,17 +252,17 @@ All systems that seek continuation exist within environments populated by other 
 
 Coexistence arises whenever multiple systems occupy the same environment and their actions or states influence one another’s ability to persist. These systems may include biological organisms, ecological systems, individuals, institutions, technological networks, states, or entire civilizations. The defining characteristic of coexistence is that systems affect one another’s continuation even in the absence of deliberate coordination or shared intention.
 
-Within coexistence environments, the actions of one system generate consequences for others regardless of awareness or intent. Environmental modification, resource consumption, technological development, demographic change, and stochastic events all alter the conditions under which surrounding systems attempt to continue. These effects may strengthen, weaken, or destabilize the continuation capacity of neighboring systems.
+Within coexistence environments, the actions of one system generate consequences for others regardless of awareness or intent. Environmental modification, resource consumption, technological development, demographic change, and stochastic events all alter the conditions under which surrounding systems attempt to continue. These effects may strengthen, weaken, or destabilise the continuation capacity of neighbouring systems.
 
 Coexistence interactions occur across multiple scales. Individual participants coexist within shared social environments. Institutions and organizations coexist within economic and political systems. States and civilizations coexist within geopolitical environments. At the largest scale, human civilizations coexist with ecological and planetary systems that impose constraints through environmental conditions, resource availability, and natural hazards. Across these scales, systems continuously shape one another’s continuation conditions through their presence and activity.
 
 Unlike cooperative systems, coexistence systems do not require trust, credibility, or shared interpretation of signals. Interaction occurs through physical, ecological, economic, or systemic consequences rather than through coordinated expectations. Systems may therefore influence one another even when no communication, recognition, or mutual understanding exists between them.
 
-Within coexistence environments, systems may respond in several ways. Some systems remain passive participants, adapting to environmental pressures without attempting to influence neighboring systems directly. Others compete for limited resources, altering the continuation prospects of surrounding systems. When continuation strategies become incompatible or resources become scarce, competition may escalate into conflict as systems attempt to secure the conditions necessary for their own persistence.
+Within coexistence environments, systems may respond in several ways. Some systems remain passive participants, adapting to environmental pressures without attempting to influence neighbouring systems directly. Others compete for limited resources, altering the continuation prospects of surrounding systems. When continuation strategies become incompatible or resources become scarce, competition may escalate into conflict as systems attempt to secure the conditions necessary for their own persistence.
 
 Under certain conditions, systems may move beyond competition and develop cooperative relationships when continued interaction becomes more continuation-supportive than conflict, avoidance, or isolation. This transition becomes possible when repeated interaction produces conditions under which coordinated behaviour becomes more sustainable than continued defensive interaction.
 
-Cooperation emerges when participants begin interpreting signals from one another and coordinating their behaviour in order to stabilize continuation across time. Unlike passive coexistence or competition, cooperation requires mechanisms of trust, credibility, and expectation that allow participants to coordinate their actions despite uncertainty.
+Cooperation emerges when participants begin interpreting signals from one another and coordinating their behaviour in order to stabilise continuation across time. Unlike passive coexistence or competition, cooperation requires mechanisms of trust, credibility, and expectation that allow participants to coordinate their actions despite uncertainty.
 
 Cooperation may evolve in different structural forms. In some cases sustained cooperation leads to deeper structural alignment between systems. This process may be described as integration, where previously separate systems adopt shared institutions, governance structures, or signal interpretations. Integration reduces coordination friction and allows cooperation to operate across broader scales, effectively merging previously distinct cooperative systems.
 
@@ -284,7 +284,7 @@ The cooperative boundary therefore represents the point at which interaction ris
 
 Several structural conditions influence the position of the cooperative boundary. These include the degree of capability asymmetry between interacting participants, the reversibility of potential losses, the availability of communication or signal interpretation, and the expected cost of conflict relative to cooperation. When capability asymmetry becomes extreme or potential losses are irreversible, participants may remain below the cooperative boundary even when mutual benefits from cooperation exist.
 
-The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be continuously reproduced through sustained alignment between expectation and realised outcomes across time. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilize, allowing coordinated behaviour to develop across time.
+The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be continuously reproduced through sustained alignment between expectation and realised outcomes across time. Once participants expect that others will continue participating in repeated interactions, signals generated through interaction can begin to be interpreted as evidence about future behaviour. Expectations may then stabilise, allowing coordinated behaviour to develop across time.
 
 The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems capable of sustaining coordinated continuation across time. It defines the structural condition under which participants shift from defensive interaction toward coordinated behaviour.
 
@@ -306,7 +306,7 @@ Because coordination occurs across time, cooperation remains inherently provisio
 
 Within cooperative systems, this process forms a continuous feedback cycle. Participants act within the system and their actions generate observable consequences. These consequences leave outcomes or traces that may become signals when observed and interpreted as meaning-bearing by other participants. Based on the expectations formed from these interpreted signals, participants deploy expectation into further coordinated action, extending cooperation across time. The resulting interactions generate new outcomes or traces, restarting the cycle.
 
-Through repeated alignment between expectation and realised outcomes, the coordination process becomes recursively self-reinforcing across time. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilize, allowing cooperation to persist despite ongoing uncertainty.
+Through repeated alignment between expectation and realised outcomes, the coordination process becomes recursively self-reinforcing across time. Instead of relying on perfect knowledge, participants rely on the accumulation of interpreted signals derived from past interactions. As these signals accumulate across repeated engagements, expectations gradually stabilise, allowing cooperation to persist despite ongoing uncertainty.
 
 Expectation is held by observers. Stabilisation refers to the alignment of expectations across multiple observers rather than a property of the system itself.
 
@@ -1870,11 +1870,12 @@ The framework identifies four observer-side interpretative lenses:
 
 These lenses correspond canonically to four system-side aspects of the observed participant or system:
 
-Observer-Side Lens	Canonical System-Side Aspect
-Coordination	Interpretation
-Identity	Regime
-Structural	Structure
-Capability	Realisation
+| Observer-Side Lens | Canonical System-Side Aspect |
+|---|---|
+| Coordination | Interpretation |
+| Identity | Regime |
+| Structural | Structure |
+| Capability | Realisation |
 
 The observer-side lenses describe the position from which continuation is evaluated.
 
@@ -2000,7 +2001,7 @@ Where interpretative meaning must persist across generational time, semantic evo
 
 This may be stated as the Interpretive Transmission Condition: for continuation across generational time, a cooperative system must preserve the carriers through which admissible meanings can be transmitted, taught, reconstructed, or revised without complete interpretive rupture.
 
-Where such carriers fail, a system may retain artifacts, rules, institutions, or practices while losing the interpretive capacity required to understand what those structures mean. In such cases, structural persistence may remain while interpretative continuity fails.
+Where such carriers fail, a system may retain artefacts, rules, institutions, or practices while losing the interpretive capacity required to understand what those structures mean. In such cases, structural persistence may remain while interpretative continuity fails.
 
 The interpretative architecture may evolve without requiring reconstruction of the structural framework, provided that the revised interpretation remains an interpretation of the underlying structural relationships rather than a replacement of them.
 
@@ -2505,6 +2506,7 @@ Continuation across generational or institutional time requires that meaning rem
 A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where those carriers fail, the structure may remain visible while its meaning becomes unrecoverable, unstable, or reconstructed without continuity.
 
 Interpretive transmission is therefore necessary where continuation depends not merely on preserving form, but on preserving the capacity to read that form.
+
 ## 18.3 Regime Laws
 
 Regime laws describe necessary relations that arise when structure and interpretation are governed by admissibility conditions. They do not determine what is true in itself, nor do they create contribution, signal, trust, credibility, or credit from nothing. They determine what a cooperative system may recognise, admit, constrain, rely upon, or exclude within its own governed order.
@@ -3008,7 +3010,7 @@ This requires more than repeated behaviour or institutional persistence. A syste
 
 A regime continues coherently only where four conditions remain sufficiently coupled.
 
-**Structure continuity** requires that the sequence through which contribution, observation, signal, expectation, trust, credibility, credit, and continuation remain distinguishable. Where these stages collapse into one another, the regime can no longer identify where coordination has failed.
+**Structural continuity** requires that the sequence through which contribution, observation, signal, expectation, trust, credibility, credit, and continuation remain distinguishable. Where these stages collapse into one another, the regime can no longer identify where coordination has failed.
 
 **Interpretative continuity** requires that signals, records, roles, practices, obligations, and commitments remain meaningfully readable by current and future observers. Where meaning becomes unrecoverable, the system may retain form while losing its capacity for coherent interpretation.
 
@@ -3022,7 +3024,7 @@ Regime continuation therefore depends not on the immobility of these layers, but
 
 Interpretative governance is the regime function through which meaning is preserved, transmitted, constrained, revised, and made contestable across time.
 
-Signals do not interpret themselves. Records, credentials, laws, rituals, contracts, metrics, models, precedents, standards, and institutional memories require Interpretative structures through which observers can recover what they mean and how they may be used.
+Signals do not interpret themselves. Records, credentials, laws, rituals, contracts, metrics, models, precedents, standards, and institutional memories require interpretative structures through which observers can recover what they mean and how they may be used.
 
 A regime therefore governs not only behaviour, but meaning. It determines which interpretations are admissible, which are excluded, which require review, which may support trust, which may stabilise credibility, and which may justify credit extension.
 
@@ -3030,11 +3032,11 @@ Interpretative governance may operate through texts, courts, professional bodies
 
 The framework does not decide whether a later interpretation is morally justified merely because it supports continuation. It records the operation by which meaning is rewritten, re-registered, integrated, transmitted, contested, or lost, and then examines the structural consequences of that operation.
 
-Where Interpretative governance is strong, a regime can adapt meaning without losing continuity. Where it is weak, the regime may become rigid, arbitrary, incoherent, or vulnerable to semantic rupture.
+Where interpretative governance is strong, a regime can adapt meaning without losing continuity. Where it is weak, the regime may become rigid, arbitrary, incoherent, or vulnerable to semantic rupture.
 
 ## 20.3 Conditions Governing Interpretation Across the Regime
 
-A regime must govern interpretation without eliminating Interpretative variation entirely.
+A regime must govern interpretation without eliminating interpretative variation entirely.
 
 If interpretation is unconstrained, trust and credibility become unstable because signals may be read in any direction. If interpretation is over-constrained, the regime becomes unable to recognise new contribution, changed conditions, productive uncertainty, or legitimate contestation.
 
@@ -3060,7 +3062,7 @@ A regime that cannot govern interpretation cannot govern trust. It may still com
 
 ## 20.4 Interpretative Transmission and Regime Memory
 
-Continuation across generational or institutional time requires Interpretative transmission.
+Continuation across generational or institutional time requires interpretive transmission.
 
 A system must preserve not only signals, records, institutions, and practices, but also the interpretive carriers through which future observers can recover their meaning. Where carriers fail, form may remain while meaning becomes unstable, fragmented, or unrecoverable.
 
@@ -3068,7 +3070,7 @@ Regime memory is not merely the accumulation of records. It is the organised cap
 
 Interpretative continuation becomes stronger when meaning is no longer carried only by particular persons, memories, lineages, schools, or informal practices, but is coupled to repeatable institutional pathways through which interpretation can re-enter structure across generations.
 
-A ledger without Interpretative memory may preserve entries that no longer guide judgement. A law without Interpretative continuity may preserve words whose application becomes arbitrary. A credential without institutional memory may preserve status without capability. A ritual without transmission may preserve form without meaning.
+A ledger without interpretative memory may preserve entries that no longer guide judgement. A law without interpretative continuity may preserve words whose application becomes arbitrary. A credential without institutional memory may preserve status without capability. A ritual without transmission may preserve form without meaning.
 
 Interpretative transmission therefore supports continuation by allowing meaning to survive beyond the immediate observer. It enables trust, credibility, and credit to be reconstructed by future participants without restarting the entire cooperative sequence from the beginning.
 
@@ -3078,7 +3080,7 @@ No regime preserves meaning without change.
 
 As participants, technologies, risks, environments, and coordination purposes change, the meanings attached to signals, roles, obligations, credentials, and commitments may drift. Semantic drift is not automatically failure. It becomes failure only where meaning changes without the regime recognising, governing, or revising the change.
 
-A regime must therefore distinguish adaptive reinterpretation from Interpretative breakdown.
+A regime must therefore distinguish adaptive reinterpretation from interpretative breakdown.
 
 Adaptive reinterpretation occurs where meaning changes in response to new conditions while maintaining a traceable relation to the structure it interprets. Interpretative breakdown occurs where meaning changes in a way that severs the relation between signal, warrant, attribution, admissibility, and realisation.
 
@@ -3146,11 +3148,11 @@ Failure may occur at any point in the cooperative sequence. A failure condition 
 
 **Trust failure** occurs where expectation is not deployed, is deployed outside its proper context, is withdrawn, or is contradicted by later realised contribution.
 
-**Credibility failure** occurs where trust-relevant judgement fails to stabilise, stabilises falsely, or becomes detached from the depth, independence, relevance, or reliability of its supporting signals.
+**Credibility-transition failure** occurs where trust-relevant judgement fails to stabilise, stabilises falsely, or becomes detached from the depth, independence, relevance, or reliability of its supporting signals.
 
-**Credit failure** occurs where forward exposure exceeds the credibility, regime capacity, temporal interval, or expected fulfilment available to support it.
+**Credit-transition failure** occurs where forward exposure exceeds the credibility, regime capacity, temporal interval, or expected fulfilment available to support it.
 
-**Continuation failure** occurs where the system cannot reproduce the conditions required for trust, credibility, credit, fulfilment, repair, or resolution across successive cycles.
+**Continuation-transition failure** occurs where the system cannot reproduce the conditions required for trust, credibility, credit, fulfilment, repair, or resolution across successive cycles.
 
 ## 21.3 Cross-Layer Failure Conditions
 
@@ -4009,7 +4011,7 @@ The profession therefore functions as an admissibility structure.
 
 It tells outsiders: this person has passed through a recognised pathway and may be relied upon within a defined scope of practice.
 
-### 3. Certification as Signal Artifact
+### 3. Certification as Signal Artefact
 
 Certification is one signal produced by the professional regime.
 
@@ -4017,7 +4019,7 @@ A licence, qualification, title, membership status, or professional designation 
 
 The signal works only because the regime behind it is trusted. If the certifying body is rigorous, current, and capable of discipline, the certificate carries credibility. If the regime is weak, captured, outdated, or easily manipulated, the certificate may become a hollow signal.
 
-Certification is therefore not capability itself. It is a contribution-derived signal artifact backed by regime credibility.
+Certification is therefore not capability itself. It is a contribution-derived signal artefact backed by regime credibility.
 
 ### 4. Profession-Level Credibility
 
@@ -4058,7 +4060,7 @@ Where this transmission fails, certification may persist while professional judg
 
 Professional trust can fail in several ways.
 
-If entry standards weaken, the signal becomes less reliable.If disciplinary systems protect insiders rather than exclude misconduct, regime credibility deteriorates.If certification becomes symbolic while capability declines, false credibility emerges.If the profession becomes closed primarily to protect incumbents, admissibility becomes exclusionary rather than competence-based. If interpretive transmission fails, practitioners may hold titles without inheriting the judgement those titles are meant to signal.
+If entry standards weaken, the signal becomes less reliable. If disciplinary systems protect insiders rather than exclude misconduct, regime credibility deteriorates. If certification becomes symbolic while capability declines, false credibility emerges. If the profession becomes closed primarily to protect incumbents, admissibility becomes exclusionary rather than competence-based. If interpretive transmission fails, practitioners may hold titles without inheriting the judgement those titles are meant to signal.
 
 In such cases, the profession may continue in form while losing the capacity to generate credible trust.
 
@@ -4240,7 +4242,7 @@ It is a case in which trust did not fail only at the level of individual borrowe
 
 ## Case Study — Existing Trust Literature as Node-Specific Interpretations
 
-The following references are included as representative anchors for adjacent literatures.
+Existing trust literature often emphasises vulnerability, reliability, risk, reputation, institutional confidence, or social capital. The Trust Framework does not reject these interpretations. It locates them within a broader structural sequence.
 
 The table below uses broad descriptive labels rather than assigning each node to a single school or theory.
 
