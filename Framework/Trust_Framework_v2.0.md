@@ -13,7 +13,7 @@ This page intentionally left blank
 
 This document represents the canonical description of the Trust Framework for version 2.0 within the archived repository snapshot.
 
-The Trust Framework describes how cooperation emerges and persists within coexistence systems through the interpretation of contribution signals across time.
+The Trust Framework describes how cooperation emerges and persists within coexistence systems as contribution outcomes or traces are observed, interpreted as meaning-bearing signals, and used to form expectations that may be deployed through trust across time.
 
 The Trust Framework is presented here as a self-contained framework for analysing how cooperative systems maintain persistence across time under conditions of uncertainty.
 
@@ -44,9 +44,9 @@ Human cooperation requires participants to act despite uncertainty about the fut
 
 This paper proposes the Trust Framework, a conceptual model describing how cooperative systems persist under such uncertainty. The framework begins from the observation that all cooperative systems first exist within environments of coexistence, where multiple participants or organised systems influence one another’s continuation conditions without necessarily coordinating their actions. Cooperation emerges only when interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal. This threshold is described as the cooperative boundary.
 
-Once this boundary is crossed, temporal coordination becomes possible. Participants begin relying on past interactions to form expectations about future behaviour. Within this process, 
-contribution events generate outcomes or traces which, when observed and interpreted under uncertainty, become signals from which expectations are formed which are then evaluated through trust judgements, and these judgements accumulate into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
+Once this boundary is crossed, temporal coordination becomes possible. Participants begin relying on past interactions to form expectations about future behaviour. 
 
+Within this process, contribution events generate outcomes or traces which, when observed and interpreted as meaning-bearing under uncertainty, become signals. From these signals, observers form expectations, evaluate and deploy those expectations through trust judgements, and gradually stabilise repeated trust judgements into credibility. Credibility then enables credit, understood as the extension of cooperation, delegation, or obligation into the future.
 
 The Trust Framework therefore describes the structural sequence through which cooperation persists across time:
 
@@ -54,12 +54,14 @@ Coexistence → Cooperative Boundary → Temporal Coordination → Contribution 
 
 The full state development sequence is presented in section 3.1.
 
-Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived from interpreted signals. By linking contribution, signal interpretation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
+Trust is interpreted not as a substance or measurable object, but as a judgement formed when observers evaluate expectations derived from interpreted signals. By linking contribution outcomes, signal formation, credibility formation, and credit extension, the framework provides a conceptual architecture for understanding how cooperative systems maintain continuation despite uncertainty about future behaviour.
+
 
 # INTRODUCTION 
 
 ## Scope
 This framework describes how cooperative systems operate under conditions of uncertainty. 
+
 It focuses on the informational processes through which participants interpret signals derived from 
 past contribution events in order to form expectations about future behaviour of the observed participant.
 
@@ -1847,7 +1849,7 @@ This sequence establishes structural relationships.
 
 Interpretative Architecture addresses a different question: what do those relationships mean when encountered by an observer within a particular cooperative system?
 
-An observer does not encounter the entire structural history of a participant or system directly. The observer encounters accessible signals and interprets those signals from a particular position, within a particular system, at a particular time.
+An observer does not encounter the entire structural history of a participant or system directly. The observer encounters accessible outcomes, traces, records, or communications and interprets them from a particular position, within a particular system, at a particular time. When treated as meaning-bearing, these become signals for that observer; those signals may then be evaluated as support for expectation.
 
 Meaning therefore arises through a relation between:
 
