@@ -756,7 +756,7 @@ The lenses are not the dimensions. The lenses are how the observer accesses the 
 |Identity| Regime — how the participant is institutionally validated|Will institutional standing persist?|
 |Capability| Realisation — what the participant has delivered| Will realised performance persist?|
 
-The lenses are therefore observer-side evaluation mechanisms; the four pillars are system-side dimensions of expression. Each lens evolves to read the pillar through which the agent presents the corresponding signal.
+The lenses are therefore observer-side evaluation mechanisms. The four system-side aspects are dimensions of expression, and each lens evolves to read the aspect through which the agent presents the corresponding signal.
 
 Because observers may evaluate multiple dimensions simultaneously, trust interpretation need not occur through a single lens–dimension relationship. Complex credibility structures may emerge through combinations of lenses acting upon multiple dimensions of the participant. The representational consequences of these combinations are developed later in the formalisation layer.
 
@@ -1802,7 +1802,7 @@ The sequence is ordered but not automatic. Each stage provides the condition fro
 
 This constitutes the structural path through which continuation becomes possible within cooperative systems. Each stage is the necessary condition for the stage that follows. Continuation is the condition toward which all prior stages are oriented, and the operational return through which their outcomes become available for future cycles.
 
-## 14.8 Formalisation Summary
+## 14.8 Chapter Summary
 
 This chapter established the formal ontological conditions as structurally related positions within cooperative coordination systems.
 
@@ -2017,7 +2017,7 @@ Credibility emerges through the interpretation, weighting, accumulation, and sta
 
 The same underlying contribution history may therefore generate different credibility structures across different systems without contradiction.
 
-Where reconstruction must occur across generational time, the system requires interpretive capital: the accumulated stock of transmissible meaning that allows future observers to recover, teach, and reconstruct the meaning of signals, records, practices, and institutions. Interpretive capital differs from credibility. Credibility stabilises expectation regarding a participant within a system; interpretive capital stabilises the meanings through which future observers can reconstruct credibility and other trust-relevant structures.
+Where reconstruction must occur across generational time, the system requires accumulated interpretive capacity: the stock of transmissible meaning that allows future observers to recover, teach, and reconstruct the meaning of signals, records, practices, and institutions. Credibility stabilises expectation regarding a participant within a system; interpretive capital stabilises the meanings through which future observers can reconstruct credibility and other trust-relevant structures.
 
 This difference may arise because systems:
 
@@ -2954,11 +2954,15 @@ Credit is admissible only where the regime can recognise, bound, and govern the 
 
 Where a system extends credit without the capacity to track exposure, enforce obligation, update signals, or absorb failure, credit has been asserted rather than governed.
 
-### 19.4.7 Realisation and Default Principle
+### 19.4.7 Default and Provisioning Principle
 
-Credit remains incomplete until the expected future contribution is realised, revised, transferred, forgiven, enforced, or defaulted. Repayment, performance, compliance, service delivery, continued conduct, or other forms of fulfilment reduce the outstanding forward commitment. Default occurs where expected realisation fails sufficiently that the credit relationship can no longer continue on its original terms.
+Credit remains exposed until the expected future contribution is realised, revised, transferred, forgiven, enforced, defaulted, impaired, or otherwise resolved.
 
-Default does not always mean total collapse. A credit relation may be restructured, repriced, sanctioned, secured, transferred, written down, or absorbed by a wider regime. These are not outside credit. They are regime responses to failed, partial, delayed, or transformed realisation.
+Default occurs where expected realisation fails sufficiently that the credit relationship can no longer continue on its original terms. Before default is final, a regime may recognise weakening through impairment, provisioning, repricing, collateral review, covenant action, restructuring, or withdrawal of further extension.
+
+Bad debt provision is a regime response to expected credit loss. It does not itself close the credit relation. It recognises that the credibility structure supporting the original extension has weakened, and that part of the forward exposure may no longer be recoverable through expected future contribution.
+
+Default does not always mean total collapse. A credit relation may be restructured, repriced, sanctioned, secured, transferred, written down, forgiven, enforced, withdrawn, or absorbed by a wider regime. These are not outside credit. They are regime responses to failed, partial, delayed, impaired, or transformed realisation.
 
 ### 19.4.8 Credit Withdrawal Principle
 
@@ -3468,7 +3472,7 @@ The boundary separates what remains outside the observer's interpretive reach fr
 
 Entry into the interpretive field may occur through direct perception, memory, testimony, audit, ledger, sensor, platform data, institutional review, model output, certification, reputation, or relational knowledge.
 
-The Signal Horizon is the operational point within this boundary process at which an observed trace becomes evaluatively active. Before this point, an outcome may exist as event, trace, record, observation, or available information. At the Signal Horizon, it reaches the observer's evaluation principle and becomes capable of altering expectation, trust, credibility, credit, refusal, caution, repair, sanction, or withdrawal.
+For purposes of realised interpretation, this point may be called the Signal Horizon: the operational point within the boundary process at which an observed trace becomes evaluatively active. Before this point, an outcome may exist as event, trace, record, observation, or available information. At the Signal Horizon, it reaches the observer's evaluation principle and becomes capable of altering expectation, trust, credibility, credit, refusal, caution, repair, sanction, or withdrawal.
 
 The boundary is observer-bound. The same realised outcome may enter one observer's interpretive field while remaining unavailable to another. A bank may observe a repayment record that a family member never sees. A family may observe care or neglect that a formal institution never records. A platform may register behavioural traces invisible to ordinary participants.
 
@@ -3724,6 +3728,8 @@ Chapter 25 examines how realised outcomes close the operational cycle and return
 
 Realisation closure does not mean that cooperation ends. It means that an open interval of trust, credibility, or credit has reached some realised condition: fulfilment, failure, repair, withdrawal, sanction, forgiveness, transfer, substitution, Nil-state transition, or recursive continuation.
 
+Nil-state transition, meaning a transition in which the admissible substrate required for regime-supported credit has collapsed without eliminating the participant’s bare coexistence or direct contribution capacity,
+
 ## 25.1 Feedback Update — Realised Outcomes Re-enter the System
 
 Every realised outcome re-enters the system as possible contribution history, whether it arises from successful fulfilment, routine contribution, failed commitment, repair, sanction, withdrawal, or reversion to bare coexistence following a Nil-state transition.
@@ -3786,7 +3792,9 @@ The appendix therefore serves as a case-based stress test of the framework's pla
 
 ### 1. The Historical Case
 
-For most of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The London Stock Exchange received its coat of arms and motto in 1923: "My word is my bond" (Latin: Dictum meum pactum). A verbal commitment from a gentleman of recognised standing was treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
+For much of the pre-industrial and early-industrial period, high-value commercial trust in England ran predominantly through the Identity lens. The London Stock Exchange traces its origins to the coffee-house markets of late-seventeenth-century London and became formally organised long before its coat of arms was granted in 1923. Its motto, "My word is my bond" (Latin: Dictum meum pactum), therefore memorialised an older commercial norm rather than originating it. Within that norm, a verbal commitment from a gentleman of recognised standing could be treated as sufficient security for transactions of considerable value — no written contract, no independent verification of capacity, no third-party audit.
+
+Both the securities market associated with Jonathan’s Coffee House and the marine insurance market associated with Edward Lloyd’s Coffee House show how early commercial trust in London was organised through bounded communities, repeated interaction, reputation, and shared information before later institutionalisation into formal exchanges and insurance markets.
 
 This was not naivety. It was a coherent, functioning admissibility mechanism, for a specific structural reason: the trading community was small, socially closed, and repeatedly interacting. A merchant's identity — his family, his club membership, his standing among a bounded circle of known peers — carried the entire evidentiary weight that a modern credit check, audited balance sheet, or clearing-house guarantee carries today. Reneging on a verbal commitment did not merely cost a transaction; it triggered near-total, near-permanent exclusion from a closed community with no realistic outside option. The Identity lens worked because the admissibility mechanism's own "variety" — its capacity to discriminate trustworthy from untrustworthy parties — was genuinely adequate to the small, stable population it governed.
 
