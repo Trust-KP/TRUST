@@ -109,7 +109,7 @@ Nor does the framework claim that every organised social relation is automatical
 
 **PART V — REALISATION**
 - [22 OPERATION CONDITIONS](#22-operation-conditions)
-- [23 INTERPRETIVE EXECUTION](#23-INTERPRETATIVE-EXECUTION)
+- [23 INTERPRETIVE EXECUTION](#23-interpretive-execution)
 - [24 REGIME EXECUTION](#24-REGIME-EXECUTION)
 - [25 REALISATION CLOSURE](#25-REALISATION-CLOSURE)
 
@@ -168,14 +168,13 @@ Within cooperative systems, continuation depends on the stability of trust inter
 
 ## Signals
 
-Observable consequences produced by contribution events.
+Observable consequences produced by contribution events are contribution outcomes or traces.
 
-Signals may include fulfilled obligations, failures, delays, reliability patterns, or institutional responses.
+Signals are outcomes or traces that have become accessible to an observer and interpreted as meaning-bearing under uncertainty.
 
-Signals represent the evidence available to observers when interpreting behaviour under uncertainty.
+Signals may be formed from fulfilled obligations, failures, delays, reliability patterns, institutional responses, records, testimony, artefacts, speech, performance, or other observable consequences.
 
-Contribution outcomes or traces may exist independently of any specific observer. Access to and interpretation of those outcomes or traces may vary across observers. Once formed or externalised via interpretation, signals may persist and circulate.
-
+Contribution outcomes or traces may exist independently of any specific observer. Access to and interpretation of those outcomes or traces may vary across observers. Once formed or externalised through interpretation, signals may persist and circulate.
 
 ## Trust Interpretation
 
@@ -183,7 +182,7 @@ The mechanism through which participants evaluate and deploy expectations regard
 
 ## Credibility
 
-The stabilised condition of belief that arises when interpreted signals relating to a participant accumulate across time and contexts to a degree sufficient for observers to rely to them without continuous re-evaluation.
+The stabilised condition of belief that arises when interpreted signals relating to a participant accumulate across time and contexts to a degree sufficient for observers to rely on them without continuous re-evaluation.
 
 Credibility is formally developed in Chapter 11.
 
@@ -489,7 +488,7 @@ Observers do not interpret signals through abstract informational processing alo
 
 As a result, identical observable signals may produce different expectations across observers not only because of differences in knowledge or social conditioning, but also because signals are compressed, prioritised, and experienced differently within each observer’s internal evaluative system. A signal that appears neutral to one observer may be experienced by another as salient, threatening, desirable, or trustworthy.
 
-Despite these differences, individual evaluation principles do not operate in isolation. Individual observers participate within broader cooperative environments that shape the interpretive structures through which signals are evaluated. The interaction between individual judgement and shared interpretive norms therefore influences how trust judgements emerge within cooperative systems.
+Despite these differences, individual evaluation principles do not operate in isolation. Individual observers participate within broader cooperative environments that shape the interpretative structures through which signals are evaluated. The interaction between individual judgement and shared interpretive norms therefore influences how trust judgements emerge within cooperative systems.
 
 ## 9.3 Shared Evaluation Principles
 
@@ -623,7 +622,7 @@ Trust formation therefore arises not from signals alone, but from the applicatio
 
 Trust formation requires that contribution signals be interpretable within the receiving system's credibility framework.
 
-Participants whose contribution signals fall outside the interpretive structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
+Participants whose contribution signals fall outside the interpretative structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
 
 ## 10.4 Interpretive Lenses of Trust
 
@@ -1163,7 +1162,7 @@ Credit, as defined in this chapter, refers to the forward deployment of expectat
 
 The term “credit,” however, also appears in other temporal directions. These include attribution of past contribution (present to past), interpretive judgement of behavioural patterns (present to pattern), and the persistence of past contribution into future expectation (past to future).
 
-Among four, only the forward extension constitutes credit as an act. The others represent interpretive or structural conditions that support the operation of credit across time.
+Of these four directions, only the forward extension constitutes credit as an act. The others represent interpretive or structural conditions that support the operation of credit across time.
 
 Within this forward-directed structure, credit may be expressed through different dimensions of the framework. These expressions correspond to distinct modes through which contribution is coordinated across time.
 
@@ -1477,7 +1476,7 @@ When successive iterations of the cycle align — where realised contribution co
 
 Reinforcement is associated with extension.
 
-As alignment persists, coordination extends across longer temporal intervals, involve more participants, and support more complex structures. Expectations stabilise beyond immediate observation, and credit may be deployed with increasing temporal reach. The cooperative boundary is not only maintained, but becomes more readily traversable within the system.
+As alignment persists, coordination extends across longer temporal intervals, involves more participants, and supports more complex structures. Expectations stabilise beyond immediate observation, and credit may be deployed with increasing temporal reach. The cooperative boundary is not only maintained, but becomes more readily traversable within the system.
 
 This extension is accompanied by accumulation.
 
@@ -1494,16 +1493,6 @@ Temporal coordination therefore involves both reinforcement and accumulation.
 Reinforcement strengthens the stability of expectation on which future coordination depends. Accumulation increases the degree to which coordination depends on the persistence of those conditions.
 
 The continuation of the cycle depends on maintaining alignment between accumulated expectation and realised contribution. Where such alignment persists, coordination may extend further. Where it does not, accumulated dependence becomes exposed, and adjustment becomes necessary.
-
-As accumulation increases, the stability of temporal coordination becomes increasingly dependent on the persistence of alignment between expectation and realised contribution.
-
-Where this alignment cannot be maintained, the accumulated dependence becomes exposed, and the conditions sustaining the cycle begin to deteriorate.
-
-Instability may arise not only from failure within a single temporal, but from misalignment between anchors across temporals.
-
-An event anchor may indicate occurrence, while a record anchor delays or distorts transmission, leading to divergence in expectation anchors across observers. Similarly, commitment anchors may persist beyond the conditions supported by production anchors.
-
-Such cross-temporal misalignment may propagate through the coordination cycle, producing instability even when individual temporals remain locally functional.
 
 ## 13.7 Accumulated Dependence and Cross-Temporal Misalignment
 
@@ -2111,7 +2100,7 @@ The following Part develops the Regime layer: the principles, conditions, and ad
 
 ## 15.12. Interpretative Architecture Summary
 
-This chpater established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
+This chapter established the architecture through which the structural relationships developed by the Trust Framework acquire meaning within cooperative systems.
 
 Observer-side lenses intersect with system-side aspects to create a sixteen-position interpretative space. Four canonical positions represent direct lens–aspect alignment, while cross-positions permit the same structural relationships to be interpreted from different observer perspectives.
 
@@ -2797,7 +2786,7 @@ Signals do not determine trust by themselves.
 
 An observed trace becomes trust-relevant only when it is interpreted through an interpretative lens, evaluation rule, or regime condition. The same observed outcome may support different expectations depending on the observer's interpretative position and the system within which interpretation occurs.
 
-Trust formation therefore depends not only on signal availability, but also on the interpretive structure through which signals are read.
+Trust formation therefore depends not only on signal availability, but also on the interpretative structure through which signals are read.
 
 ### 19.2.4 Expectation Deployment Principle
 
@@ -3923,7 +3912,7 @@ Miles originate from contribution events.
 
 A passenger flies, pays, spends through a partner, or performs another recognised action within the airline's loyalty regime. The airline records this contribution and translates it into a mileage balance according to programme rules.
 
-The mileage balance is therefore not the contribution itself. It is a recorded outcome and translated as signal which derived from contribution history.
+The mileage balance is therefore not the contribution itself. It is a recorded outcome, translated into a signal derived from contribution history.
 
 This recording function matters because the passenger may later act on the belief that prior contribution has been preserved in a form that can support future travel, upgrades, status, or other benefits.
 
@@ -4069,7 +4058,7 @@ Where this transmission fails, certification may persist while professional judg
 
 Professional trust can fail in several ways.
 
-If entry standards weaken, the signal becomes less reliable.If disciplinary systems protect insiders rather than exclude misconduct, regime credibility deteriorates.If certification becomes symbolic while capability declines, false credibility emerges.If the profession becomes closed primarily to protect incumbents, admissibility becomes exclusionary rather than competence-based.If interpretive transmission fails, practitioners may hold titles without inheriting the judgement those titles are meant to signal.
+If entry standards weaken, the signal becomes less reliable.If disciplinary systems protect insiders rather than exclude misconduct, regime credibility deteriorates.If certification becomes symbolic while capability declines, false credibility emerges.If the profession becomes closed primarily to protect incumbents, admissibility becomes exclusionary rather than competence-based. If interpretive transmission fails, practitioners may hold titles without inheriting the judgement those titles are meant to signal.
 
 In such cases, the profession may continue in form while losing the capacity to generate credible trust.
 
