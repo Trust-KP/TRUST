@@ -446,8 +446,7 @@ Observers must interpret signals in order to form expectations about future beha
 
 # 9 Signal Evaluation Principles
 
-Evaluation principles therefore influence how signals are selected, weighted, and interpreted when forming expectations about behaviour.
-However, signals alone do not determine how trust judgements are formed. Observers must interpret the meaning and significance of these signals when forming expectations regarding the behaviour of others.
+Signals alone do not determine how trust judgements are formed. Observers must interpret the meaning and significance of these signals when forming expectations regarding the behaviour of others. 
 
 Evaluation principles operate at the stage where signals are interpreted into expectations, prior to the formation of trust.
 
@@ -1248,6 +1247,7 @@ Credit does not eliminate uncertainty. It operates through it.
 ## 12.7 Credit Cycles
 
 Credit cycles operate within the broader cycle of contribution and credibility. 
+
 They describe how credit itself expands and contracts as expectation is extended across time under uncertainty.
 
 When credit is extended, it enables new contribution, which generates signals and feeds back into the credibility of participants. This feedback loop allows credit to persist and expand when outcomes align with expectations.
@@ -1706,8 +1706,6 @@ Coexistence does not guarantee cooperation. It provides the ontological ground f
 
 **Cooperative Boundary** is the threshold at which, within a coexistence system, perceived interaction risk falls below the level at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.
 
-A cooperative boundary obtains when, within a coexistence system, perceived interaction risk falls below a threshold at which repeated engagement becomes preferable to conflict, avoidance, or withdrawal for the participants concerned.
-
 The position of this threshold is influenced by four structural conditions: the degree of capability asymmetry between participants, the reversibility of potential losses arising from interaction, the availability of signals capable of interpretation, and the expected cost of conflict relative to the expected benefit of cooperation.
 
 The cooperative boundary is not a permanent condition established through a single crossing. It must be continuously reproduced through sustained alignment between expectation and realised outcomes across successive interactions. Where this alignment fails, the boundary may recede and cooperative coordination may revert toward coexistence conditions.
@@ -1719,8 +1717,6 @@ From this stage onward, the framework presumes participants capable of interpret
 ## 14.4 Temporal Coordination — Formal Conditions
 
 **Temporal coordination** is the condition in which participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.
-
-Temporal coordination obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that each interaction generates observable signals that are interpreted to form expectations, and those expectations are deployed to guide subsequent coordinated action.
 
 The operational sequence is invariant:
 
@@ -1794,7 +1790,7 @@ The closure of one forward commitment may itself become part of the participant'
 
 Continuation therefore has a recursive structure. Each completed or failed cycle re-enters the sequence as a new instance of contribution, recursively reproducing or weakening the same terminal condition across successive cycles — as a day is ontologically terminal at midnight, while operationally recurring as the next day's cycle.
 
-The full cooperative sequence —
+The full cooperative sequence is
 
 **Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
 
@@ -1919,12 +1915,12 @@ The full interpretative space is therefore larger than the four canonical positi
 
 The intersection of four observer-side lenses with four system-side aspects produces a sixteen-position interpretative space.
 
-| Lens / Aspect | Structure | Interpretation | Regime | Realisation |
+| Lens / Aspect | Interpretation | Regime | Structure | Realisation |
 |---|---|---|---|---|
-|Structural |Canonical	|Cross-position	|Cross-position| Cross-position|
-|Coordination	|Cross-position|	Canonical|	Cross-position|	Cross-position|
-|Identity	|Cross-position|	Cross-position|	Canonical	| Cross-position|
-|Capability	|Cross-position|	Cross-position|	Cross-position|	Canonical|
+| Coordination | Canonical | Cross-position | Cross-position | Cross-position |
+| Identity | Cross-position | Canonical | Cross-position | Cross-position |
+| Structural | Cross-position | Cross-position | Canonical | Cross-position |
+| Capability | Cross-position | Cross-position | Cross-position | Canonical |
 
 Each position represents a distinct interpretative relation between the perspective from which an observer evaluates continuation and the aspect of the participant or system being evaluated.
 
@@ -2698,7 +2694,7 @@ This chapter organises the principles across a general layer and three applied m
 - principles governing credibility stabilisation; and
 - principles governing credit extension.
 
-Together, these principles provide the bridge between the regime conditions established in Chapter 17 and the laws developed in Chapter 18.
+Together, these principles provide the bridge between the regime conditions established in Chapter 17 and the laws developed in Chapter 18 by showing how those laws become operational for trust, credibility, credit, and continuation.
 
 ### 19.1.1 Observer-Bound Principle
 
