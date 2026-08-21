@@ -607,23 +607,13 @@ Records, communications, ratings, credentials, and symbolic markers may circulat
 
 A receiving observer interprets each representation within a new informational and evaluative context. The resulting signal may preserve, alter, weaken, or reverse the meaning formed in the originating system. Contribution history remains anchored in realised events, while its meaning is reconstructed across systems and domains.
 
-In many situations, observers cannot directly observe or reconstruct the full sequence of contribution events that produced the underlying history. As a result, signals originating in one informational domain may be translated or represented within another. For example, instrumental performance records may be validated through procedural evaluation, procedural validation may be communicated through symbolic markers, and symbolic recognition may influence relational perception within interpersonal contexts.
-
-This circulation does not alter the underlying contribution history itself. Instead, it reflects the movement and reinterpretation of signals across different informational structures as observers attempt to interpret limited evidence.
-
-This relationship may be summarised as a structural principle:
-
-Trust is unidirectional in accumulation but bidirectional in interpretation.
-
-Contribution events accumulate irreversibly over time as part of contribution history. By contrast, the signals used to interpret trust may move across multiple interpretive domains depending on the information available to observers and the evaluation principles applied during decision-making.
-
 ## 10.3 Evaluation Principle
 
 Signals derived from contribution history do not themselves produce trust judgements; they must be evaluated by observers under conditions of uncertainty. In order for signals to influence expectations about future behaviour, observers must apply an evaluation principle that determines how those signals are evaluated under conditions of uncertainty.
 
 Observers evaluate these signals according to evaluation principles that determine what counts as relevant evidence of reliability and how different signals are weighted when forming expectations about future behaviour.
 
-Different observers, institutions, and cultural environments may apply different evaluation principles even when evaluation the underlying signal arising from the same outcomes or traces.
+Participants whose contribution traces and outcomes fall outside the evaluation structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
 
 Within this framework, evaluation principles are operationalised through the interpretive lenses described in the following section. Each lens evaluates signals according to a distinct informational logic that determines how evidence of contribution history is recognised and interpreted.
 
@@ -643,7 +633,7 @@ Observers interpret evaluated signals that reflect underlying contribution histo
 
 The lenses therefore represent alternative mechanisms through which observers infer reliability from contribution-relevant signals.
 
-Each lens applies a distinct interpretive rule to the same set of evaluated signal. In practice, multiple lenses may operate simultaneously, and their interpretations may either reinforce or contradict one another depending on the institutional context.
+Each lens applies a distinct interpretive rule to the same set of evaluated signals. In practice, multiple lenses may operate simultaneously, and their interpretations may either reinforce or contradict one another depending on the institutional context.
 
 Human observers typically integrate evaluated signals across several lenses simultaneously when forming trust judgements. Individuals may combine relational familiarity, symbolic identity, procedural legitimacy, and observable performance when interpreting the behaviour of others.
 
@@ -1449,7 +1439,7 @@ Each iteration depends on the alignment between expectation and realised contrib
 
 This cycle corresponds to the operational projection of the cooperative sequence:
 
-Contribution → Outcome / Trace → Observation → Signals → Expectation → Trust → Credibility → Credit
+Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit
 
 The temporals do not replace this sequence. They operationalise it at system level, transforming discrete interactions into sustained coordination.
 
@@ -1747,7 +1737,6 @@ A **trace** is what remains accessible or recoverable from that event or outcome
 **Observation** obtains when an outcome or trace becomes accessible to an observer, whether directly or through mediation.
 
 A **signal** obtains when an observer interprets an observed outcome or trace as meaning-bearing within an interpretative structure.
-An expectation obtains when the observer evaluates a signal as support for a projection regarding future behaviour or contribution.
 
 An **expectation** obtains when the observer evaluates a signal as support for a projection regarding future behaviour or contribution.
 
@@ -2019,12 +2008,15 @@ This allows the framework to remain structurally stable while remaining capable 
 
 Externalised records, communications, credentials, and other representations may circulate across systems, but signals and credibility are reconstructed within each receiving system.
 
-Credibility emerges through the weighting, accumulation, and stabilisation of signals formed from observed outcomes or traces within a particular interpretative architecture.
+This difference may arise because systems:
 
 * access different outcomes or traces;
 * form different signals from similar or externally transmitted traces;
+* apply different evaluation principles;
+* admit different kinds of evidence;
+* weight contribution history differently.
 
-It is a stabilised relationship between signals formed from accessible traces and the interpretative architecture within which they are evaluated.
+Credibility is therefore not a universal scalar property intrinsically attached to a participant. It is a stabilised relationship between signals formed from accessible traces and the interpretative architecture within which they are evaluated.
 
 When a participant moves between systems, records, credentials, communications, or reputational representations may travel with them; the receiving system interprets these as traces and forms its own signals.
 
@@ -3725,7 +3717,7 @@ Chapter 25 examines how realised outcomes close the operational cycle and return
 
 Realisation closure does not mean that cooperation ends. It means that an open interval of trust, credibility, or credit has reached some realised condition: fulfilment, failure, repair, withdrawal, sanction, forgiveness, transfer, substitution, Nil-state transition, or recursive continuation.
 
-Nil-state transition, meaning a transition in which the admissible substrate required for regime-supported credit has collapsed without eliminating the participant’s bare coexistence or direct contribution capacity,
+A Nil-state transition is a transition in which the admissible substrate required for regime-supported credit has collapsed without eliminating the participant's bare coexistence or direct contribution capacity.
 
 ## 25.1 Feedback Update — Realised Outcomes Re-enter the System
 
@@ -4161,8 +4153,6 @@ Mortgage lending illustrates the full credit sequence:
 - Repayment gradually fulfils the forward commitment and extinguishes the created money.
 
 A mortgage therefore shows credit creation in both accounting and structural terms. Accounting records the loan asset and deposit liability. The Trust Framework explains the underlying coordination: a regime-recognised expectation of future contribution is converted into present purchasing power.
-
-Lenders observed borrower income, employment, property valuation, credit history, and underwriting documentation as contribution-related records or traces. They interpreted and evaluated these as signals when forming expectations about future repayment capacity.
 
 Modern bank money is therefore not merely a thing already waiting to be lent. In mortgage lending, it is created when a bank admits a borrower's future repayment capacity into its credit regime and records that forward commitment as both a loan and a deposit.
 
