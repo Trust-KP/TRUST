@@ -1,7 +1,6 @@
 
 This page intentionally left blank
 
- 
 # The Trust Framework
 ## Contribution, Signals, and the Continuation of Cooperation
 
