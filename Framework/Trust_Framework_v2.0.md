@@ -9,7 +9,7 @@ This page intentionally left blank
 ### Version: 2.0
 ### Year: 2026  
 ### Status: Working Paper
-### Official DOI for this release: [to be added]
+### Official DOI for this release: 10.5281/zenodo.22039115
 
 This document represents the canonical description of the Trust Framework for version 2.0 within the archived repository snapshot.
 
