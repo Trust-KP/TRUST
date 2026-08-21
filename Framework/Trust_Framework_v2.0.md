@@ -50,7 +50,7 @@ Within this process, contribution events generate outcomes or traces which, when
 
 The Trust Framework therefore describes the structural sequence through which cooperation persists across time:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome/Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation
 
 The full state development sequence is presented in section 3.1.
 
@@ -613,7 +613,7 @@ Signals derived from contribution history do not themselves produce trust judgem
 
 Observers evaluate these signals according to evaluation principles that determine what counts as relevant evidence of reliability and how different signals are weighted when forming expectations about future behaviour.
 
-Participants whose contribution traces and outcomes fall outside the evaluation structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
+Different observers, institutions, and cultural environments may apply different evaluation principles even when evaluating signals arising from the same outcomes or traces.
 
 Within this framework, evaluation principles are operationalised through the interpretive lenses described in the following section. Each lens evaluates signals according to a distinct informational logic that determines how evidence of contribution history is recognised and interpreted.
 
@@ -621,7 +621,7 @@ Trust formation therefore arises not from signals alone, but from the applicatio
 
 Trust formation requires that the signals be evaluated within the receiving system's credibility framework.
 
-Participants whose contribution traces and outcome fall outside the evaluation structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
+Participants whose contribution traces and outcomes fall outside the evaluation structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
 
 ## 10.4 Interpretive Lenses of Trust
 
@@ -2007,6 +2007,8 @@ This allows the framework to remain structurally stable while remaining capable 
 ## 15.8 System-Relative Reconstruction
 
 Externalised records, communications, credentials, and other representations may circulate across systems, but signals and credibility are reconstructed within each receiving system.
+
+The same underlying contribution history may therefore be reconstructed into different credibility structures across different systems without contradiction.
 
 This difference may arise because systems:
 
