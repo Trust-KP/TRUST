@@ -197,7 +197,7 @@ Credit is formally developed in Chapter 12.
  
 # 3.	THEORY OF CONTINUATION
 
-All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilsations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organised system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Within cooperative systems, continuation represents the condition under which a system retains sufficient structure, capability, and coordination to persist across transformation and withstand pressures acting upon it through time.
+All systems that persist across time face the fundamental problem of continuation. Individuals, institutions, ecosystems, and civilisations must maintain the capacity to endure despite uncertainty, stochastic events, internal degradation, and external shocks. The central question for any organised system is therefore not merely growth or efficiency, but whether the system can sustain its ability to continue operating into the future. Within cooperative systems, continuation represents the condition under which a system retains sufficient structure, capability, and coordination to persist across transformation and withstand pressures acting upon it through time.
 
 Continuation is constantly challenged by uncertainty and entropy. Environmental shocks, resource depletion, coordination failure, and internal decay gradually erode a system’s stability. Without continuous corrective action, most systems tend toward deterioration rather than persistence. This natural pressure toward disorder means that continuation is never automatic; it must be actively sustained through actions that restore stability and maintain the system’s capacity to absorb shocks.
 
@@ -234,7 +234,7 @@ Through this separation between local calibration and shared interpretation, coo
 
 Under this interpretation, trust, credibility, credit, status, and institutional design can all be understood as mechanisms developed within cooperative systems to manage the fundamental challenge of continuation. They allow participants to coordinate behaviour, allocate responsibility, and manage uncertainty in ways that preserve the system’s ability to endure across time.
 
-The Trust Framework builds upon this foundation by examining how signals formed from contribution outcomes or traces are interpreted within cooperative systems and how these interpretations shape the dynamics of coordination that sustain civilsational continuation. 
+The Trust Framework builds upon this foundation by examining how signals formed from contribution outcomes or traces are interpreted within cooperative systems and how these interpretations shape the dynamics of coordination that sustain civilisational continuation. 
 
 ## 3.1 Ontological State Mapping
 
@@ -253,11 +253,11 @@ This mapping is developed across the chapters that follow.
 
 All systems that seek continuation exist within environments populated by other interacting systems. These surrounding systems influence one another’s conditions for survival even when they do not intentionally coordinate their actions. The Theory of Coexistence Systems describes how systems affect each other’s continuation through shared environments, constraints, and indirect interaction.
 
-Coexistence arises whenever multiple systems occupy the same environment and their actions or states influence one another’s ability to persist. These systems may include biological organisms, ecological systems, individuals, institutions, technological networks, states, or entire civilsations. The defining characteristic of coexistence is that systems affect one another’s continuation even in the absence of deliberate coordination or shared intention.
+Coexistence arises whenever multiple systems occupy the same environment and their actions or states influence one another’s ability to persist. These systems may include biological organisms, ecological systems, individuals, institutions, technological networks, states, or entire civilisations. The defining characteristic of coexistence is that systems affect one another’s continuation even in the absence of deliberate coordination or shared intention.
 
 Within coexistence environments, the actions of one system generate consequences for others regardless of awareness or intent. Environmental modification, resource consumption, technological development, demographic change, and stochastic events all alter the conditions under which surrounding systems attempt to continue. These effects may strengthen, weaken, or destabilise the continuation capacity of neighbouring systems.
 
-Coexistence interactions occur across multiple scales. Individual participants coexist within shared social environments. Institutions and organisations coexist within economic and political systems. States and civilsations coexist within geopolitical environments. At the largest scale, human civilsations coexist with ecological and planetary systems that impose constraints through environmental conditions, resource availability, and natural hazards. Across these scales, systems continuously shape one another’s continuation conditions through their presence and activity.
+Coexistence interactions occur across multiple scales. Individual participants coexist within shared social environments. Institutions and organisations coexist within economic and political systems. States and civilisations coexist within geopolitical environments. At the largest scale, human civilisations coexist with ecological and planetary systems that impose constraints through environmental conditions, resource availability, and natural hazards. Across these scales, systems continuously shape one another’s continuation conditions through their presence and activity.
 
 Unlike cooperative systems, coexistence systems do not require trust, credibility, or shared interpretation of signals. Interaction occurs through physical, ecological, economic, or systemic consequences rather than through coordinated expectations. Systems may therefore influence one another even when no communication, recognition, or mutual understanding exists between them.
 
@@ -295,7 +295,7 @@ The cooperative boundary therefore marks the transition between coexistence syst
 
 Only after this boundary is crossed can temporal coordination processes develop and sustain cooperation across time.
 
-Within the Trust Framework, the cooperative boundary provides the necessary condition for the formation of trust-based coordination. By identifying the threshold at which interaction becomes stable enough for repeated engagement, it explains how systems move from mere coexistence toward sustained cooperation capable of supporting institutional and civilsational continuation. 
+Within the Trust Framework, the cooperative boundary provides the necessary condition for the formation of trust-based coordination. By identifying the threshold at which interaction becomes stable enough for repeated engagement, it explains how systems move from mere coexistence toward sustained cooperation capable of supporting institutional and civilisational continuation. 
 
 # 6.	THEORY OF TEMPORAL COORDINATION
 
@@ -317,7 +317,7 @@ Expectation is held by observers. Stabilisation refers to the alignment of expec
 
 Within the Trust Framework, this temporal coordination cycle can be interpreted through a sequence of states development: contribution events generate observable outcomes or traces; these outcomes or traces may become signals when observed and interpreted as meaning-bearing; signals are evaluated as support for expectations; trust evaluates and deploys these expectations; trust judgements accumulate and stabilise into credibility assessments; and credibility enables the extension of credit in the form of delegated responsibility, obligation, or coordinated action.
 
-Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows participants to maintain stable patterns of cooperation that support institutions, collective organisation, and civilsational persistence across time. 
+Temporal coordination therefore provides the dynamic mechanism through which cooperative systems sustain continuation within coexistence environments. By transforming uncertain observations into structured expectations about future behaviour, temporal coordination allows participants to maintain stable patterns of cooperation that support institutions, collective organisation, and civilisational persistence across time. 
 
 **PART II - DESCRIPTIVE FRAMEWORK**
 
