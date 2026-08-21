@@ -50,7 +50,7 @@ Within this process, contribution events generate outcomes or traces which, when
 
 The Trust Framework therefore describes the structural sequence through which cooperation persists across time:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome/Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation
 
 The full state development sequence is presented in section 3.1.
 
@@ -60,9 +60,10 @@ Trust is interpreted not as a substance or measurable object, but as a judgement
 # INTRODUCTION 
 
 ## Scope
+
 This framework describes how cooperative systems operate under conditions of uncertainty. 
 
-It focuses on the informational processes through which participants interpret signals derived from 
+It focuses on the informational processes through which participants intepret signals derived from 
 past contribution events in order to form expectations about future behaviour of the observed participant.
 
 The framework applies to interactions among individuals, institutions, and organised systems 
@@ -76,7 +77,7 @@ The framework is descriptive and structural rather than prescriptive. It aims to
 
 Although Part IV develops principles, laws, and regime conditions, these are structural derivations from the framework's analytic architecture. They describe what must be distinguished if trust, credibility, credit, and continuation are to remain coherent within a system. They do not prescribe which institutions, policies, laws, or governance arrangements should be adopted.
 
-Nor does the framework claim that every organised social relation is automatically a cooperative trust relation. Command, coercion, levy, extraction, forced compliance, habit, affection, knowledge, possession, completed exchange, legal obligation, and mere prediction may occur within coexistence systems and may be organised by regimes. They may also interact with trust, credibility, credit, or continuation. However, repeated behaviour, enforceability, or regime validity alone does not make them admissible as cooperation from every observer position. The framework applies where contribution-derived signals are interpreted into expectation, where expectation is deployed under uncertainty, where such deployment stabilises into credibility, or where credibility is extended into forward exposure.
+Nor does the framework claim that every organised social relation is automatically a cooperative trust relation. Command, coercion, levy, extraction, forced compliance, habit, affection, knowledge, possession, completed exchange, legal obligation, and mere prediction may occur within coexistence systems and may be organised by regimes. They may also interact with trust, credibility, credit, or continuation. However, repeated behaviour, enforceability, or regime validity alone does not make them admissible as cooperation from every observer position. The framework applies where contribution-derived signals are evaluated into expectation, where expectation is deployed under uncertainty, where such deployment stabilises into credibility, or where credibility is extended into forward exposure.
 
 ## Table of Contents
 
@@ -172,7 +173,7 @@ Within cooperative systems, continuation depends on the stability of trust inter
 
 Observable consequences produced by contribution events are contribution outcomes or traces.
 
-Signals are outcomes or traces that have become accessible to an observer and interpreted as meaning-bearing under uncertainty.
+Signals are outcomes or traces that have become accessible to an observer and evaluated as meaning-bearing under uncertainty.
 
 Signals may be formed from fulfilled obligations, failures, delays, reliability patterns, institutional responses, records, testimony, artefacts, speech, performance, or other observable consequences.
 
@@ -243,7 +244,7 @@ The structural sequence developed across the framework can be mapped onto the si
 (Indeterminacy) Coexistence System
 → (Boundary) Cooperative Boundary System
 → (Distinction) Temporal Coordination System
-→ (Possibility) [Contribution → Observation → Signals → Expectation]
+→ (Possibility) [Contribution → Outcome / Trace → Observation → Signal → Expectation]
 → (Existence) [Trust → Credibility → Credit]
 → (Continuation) Sustained Coordination Across Time
 
@@ -287,7 +288,7 @@ The cooperative boundary therefore represents the point at which interaction ris
 
 Several structural conditions influence the position of the cooperative boundary. These include the degree of capability asymmetry between interacting participants, the reversibility of potential losses, the availability of communication or signal interpretation, and the expected cost of conflict relative to cooperation. When capability asymmetry becomes extreme or potential losses are irreversible, participants may remain below the cooperative boundary even when mutual benefits from cooperation exist.
 
-The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be continuously reproduced through sustained alignment between expectation and realised outcomes across time. Once participants expect that others will continue participating in repeated interactions, outcomes or traces generated through interaction can begin to be interpreted as signals as evidence about future behaviour. Expectations may then stabilise, allowing coordinated behaviour to develop across time.
+The cooperative boundary is crossed when interaction risk falls below the threshold required for expectation formation, and must then be continuously reproduced through sustained alignment between expectation and realised outcomes across time. Once participants expect that others will continue participating in repeated interactions, outcomes or traces generated through interaction can begin to be interpreted  signals as evidence about future behaviour. Expectations may then stabilise, allowing coordinated behaviour to develop across time.
 
 The cooperative boundary therefore marks the transition between coexistence systems and cooperative systems capable of sustaining coordinated continuation across time. It defines the structural condition under which participants shift from defensive interaction toward coordinated behaviour.
 
@@ -451,11 +452,13 @@ Observers must interpret signals in order to form expectations about future beha
 
 # 9 Signal Evaluation Principles
 
+Chapter 8 described how accessible outcomes or traces become signals when interpreted as meaning-bearing. This chapter begins after signal formation and examines how observers select, attribute, weight, combine, and evaluate formed signals as support for expectations.
+
 Signals alone do not determine how trust judgements are formed. Observers must interpret the meaning and significance of these signals when forming expectations regarding the behaviour of others. 
 
-Evaluation principles operate at the stage where signals are interpreted into expectations, prior to the formation of trust.
+Evaluation principles operate at the stage where signals are evaluated as support for expectations, prior to the formation of trust.
 
-Different observers may interpret the same signals in different ways depending on the evaluation principles they apply. Evaluation principles therefore influence how signals are selected, weighted, and interpreted when forming expectations about behaviour.
+Different observers may interpret the same outcome or trace and form different signals in different ways depending on the evaluation principles they apply. Evaluation principles therefore influence how signals are selected, weighted, and interpreted when forming expectations about behaviour.
 
 Understanding the evaluation principles used by observers is therefore essential for explaining how trust emerges within cooperative environments.
 
@@ -544,7 +547,7 @@ Attribution therefore mediates the movement from observed outcome to expectation
 
 ## 9.6 Expectations and the Conditions for Trust
 
-Signals generated by contribution events provide observable information about behaviour within cooperative environments. Through the application of evaluation principles, observers interpret these signals and form expectations regarding the behaviour of participants.
+Signals generated by contribution events provide observable information about behaviour within cooperative environments. Through the application of evaluation principles, observers evaluate these signals and form expectations regarding the behaviour of participants.
 
 These expectations arise because the future behaviour of participants cannot be directly observed. Observers must therefore rely on interpreted signals from past contribution events when deciding whether cooperation is likely to continue. 
 
@@ -572,7 +575,11 @@ These mechanisms reduce the amount of personal or institutional trust required b
 
 Trust therefore enables a baseline level of cooperation even when interpersonal familiarity and identity-based recognition are absent. While stronger forms of trust may later emerge through observed performance or repeated interaction, procedural validation provides the minimum structure necessary for strangers to coordinate behaviour within complex societies.
 
-Contribution history nevertheless remains the underlying evidential substrate from which trust judgements emerge. Actions performed within the system generate observable effects that accumulate across time, producing signals that allow observers to infer reliability, credibility, and the likely continuation of behaviour.
+Contribution history remains the underlying evidential substrate from which trust judgements emerge. Actions produce outcomes or traces that accumulate across time and may become signals when accessed and interpreted by observers.
+
+Outcomes and traces are contribution-dependent in their occurrence and may exist independently of any particular observer’s access. Signals, by contrast, are observer-relative meanings formed from accessible outcomes or traces. Different observers may therefore form aligned signals, divergent signals, or no signal from the same underlying trace.
+
+Where an observer externalises a formed signal through a record, score, statement, rating, or other communication, that externalisation becomes a new trace available to other observers. Those observers must interpret it within their own systems before a corresponding signal forms for them.
 
 Trust is unidirectional in accumulation and bidirectional in interpretation.
 
@@ -614,33 +621,33 @@ Contribution events accumulate irreversibly over time as part of contribution hi
 
 ## 10.3 Evaluation Principle
 
-Signals derived from contribution history do not themselves produce trust judgements; they must be evaluated by observers under conditions of uncertainty. In order for signals to influence expectations about future behaviour, observers must apply an evaluation principle that determines how those signals are interpreted under conditions of uncertainty.
+Signals derived from contribution history do not themselves produce trust judgements; they must be evaluated by observers under conditions of uncertainty. In order for signals to influence expectations about future behaviour, observers must apply an evaluation principle that determines how those signals are evaluated under conditions of uncertainty.
 
-Observers interpret these signals according to evaluation principles that determine what counts as relevant evidence of reliability and how different signals are weighted when forming expectations about future behaviour.
+Observers evaluate these signals according to evaluation principles that determine what counts as relevant evidence of reliability and how different signals are weighted when forming expectations about future behaviour.
 
-Different observers, institutions, and cultural environments may apply different evaluation principles even when interpreting the same underlying signals.
+Different observers, institutions, and cultural environments may apply different evaluation principles even when evaluation the underlying signal arising from the same outcomes or traces.
 
 Within this framework, evaluation principles are operationalised through the interpretive lenses described in the following section. Each lens evaluates signals according to a distinct informational logic that determines how evidence of contribution history is recognised and interpreted.
 
-Trust formation therefore arises not from signals alone, but from the application of evaluation principles to signals derived from contribution history.
+Trust formation therefore arises not from signals alone, but from the application of evaluation principles to signals derived from outcomes and traces from contribution history.
 
-Trust formation requires that contribution signals be interpretable within the receiving system's credibility framework.
+Trust formation requires that the signals be evaluated within the receiving system's credibility framework.
 
-Participants whose contribution signals fall outside the interpretative structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
+Participants whose contribution traces and outcome fall outside the evaluation structure of a cooperative system may remain untrusted even when their underlying contribution reliability is high.
 
 ## 10.4 Interpretive Lenses of Trust
 
-The framework distinguishes four primary interpretive lenses through which observers interpret signals derived from participant's contribution history under conditions of uncertainty.
+The framework distinguishes four primary interpretive lenses through which observers evaluate signals derived from participant's contribution history under conditions of uncertainty.
 
 These lenses do not represent separate “types” or “substances” of trust. Instead, they represent distinct interpretive mechanisms applied to the same underlying contribution history.
 
-Observers interpret signals that reflect underlying contribution history when forming expectations about behaviour, including outcomes, institutional records, reputational indicators, or identity markers of the observed participant. Each lens interprets these signals according to different informational rules.
+Observers interpret evaluated signals that reflect underlying contribution history when forming expectations about behaviour, including outcomes, institutional records, reputational indicators, or identity markers of the observed participant. Each lens interprets these signals according to different informational rules.
 
 The lenses therefore represent alternative mechanisms through which observers infer reliability from contribution-relevant signals.
 
-Each lens applies a distinct interpretive rule to the same set of observed signals. In practice, multiple lenses may operate simultaneously, and their interpretations may either reinforce or contradict one another depending on the institutional context.
+Each lens applies a distinct interpretive rule to the same set of evaluated signal. In practice, multiple lenses may operate simultaneously, and their interpretations may either reinforce or contradict one another depending on the institutional context.
 
-Human observers typically integrate signals across several lenses simultaneously when forming trust judgements. Individuals may combine relational familiarity, symbolic identity, procedural legitimacy, and observable performance when interpreting the behaviour of others.
+Human observers typically integrate evaluated signals across several lenses simultaneously when forming trust judgements. Individuals may combine relational familiarity, symbolic identity, procedural legitimacy, and observable performance when interpreting the behaviour of others.
 
 Institutional systems, by contrast, often rely on a single dominant interpretive lens within a given decision process. Institutions require stable and reproducible rules in order to evaluate signals across large populations. As a result, institutional trust mechanisms frequently compress interpretation into a primary lens—for example regulatory validation, formal certification, reputational signalling, or measurable performance outcomes.
 
@@ -1255,7 +1262,7 @@ Credit cycles operate within the broader cycle of contribution and credibility.
 
 They describe how credit itself expands and contracts as expectation is extended across time under uncertainty.
 
-When credit is extended, it enables new contribution, which generates signals and feeds back into the credibility of participants. This feedback loop allows credit to persist and expand when outcomes align with expectations.
+When credit is extended, it enables new contribution, which produces outcomes/traces, forming signals and feeds back into the credibility of participants. This feedback loop allows credit to persist and expand when outcomes align with expectations.
 
 However, the extension of credit also accumulates uncertainty within the system. When this uncertainty re-emerges through new signals or changing conditions, credibility is reassessed and credit contracts. The resulting adjustment feeds back into the contribution process, altering future signals and expectations.
 
@@ -1289,7 +1296,7 @@ Because credit operates by structuring uncertainty rather than eliminating it, a
 
 Credit is the mechanism through which expectation is extended across time toward continuation.
 
-Within the cooperative sequence — Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation — credit marks the point at which stabilised belief is deployed beyond immediate interaction. It enables present action to depend on future contribution, allowing coordination to persist across temporal intervals.
+Within the cooperative sequence — Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation — credit marks the point at which stabilised belief is deployed beyond immediate interaction. It enables present action to depend on future contribution, allowing coordination to persist across temporal intervals.
 
 Credit contributes to continuation in two senses.
 
@@ -1350,7 +1357,7 @@ As a result, temporal coordination must be understood as system-relative, even t
 
 Each temporal transforms the outputs generated within coordination, and these transformations are typically observed in the sequence:
 
-production → information → trust → credit.
+Production → Information → Trust → Credit.
 
 This ordering describes the operational flow of coordination, but does not constrain the point at which observers enter or interpret the system.
 
@@ -1446,7 +1453,7 @@ Each iteration depends on the alignment between expectation and realised contrib
 
 This cycle corresponds to the operational projection of the cooperative sequence:
 
-Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit
+Contribution → Outcome / Trace → Observation → Signals → Expectation → Trust → Credibility → Credit
 
 The temporals do not replace this sequence. They operationalise it at system level, transforming discrete interactions into sustained coordination.
 
@@ -1725,7 +1732,7 @@ From this stage onward, the framework presumes participants capable of interpret
 
 The operational sequence is invariant:
 
-Contribution → Outcomes/Traces → Observation → Signal Formation → Expectation → Coordinated Action → Contribution
+Contribution → Outcome / Trace → Observation → Signal → Expectation → Coordinated Action → Contribution
 
 This sequence is self-reinforcing. Where expectation aligns with realised outcomes, coordination becomes more stable. Where expectation is contradicted, coordination weakens or fails.
 
@@ -1733,17 +1740,22 @@ Temporal coordination is the structural condition under which trust, credibility
 
 Temporal coordination does not guarantee continuation. It provides the mechanism through which continuation becomes possible.
 
-## 14.5 Contribution, Observation, Signals, and Expectation — Formal Conditions
+## 14.5 Contribution, Outcome / Trace, Observation, Signal, and Expectation — Formal Conditions
 
-**Contribution** obtains when an action by a participant produces a change in the continuation capacity of another participant or of the cooperative system as a whole.
+**Contribution** obtains when an action by a participant produces a change in the continuation capacity of another participant or of the cooperative system.
 
-**Observation** obtains when a contribution event’s outcomes become accessible to a participant, whether through direct experience, records, or other means; observation may be incomplete, delayed, or imperfect.
+An **outcome** is the realised effect produced by a contribution event.
 
-A **signal** obtains when an observed contribution outcome becomes available for interpretation; signals possess no intrinsic meaning, their significance being determined entirely through interpretation.
+A **trace** is what remains accessible or recoverable from that event or outcome through perception, memory, record, communication, artefact, or other residue.
+
+**Observation** obtains when an outcome or trace becomes accessible to an observer, whether directly or through mediation.
+
+A **signal** obtains when an observer interprets an observed outcome or trace as meaning-bearing within an interpretative structure.
+An expectation obtains when the observer evaluates a signal as support for a projection regarding future behaviour or contribution.
 
 An **expectation** obtains when an observer applies evaluation principles to interpreted signals and forms a projection regarding the continuation of a participant’s behaviour.
 
-Contribution outcomes and traces belong to the brute-fact side of the framework: an action occurred, an utterance was made, a record was created, a delivery was completed, or a failure happened. Signals, expectations, trust, credibility, and credit belong to the interpretive and institutional side. They arise only when an outcome or trace is observed, interpreted as meaning-bearing, attributed to a source, and admitted as relevant within an observer’s evaluative or regime structure. A participant may intend an act, speech, artefact, performance, or record to function as a signal, but intended signalling does not guarantee signal formation. The same outcome or trace may produce aligned interpretation, divergent interpretation, or no trust-relevant signal at all.
+Contribution outcomes and traces belong to the event and evidential side of the framework: an action occurred, an utterance was made, a record was created, a delivery was completed, or a failure happened. Signals, expectations, trust, credibility, and credit belong to the interpretive and institutional side. They arise only when an outcome or trace is observed, interpreted as meaning-bearing, attributed to a source, and admitted as relevant within an observer’s evaluative or regime structure. A participant may intend an act, speech, artefact, performance, or record to function as a signal, but intended signalling does not guarantee signal formation. The same outcome or trace may produce aligned interpretation, divergent interpretation, or no trust-relevant signal at all.
 
 Contribution is the originating condition: contribution events accumulate into a contribution history that forms the evidential substrate from which observation, and in turn signals, emerge. Without contribution, there are no outcomes or traces, no observation is possible, no signals exist, and no expectations can form.
 
@@ -1797,7 +1809,7 @@ Continuation therefore has a recursive structure. Each completed or failed cycle
 
 The full cooperative sequence is
 
-**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
+**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation**
 
 The sequence is ordered but not automatic. Each stage provides the condition from which the next may arise, but no stage guarantees passage into the next. Contribution may not generate any outcome or trace, outcomes or traces may remain unobserved, observation may fail to generate signal, signal may fail to support expectation, expectation may remain undeployed, trust may fail to stabilise as credibility, credibility may fail to support credit, and credit may fail to resolve into continuation.
 
@@ -1843,7 +1855,7 @@ Interpretative change therefore does not, by itself, constitute structural chang
 
 The formal sequence established in the preceding chapters describes the structural path through which cooperative coordination becomes possible:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation
 
 This sequence establishes structural relationships.
 
@@ -1986,7 +1998,6 @@ Such evolution may arise from changes in:
 * collective experience;
 * historical context.
 
-A signal interpreted positively in one period may later become neutral or negative. A previously weak signal may acquire greater significance. A term or category may undergo semantic drift, semantic pejoration, or semantic amelioration while the underlying structural relationship in which it appears remains unchanged.
 
 The framework therefore distinguishes between structural change and interpretative change.
 
@@ -2014,7 +2025,7 @@ Signals may circulate across systems, but credibility is reconstructed within sy
 
 Contribution events do not directly determine credibility.
 
-Credibility emerges through the interpretation, weighting, accumulation, and stabilisation of signals within a particular interpretative architecture.
+Credibility emerges through the interpretation, weighting, accumulation, and stabilisation of signals within a particular interpretative architecture from the observe outcomes and traces from the contribution.
 
 The same underlying contribution history may therefore generate different credibility structures across different systems without contradiction.
 
@@ -2244,7 +2255,7 @@ The cooperative boundary is therefore admissible only where the regime can recog
 
 ## 17.5 Temporal Coordination — Governing Rules
 
-Temporal coordination, as formalised in Chapter 14, obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that contribution outcomes generate observations, observations become signals, signals are interpreted into expectations, and those expectations guide subsequent coordinated action.
+Temporal coordination, as formalised in Chapter 14, obtains when participants who have crossed the cooperative boundary engage in repeated interaction across time, such that contribution outcomes generate observations, observations become signals, signals are evaluated as support for expectations, and those expectations guide subsequent coordinated action.
 
 At the Regime layer, temporal coordination becomes governable only when the regime establishes rules for how repeated interaction may be ordered, recognised, updated, and revised across time.
 
@@ -2344,7 +2355,7 @@ Regime therefore does not create coexistence, meaning, contribution, trust, cred
 
 The chapter unfolded Regime across the same sequence established in the formal layer:
 
-Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation
+Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation
 
 At the level of Coexistence, Regime determines which relations become visible, relevant, and governable.
 
@@ -3293,7 +3304,7 @@ Realised practice concerns the actual cases in which these structures are embodi
 
 The formal sequence remains:
 
-**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Observation → Signals → Expectation → Trust → Credibility → Credit → Continuation**
+**Coexistence → Cooperative Boundary → Temporal Coordination → Contribution → Outcome / Trace → Observation → Signal → Expectation → Trust → Credibility → Credit → Continuation**
 
 At the realisation layer, the question is not what the sequence is, or what a regime may admit, but how the sequence becomes executable in actual systems.
 
@@ -3423,7 +3434,7 @@ The realisation regime identifies the rules, procedures, thresholds, instruments
 
 Realised practice identifies the concrete cases in which these structures are embodied.
 
-The Trust Framework is realised as a recursive operational cycle: contribution produces observable outcomes; observation produces signals; signals support expectation; expectation guides trust; trust stabilises into credibility; credibility permits credit; credit opens a forward interval; continuation carries that interval toward resolution; and the outcome returns as contribution history.
+The Trust Framework is realised as a recursive operational cycle: contribution produces observable outcomes; signal formation; signals support expectation; expectation guides trust; trust stabilises into credibility; credibility permits credit; credit opens a forward interval; continuation carries that interval toward resolution; and the outcome returns as contribution history.
 
 The following chapter examines how interpretation executes within this realised operational structure.
 
