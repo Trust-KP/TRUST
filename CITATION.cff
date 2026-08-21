@@ -5,9 +5,10 @@ type: software
 authors:
   - family-names: Gew
     given-names: Kok Pian
-date-released: 2026
-version: 1.0
-repository-code: https://github.com/Trust-KP/Trust
+    orcid: "https://orcid.org/0009-0005-7295-0018"
+date-released: 2026-08-21
+version: "2.0"
+repository-code: "https://github.com/Trust-KP/TRUST"
 license: CC-BY-NC-4.0
 keywords:
   - trust
@@ -15,3 +16,12 @@ keywords:
   - uncertainty
   - institutional systems
   - coordination theory
+preferred-citation:
+  type: report
+  title: "The Trust Framework: Contribution, Signals, and the Continuation of Cooperation"
+  authors:
+    - family-names: Gew
+      given-names: Kok Pian
+      orcid: "https://orcid.org/0009-0005-7295-0018"
+  year: 2026
+  doi: 10.5281/zenodo.22039115
