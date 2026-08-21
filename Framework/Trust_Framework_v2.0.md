@@ -4151,9 +4151,9 @@ This shows that mortgage credit depends on both borrower credibility and regime 
 
 Mortgage lending illustrates the full credit sequence:
 
-- Contribution history generates observable financial signals.  
-- The bank interprets those signals through underwriting rules.  
-- Expectation forms around future repayment capacity.
+- Contribution history produces observable financial outcomes, records, and traces.
+- The bank interprets these as signals and evaluates them through underwriting rules.
+- Expectation forms regarding future repayment capacity.
 - Trust is deployed in the decision to lend.
 - Credibility stabilises through the borrower's assessed risk profile.
 - Credit is extended through the mortgage.
@@ -4178,7 +4178,7 @@ Within the Trust Framework, the problem was not merely that individual borrowers
 
 Each mortgage began as an expectation of future repayment.
 
-Borrower income, employment, property valuation, credit history, and underwriting documentation generated signals from which lenders formed expectations about future repayment capacity. These expectations supported mortgage credit extension.
+Lenders observed borrower income, employment, property valuation, credit history, and underwriting documentation as contribution-related records or traces. They interpreted and evaluated these as signals when forming expectations about future repayment capacity. These expectations supported mortgage credit extension.
 
 When mortgages were pooled and securitised, those individual repayment expectations became inputs into a larger credibility structure.
 
