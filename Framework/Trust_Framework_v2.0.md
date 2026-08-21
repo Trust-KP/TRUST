@@ -4278,7 +4278,7 @@ Some references anchor specific concepts used in the framework, such as signalli
 | Coleman, J. S. (1990). *Foundations of social theory*. Harvard University Press. | Trust, control, social action |
 | Hovland, C. I., & Weiss, W. (1951). The influence of source credibility on communication effectiveness. *Public Opinion Quarterly, 15*(4), 635–650. https://doi.org/10.1086/266350 | Source credibility |
 | Luhmann, N. (1979). *Trust and power*. John Wiley & Sons. | Complexity reduction; system trust |
-| Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organisational trust. *Academy of Management Review, 20*(3), 709–734. https://doi.org/10.5465/amr.1995.9508080335 | Organisational trust; vulnerability; trustworthiness |
+| Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. *Academy of Management Review, 20*(3), 709–734. https://doi.org/10.5465/amr.1995.9508080335 | Organisational trust; vulnerability; trustworthiness |
 | McLeay, M., Radia, A., & Thomas, R. (2014). Money creation in the modern economy. *Bank of England Quarterly Bulletin, 2014 Q1*. https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy | Commercial bank money creation; lending as deposit creation; repayment as money destruction |
 | North, D. C. (1990). *Institutions, institutional change and economic performance*. Cambridge University Press. | Institutions; rules; constraints |
 | Rousseau, D. M., Sitkin, S. B., Burt, R. S., & Camerer, C. (1998). Not so different after all: A cross-discipline view of trust. *Academy of Management Review, 23*(3), 393–404. https://doi.org/10.5465/amr.1998.926617 | Cross-disciplinary trust; positive expectation; vulnerability |
